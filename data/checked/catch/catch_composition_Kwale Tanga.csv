@@ -1,0 +1,209 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,bei,Species,uzito_wa_jamii_moja_ya_samaki,idadi_ya_samaki
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Nane_1,Bombo,Fisher_1,Issa Haji,47,male,3,Wamba,Majani_bahari,Dau/Mtumbwi,Mkuki,4000,Pono,1824,5
+NA,17/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_1,Bombo,Fisher_1,Abdalah Bakari,52,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,18000,Kolekole1,1402,3
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_2,Abdala bakari,57,male,3,Wamba,Fungu,Dau/Mtumbwi,Nyavu,60000,Changu2,1286,42
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_2,Chuma hamadi chuma,48,male,2,Wamba,Fungu,Ngalawa,Mtego/dema,3000,Pono,766,3
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_2,Chuma hamadi chuma,48,male,2,Wamba,Fungu,Ngalawa,Mtego/dema,3000,Pono,766,3
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_3,Sharifu juma,40,male,2,Wamba,Fungu,Dau/Mtumbwi,Mtego/dema,10000,Pono,2280,18
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_3,Sharifu juma,40,male,2,Wamba,Fungu,Dau/Mtumbwi,Mtego/dema,10000,Changu3,1800,6
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_3,Mbala haji,61,male,5,Wacha,Fungu,Dau/Mtumbwi,Mtego/dema,102000,Pono15,4860,17
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_4,Issa kombo,51,male,4,Wamba,Fungu,Dau/Mtumbwi,Mtego/dema,20000,Changu3,4195,27
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_6,Ali omari,43,male,4,Chundo,Majani_bahari,Ngalawa,Mshipi,42500,Mlea,4007,1942500
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_5,Mohmedi kale,41,male,4,Uchui,Majani_bahari,Ngalawa,Mshipi,36000,Pono,15407,30
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_6,Kombo isaa,47,male,5,Uchui,Majani_bahari,Dau/Mtumbwi,Mtego/dema,36000,Pono,15407,124
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,NA,Ali ali hija,41,male,4,Uchui,Majani_bahari,Dau/Mtumbwi,Mshipi,37500,NA,5968,59
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,NA,Hamiri haji,49,male,4,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,2668,34
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_3,Kidole juma,36,male,3,Wamba,Fungu,Dau/Mtumbwi,Mtego/dema,7500,NA,1554,4
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_2,Issa kombo,51,male,4,Wamba,Fungu,Dau/Mtumbwi,Mtego/dema,10000,NA,2455,4
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_5,Jumbe udai,31,male,1,Wamba,Fungu,Dau/Mtumbwi,Mtego/dema,17000,Koana,6008,17
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_5,Omari mzee,43,male,4,Uchui,Majani_bahari,Dau/Mtumbwi,Nyavu,5000,Changu2,365,2
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_4,Omari mzee,43,male,4,Uchui,Fungu,Dau/Mtumbwi,Nyavu,3000,Chaa,819,6
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_11,Issa ali,27,male,3,Uchui,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Pono,1670,7
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_6,Hatibu shame,40,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Pono,894,6
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_6,Hatibu shame,40,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Pono mwekundu,230,NA
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_9,Machano haji,50,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Tasi2,2240,9
+NA,02/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_6,Ali auni,42,male,2,Wamba,Fungu,Dau/Mtumbwi,Mshipi,13500,Changu2,10050,53
+NA,04/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_8,Kiwanda juma,34,male,2,Uchui,Majani_bahari,Ngalawa,Mshipi,24000,Changu2,4200,10
+NA,04/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_9,Shawishi hija,59,male,2,Uchui,Majani_bahari,Dau/Mtumbwi,Mshipi,108000,NA,3295,15
+NA,04/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_7,Kombo shame,42,male,3,Wamba,Fungu,Dau/Mtumbwi,Mtego/dema,6000,NA,1170,8
+NA,04/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_8,Pandu haji,46,male,4,Wamba,Fungu,Ngalawa,Mshipi,6000,Kundaji,1465,4
+NA,04/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_8,Idi haji,36,male,5,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,30000,Kolekole2,6010,1
+NA,04/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_8,Omari makame,29,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Tasi,279,1
+NA,04/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_10,Simba haji,54,male,3,Uchui,Majani_bahari,Dau/Mtumbwi,Mtego/dema,24000,NA,4440,18
+NA,04/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_10,Simba haji,54,male,3,Uchui,Majani_bahari,Dau/Mtumbwi,Mtego/dema,24000,Changu3,4440,18
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_11,Issa hatibu shaha,38,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Changu2,2885,5
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_12,Chuma hamadi,48,male,4,Wamba,Fungu,Ngalawa,Mshipi,24000,NA,4430,6
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_12,Mohmedi pandu,51,male,4,Wamba,Fungu,Dau/Mtumbwi,Mshipi,14000,Nguru,1950,1
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_13,Shehe kidau,51,male,4,Uchui,Majani_bahari,Dau/Mtumbwi,Mshipi,42000,Tasi,6841,19
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_13,NA,NA,male,NA,Wambauchui,Fungu,Ngalawa,Mshipi,3000,Mlea2,705,2
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_14,Kombo kai,20,male,3,Uchui,Majani_bahari,Ngalawa,Mshipi,3000,Tasi,725,2
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_14,Shoma omari,46,male,4,Wamba,Fungu,Ngalawa,Mtego/dema,12500,NA,2705,6
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_14,Shoma omari,46,male,4,Wamba,Fungu,Ngalawa,Mtego/dema,NA,Koana2,157,1
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_15,Issa abdala athumani,43,male,5,Wamba,Matumbawe/miamba,Ngalawa,Mtego/dema,40000,Tasi,8319,4
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_15,Issa abdala athumani,43,male,5,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,3000,Mlea2,570,4
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_15,Konyezo,46,male,4,Wamba,Majani_bahari,Dau/Mtumbwi,Nyavu,19000,Tasi2,3250,5
+NA,05/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_16,Omari mzee,43,male,4,Uchui,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Mzira/Mzia,1285,5
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_17,Rajabu athumani,28,male,4,Uchui,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,Kolekole1,9055,1
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_17,Adam kale,45,male,1,Uchui,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,3000,Mlea2,122,1
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_18,Mussa juma,35,male,4,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,4000,NA,307,1
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_15,Adamu kale,45,male,1,Uchui,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6000,Chewa2,1480,5
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_16,Mussa juma,35,male,4,Wamba,Majani_bahari,Ngalawa,Nyavu,9000,Chewa2,1223,1
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_17,Shali kijepa,56,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,83000,NA,1661,1
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_19,Simba haji,54,male,3,Uchui,Majani_bahari,Dau/Mtumbwi,Mshipi,12000,NA,2000,1
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_19,Omari kombo,50,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,10000,NA,1819,2
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_20,Abdala bakari,57,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,35000,Pono mwekundu,79,5
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,NA,Issa abdala,29,male,2,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Tasi,1049,5
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_20,Mbala haji,61,male,5,Uchui,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,102000,NA,4860,5
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_21,Isa kombo,51,male,4,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Changu2,4195,27
+NA,06/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_21,Isa kombo,51,male,4,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tasi,1048,5
+NA,07/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_21,Shawishi hija.,59,male,3,Uchui,Majani_bahari,Dau/Mtumbwi,Mshipi,32000,Pono,8270,12
+NA,07/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_2,Bombo,Fisher_22,Abudu kiwanda,39,male,5,Uchui,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Koana,3636,3
+NA,25/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_1,Kiwanda,50,male,4,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,10000,Tasi,2175,9
+NA,25/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_2,Muhija,20,male,2,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,14000,Pono,3890,7
+NA,25/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_3,Mussa  Bakari,32,male,4,Mwamba nyama,Matumbawe/miamba,NA,NA,12500,Kundaji,2520,6
+NA,25/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_4,Mwalimu,45,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,7500,Tembo,1663,5
+NA,25/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_5,Tajiri   Omari,43,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,NA,7500,Puju1,1820,9
+NA,25/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,NA,Mrombe,40,male,7,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,7500,Chewa/Tewa,3645,2
+NA,25/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_7,Nasoro  Salehe,28,male,4,Mawe mawili,Matumbawe/miamba,Dau/Mtumbwi,NA,55000,Changu13,10050,53
+NA,25/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,NA,Shimbwana,28,male,3,Mkumbi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,140000,Tasi,20316,170
+NA,25/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_9,Mwalimu  Zuberi,30,male,1,Muheme,Faiba,Dau/Mtumbwi,Mshipi,25000,Changu2,5001,24
+NA,25/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_10,Ali   Huseini,40,male,5,Mwamba  nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,32500,Chewa3,4890,6
+NA,26/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,NA,Omari Juma,30,male,8,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,7500,Chewa2,1440,1
+NA,26/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_2,Ali Juma,38,male,8,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,10000,Pono3,2495,3
+NA,26/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_3,Kitajiri,35,male,8,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,32500,Pono3,3920,8
+NA,26/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_3,Kitajiri,35,male,8,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,32500,Pono3,3,8
+NA,26/09/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,NA,Nasoro  Salehe,20,male,4,Mnazini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,20000,Changu13,3905,14
+NA,26/09/2024,Tanga,Kwale Tanga,Mfunguo_Pili_2,NA,Fisher_6,Sharifu  juma,65,male,2,Uchuwi,NA,Dau/Mtumbwi,Mshipi,12500,Chaa,2985,11
+NA,02/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_1,Muwanda,Fisher_1,Tajiri  Omari,43,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Tasi,1953,6
+NA,02/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Babadalu,40,male,4,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,16500,Puju1,1833,1
+NA,02/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Hamisi  Juma,35,male,3,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,2500,Changu13,671,10
+NA,02/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_4,Mwalimu   Zuberi,30,male,3,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,12500,Tasi,2500,4
+NA,02/10/2024,Tanga,Kwale Tanga,Shaabani_2,Muwanda,NA,Abdallah  Bakari,50,male,4,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,20000,Changu13,3920,23
+NA,02/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_6,Babuali,54,male,7,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,17500,Chewa2,3890,4
+NA,02/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_7,Marombe,40,male,9,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,29000,Pono,3805,4
+NA,02/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Hamisi  Juma,30,male,6,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,NA,12500,Chewa10,2925,3
+NA,02/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Ali   Husein,40,male,4,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,12500,Chewa6,2555,1
+NA,02/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Hajji Omari,40,male,9,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,6000,Kangaja1,1515,6
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_1,Hamisi  Makame,32,male,10,Mwamba  Nyama,Matumbawe/miamba,NA,NA,22500,Pono,4540,19
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Mbaruku  Omari,25,male,9,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,5000,Mlea,1035,9
+NA,03/10/2024,Tanga,Kwale Tanga,NA,Muwanda,Fisher_3,Hamisi   Kadika,35,male,7,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,2500,Chewa3,8025,6
+NA,03/10/2024,Tanga,Kwale Tanga,NA,Muwanda,Fisher_4,Omari  Juma,30,male,8,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,72500,Pono,1885,1
+NA,03/10/2024,Tanga,Kwale Tanga,NA,Muwanda,Fisher_4,Omari  Juma,30,male,8,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,72500,Myripristis hexagona,418,1
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_5,Ali  Juma,40,male,7,Mwamba   Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,20000,Puju1,4045,2
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_6,Hatibu  Bweni,45,male,4,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17500,Tasi,2195,14
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_6,Hatibu  Bweni,45,male,4,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17500,Changu2,5093,NA
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_6,Hatibu  Bweni,45,male,4,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17500,Pono,429,2
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_6,Hatibu  Bweni,45,male,4,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17500,Puju1,5455,2
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_7,Mzee  Hamisi,25,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,18000,Tasi,3160,13
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_7,Mzee  Hamisi,25,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,18000,Changu2,287,1
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_7,Mzee  Hamisi,25,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,18000,Myripristis hexagona,286,1
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Nasoro  Salehe,28,male,4,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,22500,Changu3,2650,15
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Nasoro  Salehe,28,male,4,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,22500,Pono15,679,2
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Nasoro  Salehe,28,male,4,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,22500,Kundaji,218,1
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Nasoro  Salehe,28,male,4,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,22500,Mwewe/Komba,205,1
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Nasoro  Salehe,28,male,4,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,22500,Tasi,1471,5
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Babu  Haji,65,male,5,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Pono15,4043,13
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Babu  Haji,65,male,5,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi2,1083,8
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Babu  Haji,65,male,5,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Changu5,201,2
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Hamisi   Pandu,60,male,4,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,22500,Tasi3,4020,20
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Hamisi   Pandu,60,male,4,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,22500,Changu6,1000,14
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Hamisi   Pandu,60,male,4,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,22500,Pono9,913,3
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Hamisi   Pandu,60,male,4,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,22500,Chewa2,169,1
+NA,03/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Hamisi   Pandu,60,male,4,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,22500,Kundaji4,127,1
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_1,Shimbwana,28,male,3,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,22500,Changu13,4630,30
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,Fisher_1,Shimbwana,28,male,3,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,22500,pono11,812,3
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,NA,Kitajiri,35,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,30000,Mwewe/Komba,6180,16
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,NA,Kitajiri,35,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,30000,Tasi,522,4
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,NA,Kitajiri,35,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,30000,Pono,1702,3
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Sita_2,Muwanda,NA,Kitajiri,35,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,30000,Mlea,780,5
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_3,Tajiri. Omari,43,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi,2670,14
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_3,Tajiri. Omari,43,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Pono,390,2
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_3,Tajiri. Omari,43,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Bundusi,244,1
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_4,Salimu. Hamisi,48,male,3,Mkondoni,Mkondoni,Ngalawa,Mshipi,60000,Nguru,6330,4
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_5,Sharifu   Juma,65,male,2,Mkondoni,Mkondoni,Dau/Mtumbwi,Mshipi,38000,Changu2,7725,17
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_5,Sharifu   Juma,65,male,2,Mkondoni,Mkondoni,Dau/Mtumbwi,Mshipi,38000,Chaa,418,2
+NA,08/07/2024,Tanga,Kwale Tanga,Mfunguo_Nne_1,Muwanda,Fisher_1,Tajiri   Omari,43,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,NA,NA,NA
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Hasani  Juma,42,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,39000,Changu14,6875,6
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Hasani  Juma,42,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,39000,Changu14,6875,6
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Hasani  Juma,42,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,39000,Sehewa,3044,2
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_7,Mtumwa  Hamisi,25,male,6,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,17500,Chewa4,3540,3
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Mbala,62,male,3,Mwamba  nyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,18000,Changu2,3485,12
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Mbala,62,male,3,Mwamba  nyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,18000,Tasi,693,3
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Abdallah  Bakari,50,male,4,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,17500,Changu3,3830,36
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Abdallah  Bakari,50,male,4,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,17500,Bundusi,165,1
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Kibwana   Hamad,45,male,4,Mwamba. Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,37500,Changu8,7800,19
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Kibwana   Hamad,45,male,4,Mwamba. Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,37500,Mlea,511,1
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Kibwana   Hamad,45,male,4,Mwamba. Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,37500,Changu14,275,1
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Kibwana   Hamad,45,male,4,Mwamba. Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,37500,Changu8,7800,19
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Kibwana   Hamad,45,male,4,Mwamba. Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,37500,Mlea,511,1
+NA,05/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Kibwana   Hamad,45,male,4,Mwamba. Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,37500,Chaa,275,1
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_1,Abdallah  Bakari,50,male,4,Wandaule,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,30000,Kolekole1,6210,8
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_2,Ali  Hamadi,42,male,10,Mwamba  nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,25000,Chewa2,5430,6
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_2,Ali  Hamadi,42,male,10,Mwamba  nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,25000,Changu4,875,1
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_3,Salimu  Hamisi,48,male,3,Mkondoni,Mkondoni,Dau/Mtumbwi,Mshipi,30000,Changu5,5895,20
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_4,Ali  Huseni,40,male,7,Mwamba. Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,12500,Chewa6,2565,11
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_4,Ali  Huseni,40,male,7,Mwamba. Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,12500,Pono4,868,5
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_4,Ali  Huseni,40,male,7,Mwamba. Nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,12500,Kundaji2,148,1
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_5,Babu  Haji,65,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Tasi3,2265,13
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_6,Shakwa  Haji,60,male,4,Mwamba  nyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,33000,Tasi,6725,25
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_7,Bakari. Omari,40,male,4,.wamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,7500,Hongwe,1585,1
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_7,Bakari. Omari,40,male,4,.wamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,7500,Pono,177,1
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_7,Bakari. Omari,40,male,4,.wamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,7500,Puju1,1884,1
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Babadalu,45,male,4,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,40000,Nguru,5280,1
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Babadalu,45,male,4,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,40000,Pono,4375,17
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Ali. Juma,35,male,7,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,15000,Pono,3000,14
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Ali. Juma,35,male,7,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,15000,Chewa3,196,1
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Ali. Juma,35,male,7,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,15000,Mwewe/Komba,1980,3
+NA,09/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Hamadi  Haji,65,male,1,Mnazini,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,30000,Tasi,5140,26
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_1,Kidole  bweni,45,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,19000,Pono,3690,18
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_1,Kidole  bweni,45,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,19000,Tasi,899,3
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_2,Kitajir,38,male,10,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,12500,Pono15,2530,12
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_2,Kitajir,38,male,10,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,12500,Chewa5,401,3
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_3,Athumani  Bakari,35,male,1,Majani bahari,Majani_bahari,Dau/Mtumbwi,Mshipi,12500,Tembo,2290,13
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_3,Athumani  Bakari,35,male,1,Majani bahari,Majani_bahari,Dau/Mtumbwi,Mshipi,12500,Chewa4,748,4
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_4,Hamisi. Kero,42,male,4,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Tasi4,4115,22
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_4,Hamisi. Kero,42,male,4,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Pono4,728,10
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_5,Mohamedi   Rashidi,30,male,2,Mnazini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,7500,Kibua1,1575,1
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_5,Mohamedi   Rashidi,30,male,2,Mnazini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,7500,Potepote,984,1
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_5,Mohamedi   Rashidi,30,male,2,Mnazini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,7500,Pono,322,1
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_6,Shimbwana,28,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,30000,Kolekole1,5135,25
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_6,Shimbwana,28,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,30000,Tasi,391,3
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Abdallah  Bakari,50,male,4,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,15000,Changu2,2865,14
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Abdallah  Bakari,50,male,4,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,15000,Paramamba,725,1
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Abdallah  Bakari,50,male,4,Mwamba Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,15000,Mwewe/Komba,416,1
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Kibwana  Hamadi,45,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,18000,Tasi,18000,15
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Kibwana  Hamadi,45,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,18000,Chewa2,200,1
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Kibwana  Hamadi,45,male,4,Mwamba  Nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,18000,Kundaji,415,2
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Sharifu  Juma,65,male,2,Mkondoni,Mkondoni,Dau/Mtumbwi,Mshipi,27500,Chewa5,5775,30
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Sharifu  Juma,65,male,2,Mkondoni,Mkondoni,Dau/Mtumbwi,Mshipi,27500,Mzira/Mzia,524,1
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Sharifu  Juma,65,male,2,Mkondoni,Mkondoni,Dau/Mtumbwi,Mshipi,27500,Chaa,200,1
+NA,10/11/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Mzee  hamis,25,male,4,Mawe  mawili,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,35000,Changu4,7353,17
+NA,10/11/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Mzee  hamis,25,male,4,Mawe  mawili,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,35000,Tembo,213,2
+NA,10/11/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Mzee  hamis,25,male,4,Mawe  mawili,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,35000,eriola rivoliana,1245,1
+NA,10/11/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Mzee  hamis,25,male,4,Mawe  mawili,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,35000,Mlea,629,1
+NA,10/11/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Mzee  hamis,25,male,4,Mawe  mawili,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,35000,numba,470,1
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_1,Hasani. Juma,42,male,4,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,23000,Puju2,4560,2
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_1,Hasani. Juma,42,male,4,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,23000,Tasi2,1955,2
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_1,Hasani. Juma,42,male,4,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,23000,Mwatiko,743,1
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_1,Hasani. Juma,42,male,4,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,23000,Paramamba,114,1
+NA,10/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_1,Hasani. Juma,42,male,4,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,23000,Kolekole1,70,3
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_2,Haji  juma,30,male,6,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,7500,Chewa3,1985,3
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_3,Mtumwa Hamisi,25,male,6,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,5000,Chewa2,1165,7
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_4,Kidole  Bweni,45,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Pono15,2065,3
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_4,Kidole  Bweni,45,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Pono,1890,6
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_5,Shimbwana,28,male,4,Mikokoni,Mikoko,Dau/Mtumbwi,Nyavu,17500,Kolekole1,3736,2
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_6,Hamisi. Juma,38,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,9000,Changu2,1520,3
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_6,Hamisi. Juma,38,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,9000,Chaa,322,3
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_7,Mwalimu  Zuberi,30,male,NA,Mwamba  nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,6000,Kundaji,1360,3
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_7,Mwalimu  Zuberi,30,male,NA,Mwamba  nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,6000,Tasi2,255,2
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Adballah. Shoka,42,male,10,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,10000,Pono3,2380,3
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_8,Adballah. Shoka,42,male,10,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,10000,Mlea,372,1
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_9,Hamdu. Omari,40,male,1,Mwambuyu,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,13000,Changu13,2575,12
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Adballah. Bakari,55,male,4,Mkumbi,Mchanga,Dau/Mtumbwi,Nyavu,30000,Changu2,6335,21
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Adballah. Bakari,55,male,4,Mkumbi,Mchanga,Dau/Mtumbwi,Nyavu,30000,Tembo,457,3
+NA,12/10/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,Fisher_10,Adballah. Bakari,55,male,4,Mkumbi,Mchanga,Dau/Mtumbwi,Nyavu,30000,Chewa2,755,35
+NA,03/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_1,Muwanda,Fisher_1,Omari  Juma,28,male,10,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,17500,Mwewe/Komba,3580,5
+NA,03/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_1,Muwanda,Fisher_1,Omari  Juma,28,male,10,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,17500,NA,1549,1
+NA,03/11/2024,Tanga,Kwale Tanga,Mfunguo_Nane_1,Muwanda,Fisher_1,Omari  Juma,28,male,10,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,17500,NA,1084,1
+NA,03/11/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Hamisi  Hamadi,40,male,9,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,27500,Chewa2,5700,2
+NA,03/11/2024,Tanga,Kwale Tanga,Mfunguo_Saba_2,Muwanda,NA,Hamisi  Hamadi,40,male,9,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,27500,NA,2965,1

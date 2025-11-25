@@ -1,0 +1,402 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,andika_zana_nyingine,bei,maelezo_ya_ziada,Species,uzito_kwa_mmoja_y,urefu_kwa_mmoja_y
+NA,04/01/2025,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,NA,Fisher_2,Juma Kesi,55,male,3,Mahujuu,Majani_bahari,Kuzamia na gesi,Mshipi,NA,2500,Hakuna mpya,Mzira meno/sumbururu,580,14
+NA,04/01/2025,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,NA,Fisher_2,Juma Kesi,55,male,3,Mahujuu,Majani_bahari,Kuzamia na gesi,Mshipi,NA,2500,Hakuna mpya,Puju1,NA,NA
+NA,04/01/2025,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,NA,Fisher_2,Juma Kesi,55,male,3,Mahujuu,Majani_bahari,Kuzamia na gesi,Mshipi,NA,2500,Hakuna mpya,Laga/Puju,552,15
+NA,04/07/2024,Pemba,Mtambwe Kusini,Mfunguo_Tano_2,Bandari ya Mahujumu,Fisher_1,Said Khamis,42,male,2,Mahujuu65,Matumbawe/miamba,Mashua,Nyavu,NA,30000,Hali shuari,Laga/Puju,630,28
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,JUMA KHAMIS ALI,39,male,2,PAASI,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,Hali shuari,Mwewe/Komba,335,29
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Mwewe/Komba,335,29
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Tasi,166,22
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Tasi2,178,22.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Bangi Kukuu,115,15
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Pono,45,16
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Mwewe/Komba,470,32.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Pono,550,31
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Pono,244,24
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Changu2,275,27.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju1,176,23
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju2,143,21.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju2,170,22
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju2,112,19
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju2,176,22
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,545,352700
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,735,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1195,47
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,51
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,52.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,500,31
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,775,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,690,38
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,640,37
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,530,35
+NA,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,14000,NA,Changu Ndomo,180,28
+NA,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,14000,NA,Pono,280,25
+NA,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,14000,NA,Kundaji,275,29
+NA,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,14000,NA,NA,560,35
+NA,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Juma Khamis Ali,391,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,NA,NA,NA
+NA,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Juma Khamis Ali,391,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Pono,680,35
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Mwewe/Komba,335,29
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Tasi,166,22
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Bangi Kukuu,115,15
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Mwewe/Komba,470,32.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Pono,550,31
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Changu6,275,27.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_2,Said Khamis Khalfan,41,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju2,176,23
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,545,35
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,500,31
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju2,690,38
+Juma Suleiman Juma,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,NA,Said Khalfan Massoud,412,male,NA,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Pono,55028,31
+Juma Suleiman Juma,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,NA,Said Khalfan Massoud,412,male,NA,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Mwewe/Komba,470,32.5
+Juma Suleiman Juma,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,NA,Said Khalfan Massoud,412,male,NA,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,pono10,244,24
+Juma Suleiman Juma,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,NA,Said Khalfan Massoud,412,male,NA,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Changu13,275,27.5
+Juma Suleiman Juma,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,NA,Said Khalfan Massoud,412,male,NA,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju1,176,23
+Juma Suleiman Juma,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,NA,Said Khalfan Massoud,412,male,NA,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju2,143,21.5
+Juma Suleiman Juma,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,NA,Said Khalfan Massoud,412,male,NA,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju1,170,22
+Juma Suleiman Juma,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,NA,Said Khalfan Massoud,412,male,NA,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju2,112,19
+Juma Suleiman Juma,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,NA,Said Khalfan Massoud,412,male,NA,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Puju1,176,22
+Said Hamad Omar,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Mwewe/Komba,335,29
+Said Hamad Omar,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Tasi,166,26
+Said Hamad Omar,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Kundaji,115,27
+Said Hamad Omar,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,Juma Khamis Ali,39,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Pono,1706,32
+Said Khamis Haji,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,545,35
+Said Khamis Haji,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju2,735,40
+Said Khamis Haji,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju2,1360,51
+Said Khamis Haji,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1195,45
+Said Khamis Haji,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Laga/Puju,1360,31
+Said Khamis Haji,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Laga/Puju,775,40
+Said Khamis Haji,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Laga/Puju,933,44
+Said Khamis Haji,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju2,690,38
+Said Khamis Haji,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju2,640,37
+Said Khamis Haji,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju2,530,35
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,JUMA KHAMIS ALI,39,male,2,PAASI,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,Hali shuari,Mwewe/Komba,335,29
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,545,352700
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,735,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1195,47
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,51
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,52.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,500,31
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,775,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,690,38
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,640,37
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,530,35
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,545,352700
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,735,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1195,47
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,51
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,52.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,500,31
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,775,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,690,38
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,640,37
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,530,35
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,545,352700
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,735,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1195,47
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,51
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,52.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,500,31
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,775,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,690,38
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,640,37
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,530,35
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,545,352700
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,735,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1195,47
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,51
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,52.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,500,31
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,775,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,690,38
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,640,37
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,530,35
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,545,352700
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,735,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1195,47
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,51
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,52.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,500,31
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,775,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,690,38
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,640,37
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,530,35
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,545,352700
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,735,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1195,47
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,51
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,1360,52.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,500,31
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,775,40
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,690,38
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,640,37
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_3,Ali Omar Jums,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,27000,NA,Puju1,530,35
+Juma Suleiman Juma,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,NA,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,11000,NA,Puju1,490,35
+Juma Suleiman Juma,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,NA,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,11000,NA,Nyavi,465,34
+Juma Suleiman Juma,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,NA,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,11000,NA,Puju1,490,34
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Changu Ndomo,1.185,46
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Pono,315,32
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Pono,379,29
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Pono,315,26
+Said Khamis Haji,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Juma Khami Ali,39,male,2,Kokot,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Changu kifimbo/ Mrongo,320,27
+Said Khamis Haji,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Juma Khami Ali,39,male,2,Kokot,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Pono bluu,230,22
+Said Khamis Haji,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Juma Khami Ali,39,male,2,Kokot,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Pono4,1094,25
+Said Khamis Haji,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Saleh Hassan,40,male,3,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,NA,NA,64000,NA,Mwewe/Komba,4015,66
+Said Khamis Haji,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Saleh Hassan,40,male,3,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,NA,NA,64000,NA,Pono9,4.155,65.5
+Said Khamis Haji,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Saleh Hassan,40,male,3,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,NA,NA,64000,NA,Pono9,1.73,49.5
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Paragunda,336,27
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Changu kibaku,124,21
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Changu kibaku,111,20
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Changu kibaku,151,22
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Changu kibaku,100,20
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Changu chomi,135,20.5
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Changu chomi,111,20
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Kangamacho,82,17
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Kangamacho,75,17
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Changu dizi,85,18
+Said Hamad Omar,28/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Changu dizi,86,18.5
+NA,16/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_1,Bandari ya Mahujumu,Fisher_1,JUMA KHAMIS ALI,39,male,2,PAASI,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,Hali shuari,Mwewe/Komba,335,29
+Juma Suleiman Juma,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khamis Khalfan,49,male,2,"Kwasharifu,",Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Dambada8,1210,44
+Juma Suleiman Juma,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khamis Khalfan,49,male,2,"Kwasharifu,",Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Pono9,312,28
+Juma Suleiman Juma,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khamis Khalfan,49,male,2,"Kwasharifu,",Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Pono bluu,349,31
+Juma Suleiman Juma,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khamis Khalfan,49,male,2,"Kwasharifu,",Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Pono bluu,446,32
+Juma Suleiman Juma,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khamis Khalfan,49,male,2,"Kwasharifu,",Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Mlea2,442,30
+Juma Suleiman Juma,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khamis Khalfan,49,male,2,"Kwasharifu,",Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Changu kifimbo/ Mrongo,333,28
+Juma Suleiman Juma,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Massoud Khamis Khalfan,49,male,2,"Kwasharifu,",Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Tasi,710,38
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Juma Khamis Ali,39,male,2,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Pono9,680,35
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Juma Khamis Ali,39,male,2,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Pono9,425,29
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Juma Khamis Ali,39,male,2,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Pono9,340,27
+Juma Suleiman Juma,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Mosi_2,Bandari ya Mahujumu,Fisher_3,Othman Ali,21,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,27000,NA,Paragunda,166,22
+Juma Suleiman Juma,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Mosi_2,Bandari ya Mahujumu,Fisher_3,Othman Ali,21,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,27000,NA,Paragunda,180,23
+Juma Suleiman Juma,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Mosi_2,Bandari ya Mahujumu,Fisher_3,Othman Ali,21,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,27000,NA,Changu2,266,28
+Juma Suleiman Juma,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Mosi_2,Bandari ya Mahujumu,Fisher_3,Othman Ali,21,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,27000,NA,Changu3,100,19
+Juma Suleiman Juma,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Mosi_2,Bandari ya Mahujumu,Fisher_3,Othman Ali,21,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,27000,NA,Changu4,60,16
+Juma Suleiman Juma,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Mosi_2,Bandari ya Mahujumu,Fisher_3,Othman Ali,21,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,27000,NA,Changu5,95,19
+Juma Suleiman Juma,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Mosi_2,Bandari ya Mahujumu,Fisher_3,Othman Ali,21,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,27000,NA,Tasi,138,22
+Juma Suleiman Juma,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Mosi_2,Bandari ya Mahujumu,Fisher_3,Othman Ali,21,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,27000,NA,Changu kifimbo/ Mrongo,94,19
+Juma Suleiman Juma,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Mosi_2,Bandari ya Mahujumu,Fisher_3,Othman Ali,21,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,27000,NA,Changu kifimbo/ Mrongo,102,18
+Juma Suleiman Juma,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Mosi_2,Bandari ya Mahujumu,Fisher_3,Othman Ali,21,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,27000,NA,Changu kifimbo/ Mrongo,63,16
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Haji  Kombo,35,male,NA,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Changu Ndomo,595,38
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Haji  Kombo,35,male,NA,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Chaa2,680,35
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Haji  Kombo,35,male,NA,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Tasi,405,30
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Haji  Kombo,35,male,NA,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Tasi,400,31
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Haji  Kombo,35,male,NA,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Tasi,445,32
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Haji  Kombo,35,male,NA,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Tasi,330,29
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Haji  Kombo,35,male,NA,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Tasi,240,26
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Haji  Kombo,35,male,NA,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Tasi,157,24
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Haji  Kombo,35,male,NA,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Tasi,189,25
+Said Khamis Haji,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Haji  Kombo,35,male,NA,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Changu chomi,192,22
+Said Khamis Haji,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Puju1,295,27
+Said Khamis Haji,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Puju2,270,26
+Said Khamis Haji,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Puju2,210,22
+Said Khamis Haji,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Puju2,185,22
+Said Khamis Haji,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Puju2,258,23
+Said Khamis Haji,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Puju2,247,22
+Said Khamis Haji,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Puju2,267,22
+Said Khamis Haji,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Laga/Puju,240,21
+Said Khamis Haji,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Ali Omar Juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Laga/Puju,188,18
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Changu kifimbo/ Mrongo,1.2,45
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Kolekole1,370,32
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Kolekole2,380,30
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Kolekole3,305,30
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Kolekole4,270,29
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Kolekole5,311,28
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Changu chomi,296,24
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Changu chomi,283,23
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Changu chomi,248,22
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Pono9,700,35
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Pono9,431,27
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Tasi,395,30
+Juma Suleiman Juma,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Omar Juma Omar,55,male,2,Kiwandani,Matumbawe/miamba,NA,Mtego/dema,NA,NA,NA,Pono mwekundu,660,33
+Said Hamad Omar,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Kangaja1,164,22
+Said Hamad Omar,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Kangaja2,116,19
+Said Hamad Omar,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Tasi uziwa,150,21
+Said Hamad Omar,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Tasi uziwa,192,23
+Said Hamad Omar,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Tasi uziwa,152,21
+Said Hamad Omar,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,chore,165,22
+Said Hamad Omar,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Pono mwekundu,306,24
+Said Hamad Omar,18/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Pono/Chumumbu,252,236
+Juma Suleiman Juma,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,30,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,23000,NA,Pono,1570,42
+Juma Suleiman Juma,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,30,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,23000,NA,Pono,1.57,34
+Juma Suleiman Juma,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,30,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,23000,NA,Pono,1.57,34
+Juma Suleiman Juma,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,30,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,23000,NA,Mwewe/Komba,1.025,41
+Juma Suleiman Juma,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,30,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,23000,NA,Pono bluu,890,39
+Juma Suleiman Juma,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,30,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,23000,NA,Pono bluu,75,34
+Juma Suleiman Juma,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,30,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,23000,NA,Nyavi,246,27
+Said Khamis Haji,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Haji Kombo,35,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Tasi,365,31
+Said Khamis Haji,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Haji Kombo,35,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Tasi,365,30
+Said Khamis Haji,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Haji Kombo,35,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Changu Ndomo,475,35
+Said Khamis Haji,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Haji Kombo,35,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Laga/Puju,465,31
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Said Khalfan,40,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Pono mwekundu,309,29
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Said Khalfan,40,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Pono mwekundu,205,24
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_3,Said Khalfan,40,male,3,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Kundaji,200,35
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Kangaja1,500,31
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Myripristis hexagona,115,19
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Kangamacho,100,20
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Kangamacho,80,17.5
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Kangamacho,64,17
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Kangamacho,49,15
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Laga/Puju,63,16
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd  Salum Moh'd,32,male,3,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Pono9,2.065,50
+Said Hamad Omar,20/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_5,Moh'd  Salum Moh'd,32,male,3,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Pono9,2200,52
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Pono mwekundu,300,26
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Pono mwekundu,347,28.5
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Pono mwekundu,438,29
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Chaamji,157,30
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Chaamji,157,30
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Chaamji,149,22
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Chaamji,92,18
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Chaamji,67,16
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Kundaji,289,26
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Kundaji,185,23
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Kangamacho,138,21
+Juma Suleiman Juma,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Haji Kombo,35,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Pono4,316,26
+Said Hamad Omar,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Ali Omar Juma,33,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Chewa2,1005,40
+Said Hamad Omar,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Ali Omar Juma,33,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,chewa_mwekundu,900,41
+Said Hamad Omar,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Ali Omar Juma,33,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,chewa_mwekundu,343,32
+Said Hamad Omar,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Ali Omar Juma,33,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Laga/Puju,1015,45
+Said Hamad Omar,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Ali Omar Juma,33,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Pono9,570,33
+Said Hamad Omar,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Ali Omar Juma,33,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Pono9,500,31
+Said Hamad Omar,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_2,Ali Omar Juma,33,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Pono bluu,660,35
+Said Khamis Haji,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Amour Khamis,43,male,1,Mapanya,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,NA,Chana,140,20.5
+Said Khamis Haji,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Amour Khamis,43,male,1,Mapanya,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,NA,Chana,118,20.5
+Said Khamis Haji,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Amour Khamis,43,male,1,Mapanya,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,NA,Chana,116,20
+Said Khamis Haji,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Amour Khamis,43,male,1,Mapanya,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,NA,Changu kifimbo/ Mrongo,97,18
+Said Khamis Haji,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Amour Khamis,43,male,1,Mapanya,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,NA,Changu kifimbo/ Mrongo,88,18
+Said Khamis Haji,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Amour Khamis,43,male,1,Mapanya,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,NA,Changu kifimbo/ Mrongo,75,17
+Said Khamis Haji,29/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_4,Amour Khamis,43,male,1,Mapanya,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,NA,Changu kibaku,113,21
+Said Hamad Omar,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,"Ali Omar Juma,",332,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,14000,NA,Changu2,180,28
+Said Hamad Omar,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,"Ali Omar Juma,",332,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,14000,NA,Changu2,370,31
+Said Hamad Omar,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,"Ali Omar Juma,",332,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,14000,NA,Pono bluu,280,28
+Said Hamad Omar,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,"Ali Omar Juma,",332,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,14000,NA,Kundaji,275,29
+Said Hamad Omar,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,"Ali Omar Juma,",332,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,14000,NA,Kundaji2,560,35
+Said Hamad Omar,17/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,"Ali Omar Juma,",332,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,14000,NA,Kundaji3,325,30
+Said Hamad Omar,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Tasi,390,31
+Said Hamad Omar,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Tasi,257,28
+Said Hamad Omar,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Tasi,191,24.5
+Said Hamad Omar,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Tasi uziwa,241,24
+Said Hamad Omar,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Tasi uziwa,175,22
+Said Hamad Omar,30/09/2024,Pemba,Mtambwe Kusini,Mfunguo_Sita_2,Bandari ya Mahujumu,Fisher_1,Moh'd Amour,53,male,1,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Pono mchele,376,30.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Tasi,595,37
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Changu mweupe,176,23.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Changu mweupe,205,28
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Changu mweupe,174,23
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Changu mweupe,144,22
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Changu mweupe,115,20.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Paragunda,265,26.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,eriola rivoliana,164,20
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,eriola rivoliana,157,19.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Changu Ndomo,159,26
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Kundaji,242,26.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,mwewe,126,28
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Abasi  Kombo,19,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Chaamji,143,22
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Ssid Khalfan,40,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,pono10,660,35
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Ssid Khalfan,40,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Paragunda,253,26.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Ssid Khalfan,40,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Paragunda,258,27
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Ssid Khalfan,40,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Paragunda,188,24
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Ssid Khalfan,40,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Changu2,354,29
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Ssid Khalfan,40,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Changu2,133,22
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Ssid Khalfan,40,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Kundaji,261,27
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Ssid Khalfan,40,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,mwewe,254,28
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Ssid Khalfan,40,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Chaamji,141,21.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Moh'd  Salum,26,male,2,Mapanya,Majani_bahari,Dau/Mtumbwi,Mshipi,NA,16000,NA,Pono bluu,720,36
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Moh'd  Salum,26,male,2,Mapanya,Majani_bahari,Dau/Mtumbwi,Mshipi,NA,16000,NA,Puju2,595,35
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Moh'd  Salum,26,male,2,Mapanya,Majani_bahari,Dau/Mtumbwi,Mshipi,NA,16000,NA,Puju2,420,33
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Moh'd  Salum,26,male,2,Mapanya,Majani_bahari,Dau/Mtumbwi,Mshipi,NA,16000,NA,Puju2,288,27.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Moh'd  Salum,26,male,2,Mapanya,Majani_bahari,Dau/Mtumbwi,Mshipi,NA,16000,NA,Kundaji2,350,31
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Haji Kombo,35,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,M,Pono9,1370,45
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Haji Kombo,35,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,M,Pono9,940,35
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Haji Kombo,35,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,M,Changu mweupe,790,31
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Haji Kombo,35,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,M,Tasi mweupe,163,23.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Haji Kombo,35,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,M,Tasi mweupe,186,24.5
+Said Hamad Omar,07/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Haji Kombo,35,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,M,Changu kibaku,146,22
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Bakar Othman Abdallah,30,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,chewa_mwekundu,425,30
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Bakar Othman Abdallah,30,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Nyavi,218,27
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Bakar Othman Abdallah,30,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Nyavi,190,23.5
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Bakar Othman Abdallah,30,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Nyavi,182,24
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Bakar Othman Abdallah,30,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Nyavi,155,22
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Bakar Othman Abdallah,30,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Nyavi,123,20
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Bakar Othman Abdallah,30,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Nyavi,127,21
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Bakar Othman Abdallah,30,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Nyavi,97,19
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Bakar Othman Abdallah,30,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Kundaji mwekundu,66,17
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_4,Bakar Othman Abdallah,30,male,2,Paasi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Kundaji mwekundu,86,28
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Laga/Puju,705,35
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Laga/Puju,585,36
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Puju1,560,28
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Puju1,530,33
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Puju1,207,24.5
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Pono4,301,31
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_2,Moh'd  Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Pono9,2.24,45
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_2,Moh'd  Salum,26,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,20000,NA,Pono9,1.84,49
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Omar Juma,55,male,2,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,12000,NA,Kundaji,440,35
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Omar Juma,55,male,2,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,12000,NA,Kifuu2,129,21
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Omar Juma,55,male,2,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,12000,NA,Nyavi,116,20
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Omar Juma,55,male,2,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,12000,NA,Pono bluu,352,35.5
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Omar Juma,55,male,2,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,12000,NA,Pono4,133,21
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Omar Juma,55,male,2,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,12000,NA,Pono,121,18
+Said Khamis Haji,08/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Omar Juma,55,male,2,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,12000,NA,Pono5,157,21
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Changu kifimbo/ Mrongo,285,26
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Puju2,980,45
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Puju2,575,35
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Puju2,575,35
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Laga/Puju,1.125,49
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Laga/Puju,805,35
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Myripristis hexagona,650,33
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Tasi,475,32
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Tasi,293,28
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Mwavi,367,30
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Pono9,334,28
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_1,Bakar Mmanga,36,male,2,Mapanya,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Pono bluu,361,26
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Kokota,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Kundaji mwekundu,535,35
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Kokota,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Kundaji mwekundu,272,29
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Kokota,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Nyavi,309,29
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Kokota,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Changu Ndomo,345,31
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Kokota,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,pono10,540,32
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Kokota,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,pono10,210,23
+Juma Suleiman Juma,10/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_2,Massoud Khalfan,49,male,2,Kokota,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Kurumbwi,244,40
+Juma Suleiman Juma,09/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Ali  Hamad  Issa,35,male,2,Paasi,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Changu mweupe,142,21
+Juma Suleiman Juma,09/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Ali  Hamad  Issa,35,male,2,Paasi,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Changu mweupe,102,18
+Juma Suleiman Juma,09/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Ali  Hamad  Issa,35,male,2,Paasi,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Changu mweupe,50,15
+Juma Suleiman Juma,09/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Ali  Hamad  Issa,35,male,2,Paasi,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Changu mweupe,70,17
+Juma Suleiman Juma,09/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Ali  Hamad  Issa,35,male,2,Paasi,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Changu mweupe,NA,NA
+Juma Suleiman Juma,09/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Ali  Hamad  Issa,35,male,2,Paasi,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Changu kifimbo/ Mrongo,80,18
+Juma Suleiman Juma,09/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Ali  Hamad  Issa,35,male,2,Paasi,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Changu kibaku,59,17
+Juma Suleiman Juma,09/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Ali  Hamad  Issa,35,male,2,Paasi,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Numba,112,19
+Juma Suleiman Juma,09/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Ali  Hamad  Issa,35,male,2,Paasi,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Kangamacho,62,16
+Juma Suleiman Juma,09/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_1,Bandari ya Mahujumu,Fisher_3,Ali  Hamad  Issa,35,male,2,Paasi,Matumbawe/miamba,Ngalawa,Mshipi,NA,8000,NA,Paragunda,67,29
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_1,Bakar  Mmanga,36,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Mwewe,705,36
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_1,Bakar  Mmanga,36,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Mwewe,550,36.5
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_1,Bakar  Mmanga,36,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Kundaji,575,34.5
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_1,Bakar  Mmanga,36,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Changu mweupe,256,27
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_1,Bakar  Mmanga,36,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Changu mweupe,165,23
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_1,Bakar  Mmanga,36,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Puju2,204,31
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_1,Bakar  Mmanga,36,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Puju2,194,23.5
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_1,Bakar  Mmanga,36,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Puju2,186,23
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_1,Bakar  Mmanga,36,male,2,Uvinje,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Pono mwekundu,341,29
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Abasi  Kombo,19,male,2,Kokota,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,24000,NA,Puju2,855,35
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Abasi  Kombo,19,male,2,Kokota,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,24000,NA,Puju2,269,26
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Abasi  Kombo,19,male,2,Kokota,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,24000,NA,Laga/Puju,760,35
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Abasi  Kombo,19,male,2,Kokota,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,24000,NA,Laga/Puju,545,35.5
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Abasi  Kombo,19,male,2,Kokota,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,24000,NA,Dambada,590,33
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Abasi  Kombo,19,male,2,Kokota,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,24000,NA,pono10,437,39
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Abasi  Kombo,19,male,2,Kokota,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,24000,NA,Dambada8,277,26.5
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_2,Abasi  Kombo,19,male,2,Kokota,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,24000,NA,Tasi,291,28
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_4,Ali Omar  juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Mlea,645,34
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_4,Ali Omar  juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Mlea,645,34
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_4,Ali Omar  juma,33,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Mlea,575,35
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis  Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,16000,NA,Chewa2,123,17
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis  Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,16000,NA,Chewa2,163,22
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis  Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,16000,NA,Mbono/kubu,506,42
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis  Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,16000,NA,Kangaja1,566,33
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis  Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,16000,NA,Changu kibaku,324,27
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis  Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,16000,NA,Tembo kibaku,245,25
+Said Hamad Omar,14/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Saba_2,Bandari ya Mahujumu,Fisher_4,Juma Khamis  Ali,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,16000,NA,Chimbashi,185,23
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_1,Abasi Kombo,19,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Changu mweupe,670,36
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_1,Abasi Kombo,19,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,pono11,417,30.5
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_1,Abasi Kombo,19,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,pono11,357,29
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_1,Abasi Kombo,19,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Tasi,188,25
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_1,Abasi Kombo,19,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Tasi,167,23.5
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_1,Abasi Kombo,19,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Tasi,133,23
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_2,Juma Khamis Aki,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Pono9,905,39
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_2,Juma Khamis Aki,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Tasi,545,36
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_2,Juma Khamis Aki,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Pono4,336,25
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_2,Juma Khamis Aki,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Bodo,336,25
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_2,Juma Khamis Aki,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Kundaji,222,25
+Juma Suleiman Juma,15/10/2024,Pemba,Mtambwe Kusini,Mfunguo_Nane_1,Bandari ya Mahujumu,Fisher_2,Juma Khamis Aki,39,male,2,Kiwandani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Kundaji,212,27

@@ -1,0 +1,707 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,bei,Species,uzito_wa_jamii_moja_ya_samaki,idadi_ya_samaki
+NA,15/07/2024,Tanga,Monga Vyeru,Mfunguo_Nne_1,Monga,Fisher_1,JUMA ALI,43,male,2,MAWE MAWILI,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,80000,Tasi,20000,64
+NA,15/07/2024,Tanga,Monga Vyeru,Mfunguo_Nne_1,Monga,Fisher_1,JUMA ALI,43,male,2,MAWE MAWILI,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,80000,Tasi,20000,64
+NA,15/07/2024,Tanga,Monga Vyeru,Mfunguo_Pili_2,Monga,NA,SEHEWA AMIR,52,male,333,WAMBA,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,60500,NA,4010,4
+NA,15/07/2024,Tanga,Monga Vyeru,Mfunguo_Pili_2,Monga,NA,SEHEWA AMIR,52,male,333,WAMBA,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,60500,NA,517,2
+NA,15/07/2024,Tanga,Monga Vyeru,Mfunguo_Pili_2,Monga,NA,SEHEWA AMIR,52,male,333,WAMBA,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,60500,NA,392,1
+NA,15/07/2024,Tanga,Monga Vyeru,Mfunguo_Nne_1,Monga,Fisher_2,JADI ABDALH,54,male,NA,WAMBA,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,45000,Kolekole2,1604,1
+NA,15/07/2024,Tanga,Monga Vyeru,Mfunguo_Nne_1,Monga,Fisher_2,JADI ABDALH,54,male,NA,WAMBA,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,45000,Changu11,2903,5
+NA,15/07/2024,Tanga,Monga Vyeru,Mfunguo_Nne_1,Monga,Fisher_2,JADI ABDALH,54,male,NA,WAMBA,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,45000,Kungu,356,1
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_1,Mwaduo,47,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,22000,NA,1372,2
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_1,Mwaduo,47,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,22000,NA,544,2
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_1,Mwaduo,47,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,22000,NA,847,3
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_1,Mwaduo,47,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,22000,NA,1420,5
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_2,Abdala shehe,19,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,27500,NA,392,1
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_2,Abdala shehe,19,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,27500,NA,5197,12
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_3,Ndoro,54,male,2,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,93500,NA,436,3
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_3,Ndoro,54,male,2,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,93500,NA,1191,7
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_3,Ndoro,54,male,2,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,93500,Changu Ndomo,11234,3
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_3,Ndoro,54,male,2,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,93500,NA,3401,1
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_3,Ndoro,54,male,2,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,93500,NA,922,2
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_3,Ndoro,54,male,2,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,93500,NA,9018,7
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_3,Ndoro,54,male,2,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,93500,NA,572,1
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_4,Abdala rashid,57,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,NA,60000,NA,9018,7
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_4,Abdala rashid,57,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,NA,60000,NA,572,1
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_4,Abdala rashid,57,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,NA,60000,NA,1606,3
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_5,Mrima,49,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,52250,NA,2813,3
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_5,Mrima,49,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,52250,NA,872,1
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_5,Mrima,49,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,52250,NA,229,1
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_5,Mrima,49,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,52250,Chaa,953,1
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_5,Mrima,49,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,52250,NA,1215,2
+NA,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_5,Mrima,49,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,52250,NA,1805,2
+Zari Omar Sehewa,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_6,Kinyama,54,male,2,Mawe mawili,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17500,Tasi,3682,23
+Zari Omar Sehewa,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_7,Koboa,54,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,7150,Chengo,1378,15
+NA,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_1,Swalehe abdala,28,male,13,Mkumbi,Mchanga,Mashua,Nyavu,120000,NA,84000,3
+NA,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_3,Shomi,34,male,3,Uchui,Mchanga,NA,Nyavu,80000,NA,36000,2
+NA,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_4,Thabiti nyumbwe,62,male,2,Undu,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,NA,2389,9
+NA,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_4,Thabiti nyumbwe,62,male,2,Undu,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,NA,5600,8
+Zari Omar Sehewa,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_4,Mwarenu,33,male,3,Mkumbi,Mchanga,NA,Nyavu,40000,NA,28000,1
+NA,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_6,Haji ngwali,41,male,6,Vyongoni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,25000,Tasi,5130,39
+NA,27/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_1,Selemani thabiti,39,male,16,Wamba,Matumbawe/miamba,Mashua,Nyavu,120000,NA,84000,3
+Zari Omar Sehewa,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_7,Othmani abdala,31,male,NA,Mawe mawili,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,17500,NA,3685,2
+Zari Omar Sehewa,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_8,Hasani jumaa,31,male,1,Mawe mawili,Matumbawe/miamba,Ngalawa,Mkuki,10000,NA,1986,4
+NA,27/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_1,Selemani thabiti,39,male,16,Wamba,Matumbawe/miamba,Mashua,Nyavu,120000,NA,84000,3
+Zari Omar Sehewa,27/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_1,Abdala rodi,21,male,3,Wamba,Matumbawe/miamba,Mashua,Nyavu,40000,NA,28000,1
+NA,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_5,Simadide,64,male,2,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,27500,Changu mweupe,1590,7
+NA,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_5,Simadide,64,male,2,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,27500,Tembo uzi,331,3
+NA,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_5,Simadide,64,male,2,Kiroba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,27500,Haraki,3034,10
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_1,Saburi juma,61,male,12,Kwa mzungu,Mchanga,Mashua,Nyavu za kuzungusha,960000,NA,84000,3
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_2,Omari amiri,40,male,20,Shimoni,Mchanga,Mashua,Nyavu za kuzungusha,7.00E+05,Tembo,1851,21
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_2,Omari amiri,40,male,20,Shimoni,Mchanga,Mashua,Nyavu za kuzungusha,7.00E+05,tembo/janja,103,1
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_2,Omari amiri,40,male,20,Shimoni,Mchanga,Mashua,Nyavu za kuzungusha,7.00E+05,NA,56000,2
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_3,Abedi zakaria,27,male,3,Shimoni,Mchanga,Mashua,Nyavu za kuzungusha,512000,NA,268,1
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_3,Abedi zakaria,27,male,3,Shimoni,Mchanga,Mashua,Nyavu za kuzungusha,512000,Paragunda,118,1
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_3,Abedi zakaria,27,male,3,Shimoni,Mchanga,Mashua,Nyavu za kuzungusha,512000,NA,224000,8
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_4,Kasimu kipa,22,male,16,Mivinjeni,Mchanga,Mashua,Nyavu za kuzungusha,220000,NA,200,1
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_4,Kasimu kipa,22,male,16,Mivinjeni,Mchanga,Mashua,Nyavu za kuzungusha,220000,NA,1.00E+05,980
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_5,Ramadhani ally,27,male,2,Mkadini,Mchanga,Mashua,Nyavu za kuzungusha,6.00E+05,NA,4000,15
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_5,Ramadhani ally,27,male,2,Mkadini,Mchanga,Mashua,Nyavu za kuzungusha,6.00E+05,Changu2,424,3
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_6,Rajabu ibrahimu,42,male,16,Funguni,Fungu,Mashua,Nyavu za kuzungusha,192000,Changu Ndomo,181,1
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_6,Rajabu ibrahimu,42,male,16,Funguni,Fungu,Mashua,Nyavu za kuzungusha,192000,Toa/msusa- Chebwa,86,1
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_6,Rajabu ibrahimu,42,male,16,Funguni,Fungu,Mashua,Nyavu za kuzungusha,192000,Kangamacho,451,1
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_6,Rajabu ibrahimu,42,male,16,Funguni,Fungu,Mashua,Nyavu za kuzungusha,192000,NA,62000,682
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_7,Abdallah salu,52,male,4,Kwa mzunuu,Mchanga,Mashua,Nyavu za kuzungusha,460000,NA,35000,325
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_7,Abdallah salu,52,male,4,Kwa mzunuu,Mchanga,Mashua,Nyavu za kuzungusha,460000,NA,28000,NA
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,NA,Dau/Mtumbwi,Mshipi,25000,Changu2,4000,66
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,NA,Dau/Mtumbwi,Mshipi,25000,Paragunda,27,1
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,NA,Dau/Mtumbwi,Mshipi,25000,Kangamacho,443,8
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,NA,Dau/Mtumbwi,Mshipi,25000,NA,330,6
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,NA,Dau/Mtumbwi,Mshipi,25000,Chaa,379,6
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_9,Omari machano,64,male,1,Kizingani,NA,Dau/Mtumbwi,Mtego/dema,53000,Tasi,10000,40
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_9,Omari machano,64,male,1,Kizingani,NA,Dau/Mtumbwi,Mtego/dema,53000,Pono mwekundu,688,3
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_9,Omari machano,64,male,1,Kizingani,NA,Dau/Mtumbwi,Mtego/dema,53000,Pono,283,1
+Abubakar Omari,25/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_10,Amadi iddi,30,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,17500,Changu2,3500,22
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_1,Kasimu kipa,22,male,16,Setu,Mchanga,Mashua,Nyavu za kuzungusha,980000,NA,84000,640
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_1,Kasimu kipa,22,male,16,Setu,Mchanga,Mashua,Nyavu za kuzungusha,980000,NA,280000,10
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_2,Bakari salimu,43,male,3,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,125000,NA,2005,158
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_3,Kuesho abdallah,20,male,4,Kibandarini,Mchanga,Mashua,Nyavu za kuzungusha,1250000,NA,7.00E+05,25
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_4,Adamu ally,25,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,390000,NA,34000,223
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_4,Adamu ally,25,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,390000,NA,104000,4
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_5,Rajabu ibrahimu,42,male,14,Shimoni,Mchanga,Mashua,Nyavu za kuzungusha,168000,NA,112000,4
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_6,Omari machano,64,male,1,Kizingani,NA,Dau/Mtumbwi,Mtego/dema,38000,Tasi,7000,91
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_6,Omari machano,64,male,1,Kizingani,NA,Dau/Mtumbwi,Mtego/dema,38000,Tasi uziwa,686,2
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_7,Ally jaku,72,male,2,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,22500,Tasi,4500,45
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Kasimu hajji,52,male,3,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,38000,Pono,2606,6
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Kasimu hajji,52,male,3,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,38000,Pono mwekundu,554,1
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Kasimu hajji,52,male,3,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,38000,Tasi,3792,29
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Kasimu hajji,52,male,3,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,38000,Tasi uziwa,792,3
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_9,Mbwana mussa,27,male,4,Wamba,NA,Dau/Mtumbwi,Mshipi,28000,Changu2,3000,21
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_9,Mbwana mussa,27,male,4,Wamba,NA,Dau/Mtumbwi,Mshipi,28000,Kundaji,413,4
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_9,Mbwana mussa,27,male,4,Wamba,NA,Dau/Mtumbwi,Mshipi,28000,Tembo,2500,29
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_10,Amadi iddi,30,male,1,Mkadini,Mchanga,Dau/Mtumbwi,Mshipi,28000,Changu2,2000,16
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_10,Amadi iddi,30,male,1,Mkadini,Mchanga,Dau/Mtumbwi,Mshipi,28000,NA,317,2
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_10,Amadi iddi,30,male,1,Mkadini,Mchanga,Dau/Mtumbwi,Mshipi,28000,Tembo,3500,31
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_11,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,20000,NA,1825,2
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_11,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,20000,Mzira/Mzia,1173,2
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_11,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,20000,Changu2,1205,30
+Abubakar Omari,26/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_11,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,20000,NA,19,1
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_1,Sahala rashidi,30,male,2,Kibandarini,Mchanga,Mashua,Nyavu za kuzungusha,524000,NA,4000,46
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_1,Sahala rashidi,30,male,2,Kibandarini,Mchanga,Mashua,Nyavu za kuzungusha,524000,NA,336000,12
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_2,Omari yazidu,30,male,3,Setule,Mchanga,Mashua,Nyavu za kuzungusha,290000,NA,28000,245
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_2,Omari yazidu,30,male,3,Setule,Mchanga,Mashua,Nyavu za kuzungusha,290000,NA,140000,5
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_3,Salimu makame,20,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,540000,NA,66000,468
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_3,Salimu makame,20,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,540000,NA,88000,4
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_4,Juma jembe,35,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,360000,NA,22000,156
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_4,Juma jembe,35,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,360000,NA,140000,5
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_5,Hamadi hatibu,24,male,4,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,322000,NA,27000,345
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_5,Hamadi hatibu,24,male,4,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,322000,NA,112000,4
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_5,Hamadi hatibu,24,male,4,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,322000,NA,7422,1
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_6,Kundi mtumwa,37,male,15,Fungu la boma,Mchanga,Mashua,Nyavu za kuzungusha,195000,NA,87000,1074
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_7,Omari machano,64,male,1,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,35000,Tasi,6505,52
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Kassimu hajji,52,male,2,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,48000,Tasi,8000,37
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Kassimu hajji,52,male,2,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,48000,Pono mwekundu,615,1
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Kassimu hajji,52,male,2,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,48000,Pono3,431,1
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_8,Kassimu hajji,52,male,2,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,48000,Mlea,366,275
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_9,Mussa mwanoro,62,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,23000,Changu2,4000,99
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_9,Mussa mwanoro,62,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,23000,Kolekole1,681,5
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_9,Mussa mwanoro,62,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,23000,Chewa/Tewa,124,155
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_1,Ally estii,27,male,3,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,315000,NA,196000,7
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_10,Amadi idii,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu2,2000,28
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_10,Amadi idii,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Kundaji,24,1
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_10,Amadi idii,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Paragunda,87,3
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_10,Amadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu2,2000,28
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_10,Amadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,10000,NA,24,1
+Abubakar Omari,28/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Vyeru,Fisher_10,Amadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Paragunda,87,3
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Ally estii,27,male,3,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,315000,NA,196000,7
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Salimu makame,20,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,3.00E+05,NA,135000,1790
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Muhamed shee,23,male,4,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,635000,NA,75000,1092
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Muhamed shee,23,male,4,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,635000,NA,280000,10
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Mohamed hamisi,36,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,432000,NA,52000,1053
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Mohamed hamisi,36,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,432000,NA,168000,6
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_5,Kombo hassani,36,male,3,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,630000,NA,420000,15
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Ally maulidi,28,male,4,Funguni boma,Mchanga,Mashua,Nyavu za kuzungusha,290000,Bangi Kukuu,1.00E+05,1368
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Ally maulidi,28,male,4,Funguni boma,Mchanga,Mashua,Nyavu za kuzungusha,290000,NA,27000,1
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Amadi iddy,30,male,1,Chamba vyeru,NA,Dau/Mtumbwi,Mshipi,12500,Pono,183,1
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Amadi iddy,30,male,1,Chamba vyeru,NA,Dau/Mtumbwi,Mshipi,12500,Changu2,1600,18
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Amadi iddy,30,male,1,Chamba vyeru,NA,Dau/Mtumbwi,Mshipi,12500,Tembo,723,14
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Hassani yusufu,54,male,4,Chundo,Mchanga,Ngalawa,Mshipi,22500,Changu kifimbo/ Mrongo,510,4
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Hassani yusufu,54,male,4,Chundo,Mchanga,Ngalawa,Mshipi,22500,Chewa2,444,3
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Hassani yusufu,54,male,4,Chundo,Mchanga,Ngalawa,Mshipi,22500,Chewa3,1810,8
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Hassani yusufu,54,male,4,Chundo,Mchanga,Ngalawa,Mshipi,22500,Changu3,471,3
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Hassani yusufu,54,male,4,Chundo,Mchanga,Ngalawa,Mshipi,22500,NA,772,1
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Kasimu ally,47,male,2,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,25000,Pono,244,2
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Kasimu ally,47,male,2,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,25000,NA,825,2
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Kasimu ally,47,male,2,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,25000,Chewa/Tewa,305,1
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Kasimu ally,47,male,2,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,25000,Pono,502,30
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Kasimu ally,47,male,2,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,25000,NA,4000,23
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,22000,Changu2,3865,32
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,22000,Chewa2,507,7
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,22000,NA,58,1
+Abubakar Omari,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,22000,NA,65,1
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Bakari salimu,42,male,3,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,775000,NA,130000,780
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Bakari salimu,42,male,3,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,775000,NA,280000,10
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Simba rajabu,64,male,3,Wamba,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,252000,NA,168000,6
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Issa shekhe,27,male,16,Funde,Mchanga,Mashua,Nyavu za kuzungusha,760000,NA,532000,19
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Mohmedi shekhe,23,male,4,Setule,Mchanga,Mashua,Nyavu za kuzungusha,270000,NA,168000,6
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_5,Ally mwajungo,33,male,15,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,1320000,NA,840000,30
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Juma mangengo,46,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,2.00E+06,NA,1400000,50
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Omari mwalimu,51,male,14,Kiroba,Mchanga,Mashua,Nyavu za kuzungusha,912000,NA,672000,24
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Salimu makame,20,male,4,Funguni boma,Mchanga,Mashua,Nyavu za kuzungusha,1265000,NA,560000,20
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Salimu makame,20,male,4,Funguni boma,Mchanga,Mashua,Nyavu za kuzungusha,1265000,NA,58000,322
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Salimu makame,20,male,4,Funguni boma,Mchanga,Mashua,Nyavu za kuzungusha,1265000,NA,75000,744
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,7500,Tembo,700,7
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,7500,Kungu,56,1
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,7500,Chelema/Mboo ya mvuvi,52,1
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,7500,Chaa,65,1
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,7500,NA,147,3
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,7500,Pono,199,1
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,7500,NA,99,1
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,7500,NA,181,1
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,18000,Kolekole2,1808,6
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,18000,Changu2,1606,11
+Abubakar Omari,02/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,18000,Kundaji,269,1
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Simba rajabu,64,male,4,Setule,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,320000,NA,28000,264
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Simba rajabu,64,male,4,Setule,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,320000,NA,140000,5
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Abedi zakaria,30,male,4,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,540000,NA,28000,251
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Abedi zakaria,30,male,4,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,540000,NA,280000,10
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Sahala rashidi,30,male,2,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,5000,Changu2,456,2
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Sahala rashidi,30,male,2,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,5000,NA,574,2
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Sahala rashidi,30,male,2,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,5000,Tembo,90,185
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_4,Ngwena rajabu,30,male,4,Funguni boma,Mchanga,Mashua,Nyavu za kuzungusha,190000,NA,140000,5
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_5,Omari abu,35,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,488000,NA,280000,10
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_5,Omari abu,35,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,488000,Changu2,1567,8
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Omari machano,64,male,1,Milangoni,Mchanga,Dau/Mtumbwi,Mtego/dema,15000,Tasi,3000,36
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Fadhili mohammed,37,male,3,Mkadini,Mchanga,Dau/Mtumbwi,Mshipi,8000,Paragunda,478,7
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Fadhili mohammed,37,male,3,Mkadini,Mchanga,Dau/Mtumbwi,Mshipi,8000,Pono,134,1
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Fadhili mohammed,37,male,3,Mkadini,Mchanga,Dau/Mtumbwi,Mshipi,8000,Changu2,1000,8
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mwinyi mussa,35,male,3,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,12500,Changu2,825,8
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mwinyi mussa,35,male,3,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,12500,Chaa,240,1
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mwinyi mussa,35,male,3,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,12500,Kungu,141,1
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mwinyi mussa,35,male,3,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,12500,Tembo,797,4
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mwinyi mussa,35,male,3,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,12500,Chewa/Tewa,738,2
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mwinyi mussa,35,male,3,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,12500,Kundaji,134,1
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,13000,NA,179,2
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,13000,Tembo,2500,49
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,13000,Changu2,96,2
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,13000,NA,25,1
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hamadi iddi,30,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,13000,NA,182,4
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,64,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,22500,Paragunda,355,7
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,64,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,22500,Changu2,796,13
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,64,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,22500,Chaa2,91,175
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,64,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,22500,Kangamacho,84,2
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,64,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,22500,Tembo,1413,21
+Abubakar Omari,03/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,64,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,22500,NA,2048,1
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Imran salim,22,male,5,Uchui,Mchanga,Mashua,Nyavu za kuzungusha,1110000,Toa/msusa- Chebwa,NA,995
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Imran salim,22,male,5,Uchui,Mchanga,Mashua,Nyavu za kuzungusha,1110000,NA,420000,15
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Hamisi mohmed,26,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,1030000,Bangi Kukuu,56000,568
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Hamisi mohmed,26,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,1030000,NA,560000,20
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Omari mkabe,38,male,4,Uchui,Mchanga,Mashua,Nyavu za kuzungusha,480000,Mzira meno/sumbururu,140000,400
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Simba rajabu,64,male,3,Milangoni,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,23800,Mzira meno/sumbururu,4310,17
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_5,Mohamed shehe,23,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,1750000,NA,980000,35
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Mohmed hamisi,36,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,41000,tembo/janja,182,3
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Mohmed hamisi,36,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,41000,Tembo,96,1
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Mohmed hamisi,36,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,41000,NA,35000,315
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Bakari issa,25,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,100500,Bangi Kukuu,70000,630
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Bakari issa,25,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,100500,Mzira meno/sumbururu,2681,1
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Bakari issa,25,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,100500,Changu2,910,2
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Bakari issa,25,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,100500,Tembo,210,2
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Bakari issa,25,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,100500,Koana,145,1
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Bakari issa,25,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,100500,Changu8,197,1
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mustafa rashidi,31,male,3,Setule,Mchanga,Ngalawa,Mshipi,43000,Tembo kandaa,5378,32
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mustafa rashidi,31,male,3,Setule,Mchanga,Ngalawa,Mshipi,43000,Chewa8,3081,20
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Azizi ismail,37,male,1,Mkadini,Mchanga,Dau/Mtumbwi,Mshipi,27500,Tembo,5431,35
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Azizi ismail,37,male,1,Mkadini,Mchanga,Dau/Mtumbwi,Mshipi,27500,Chewa8,341,2
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Kadara mussa,41,male,2,Magogoni,Mchanga,Ngalawa,Mshipi,28000,Changu3,1179,2
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Kadara mussa,41,male,2,Magogoni,Mchanga,Ngalawa,Mshipi,28000,Changu2,3242,3
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Kadara mussa,41,male,2,Magogoni,Mchanga,Ngalawa,Mshipi,28000,Changu4,589,1
+Abubakar Omari,09/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Kadara mussa,41,male,2,Magogoni,Mchanga,Ngalawa,Mshipi,28000,Tembo kandaa,867,5
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Kombo khatoro,35,male,4,Milango ya mwaboza,Mchanga,Mashua,Nyavu za kuzungusha,980000,NA,116000,1264
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Kombo khatoro,35,male,4,Milango ya mwaboza,Mchanga,Mashua,Nyavu za kuzungusha,980000,NA,56000,NA
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Ally hathumani,45,male,3,Milango ya vyeru,Mchanga,Mashua,Nyavu za kuzungusha,905000,NA,84000,1026
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Ally hathumani,45,male,3,Milango ya vyeru,Mchanga,Mashua,Nyavu za kuzungusha,905000,NA,56000,20
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Mohmedi kinyama,32,male,3,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,245000,Bangi Kukuu,162000,1884
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Mohmedi kinyama,32,male,3,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,245000,NA,18000,5
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Naufan chabi,27,male,4,Funguni boma,Mchanga,Mashua,Nyavu za kuzungusha,955500,Kolekole7,168000,735
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_5,Juma mangengo,45,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,1680000,NA,980000,35
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Imrani salimu,22,male,5,Uchuwi,Mchanga,Mashua,Nyavu za kuzungusha,936800,Kolekole7,84152,336
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Imrani salimu,22,male,5,Uchuwi,Mchanga,Mashua,Nyavu za kuzungusha,936800,NA,280000,10
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Omari abu,NA,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,68700,Mzira meno/sumbururu,15122,46
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Omari abu,NA,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,68700,Chelema/Mboo ya mvuvi,13221,167
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Fadhili mohmed,27,male,18,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,1.00E+06,NA,560000,20
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Abedi issa,25,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,45000,Changu Ndomo,400,1
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Abedi issa,25,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,45000,Changu2,183,1
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Abedi issa,25,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,45000,Tembo,5418,42
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Abedi issa,25,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,45000,Tembo kandaa,3052,21
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Ramadhani edy,35,male,2,Chamba monga,Mchanga,Ngalawa,Mshipi,60000,Changu14,3231,5
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Ramadhani edy,35,male,2,Chamba monga,Mchanga,Ngalawa,Mshipi,60000,Chewa8,3958,2
+Abubakar Omari,10/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Ramadhani edy,35,male,2,Chamba monga,Mchanga,Ngalawa,Mshipi,60000,Tembo kandaa,4820,35
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Juma zuber,46,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,650000,Mkonge,112000,500
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Juma zuber,46,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,650000,NA,56000,10
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Hamadi hatibu,30,male,4,Mlango wa mwaboza,Mchanga,Mashua,Nyavu za kuzungusha,855000,NA,81000,3
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Hamadi hatibu,30,male,4,Mlango wa mwaboza,Mchanga,Mashua,Nyavu za kuzungusha,855000,NA,420000,15
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Rajabu majanga,33,male,4,Tawalani,Mchanga,Mashua,Nyavu za kuzungusha,930000,NA,84000,3
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Rajabu majanga,33,male,4,Tawalani,Mchanga,Mashua,Nyavu za kuzungusha,930000,NA,39000,15
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Amady kassim,24,male,4,Jiwe la wanda,Mchanga,Mashua,Nyavu za kuzungusha,960000,NA,560000,20
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_5,Mohmedi ibrahimu,24,male,4,Kibandarini,Mchanga,Mashua,Nyavu za kuzungusha,1080000,NA,56000,2
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_5,Mohmedi ibrahimu,24,male,4,Kibandarini,Mchanga,Mashua,Nyavu za kuzungusha,1080000,NA,420000,15
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Mohmedi shee,23,male,4,Uchuwi,Mchanga,Mashua,Nyavu za kuzungusha,640000,Bangi Kukuu,112000,4
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Mohmedi shee,23,male,4,Uchuwi,Mchanga,Mashua,Nyavu za kuzungusha,640000,NA,280000,10
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Omary yazidu,27,male,4,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,880000,NA,560000,4
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Kundi mtumwa,38,male,18,Funguni boma,Mchanga,Mashua,Nyavu za kuzungusha,713000,Mzira/Mzia,3580,1
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Kundi mtumwa,38,male,18,Funguni boma,Mchanga,Mashua,Nyavu za kuzungusha,713000,Changu13,905,3
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Kundi mtumwa,38,male,18,Funguni boma,Mchanga,Mashua,Nyavu za kuzungusha,713000,NA,42000,15
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Ibrahim isaka,27,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,20000,Chaa,4281,42
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,7500,Tembo,5296,62
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu14,53,1
+Abubakar Omari,12/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu2,31,1
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Hamadi ally,34,male,3,Jiwe la wanda,Mchanga,Mashua,Nyavu za kuzungusha,4.00E+05,NA,81000,3
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Hamadi ally,34,male,3,Jiwe la wanda,Mchanga,Mashua,Nyavu za kuzungusha,4.00E+05,NA,140000,5
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Mwidini hamadi,37,male,14,Tawalani,Mchanga,Mashua,Nyavu za kuzungusha,440000,Mzira/Mzia,1377,1
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Mwidini hamadi,37,male,14,Tawalani,Mchanga,Mashua,Nyavu za kuzungusha,440000,Changu2,6512,18
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Mwidini hamadi,37,male,14,Tawalani,Mchanga,Mashua,Nyavu za kuzungusha,440000,NA,650000,NA
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Bakari hau,32,male,20,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,174000,NA,90200,1
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Bakari hau,32,male,20,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,174000,NA,78000,3
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Rajabu ibrahimu9,42,male,15,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,139800,Tembo kandaa,3885,31
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Rajabu ibrahimu9,42,male,15,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,139800,NA,840000,30
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_5,Salimu makame,20,male,4,Milangoni,Mchanga,Ngalawa,Nyavu za kuzungusha,660000,NA,420000,15
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,6000,Tembo,808,11
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,6000,Tembo kandaa,168,3
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,6000,Changu2,400,11
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Asia omari,19,male,2,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,5000,Changu2,1049,18
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Asia omari,19,male,2,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,5000,Paragunda,87,1
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,20000,Changu2,3169,32
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,20000,Tembo,725,9
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,20000,Kundaji,73,1
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,20000,Paragunda,31,1
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,20000,Chewa/Tewa,99,2
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hassani ramadhani,62,male,1,Milangoni,Mchanga,Ngalawa,Mshipi,28000,Tembo,5436,40
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hassani ramadhani,62,male,1,Milangoni,Mchanga,Ngalawa,Mshipi,28000,Pono12,204,3
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_9,Hassani ramadhani,62,male,1,Milangoni,Mchanga,Ngalawa,Mshipi,28000,Mbene/msendengoma,23,1
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa omari,37,male,2,Chamba vyeru,Mchanga,Ngalawa,Mshipi,10000,Chewa10,65,1
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa omari,37,male,2,Chamba vyeru,Mchanga,Ngalawa,Mshipi,10000,Chewa9,63,2
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa omari,37,male,2,Chamba vyeru,Mchanga,Ngalawa,Mshipi,10000,Changu11,42,1
+Abubakar Omari,15/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_10,Mussa omari,37,male,2,Chamba vyeru,Mchanga,Ngalawa,Mshipi,10000,Changu2,2014,29
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Hamadi ally,34,male,13,Boma funguni,Mchanga,Mashua,Nyavu za kuzungusha,272000,Panda,15000,80
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Hamadi ally,34,male,13,Boma funguni,Mchanga,Mashua,Nyavu za kuzungusha,272000,NA,140000,5
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Mohd ibrahimu,27,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,326000,Mbene/msendengoma,12405,30
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Mohd ibrahimu,27,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,326000,NA,140000,5
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Kasimu kipa,22,male,16,Kwa mzungu,Mchanga,Mashua,Nyavu za kuzungusha,110000,NA,189000,7
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Kasimu kipa,22,male,16,Kwa mzungu,Mchanga,Mashua,Nyavu za kuzungusha,110000,NA,27000,1
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Mwidini hamadi,37,male,14,Tawalani,Mchanga,Mashua,Nyavu za kuzungusha,652000,NA,104000,4
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Mwidini hamadi,37,male,14,Tawalani,Mchanga,Mashua,Nyavu za kuzungusha,652000,NA,168000,6
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_5,Bakari hau,32,male,20,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,635000,NA,83819,635
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Simba rajabu,64,male,3,Milango ya vyeru,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,504000,NA,336000,12
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,20000,Paragunda,562,14
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,20000,Chaa,3082,31
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,20000,Changu2,461,4
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Amadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,20000,Kundaji,420,4
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Amadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,20000,Tembo,2612,42
+Abubakar Omari,16/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_8,Amadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,20000,Changu2,1177,9
+Abubakar Omari,17/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Kasimu kipa,22,male,16,Kwa mzungu,Mchanga,Mashua,Nyavu za kuzungusha,390000,NA,140000,5
+Abubakar Omari,17/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_1,Kasimu kipa,22,male,16,Kwa mzungu,Mchanga,Mashua,Nyavu za kuzungusha,390000,NA,28000,NA
+Abubakar Omari,17/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_2,Rajabu ibrahimu,42,male,15,Mivinjeni,Mchanga,Mashua,Nyavu za kuzungusha,270000,Paramawe,162000,6
+Abubakar Omari,17/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_3,Simba rajabu,64,male,3,Kibandarini,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,80000,NA,56000,2
+Abubakar Omari,17/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_4,Salimu malame,20,male,4,Kibandarini,Mchanga,Mashua,Nyavu za kuzungusha,550000,NA,140000,5
+Abubakar Omari,17/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,NA,Fisher_5,Hamadi ally,34,male,3,Mivinjeni,Mchanga,Mashua,Nyavu za kuzungusha,270000,NA,225000,9
+Abubakar Omari,17/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Mohamedi,23,male,4,Mawe mawil,Mchanga,Mashua,Nyavu za kuzungusha,1010000,NA,196000,7
+Abubakar Omari,17/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_1,Vyeru,Fisher_6,Mohamedi,23,male,4,Mawe mawil,Mchanga,Mashua,Nyavu za kuzungusha,1010000,NA,14000,5
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_1,Kasimu kipa,22,male,16,Milango ya kichalikani,Mchanga,Mashua,Nyavu za kuzungusha,385000,Bangi Kukuu,196000,7
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_2,Mohamedi shee,23,male,4,Milango ya vyeru,Mchanga,Mashua,Nyavu za kuzungusha,9.00E+05,NA,280000,10
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_3,Rajabu ibrahimu,42,male,15,Milango ya vyeru,Mchanga,Mashua,Nyavu za kuzungusha,250000,NA,140000,5
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_4,Hassani ramadhani,62,male,1,Mwandusi,Mchanga,Ngalawa,Mshipi,60000,Changu2,12000,45
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_5,Husseni ramadhani,45,male,4,Mivinjeni,Mchanga,Dau/Mtumbwi,Mshipi,85000,Tembo,4761,14
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_5,Husseni ramadhani,45,male,4,Mivinjeni,Mchanga,Dau/Mtumbwi,Mshipi,85000,Changu2,12471,68
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,45000,Paramamba,45,1
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,45000,Haraki,52,1
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,45000,Changu2,7119,99
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Kizingani,Mchanga,Dau/Mtumbwi,Mshipi,45000,Tembo,2114,31
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_7,Abdulrazaq issa,32,male,3,Moa,Mchanga,Dau/Mtumbwi,Mtego/dema,38500,Tasi,7158,21
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_7,Abdulrazaq issa,32,male,3,Moa,Mchanga,Dau/Mtumbwi,Mtego/dema,38500,Pono5,286,1
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,17500,Tembo,3611,37
+Abubakar Omari,22/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,17500,Kundaji,319,3
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_1,Naufan chabi,27,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,818000,NA,112000,4
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_1,Naufan chabi,27,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,818000,NA,3390,1
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_1,Naufan chabi,27,male,4,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,818000,NA,280000,10
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_2,Mohamedi ibrahimu,27,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,672000,NA,324000,12
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_2,Mohamedi ibrahimu,27,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,672000,Tembo,153,1
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_2,Mohamedi ibrahimu,27,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,672000,Changu2,392,2
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_3,Kassimu kipa,22,male,16,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,924000,NA,392000,14
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_3,Kassimu kipa,22,male,16,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,924000,NA,196000,7
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_4,Mohamedi shee,23,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,540000,NA,58000,229
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_4,Mohamedi shee,23,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,540000,NA,140000,5
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_5,Rajabu ibrahimu,42,male,16,Mivinjeni,Mchanga,Mashua,Nyavu za kuzungusha,240000,NA,2.00E+05,8
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Abedi zakaria,30,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,302000,NA,196000,7
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Abedi zakaria,30,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,302000,NA,16000,5
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_7,Hamadi iddi,30,male,1,Kwale,Mchanga,Dau/Mtumbwi,Mshipi,12500,Changu2,976,25
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_7,Hamadi iddi,30,male,1,Kwale,Mchanga,Dau/Mtumbwi,Mshipi,12500,Tembo,1805,46
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_8,Hassani omari,26,male,1,Monga kidibwani,Mchanga,Dau/Mtumbwi,Mshipi,5000,Changu2,417,8
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_8,Hassani omari,26,male,1,Monga kidibwani,Mchanga,Dau/Mtumbwi,Mshipi,5000,Tembo,521,12
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_8,Hassani omari,26,male,1,Monga kidibwani,Mchanga,Dau/Mtumbwi,Mshipi,5000,Kivumbi,127,2
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_9,Hassani ramadhani,62,male,1,Magogoni,Mchanga,Ngalawa,Mshipi,32500,Tembo,2970,28
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_9,Hassani ramadhani,62,male,1,Magogoni,Mchanga,Ngalawa,Mshipi,32500,Changu2,841,5
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_9,Hassani ramadhani,62,male,1,Magogoni,Mchanga,Ngalawa,Mshipi,32500,Haraki,148,1
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_9,Hassani ramadhani,62,male,1,Magogoni,Mchanga,Ngalawa,Mshipi,32500,Kolekole2,540,1
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_9,Hassani ramadhani,62,male,1,Magogoni,Mchanga,Ngalawa,Mshipi,32500,Chewa3,270,1
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_9,Hassani ramadhani,62,male,1,Magogoni,Mchanga,Ngalawa,Mshipi,32500,Chewa2,987,2
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_9,Hassani ramadhani,62,male,1,Magogoni,Mchanga,Ngalawa,Mshipi,32500,Pono9,820,1
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,12500,Changu2,1956,21
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,12500,Tembo,532,15
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,12500,Paragunda,154,5
+Abubakar Omari,23/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_10,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,12500,Kangamacho,31,1
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_1,Ramadhani is-haqa,27,male,4,Milangoni juu,Mchanga,Mashua,Nyavu za kuzungusha,360000,NA,224000,8
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_2,Bakharesa nbosso,32,male,3,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,540000,NA,420000,15
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_3,Simba rajabu,64,male,3,Milangoni,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,175000,NA,196000,7
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_4,Kombo khatoro,35,male,3,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,120000,NA,112000,4
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_5,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,25000,Changu2,2830,45
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_5,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,25000,Paragunda,437,7
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_5,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,25000,Tembo,1927,29
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Monga,Mchanga,Dau/Mtumbwi,Mshipi,22500,Changu2,2645,38
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Monga,Mchanga,Dau/Mtumbwi,Mshipi,22500,Kolekole2,120,1
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Monga,Mchanga,Dau/Mtumbwi,Mshipi,22500,NA,97,19
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Monga,Mchanga,Dau/Mtumbwi,Mshipi,22500,Tembo,1678,18
+Abubakar Omari,24/10/2024,Tanga,Monga Vyeru,Mfunguo_Saba_2,Vyeru,Fisher_6,Hamadi iddi,30,male,1,Monga,Mchanga,Dau/Mtumbwi,Mshipi,22500,Haraki,58,1
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Simba rajabu,64,male,3,Chundo,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,390000,NA,168000,6
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Kasimu kipa,22,male,16,Jiqe la wanda,Mchanga,Mashua,Nyavu za kuzungusha,160000,Bangi Kukuu,54000,192
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Hasani omari,26,male,1,Monga kidibwani,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu2,1810,24
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Hasani omari,26,male,1,Monga kidibwani,Mchanga,Dau/Mtumbwi,Mshipi,15000,Tembo,1052,18
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Hasani omari,26,male,1,Monga kidibwani,Mchanga,Dau/Mtumbwi,Mshipi,15000,Haraki,332,5
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Hasani ramadhani,62,male,1,Milangoni,Mchanga,Ngalawa,Mshipi,22500,Paragunda,762,9
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Hasani ramadhani,62,male,1,Milangoni,Mchanga,Ngalawa,Mshipi,22500,Kangamacho,47,1
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Hasani ramadhani,62,male,1,Milangoni,Mchanga,Ngalawa,Mshipi,22500,Pono bluu,322,1
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Hasani ramadhani,62,male,1,Milangoni,Mchanga,Ngalawa,Mshipi,22500,Tembo,1912,30
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Hasani ramadhani,62,male,1,Milangoni,Mchanga,Ngalawa,Mshipi,22500,Changu2,1815,27
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Vyeru,Mchanga,Ngalawa,Mshipi,35000,Changu2,5430,72
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Vyeru,Mchanga,Ngalawa,Mshipi,35000,Kangamacho,1362,7
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Vyeru,Mchanga,Ngalawa,Mshipi,35000,Chaa2,42,1
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Vyeru,Mchanga,Ngalawa,Mshipi,35000,Paragunda,368,4
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia imari,19,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,16000,Tembo,1908,27
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia imari,19,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,16000,Changu2,744,11
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia imari,19,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,16000,Kivumbi,460,12
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia imari,19,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,16000,NA,138,4
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia imari,19,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,16000,uwayo,67,17
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia imari,19,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,16000,NA,52,1
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Amadi iddi,30,male,1,Majambani,Mchanga,Dau/Mtumbwi,Mshipi,7500,Kolekole2,307,3
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Amadi iddi,30,male,1,Majambani,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu2,971,19
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Amadi iddi,30,male,1,Majambani,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu dizi,551,10
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_9,Abdul omari,30,male,1,Vyeru,Mchanga,Dau/Mtumbwi,Mshipi,42000,Changu2,762,15
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_9,Abdul omari,30,male,1,Vyeru,Mchanga,Dau/Mtumbwi,Mshipi,42000,Haraki,46,1
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_9,Abdul omari,30,male,1,Vyeru,Mchanga,Dau/Mtumbwi,Mshipi,42000,Tembo,7686,114
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_10,Mbwana matata,56,male,4,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu2,1605,3
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_10,Mbwana matata,56,male,4,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,15000,NA,719,1
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_10,Mbwana matata,56,male,4,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,15000,Tembo,412,2
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_10,Mbwana matata,56,male,4,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,15000,NA,285,1
+Abubakar Omari,05/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_10,Mbwana matata,56,male,4,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,15000,Paragunda,209,245
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Simba rajabu,64,male,4,Uchuwi,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,180000,NA,112000,4
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Simba rajabu,64,male,4,Uchuwi,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,180000,Changu2,576,2
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Jumaa abdi,35,male,4,Setule,Mchanga,Mashua,Nyavu za kuzungusha,105000,Bangi Kukuu,81000,3
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Abdalla jumbe,55,male,4,Funguni boma,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,34400,tembo/janja,4204,52
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Abdalla jumbe,55,male,4,Funguni boma,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,34400,Mzira meno/sumbururu,3743,12
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Abdalla jumbe,55,male,4,Funguni boma,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,34400,Kuku bahari,148,2
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Mohmedi shee,22,male,4,Funguni boma,Fungu,Mashua,Nyavu za kuzungusha,197000,Mwatiko,81000,3
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Mohmedi shee,22,male,4,Funguni boma,Fungu,Mashua,Nyavu za kuzungusha,197000,Nguru,11365,3
+Zari Omar Sehewa,27/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_7,Vuai juma makame,38,male,8,Mawe mawili,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,40000,Tasi,9810,67
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Juma selemani,34,male,17,Maweni,Mchanga,Mashua,Nyavu za kuzungusha,39000,NA,12000,5
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Juma selemani,34,male,17,Maweni,Mchanga,Mashua,Nyavu za kuzungusha,39000,Nguru,2549,10
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Kasimu kipa,22,male,16,Jiwe la wanda,Mchanga,Mashua,Nyavu za kuzungusha,165000,Kolekole1,84000,3
+Zari Omar Sehewa,27/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_6,Ashrafu,49,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,11000,Haraki,1952,6
+Zari Omar Sehewa,27/09/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_7,Vuai juma makame,38,male,8,Mawe mawili,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,40000,Tasi,9810,67
+NA,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_1,Jumaa mwalim,58,male,1,Vyongoni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Pono,2047,10
+NA,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_2,Rshidi kombo,25,male,1,Funguni,Matumbawe/miamba,Kutembea,Mtego/dema,10000,Tasi,2071,13
+NA,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_2,Rshidi kombo,25,male,1,Funguni,Matumbawe/miamba,Kutembea,Mtego/dema,10000,Pono,655,3
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia omari,19,male,2,Chamba vyery,Mchanga,Dau/Mtumbwi,Mshipi,27500,Unga,231,1
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia omari,19,male,2,Chamba vyery,Mchanga,Dau/Mtumbwi,Mshipi,27500,Tasi,215,1
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia omari,19,male,2,Chamba vyery,Mchanga,Dau/Mtumbwi,Mshipi,27500,Tembo,1931,30
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia omari,19,male,2,Chamba vyery,Mchanga,Dau/Mtumbwi,Mshipi,27500,Changu dizi,2809,40
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Wasia omari,19,male,2,Chamba vyery,Mchanga,Dau/Mtumbwi,Mshipi,27500,Pono bluu,350,3
+NA,01/10/2024,Tanga,Monga Vyeru,Mfunguo_Sita_2,Monga,Fisher_3,Viko omari,19,male,13,Funguni,Matumbawe/miamba,Kutembea,Mshipi,4500,Chewa/Tewa,991,9
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,22500,NA,926,11
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,22500,Chaamji,88,1
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,22500,Changu2,2812,42
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,22500,Paragunda,313,5
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,22500,Tembo,466,6
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_9,Mohmed bakari,44,male,1,Maweni,Mchanga,Dau/Mtumbwi,Mshipi,22500,Tembo,1931,31
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_9,Mohmed bakari,44,male,1,Maweni,Mchanga,Dau/Mtumbwi,Mshipi,22500,Changu2,1957,19
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_9,Mohmed bakari,44,male,1,Maweni,Mchanga,Dau/Mtumbwi,Mshipi,22500,Haraki,154,3
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_9,Mohmed bakari,44,male,1,Maweni,Mchanga,Dau/Mtumbwi,Mshipi,22500,Kangamacho,168,3
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_9,Mohmed bakari,44,male,1,Maweni,Mchanga,Dau/Mtumbwi,Mshipi,22500,Paragunda,691,8
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_10,Amadi idi,30,male,1,Majambani,NA,Dau/Mtumbwi,Mshipi,21500,Changu dizi,154,2
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_10,Amadi idi,30,male,1,Majambani,NA,Dau/Mtumbwi,Mshipi,21500,Pono bluu,182,21
+Abubakar Omari,06/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_10,Amadi idi,30,male,1,Majambani,NA,Dau/Mtumbwi,Mshipi,21500,Changu2,5132,86
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Omari mwalimu,45,male,18,Uchuwi,Mchanga,Mashua,Nyavu za kuzungusha,90000,NA,56000,2
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Miraji ayubu,40,male,19,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,127500,NA,112000,4
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Miraji ayubu,40,male,19,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,127500,Chewa/Tewa,1165,9
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Miraji ayubu,40,male,19,Wamba,Mchanga,Mashua,Nyavu za kuzungusha,127500,NA,490,2
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Salu issa,42,male,19,Chundo,Mchanga,Mashua,Nyavu za kuzungusha,270000,NA,168000,6
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Ally mwajungu,32,male,1,Setule,Mchanga,Dau/Mtumbwi,Mshipi,8000,Kivumbi,997,9
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Ally mwajungu,32,male,1,Setule,Mchanga,Dau/Mtumbwi,Mshipi,8000,Tembo,233,4
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Ally mwajungu,32,male,1,Setule,Mchanga,Dau/Mtumbwi,Mshipi,8000,Kundaji,176,1
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Ally mwajungu,32,male,1,Setule,Mchanga,Dau/Mtumbwi,Mshipi,8000,Changu4,242,4
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,20000,Mlea,319,1
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,20000,Haraki,301,1
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,20000,Kolekole2,1424,2
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,20000,Chaamji,679,2
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,20000,Changu kifimbo/ Mrongo,1388,1
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mbwana matata,56,male,4,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,35000,Paragunda,157,1
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mbwana matata,56,male,4,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,35000,Tembo uzi,468,4
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mbwana matata,56,male,4,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,35000,Changu2,4204,8
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mbwana matata,56,male,4,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,35000,Tembo,1388,6
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mbwana matata,56,male,4,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,35000,NA,925,1
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Maulidi bakari,75,male,2,Kiroba,Mchanga,Dau/Mtumbwi,Mshipi,28000,Changu2,1644,4
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Maulidi bakari,75,male,2,Kiroba,Mchanga,Dau/Mtumbwi,Mshipi,28000,NA,1448,3
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Maulidi bakari,75,male,2,Kiroba,Mchanga,Dau/Mtumbwi,Mshipi,28000,Chewa2,105,1
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Maulidi bakari,75,male,2,Kiroba,Mchanga,Dau/Mtumbwi,Mshipi,28000,Tembo uzi,2446,7
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Tembo,697,11
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Changu2,901,14
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Paragunda,332,4
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Kangamacho,65,155
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Kundaji,70,70
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,13000,NA,132,1
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,13000,NA,104,1
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_9,Amadi iddi,30,male,1,Majambani,NA,Dau/Mtumbwi,Mshipi,16000,Tembo,2135,35
+Abubakar Omari,07/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_9,Amadi iddi,30,male,1,Majambani,NA,Dau/Mtumbwi,Mshipi,16000,Changu2,1109,15
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Hasani abdi,42,male,3,Funguni boma,NA,Dau/Mtumbwi,Nyavu za kuzungusha,21000,Mkonge,19320,60
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Ngena ramadhani,32,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,NA,Bangi Kukuu,57000,300
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Ngena ramadhani,32,male,4,Milangoni,Mchanga,Mashua,Nyavu za kuzungusha,NA,Chelema/Mboo ya mvuvi,56000,2
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Ramadhani sempuli,49,male,8,Tawalani,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,80000,Bangi Kukuu,17000,100
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Salimu makame,20,male,4,Milangoni,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,359500,NA,135000,5
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Salimu makame,20,male,4,Milangoni,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,359500,Myripristis hexagona,8945,1
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Bakari selemani,24,male,1,Milangoni,Mchanga,Dau/Mtumbwi,Mshipi,18000,Changu2,1916,6
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Bakari selemani,24,male,1,Milangoni,Mchanga,Dau/Mtumbwi,Mshipi,18000,Changu dizi,379,1
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Bakari selemani,24,male,1,Milangoni,Mchanga,Dau/Mtumbwi,Mshipi,18000,Tembo,707,5
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Bakari selemani,24,male,1,Milangoni,Mchanga,Dau/Mtumbwi,Mshipi,18000,NA,927,1
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Adamu kheri,45,male,1,Maweni,Mchanga,Dau/Mtumbwi,Mtego/dema,28000,Tasi,5665,43
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,48000,Changu2,8436,40
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,48000,Mkupi,91,22
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,48000,Kolekole4,919,2
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,48000,Chaa,80,1
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,48000,NA,58,1
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,48000,Changu dizi,380,4
+Abubakar Omari,11/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_8,Amadi iddi,30,male,1,Majambani,NA,Dau/Mtumbwi,Mshipi,55000,Changu2,11043,120
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Omari mwalimu,35,male,18,Funguni boma,NA,Mashua,Nyavu za kuzungusha,3.00E+05,NA,84000,3
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Hassani abdi,42,male,4,Milangoni,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,245000,NA,196000,7
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Ngwena ramadhani,32,male,4,Uchuwi,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,140000,NA,140000,5
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Zakaria ally,68,male,1,Wamba,Mchanga,Dau/Mtumbwi,Mshipi,35000,Tembo uzi,7000,140
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,225000,NA,3508,8
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,225000,Changu2,25742,21
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,225000,Changu4,3524,3
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,225000,Haraki,4244,15
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,225000,NA,900,1
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu2,1032,22
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,10000,Tembo,413,3
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,10000,Pono,303,1
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,10000,Pono bluu,205,1
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,10000,Haraki,31,12
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,10000,Chewa/Tewa,112,1
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,28000,Changu2,3229,55
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,28000,Haraki,306,4
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,28000,Changu dizi,352,3
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,28000,Tembo,1048,24
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,28000,Kolekole1,644,2
+Abubakar Omari,12/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_7,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,28000,Tembo uzi,42,235
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Salimu makame,20,male,4,Chundo,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,296000,Nguru,38000,16
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Salimu makame,20,male,4,Chundo,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,296000,NA,28000,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Juma selemani,34,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,20000,Tembo,631,9
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Juma selemani,34,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,20000,NA,40,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Juma selemani,34,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,20000,Changu dizi,3485,73
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Juma selemani,34,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,20000,Pono,225,3
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,15000,pono11,263,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,15000,Pono12,224,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,15000,Pono3,130,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,15000,Pono4,248,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,15000,Tasi,1737,14
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Hamadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,Tembo,4500,82
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Hamadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,Changu2,1342,23
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Hamadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,NA,592,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Hamadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,Chelema/Mboo ya mvuvi,86,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Hamadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,Kivumbi,51,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Hamadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,Chewa/Tewa,297,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Hamadi iddi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,Haraki,42,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,12500,Tembo,1056,12
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,12500,Changu2,1133,16
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,12500,Kangamacho,52,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,12500,Chewa2,232,2
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,12500,NA,322,2
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,31000,Tembo,3500,39
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,31000,Changu2,2781,28
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,31000,Chewa/Tewa,62,1
+Abubakar Omari,13/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,31000,Paragunda,41,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,57000,Haraki,4256,7
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,57000,Changu3,3103,3
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,57000,Chewa/Tewa,652,2
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,57000,Mzira meno/sumbururu,594,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,57000,Chaamji,363,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_1,Kassimu adamu,52,male,2,Mataani,Mchanga,Dau/Mtumbwi,Mshipi,57000,NA,832,2
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Mohamedi bakari,44,male,4,Magongoni,Mchanga,Dau/Mtumbwi,Mshipi,90000,Changu2,9786,18
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Mohamedi bakari,44,male,4,Magongoni,Mchanga,Dau/Mtumbwi,Mshipi,90000,Chewa4,795,3
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Mohamedi bakari,44,male,4,Magongoni,Mchanga,Dau/Mtumbwi,Mshipi,90000,Tembo,2354,9
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_2,Mohamedi bakari,44,male,4,Magongoni,Mchanga,Dau/Mtumbwi,Mshipi,90000,Tembo uzi,2187,15
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Jumaa selemani,34,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu dizi,2040,22
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Jumaa selemani,34,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,NA,621,4
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Jumaa selemani,34,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,Toa/msusa,33,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Jumaa selemani,34,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,Pono bluu,131,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Jumaa selemani,34,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,Kivumbi,57,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_3,Jumaa selemani,34,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu2,157,4
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Adamu kheri,45,male,1,Mawe mawil,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono bluu,671,2
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Adamu kheri,45,male,1,Mawe mawil,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono,1049,4
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Adamu kheri,45,male,1,Mawe mawil,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono6,375,2
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Adamu kheri,45,male,1,Mawe mawil,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Tasi uziwa,236,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Adamu kheri,45,male,1,Mawe mawil,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Changu dizi,457,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_4,Adamu kheri,45,male,1,Mawe mawil,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Tasi,2301,15
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,Tembo,3882,85
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,Changu2,2720,41
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,Tembo uzi,61,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,Kangamacho,38,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_5,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,32500,NA,27,13
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Viongoni,Mchanga,Dau/Mtumbwi,Mshipi,32500,Tembo uzi,308,12
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Viongoni,Mchanga,Dau/Mtumbwi,Mshipi,32500,Changu2,5018,93
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Viongoni,Mchanga,Dau/Mtumbwi,Mshipi,32500,Paragunda,995,20
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Viongoni,Mchanga,Dau/Mtumbwi,Mshipi,32500,Kangamacho,44,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Viongoni,Mchanga,Dau/Mtumbwi,Mshipi,32500,Chewa/Tewa,70,1
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Viongoni,Mchanga,Dau/Mtumbwi,Mshipi,32500,NA,45,2
+Abubakar Omari,14/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_1,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Viongoni,Mchanga,Dau/Mtumbwi,Mshipi,32500,NA,47,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu2,1489,17
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,Tembo,1080,16
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,Paragunda,277,4
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,Haraki,69,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Mohamedi bakari,44,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,15000,Dambada8,97,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,20000,Changu3,1571,9
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,20000,Changu Ndomo,163,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,20000,Tasi uziwa,991,5
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,20000,Pono bluu,345,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,20000,Tasi,564,2
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,20000,Pono4,3000,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,37500,Changu2,3861,108
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,37500,Changu dizi,1469,32
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,37500,Tembo,1601,40
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,37500,Paragunda,276,4
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,37500,Changu3,618,19
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Pandu haji,40,male,4,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,68000,Chewa/Tewa,361,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Pandu haji,40,male,4,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,68000,Pono8,460,2
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Pandu haji,40,male,4,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,68000,Changu Ndomo,306,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Pandu haji,40,male,4,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,68000,Tasi,462,2
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Pandu haji,40,male,4,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,68000,Pono bluu,11366,21
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Pandu haji,40,male,4,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,68000,Kundaji,422,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Pandu haji,40,male,4,Mkadini,Mchanga,Dau/Mtumbwi,Mtego/dema,68000,Mlea,358,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Magongoni,Mchanga,Dau/Mtumbwi,Mshipi,25000,Changu2,1916,4
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Magongoni,Mchanga,Dau/Mtumbwi,Mshipi,25000,Kundaji,405,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Magongoni,Mchanga,Dau/Mtumbwi,Mshipi,25000,Pono9,551,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Magongoni,Mchanga,Dau/Mtumbwi,Mshipi,25000,Changu kifimbo/ Mrongo,289,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Magongoni,Mchanga,Dau/Mtumbwi,Mshipi,25000,Chaamji,1551,2
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Kassimu adamu,52,male,3,Magongoni,Mchanga,Dau/Mtumbwi,Mshipi,25000,Haraki,336,1
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Tasi,985,4
+Abubakar Omari,19/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Pono bluu,339,1
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,25000,Tembo,265,3
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,25000,Changu dizi,1590,30
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Hamadi ally,38,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,25000,Changu2,3420,45
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,10000,Tasi,1820,27
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,10000,Kangaja1,232,1
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,10000,NA,77,2
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono15,326,1
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono bluu,638,2
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono,1286,2
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono3,299,1
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Changu2,3781,20
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Tasi uziwa,176,22
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Puju1,389,3
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Kassimu haji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,17000,Pono,884,3
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Kassimu haji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,17000,Tasi uziwa,239,1
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Kassimu haji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,17000,Tasi,2301,15
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Hamadi idi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,12500,Tembo,908,18
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Hamadi idi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,12500,Changu2,1342,23
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Hamadi idi,30,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,12500,Paragunda,61,1
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,14000,Changu2,2720,41
+Abubakar Omari,20/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Mussa mwanoro,62,male,1,Chamba vyeru,Mchanga,Dau/Mtumbwi,Mshipi,14000,Changu dizi,194,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,52500,Tasi uziwa,6751,24
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,52500,Changu2,2916,12
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,52500,Pono,1165,3
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Tasi uziwa,938,4
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Pono,1129,4
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Bangi Kukuu,458,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Puju1,394,2
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Kangaja1,334,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Pono,220,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Pono7,223,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Puju1,161,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Changu2,1551,6
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Changu dizi,244,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Kassimu hajji,52,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,32500,Tasi,929,3
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Abuu shaha,62,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,23000,Pono,3548,6
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Abuu shaha,62,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,23000,Pono bluu,555,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Abuu shaha,62,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,23000,Pono3,396,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Abuu shaha,62,male,2,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,23000,Pono15,461,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono bluu,1124,4
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono mwekundu,616,2
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono4,624,3
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono,235,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Tasi uziwa,578,2
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Kanga Macho,122,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Changu14,1276,7
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Changu14,158,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Tasi,1361,9
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Babually rajabu,71,male,4,Chundo,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Tasi,6342,48
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Hamadi idi,30,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,16500,Tembo,1771,34
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Hamadi idi,30,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,16500,Changu2,1016,26
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Hamadi idi,30,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,16500,NA,423,5
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Hamadi idi,30,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,16500,Chelema/Mboo ya mvuvi,134,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Hamadi idi,30,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,16500,Ufeda,21,1
+Abubakar Omari,21/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Hamadi idi,30,male,1,Chamba kwale,Mchanga,Dau/Mtumbwi,Mshipi,16500,Paragunda,41,1
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Omari abuu,37,male,4,Funguni boma,NA,Dau/Mtumbwi,Nyavu za kuzungusha,480000,Bangi Kukuu,112000,520
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Abedi zakaria,32,male,4,Setule,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,305000,NA,168000,6
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Abedi zakaria,32,male,4,Setule,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,305000,Toa/msusa,28000,1
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Sahala rashidi,31,male,2,Tawalani,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,311000,Bangi Kukuu,112000,520
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Sahala rashidi,31,male,2,Tawalani,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,311000,Ubwi,8660,1
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari ramadhani,45,male,3,Wamba,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,841500,Nguru,110656000,64
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Adam kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,7500,Kundaji,279,2
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Adam kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,7500,NA,593,2
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Adam kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,7500,Pono,531,2
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,17500,Tasi uziwa,1241,5
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,17500,Changu2,1038,4
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,17500,Pono bluu,604,2
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,17500,Kundaji,159,1
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,17500,NA,437,1
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_7,Abuu shaha,62,male,3,Mataani,Mchanga,Dau/Mtumbwi,Mtego/dema,27000,Pono,2106,5
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_7,Abuu shaha,62,male,3,Mataani,Mchanga,Dau/Mtumbwi,Mtego/dema,27000,Pono bluu,2123,3
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_7,Abuu shaha,62,male,3,Mataani,Mchanga,Dau/Mtumbwi,Mtego/dema,27000,Kundaji,367,1
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_7,Abuu shaha,62,male,3,Mataani,Mchanga,Dau/Mtumbwi,Mtego/dema,27000,Pono15,591,2
+Abubakar Omari,23/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_7,Abuu shaha,62,male,3,Mataani,Mchanga,Dau/Mtumbwi,Mtego/dema,27000,Changu2,257,2
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_1,Omary ramadhani,40,male,3,Wamba,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,145000,Nguru,16420,20
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_2,Ngwena ramadhani,32,male,4,Funguni boma,NA,Dau/Mtumbwi,Nyavu za kuzungusha,1.00E+06,NA,NA,25
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Abedi zakaria,30,male,4,Uchuwi,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,136000,NA,14010,30
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_3,Abedi zakaria,30,male,4,Uchuwi,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,136000,NA,56000,2
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari abuu,37,male,4,Setule,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,351000,Bangi Kukuu,19000,28
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari abuu,37,male,4,Setule,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,351000,Tembo,1410,10
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari abuu,37,male,4,Setule,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,351000,Paragunda,523,4
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_4,Omari abuu,37,male,4,Setule,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,351000,Koana,522,3
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,3000,Pono bluu,177,1
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,3000,Changu2,185,3
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,3000,Pono mwekundu,95,1
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,3000,NA,183,185
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_5,Adamu kheri,45,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,3000,Kivumbi,108,1
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Changu dizi,637,2
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Changu13,368,2
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Changu Ndomo,545,1
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono bluu,1225,3
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono mwekundu,485,2
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Pono15,475,2
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Tasi,2250,15
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_6,Omary machano,64,male,1,Mawe mawili,Mchanga,Dau/Mtumbwi,Mtego/dema,30000,Chewa2,2366,2
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nne_2,Vyeru,Fisher_7,Amadi iddi,37,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,7000,Changu2,1456,14
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nne_2,Vyeru,Fisher_7,Amadi iddi,37,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,7000,Tembo,77,1
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nne_2,Vyeru,Fisher_7,Amadi iddi,37,male,1,Chamba monga,Mchanga,Dau/Mtumbwi,Mshipi,7000,Chaa,88,1
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_8,Abuu shaha,62,male,2,Chundo,Mchanga,Dau/Mtumbwi,Mtego/dema,18000,NA,793,1
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_8,Abuu shaha,62,male,2,Chundo,Mchanga,Dau/Mtumbwi,Mtego/dema,18000,Mlea,914,1
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_8,Abuu shaha,62,male,2,Chundo,Mchanga,Dau/Mtumbwi,Mtego/dema,18000,Pono bluu,888,2
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_8,Abuu shaha,62,male,2,Chundo,Mchanga,Dau/Mtumbwi,Mtego/dema,18000,Tasi,386,2
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_8,Abuu shaha,62,male,2,Chundo,Mchanga,Dau/Mtumbwi,Mtego/dema,18000,Paragunda,256,1
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_8,Abuu shaha,62,male,2,Chundo,Mchanga,Dau/Mtumbwi,Mtego/dema,18000,Kangaja1,80,1
+Abubakar Omari,24/11/2024,Tanga,Monga Vyeru,Mfunguo_Nane_2,Vyeru,Fisher_8,Abuu shaha,62,male,2,Chundo,Mchanga,Dau/Mtumbwi,Mtego/dema,18000,NA,362,1

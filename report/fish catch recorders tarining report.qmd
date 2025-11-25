@@ -1,0 +1,268 @@
+---
+title: "FISH CATCH RECORDERS TRAINING"
+author: "KAIJAGE LAURIAN"
+format: html
+editor: visual
+date: "2024-07-16"
+date-modified: "today"
+institute: 
+  - Mwambao Coastal Community Network - Tanzania 
+toc: true  #table of content
+toc-depth: 6
+lof: true  #list of figures
+lot: true  #list of tables
+number-sections: true
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+#bibliography: myref.bib 
+---
+
+::: column-page
+![](cover_page.jpg)
+:::
+
+# EXECUTIVE SUMMARY
+
+This training is part of activity 3.1.1.10, which gives way to activity 3.1.1.11, focusing on catch recording. The primary objective was to select and train village catch recorders in all BAF project villages. To facilitate this, two neighboring communities were grouped together, allowing two villages to undergo a three-day training session jointly. A total of 27 active landing sites were identified through the landing site scoping process, with 12 landing sites in Pemba and 15 in Tanga. Through a rigorous selection process, 84 village recorders were chosen, including 41 from Pemba and 43 from Tanga. This comprehensive training is aimed at improving resources, instruments, and capacities for management and sustainable use, laying the foundation for effective catch recording and adaptive management practices.
+
+```{r}
+require(gt)
+require(gtsummary)
+```
+
+# INTRODUCTION
+
+The training of fish catch recorders was conducted in 25 villages under the BAF project, specifically under activity 3.1.1.10. This activity aligns with the first BAF objective, which is to improve resources, instruments, and capacities for MPA management and sustainable use. These villages are expected to develop co-management plans that integrate marine and coastal habitat protection and incorporate climate change mitigation, especially concerning community-utilized coral reefs. The plans may include fish replenishment zones, seasonal closures, and, where possible, permanent closures.
+
+To achieve this, community-led monitoring will involve collecting fisheries data at community landing sites to assess fish abundance. Village recorders are trained in the collection of fisheries landing data and the regular monitoring of landing sites for locally important reef species targeted by management actions. The data collected by four village recorders (catch monitors) will inform adaptive management practices, reflecting on the project's second objective.
+
+The collected data will allow for the assessment of management measures' effectiveness by measuring fish abundance relative to baseline data and considering climatic conditions. Potential areas for improvement can be identified. Before the training, initial data was collected to identify potential landing sites, followed by ground-truthing. Information was then communicated to the SFC in Pemba and the BMUs in Tanga to select committee or community members proficient in reading and writing, preferably with a secondary school level education. In Tanga, individuals from the statistical committees within the BMUs were preferred.
+
+Subsequently, a one-day interview session was conducted, followed by three days of training. The training sessions involved agreeing on the names of reef fish species, discussing the importance of fish data, using recording equipment, and emphasizing data accuracy and ethics. The training concluded with a field session on the third day.
+
+## Objective
+
+1.  Train catch recorders
+2.  Obtain locally importnt fish names and pictures
+
+# METHODOLOGY
+
+## Initial Data Collection and Ground Truthing
+
+Before the training began, initial data was collected to identify potential landing sites in each village. This preliminary step was crucial to ensure that the selected sites were representative of the broader fishing activities within each community. Ground truthing followed this data collection to confirm the suitability of the landing sites for regular monitoring and data collection.
+
+## Selection of village recorders candidates
+
+Prior to the training sessions, information was conveyed to the SFC and BMU regarding the upcoming activity and the criteria for selecting village recorders. The communication detailed the need for proficient individuals capable of reading and writing, with a preference for those with secondary school education. This ensured that the selected recorders would be capable of accurately collecting and recording fisheries data.
+
+Each BMU and SFC was responsible for shortlisting seven candidates from their respective communities. These candidates were then invited to participate in an interview session. The purpose of the interviews was to assess the candidates' suitability for the role and to select the final village recorders. To note that two neighboring villages were grouped in one-three days training.
+
+The selection process was as follows:
+
+For communities with one active landing site, three village recorders were selected from the shortlisted candidates. For communities with two active landing sites, five village recorders were chosen.
+
+## Selection of eligible village recorders via interview
+
+Following the selection process, a one-day interview session was conducted for the selected village recorders. This session was designed to assess their suitability for the role and to provide an initial orientation to the project’s objectives and requirements. The interviews also served as an opportunity to address any concerns or questions the recorders had about their responsibilities.
+
+The interview sessions were divided into two phases:
+
+First Round - Oral Interview: This round focused on assessing the candidates' interpersonal relations. Observations were made on how individuals answered the questions and the level of confidence and Knowledge . Good social and communication skills were considered crucial for the role, which involves regular interaction with fishers and buyers. Questions asked were such as:
+
+1.  Name, age and level of education?
+2.  What is your current occupation?
+3.  What do you know about marine conservation?
+4.  what do you understand by the term **statistics** ?
+5.  Can you name ten fish species\>
+6.  Name this species? (@fig-fish) 1.Do you own or can you use a smart phone?
+
+::: {#fig-fish layout-ncol="2"}
+![Goatfish](Kundaji.jpg){#fig-goatfish}
+
+![Blackspot snapper](Tembo_Janja.jpg){#fig-snapper}
+
+Picture of a reef fish taken at Kukuu used to assess candidates knowledge on fish names
+:::
+
+Second Phase - Written Interview:In this phase, candidates were given a 15-minute written interview to assess their reading, writing, and mathematical knowledge (@fig-picha). This helped in evaluating their proficiency in the essential skills required for accurate data recording and reporting.
+
+![interview questions to assess suitable village recorders](interview_questions.jpg){#fig-picha}
+
+Comparison of Answers: Comparisons were made of all applicants' written and verbal answers, as well as their group interactions. These factors were all considered before making the final hiring decisions
+
+## Training Program
+
+The main training program spanned three days and was structured to cover both theoretical and practical aspects of fisheries data collection.
+
+### Day 1: Introduction and Theory
+
+Fish Species Identification: Participants agreed on the local names of reef fish species to ensure consistency in data recording.In this we used [CORDIO's fish ID](https://drive.google.com/file/d/1DdXWASDX1PWEWOcm_4Nc9LU5y--DNDs7/view?usp=drive_link) along with the [WIO fish ID books](https://saiab.ac.za/publications/coastal-fishes-of-the-western-indian/) to identify and list local names of locally important reef fishes. Importance of Fisheries Data: Discussions was to highlight the significance of fisheries data for effective management and conservation efforts. Data Accuracy and Ethics: Emphasis was to be placed on the importance of accurate data collection and maintaining ethical standards during the process.
+
+### Day 2: Equipment Use and Data Recording
+
+Recording Equipment: Participants were trained in the use of various recording equipment (@fig-equipment), including scales and rulers. Data Recording Procedures: Detailed instructions were provided on how to accurately record data at the landing sites.
+
+::: {#fig-equipment layout-ncol="2"}
+![Digital scale](digital_hanging_scale.png){#fig-digital_scale}
+
+![Measuring board](measuring_board.jpg){#fig-board}
+
+Recording equipment to be used during catch recording
+:::
+
+### Day 3: Field Session
+
+Practical Application: The training concluded with a field session where participants practiced their data collection skills at selected landing sites. This hands-on experience was vital in reinforcing the theoretical knowledge gained during the previous days.
+
+# RESULTS
+
+## Landing sites
+
+In total, 27 landing sites were identified from the preliminary scoping data collected from the SFC and BMU. Among these, 12 landing sites were located in Pemba (@tbl-pemba-landing) and 15 in Tanga (@tbl-tanga-landing).
+
+```{r landing sites}
+landing_sites = readxl::read_xlsx ("C:/Users/MCCC User/OneDrive/Desktop/Fish_catch_WCS/MWAMBAO/DATA/baf_landing_sites.xlsx")
+```
+
+```{r}
+require(tidyverse)
+require(flextable)
+
+landing_pemba = landing_sites |>
+  filter(REGION == "PEMBA") |> 
+  select(2,3,4)
+
+landing_tanga = landing_sites |>
+  filter(REGION == "TANGA") |> 
+  select(2,3,4) 
+
+```
+
+::: {#tbl-panel layout-ncol="2"}
+```{r}
+#| label: tbl-pemba-landing
+#| tbl-cap: Identified landing sites in the Pemba villages
+#| 
+landing_pemba |> 
+  flextable::flextable() |> 
+  flextable::autofit()|> 
+  flextable::bold( part = "header" )
+```
+
+```{r}
+#| label: tbl-tanga-landing
+#| tbl-cap: Identified landing sites in the Tanga villages
+#|
+landing_tanga |> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::bold( part = "header" )
+
+```
+
+BAF villages landing sites
+:::
+
+The selection criteria for these landing sites were based on their activity levels, ensuring that the most active fish landing sites in each village were included
+
+These landing sites were selected based on the active fish landing sites per each village
+
+## Data recorders selected
+
+After conducting oral and written interviews, the results were tallied. The best three candidates from villages with a single landing site, and the best five candidates from villages with two landing sites, were selected as village recorders. In Pemba, 41 village recorders were selected (@tbl-pemba-recorders), while in Tanga, 43 village recorders were chosen (@tbl-tanga-recorders).
+
+```{r}
+recorders = readxl::read_xlsx("C:/Users/MCCC User/OneDrive/Desktop/Fish_catch_WCS/MWAMBAO/DATA/Data recorders.xlsx") |> 
+  select(1,2,3)
+
+recorders_pemba = recorders |> 
+  filter(Region == "Pemba") |> 
+  select(2,3)
+
+recorders_tanga = recorders |> 
+   filter(Region == "Tanga") |> 
+  select(2,3)
+```
+
+::: {#tbl-panel2 layout-ncol="2"}
+```{r recorders pemba }
+#| label: tbl-pemba-recorders
+#| tbl-cap: Selected recorders in the Pemba villages
+#|
+recorders_pemba |>  
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::bold( part = "header" )
+```
+
+```{r recorders tanga }
+#| label: tbl-tanga-recorders
+#| tbl-cap: Selected recorders in the Tanga villages
+#
+recorders_tanga |> 
+  flextable::flextable() |> 
+  flextable::autofit()|> 
+  flextable::bold( part = "header" )
+```
+
+BAF villages selected recorders
+:::
+
+## Training
+
+During the first day of training, over three hundred names of [fish species](https://docs.google.com/spreadsheets/d/1ShSj787o4it7NgmC8RSwrLhrAeKIrYI_/edit?usp=drive_link&ouid=117181916031444492229&rtpof=true&sd=true), along with their Swahili names, were collected (@fig-fish-naming). Most species had unique Swahili names, but some species shared names. For example, most parrotfishes are commonly referred to as "Pono" with no name distinction between them. In other rare cases, fish from different families were given names of a different family due to similar body morphology. This if for example in the case of the swahili name "Tasi" which is commonly used to refer to Rabbitfishes has been intercheangably used for some species of unicornfishes such as *Naso vlamingii*.
+
+::: {#fig-fish-naming layout-ncol="2"}
+![fish naminng at Michenzani-Pemba](fish_naming_michenzani.jpg){#fig-naming1}
+
+![fish naming at Kwale-Tanga](fish_species_names_kwale.jpg){#fig-naming2}
+
+Picture of the first day group discussion on local fish names
+:::
+
+The second day saw a lot of interaction from participants as they sought to gain a thorough understanding of the data collection process. Emphasis was placed on the separation of species and measuring the individual length-weight relationship of each species. Special attention was given to accurate data recording and the implications of inaccurate data, highlighting that these data would be used by the SFC and BMU to guide adaptive management measures for their marine resources. To provide practical examples, sample specimens were brought to the class, allowing participants to engage in hands-on learning of the entire process(@fig-class-practical)
+
+![class practical at Kizingani-Tanga](class_practical_kizingani.jpg){#fig-class-practical}
+
+On the third day, the team of recorders convened at a selected active landing site. Prior information had been relayed to the fishermen to facilitate their collaboration. The timing was coordinated to coincide with the fishermen's return, ensuring active participation. Each recorder took turns performing various aspects of the recording process, including writing and measuring, to ensure the entire team was well-rounded and proficient in all tasks (@fig-field-practical).
+
+::: {#fig-field-practical layout-ncol="2"}
+![Field practical at Mtabwe Kusini-Pemba](field_practical_mtambwe.jpg){#fig-practical-mtambwe}
+
+![Field practical at Chongoleani-Tanga](field_practical_chongoleani.jpg){#fig-field-chongoleani}
+
+Picture of field practical session during the training
+:::
+
+There were several concerns that arose during the training. One significant issue was that, in some villages, fishermen do not typically land their catch at the village landing site. Instead, they transport their catch to major landing sites for better economic opportunities. This was particularly evident in the Pemba villages of Michenzani, Shidi, and Makoongwe, where over 90% of the fish catch is landed at the Mkoani fish market, which offers a better market.
+
+In previous instances, such as during the CORDIO project's gear trial, recorders were sent from these villages to Mkoani to collect data. Confirming this approach, recorders who participated in the gear trial assured that they could identify the fishermen from their villages and take records specifically from them. Omar Ismail (Pemba BAF Program Officer) also supported this strategy.
+
+Another concern in Pemba was related to the preceding gear trial activity, which provided monetary incentives to fishermen for data recording. In the current project, such incentives are not provided.
+
+In Tanga, similar challenges were noted in the villages of Ndoya, Putini, and Mabokweni, where fishermen prefer to take their landings to the Deep Sea fish market for better profitability. Again, recorders assured that they could identify their fishermen and record data specifically from them, ensuring the integrity of the data collection process
+
+In some rare cases, the recorders selected were not very proficient. For instance, in Putini village in Tanga, all the selected recorders were elderly and had difficulties with writing, making the field day very challenging. Consultation with Bagaya, the Tanga BAF Program Officer, revealed a high level of illiteracy in the village and noted that many youth are not motivated to participate in community activities. As a result, extra follow-up and training were needed to build the capacity of the team.
+
+In Tawalani village issues of favoritism emerged during the selection of interview candidates by their committee. It became evident that the candidates selected by the committees were chosen based on favoritism rather than merit. Consequently, the selection process had to be redone to ensure the right individuals were chosen.
+
+# DISCUSSION AND RECCOMENDATIONS
+
+The training sessions were generally successful and highly interactive, with the recorders showing great receptivity and engagement. The involvement of Fisheries Officers, Program Officers, and Data Managers significantly enhanced the training, as their inputs helped clarify many aspects of the process. The selection of village recorders was conducted transparently, reducing complaints about favoritism. Except for minor issues in Putini, most recorders were found to be proficient.
+
+To aid in species identification, a fish ID guide is being prepared for field use until the recorders become more proficient. Providing smartphones to the recorders is recommended to facilitate data acquisition and analysis, as well as to improve communication through a dedicated WhatsApp group. Initially discussed with Hope, it is important for Data Officers to have phones to streamline follow-up processes, allowing data checking to be done efficiently via Kobo instead of the current paperwork.
+
+Additional training on fish identification is necessary to further enhance the recorders' proficiency. Some [guiding material](https://docs.google.com/presentation/d/1WryjX5Wp4h54u2_L9gdBXYj04-sWMglm/edit?usp=drive_link&ouid=117181916031444492229&rtpof=true&sd=true) has already been provided by Mr. Clay from Blue Ventures. Follow-up training should also cover the use of Survey123 data logging to village recorders and kobo data checking for data officers to ensure accurate and timely data logging once the smartphones are available.
+
+The training highlighted some unanticipated issues, such as fishermen not landing their catches at their village landing sites. The solution is to send recorders to these alternative landing sites to record data from fishermen of their respective villages. Recorders raised concerns about transport costs for these trips. Providing an additional 5,000 TZS per day to cover transport expenses to and from Mkoani for Pemba and Deep Sea for Tanga would be beneficial.
+
+Data Officers and Program Officers are responsible for closely monitoring the recording processes, especially as this is a new initiative. Ensuring the timely provision of transport money for data checking is critical. In the case of Tanga, Ali Darassa (Data Officer - Tanga) should be facilitated with a motorcycle to assist in recording follow-ups.
+
+In some cases during field day, fishermen were hesitant to provide information, either due to fear of repercussions for illegal fishing or because they expected payments as had been offered in previous projects. It is crucial to hold SFC/BMU meetings with fishermen to educate them about the project's objectives and scope. Biannual meetings involving recorders, SFC/BMU, fishmongers, and fishers will also help share results and foster understanding, buy-in, and collaboration.
+
+There were challenges in acquiring supportive gear such as phones, dry bags, and umbrellas. It is essential to expedite the purchase of this equipment so that training and equipment handover can occur simultaneously. Given the anticipated large data set, a robust reporting system and checking mechanism must be established to allow for quick responses to any issues that may arise.
+
+Lastly, it is important to consider increasing the allowances for Data Officers. Besides their duties related to octopus, they also need to follow up on fish catch data for an additional three days a week. This incentive will motivate them to perform their duties more effectively.

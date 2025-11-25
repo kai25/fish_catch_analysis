@@ -1,0 +1,264 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,bei,Species,uzito_wa_jamii_moja_ya_samaki,idadi_ya_samaki
+NA,13/07/2024,Tanga,Kichalikani,Mfunguo_Nne_1,Kichalikani,Fisher_1,Mohamed makame,38,male,11,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,4500,Tembo kandaa,6650,5
+NA,13/07/2024,Tanga,Kichalikani,Mfunguo_Nne_1,Kichalikani,Fisher_1,Mohamed makame,38,male,11,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,4500,NA,1655,7
+NA,25/09/2024,Tanga,Kichalikani,Mfunguo_Sita_1,Kichalikani,Fisher_1,Nasoro juma,47,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2760,6
+NA,28/09/2024,Tanga,Kichalikani,Mfunguo_Sita_1,Kichalikani,Fisher_3,Amran  omari,32,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,12000,Kungu,2245,1
+NA,28/09/2024,Tanga,Kichalikani,Mfunguo_Sita_1,Kichalikani,NA,Hamad juma,22,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,3985,5
+NA,28/09/2024,Tanga,Kichalikani,Mfunguo_Sita_1,Kichalikani,Fisher_5,Salimu omari,42,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,7500,NA,1815,2
+NA,28/09/2024,Tanga,Kichalikani,Mfunguo_Sita_1,Kichalikani,Fisher_6,Twaa rajabu,27,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,2000,NA,1910,4
+NA,28/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_7,Hassan omari,25,male,10,Kizingani,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,5000,NA,1345,10
+NA,28/09/2024,Tanga,Kichalikani,Mfunguo_Sita_1,Kichalikani,Fisher_8,Ismail abdallah,37,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,4500,NA,805,5
+NA,28/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_9,Jumaa abdi,27,male,1,Wamba,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,Paragunda,3015,32
+NA,28/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_10,Amiri haji,45,male,2,Chund9,Matumbawe/miamba,NA,Mshipi,NA,NA,4090,10
+NA,28/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_1,Rashidi  Aly,40,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2200,6
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_2,Nasoro juma,37,male,2,Kimaha,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Tembo,1115,9
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,NA,Omari saidi,32,male,3,Kimaha,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1417,50
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_4,Amrani omari,32,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Mlea,780,1
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,NA,Hamadi juma,22,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1545,10
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,NA,Hamadi juma,22,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Tembo,1545,10
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,NA,Yusufu rajabu,27,male,1,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,3825,6
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,NA,Yusufu rajabu,27,male,1,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,3825,6
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,NA,Juma hasan,29,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Pono,1550,10
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,NA,Jabiri hasani,26,male,1,Jiwe la wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Tasi,1775,8
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,NA,Hasani omari,25,male,10,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,NA,1097,70
+NA,29/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_10,Mohamedi makame,38,male,11,Kizingani,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,NA,7325,18
+NA,30/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_1,Rashid aly,40,male,2,Kimaha,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,5000,NA,2240,7
+NA,30/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_2,Amrani omari salim,32,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,2500,NA,2605,3
+NA,30/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_3,Nasoro juma,47,male,2,Kimaha,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2350,5
+NA,30/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_4,Hamad juma,22,male,2,Kimaha,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,2500,NA,5700,1
+NA,30/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_5,Omari hamis saidi,32,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,12000,NA,2535,5
+NA,30/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_6,Salimu omary,43,male,2,Kimaha,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,5000,NA,1445,1
+NA,30/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_7,Jumaa abdi,27,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,5000,NA,1315,2
+NA,30/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_8,Yusufu rajabu,27,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,5000,NA,1145,1
+NA,30/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_9,Mohammed juma,42,male,3,Wamba,Majani_bahari,Dau/Mtumbwi,Nyavu,25000,NA,5375,1
+NA,30/09/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_10,Ismail abdallah,37,male,1,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,NA,1290,5
+NA,01/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_1,N̈asoŕoʻ   juma,47,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2937,6
+NA,01/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_2,Juma hamadi,NA,male,2,Kimaha,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,535,1
+NA,01/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_3,Rashid aly,40,male,2,Kimaha,Matumbawe/miamba,NA,Kaputi/ dhulumati,NA,NA,792,1
+NA,01/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_4,Amràn omari salimu,32,male,2,Kimaha,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,645,2
+NA,01/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_5,Salimu omari,42,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,NA,3
+NA,01/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_6,Abdala helefu,30,male,3,Wamba,Matumbawe/miamba,NA,Kaputi/ dhulumati,NA,NA,1823,1
+NA,01/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_7,Ismaili abdala,37,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Crenimugil crenilabis,2335,5
+NA,01/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_8,Shehe Abdala,25,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,195,2
+NA,01/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_9,Jumaa Abdi,27,male,1,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Chewa/Tewa,5095,2
+NA,01/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_10,Salimu Selemani,30,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,847,2
+NA,05/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_1,Hamadi juma,22,male,2,Kimaha,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,18000,NA,3375,4
+NA,06/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_1,Hamadi juma,22,male,2,Kimaha,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,3375,4
+Otto Hamisi Athumani,06/10/2024,Tanga,Kichalikani,Mfunguo_Sita_1,Kichalikani,Fisher_2,Salimu omari,42,male,2,Kimaha,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Tembo,1280,6
+NA,06/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_3,Rashidi Ali,40,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu Ndomo,3195,3
+NA,06/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_4,Amrani omari,32,male,2,Kimaha,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Mlea,1540,2
+NA,06/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_5,Ismaili Abdallah,37,male,1,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chewa/Tewa,405,1
+NA,06/10/2024,Tanga,Kichalikani,Mfunguo_Sita_2,Kichalikani,Fisher_6,Yusufu Rajabu,27,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,1110,4
+NA,06/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_7,Abdallah helefu,28,male,3,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,12600,50
+NA,06/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_8,Shekhe Abdallah,NA,male,49,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,1158,14
+NA,06/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_9,Mohamed hasani,19,male,2,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,7775,80
+Otto Hamisi Athumani,06/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_10,Athumani jumaa,50,male,2,Chundo,Matumbawe/miamba,Ngalawa,Mshipi,20000,Tembo,5255,40
+NA,07/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_1,Rashidi alliy,40,male,2,Kimaha,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2675,4
+NA,07/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_2,Amrani omari,32,male,2,Kimaha,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chewa/Tewa,2575,3
+NA,07/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_3,Salimu omari,42,male,2,Kimaha,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,3010,3
+NA,07/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_4,Yusufu rajabu,27,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,NA,1418,5
+NA,07/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_5,Hamadi juma,22,male,2,Chundo,Majani_bahari,NA,Kaputi/ dhulumati,NA,NA,1225,1
+NA,07/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_6,Nasoro juma,47,male,2,Kimaha,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1445,1
+NA,07/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_7,Ismail abdallah,37,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,4795,4
+NA,07/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_8,Twaha,25,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2090,10
+NA,07/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_9,Abdii bakari,42,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,156,1
+NA,07/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_10,Mohammedi hassani,19,male,2,Wamba,Majani_bahari,Ngalawa,Mshipi,NA,NA,660,2
+NA,09/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_1,Amrani omari,32,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2590,5
+NA,09/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_2,Salimu omari,42,male,2,Kimaha,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chewa/Tewa,819,3
+NA,09/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_3,Hamadi juma,22,male,2,Mataani,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Tasi,724,1
+NA,09/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_4,Rashidi Ali,40,male,2,Kimaha,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chewa/Tewa,522,1
+NA,09/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_5,Nasoro juma,47,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1540,1
+NA,09/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_6,Yusufu rajabu,27,male,3,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,3785,3
+NA,09/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_7,Omari hamisi,32,male,3,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1425,9
+NA,09/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_8,Ismaili Abdala,37,male,1,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Tasi,1730,6
+NA,09/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_9,Salimu Selemani,30,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,5135,50
+NA,09/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_10,Bakari haji,35,male,3,Uchuwi,Majani_bahari,Ngalawa,Mshipi,NA,NA,901,13
+NA,14/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_1,Rashid ali,40,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chewa/Tewa,5030,2
+NA,14/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_2,Hamadi juma,NA,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chewa/Tewa,1532,3
+NA,14/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_3,Nasoro juma,47,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chaa,467,1
+NA,14/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_4,Amran omari,32,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu kifimbo/ Mrongo,1315,5
+NA,14/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_5,Salimu omari,42,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,599,1
+NA,14/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_6,Yusufu rajabu,27,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,9730,6
+NA,14/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_7,Mohamed hasani,20,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,32,NA,8795,80
+NA,14/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_8,Jumaa Abdi,27,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Changu kifimbo/ Mrongo,654,1
+NA,14/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_9,Shekhe Abdala,25,male,3,Mlangoni,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,Pono mwekundu,4641,2
+NA,15/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_1,0mari hamisi,32,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chewa/Tewa,1600,6
+NA,15/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_2,Nasoro juma,47,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1560,2
+NA,15/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_3,Hamadi juma,22,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu Ndomo,2720,4
+NA,15/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,NA,Fisher_4,Mbwana Abdala,23,male,1,Jiwe la wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Changu ndomo2,1505,5
+NA,15/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_5,Amrani omari,32,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Tembo,1985,10
+NA,15/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_6,Salimu omari,42,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu ndomo2,1393,2
+NA,15/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_7,Omari hassani,60,male,11,Kinazini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,NA,1485,10
+NA,15/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_8,Rashidi Abdala,37,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu Ndomo,1475,40
+NA,15/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_9,Mohamed makame,37,male,11,Kizingani,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,Toa/msusa- Chebwa,1512,100
+NA,15/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_10,Hamadi haji,50,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,576,9
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_1,Salimu omari,42,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1795,1
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_2,Rashidi Ali,40,male,2,Rasini,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2095,1
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_3,Nasoro juma,47,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1805,1
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_4,Abdala helefu,28,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,4830,2
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_4,Abdala helefu,28,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,4830,2
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_5,Amrani salimu,32,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1560,3
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_6,Hamadi juma,22,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1152,2
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_7,Ismaili Abdala,37,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chewa/Tewa,3030,1
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_8,Twaha rajabu,25,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1970,3
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_9,Omari hamisi,32,male,3,Rasini,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2265,2
+NA,16/10/2024,Tanga,Kichalikani,Mfunguo_Saba_1,Kichalikani,Fisher_10,Salimu selemani,30,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,3575,7
+NA,20/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_1,Isimail abdallah,37,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12000,NA,2525,7
+Otto Hamisi Athumani,20/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_1,Ismaili Abdal,37,male,1,Wambs,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu Ndomo,2525,7
+Otto Hamisi Athumani,20/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_2,Twaha Rajabu,25,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Paragunda,1888,13
+Otto Hamisi Athumani,20/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_3,Salimu Selemani,30,male,3,Rasini,Matumbawe/miamba,Ngalawa,Mshipi,NA,Koana,500,12
+Otto Hamisi Athumani,20/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_4,Bakari jumaa,37,male,4,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,Changu Ndomo,504,4
+Otto Hamisi Athumani,20/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_5,Ilali Abdalah,39,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,NA,Changu Ndomo,258,2
+Otto Hamisi Athumani,20/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_6,Abdala mohamed,25,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,NA,Koana,5500,8
+Otto Hamisi Athumani,20/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_7,Salimu shehe,27,male,3,Mlangoni,Matumbawe/miamba,Ngalawa,Mshipi,NA,Changu Ndomo,990,10
+Otto Hamisi Athumani,20/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_8,Haji juma,20,male,11,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,NA,6045,5
+Otto Hamisi Athumani,20/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_9,Masoudi Amiri,25,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,Changu Ndomo,4090,6
+Otto Hamisi Athumani,21/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_1,Salimi omari,42,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu kifimbo/ Mrongo,3540,5
+Otto Hamisi Athumani,21/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_2,Nasoro juma,47,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu Ndomo,2525,10
+Otto Hamisi Athumani,21/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_3,Amrani omari,32,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Fatundu,1710,4
+Otto Hamisi Athumani,21/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_4,Rashidi Ali,40,male,2,Mataani,Matumbawe/miamba,Dau/Mtumbwi,NA,NA,Tembo bato,789,3
+Otto Hamisi Athumani,21/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_5,Hamadi juma,22,male,2,Mataani,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu Ndomo,2910,3
+Otto Hamisi Athumani,21/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_6,Hamisi haji,37,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu ndomo2,2156,4
+Otto Hamisi Athumani,21/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_7,Yasry Abdala,20,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Kolekole1,2435,59
+Otto Hamisi Athumani,21/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_8,Abdalah helefu,28,male,3,Uchuwi,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Kolekole1,4555,73
+Otto Hamisi Athumani,21/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_9,Ismaili Abdalah,37,male,1,Kimaha,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Tasi,3855,15
+Otto Hamisi Athumani,21/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_10,Jumaa Abdi,27,male,1,Uchuwi,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,Chewa/Tewa,2245,1
+Otto Hamisi Athumani,22/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_1,Salimu omari,42,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2595,5
+Otto Hamisi Athumani,22/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_2,Hamadi juma,22,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu dizi,615,2
+Mwanasharifu Mohammedi Mwalimu,22/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,NA,Fisher_3,Nasoro juma,47,male,2,Uchuwi,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1296,4
+Mwanasharifu Mohammedi Mwalimu,22/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_4,Amrani salimu omari,32,male,2,Wamba,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,730,1
+Mwanasharifu Mohammedi Mwalimu,22/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_5,Yasiri abdallah,20,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,7405,1
+Mwanasharifu Mohammedi Mwalimu,22/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_6,Rashidi aly,40,male,2,Rasini,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu dizi,2035,3
+Mwanasharifu Mohammedi Mwalimu,22/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_7,Abdallah elefu,28,male,3,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1610,2
+Mwanasharifu Mohammedi Mwalimu,22/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_8,Ismail abdallah,37,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,Changu dizi,704,2
+Mwanasharifu Mohammedi Mwalimu,22/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_9,Twaha rajabu,25,male,2,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,Pono bluu,1480,3
+Otto Hamisi Athumani,22/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_10,Jumaa kitole,30,male,2,Uchuwi,Majani_bahari,Ngalawa,Mshipi,NA,Kundaji,425,2
+Otto Hamisi Athumani,29/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_1,Hamadi juma,22,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu dizi,2380,4
+Otto Hamisi Athumani,29/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_2,Salimu omari,42,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu ndomo2,1200,1
+Otto Hamisi Athumani,29/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_3,Nasoro juma,47,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu Ndomo,2220,30
+Otto Hamisi Athumani,29/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_4,Rashidi Aly,40,male,2,Rasini,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2770,1
+Otto Hamisi Athumani,29/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_5,Amrani salimu,32,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1251,1
+Otto Hamisi Athumani,29/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_6,Ismaili Abdala,37,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Pono bluu,2805,6
+Otto Hamisi Athumani,29/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_7,Omari Hamisi,32,male,3,Chundo,Matumbawe/miamba,NA,Kaputi/ dhulumati,NA,Changu Ndomo,2064,30
+Otto Hamisi Athumani,29/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_8,Mohamedi makame,38,male,10,Wamba,Majani_bahari,Dau/Mtumbwi,Nyavu za kuzungusha,NA,NA,2700,2
+Otto Hamisi Athumani,29/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_9,Omari Hasani,60,male,11,Milangoni,Majani_bahari,Dau/Mtumbwi,Nyavu za kuzungusha,NA,Mkonge,6705,21
+Otto Hamisi Athumani,29/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_10,Rashidi Kombo,66,male,1,Kinazini,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,NA,1265,1
+Mwansiti Hassani Jabiri,30/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_1,Isimail abdallah,37,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,NA,3780,7
+Mwansiti Hassani Jabiri,30/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_2,Abdala elefu,28,male,3,Rasini,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,8000,NA,928,1
+Mwansiti Hassani Jabiri,30/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_3,Omari hamisi saidi,32,male,3,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Unga,1378,1
+Otto Hamisi Athumani,30/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_4,Mohamed makame,38,male,10,Kizingani,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,NA,3520,22
+Otto Hamisi Athumani,30/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_6,Twaha rajabu,25,male,NA,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,NA,NA,NA,7065,2
+Otto Hamisi Athumani,30/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_7,Mohamed hasani,20,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,3865,30
+Mwansiti Hassani Jabiri,31/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_1,Salimu omari,42,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,25000,NA,3045,5
+Mwansiti Hassani Jabiri,31/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_2,Nasoro juma,47,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,18000,Changu dizi,1490,3
+Mwansiti Hassani Jabiri,31/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_3,Amrani salimu,32,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,35000,NA,5250,7
+Mwansiti Hassani Jabiri,31/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_4,Hamadi juma,22,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,36000,NA,1920,8
+Mwansiti Hassani Jabiri,31/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_5,Vasri abdallah,20,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,790,1
+Mwansiti Hassani Jabiri,31/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_6,Rashidi allv,40,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1255,1
+Mwansiti Hassani Jabiri,31/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_7,Juma abdi,27,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,NA,NA,NA,579,5
+Otto Hamisi Athumani,31/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_8,Rashid kombo,66,male,1,Kizingani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,Chewa/Tewa,5375,3
+Otto Hamisi Athumani,31/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_9,Omari hassani,60,male,11,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,NA,3375,1
+Otto Hamisi Athumani,31/10/2024,Tanga,Kichalikani,Mfunguo_Saba_2,Kichalikani,Fisher_10,Ramadhani rashidi,30,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,Hongwe,1990,1
+Otto Hamisi Athumani,05/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_1,Nasoro juma,40,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,6000,Mlea,1820,3
+Otto Hamisi Athumani,05/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_2,Hamadi juma,32,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu dizi,1630,3
+Otto Hamisi Athumani,05/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_3,Salimu omari,42,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu2,2025,4
+Otto Hamisi Athumani,05/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_4,Amrani salimu,32,male,2,Chundo,Matumbawe/miamba,NA,Kaputi/ dhulumati,NA,NA,3265,2
+Otto Hamisi Athumani,05/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_5,Rashidi Ali,40,male,3,Chundo,Matumbawe/miamba,NA,Kaputi/ dhulumati,NA,Hongwe,1400,1
+Otto Hamisi Athumani,05/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_6,Yasiri Abdalah,20,male,2,Chundo,Matumbawe/miamba,NA,Kaputi/ dhulumati,NA,Changu kifimbo/ Mrongo,2355,1
+Otto Hamisi Athumani,05/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_7,Abdala helefu,28,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1595,1
+Otto Hamisi Athumani,05/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_8,Hamisi haji,37,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2495,2
+Otto Hamisi Athumani,05/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_9,Omari hamisi,32,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Mzira meno/sumbururu,4165,1
+Otto Hamisi Athumani,05/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_10,Aly Abdi,25,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,Paragunda,1145,8
+Mwansiti Hassani Jabiri,06/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_1,Hamadi juma,22,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu dizi,1970,4
+Mwansiti Hassani Jabiri,06/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_2,Rashidi ali,40,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1685,1
+Mwansiti Hassani Jabiri,06/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_3,Yasri,20,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2205,1
+Mwansiti Hassani Jabiri,06/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_4,Amrani salimu,32,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,985,1
+Mwansiti Hassani Jabiri,06/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_5,Ismaili abdallah,37,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,NA,400,1
+Mwansiti Hassani Jabiri,06/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_6,Abdalla athumani,40,male,1,Milsngoni,Majani_bahari,Ngalawa,Mshipi,NA,NA,3055,30
+Mwansiti Hassani Jabiri,06/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_7,Omari hasani,60,male,9,Wamba,Majani_bahari,Dau/Mtumbwi,Nyavu za kurusha,NA,NA,1508,42
+Mwansiti Hassani Jabiri,06/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_8,Ali abdi,25,male,1,Uchuwi,Majani_bahari,Ngalawa,Mshipi,NA,NA,4465,30
+Mwansiti Hassani Jabiri,06/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_9,Mohammedl mkuu,40,male,1,Uchuwi,Majani_bahari,Ngalawa,Mshipi,NA,NA,5250,50
+Mwansiti Hassani Jabiri,06/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_10,Salimu selemani,30,male,1,Uchuwi,Majani_bahari,Ngalawa,Mshipi,NA,NA,2085,3
+Mwansiti Hassani Jabiri,07/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_1,Ismaili abdallah,37,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,NA,3115,2
+Otto Hamisi Athumani,07/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_2,Jabiri hassani,NA,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Tembo bato,750,5
+Mwanasharifu Mohammedi Mwalimu,07/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_3,Jumaa abdi,27,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,21000,NA,3830,3
+Mwanasharifu Mohammedi Mwalimu,07/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_4,Juma hassan,30,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,NA,700,5
+Otto Hamisi Athumani,07/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_5,Hamisi haji,37,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu2,1085,5
+Otto Hamisi Athumani,07/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_6,Twaha rajabu,25,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,Mzira/Mzia,7975,1
+Otto Hamisi Athumani,07/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_7,Salimu selemani,30,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,NA,NA,Changu2,3370,25
+Otto Hamisi Athumani,07/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_8,Aly Abdi,25,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,Koana,5005,7
+Otto Hamisi Athumani,07/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_9,Omari hassani,60,male,9,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,NA,6585,27
+Otto Hamisi Athumani,07/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_10,Mohamedi makame,38,male,11,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,Mkonge,6630,20
+Mwanasharifu Mohammedi Mwalimu,09/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_1,Rashidi ally,40,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,15000,NA,2600,1
+Mwanasharifu Mohammedi Mwalimu,10/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_2,Nasoro juma,47,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,3000,NA,530,1
+Mwanasharifu Mohammedi Mwalimu,10/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_3,Abdallah elefu,28,male,3,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,96000,NA,1667,40
+Mwanasharifu Mohammedi Mwalimu,10/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_5,Omari hamis saidi,32,male,3,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,30000,NA,5095,7
+Mwanasharifu Mohammedi Mwalimu,10/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_6,Mohammedi makame,38,male,10,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,24000,Mkonge,6580,15
+Mwanasharifu Mohammedi Mwalimu,10/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_7,Yasiri abdallah,20,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,5000,Tembo bato,1360,4
+Mwanasharifu Mohammedi Mwalimu,10/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_8,Salimu selemani,30,male,1,Wamba,Majani_bahari,Ngalawa,Mshipi,3000,NA,5005,30
+Mwanasharifu Mohammedi Mwalimu,10/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_9,Bakari salimu,28,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,25000,NA,5625,60
+Mwanasharifu Mohammedi Mwalimu,10/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_10,Hamadi  aly,60,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,9000,NA,3225,40
+Mwansiti Hassani Jabiri,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_1,Amrani salimu,32,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,935,1
+Mwansiti Hassani Jabiri,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_2,Hamadi juma,22,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Hongwe,2870,1
+Mwansiti Hassani Jabiri,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_3,Rashidi alliy,40,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2040,5
+Otto Hamisi Athumani,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_1,Amrani salimu,32,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,935,1
+Otto Hamisi Athumani,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_2,Hamadi juma,22,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Hongwe,2870,1
+Otto Hamisi Athumani,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_3,Rashidi Aly,40,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu2,2040,5
+Otto Hamisi Athumani,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_4,Abdala helefu,28,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2100,1
+Otto Hamisi Athumani,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_5,Ismaili Abdala,37,male,2,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,Unga,3225,2
+Otto Hamisi Athumani,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_6,Omari hasani,60,male,9,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,Mzira/Mzia,6485,4
+Otto Hamisi Athumani,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_7,Nasoro juma,47,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu2,2045,5
+Otto Hamisi Athumani,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_8,Mohamedi mkuu,40,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,Changu2,1060,16
+Otto Hamisi Athumani,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_9,Abdala Athuman,40,male,1,Mlangoni,Majani_bahari,Ngalawa,Mshipi,NA,Tembo bato,3685,5
+Otto Hamisi Athumani,11/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_10,Salimu selemani,30,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,Koana,5485,20
+Mwansiti Hassani Jabiri,12/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_1,Rashidi ally,40,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2625,4
+Mwansiti Hassani Jabiri,12/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_2,Hamadi juma,22,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Hongwe,1880,1
+Otto Hamisi Athumani,12/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_3,Amrani salimu,32,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Tembo bato,750,4
+Otto Hamisi Athumani,12/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_4,Nasoro juma,47,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Tembo bato,890,5
+Otto Hamisi Athumani,12/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_5,Ismali Abdala,37,male,2,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,Pono bluu,1405,5
+Otto Hamisi Athumani,12/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_6,Salimu selemani,30,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,NA,Tembo uzi,5400,25
+Otto Hamisi Athumani,12/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_7,Bakari salimu,28,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,NA,Tembo uzi,2990,7
+Otto Hamisi Athumani,12/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_8,Shehe Abdala,25,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,NA,Paragunda,575,4
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_1,Hamadi juma,22,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2040,3
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_2,Amrani salimu,32,male,2,Chundo,Matumbawe/miamba,NA,Kaputi/ dhulumati,NA,NA,225,1
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_3,Salimu omari,42,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,9245,2
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_4,Rashidi Ali,40,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chewa/Tewa,2660,3
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_5,Nasoro juma,47,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu mweupe,1385,4
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_6,Ismail Abdalah,37,male,2,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Chewa/Tewa,4165,1
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_7,Abdala helefu,29,male,3,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Changu2,2870,6
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_8,Jumaa Abdi,27,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Chewa/Tewa,2580,5
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_8,Jumaa Abdi,27,male,1,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Pono bluu,2220,6
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_9,Bakari Abdallah,30,male,10,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,Toa/msusa,1065,150
+Otto Hamisi Athumani,17/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_10,Mohamed makame,38,male,10,Wamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,Mkonge,10735,56
+Mwanasharifu Mohammedi Mwalimu,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_1,Omari abdallah,38,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,36000,Mzira/Mzia,6200,1
+Mwanasharifu Mohammedi Mwalimu,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_2,Hamisi haji,37,male,2,Wamba,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,4355,4
+Mwanasharifu Mohammedi Mwalimu,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_3,Rashidi abdallah,37,male,3,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,12000,Haraki,2085,3
+Otto Hamisi Athumani,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_4,Haji jumaa,20,male,13,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,NA,9565,16
+Otto Hamisi Athumani,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_5,Kombo juma,35,male,12,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,NA,7715,12
+Otto Hamisi Athumani,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_6,Kijuro omari,45,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,Koana,734,10
+Otto Hamisi Athumani,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_7,Yusufu Ally,27,male,2,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,700,6
+Otto Hamisi Athumani,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_8,Ally Abdi,22,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,Changu2,534,4
+Otto Hamisi Athumani,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_8,Ally Abdi,22,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,Changu2,534,4
+Otto Hamisi Athumani,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_9,Omari chinja,24,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,NA,235,4
+Otto Hamisi Athumani,18/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_10,Bskari mohamedi,25,male,2,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,Changu2,5790,20
+Otto Hamisi Athumani,20/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_1,Rashidi Ally,40,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1505,1
+Otto Hamisi Athumani,20/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_2,Nassoro jumaa,47,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Tembo bato,700,3
+Otto Hamisi Athumani,20/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_2,Nassoro jumaa,47,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Tembo bato,700,3
+Otto Hamisi Athumani,20/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_3,Hamadi jums,22,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,24000,Kolekole1,4400,1
+Mwanasharifu Mohammedi Mwalimu,20/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_4,Amrani salimu,NA,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,6000,Changu mweupe,1220,3
+Mwanasharifu Mohammedi Mwalimu,20/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_5,Ismaili abdallah,37,male,2,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,9000,NA,1730,7
+Mwanasharifu Mohammedi Mwalimu,20/11/2024,Tanga,Kichalikani,Mfunguo_Nane_1,Kichalikani,Fisher_6,Salimu selemani,30,male,1,Wamba,Majani_bahari,Ngalawa,Mshipi,NA,NA,265,1
+Mwanasharifu Mohammedi Mwalimu,20/11/2024,Tanga,Kichalikani,Mfunguo_Nne_1,Kichalikani,Fisher_7,Mohammedi bakari,29,male,2,Wamba,Majani_bahari,Ngalawa,Mshipi,1000,Kundaji,875,4
+Otto Hamisi Athumani,20/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_8,Salimu shekhe,27,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,NA,Koana,4125,6
+Otto Hamisi Athumani,20/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_9,Ally Abdi,25,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,NA,Koana,935,11
+Otto Hamisi Athumani,20/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_10,Bakari mohamedi,28,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,NA,Paragunda,835,7
+Mwansiti Hassani Jabiri,23/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_1,Mohammedi makame,38,male,10,Wamba,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,Mkonge,7410,25
+Mwansiti Hassani Jabiri,23/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_2,Amrani salimu,32,male,2,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2875,5
+Mwansiti Hassani Jabiri,23/11/2024,Tanga,Kichalikani,Mfunguo_Nne_2,Kichalikani,Fisher_3,Hamadi juma,22,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,3375,3
+Mwansiti Hassani Jabiri,23/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_4,Omari hassani,60,male,11,Uchuwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,4645,30
+Mwansiti Hassani Jabiri,23/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_5,Omari abdallah,38,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,15195,2
+Mwansiti Hassani Jabiri,23/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_6,Nasori juma,47,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1885,1
+Mwansiti Hassani Jabiri,23/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_7,Rashidi ally,402,male,2,Chundo,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,2047,4
+Mwansiti Hassani Jabiri,23/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_8,Jumaa abdi,27,male,1,Wamba,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,NA,2455,1
+Otto Hamisi Athumani,23/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_9,Yasiri Abdalah,20,male,3,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,NA,1670,1
+Otto Hamisi Athumani,23/11/2024,Tanga,Kichalikani,Mfunguo_Nane_2,Kichalikani,Fisher_10,Salimu Omari,42,male,2,Chundo,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,Chewa/Tewa,8265,1

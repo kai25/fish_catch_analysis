@@ -1,0 +1,2077 @@
+---
+title: "FISH CATCH ANALYSIS"
+author: "Kaijage Laurian"
+format: html
+date: "2024-11-12"
+date-modified: "today"
+institute: "Mwambao Coastal Communnity Network"
+toc: true  #table of content
+toc-depth: 6
+lof: true  #list of figures
+lot: true  #list of tables
+number-sections: true
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+#bibliography: myref.bib
+---
+
+```{r libraries, message=FALSE}
+
+require(tidyverse)
+require(sf)
+require(rnaturalearth)
+require(rnaturalearthdata)
+require(marmap)
+require(terra)
+require(tidyterra)
+require(magrittr)
+require(ggforce)
+require(data.table)
+require(readr)
+require(readxl)
+require(writexl)
+require(summarytools)
+require(ggh4x)
+require(webr)
+require(leaflet)
+
+
+```
+
+
+# Import data
+
+```{r data import, warning=FALSE}
+
+####GENERAL INFO DATA####
+
+fish.gen = list.files(
+  path = "../data/checked/gen/",
+  pattern = "\\.xlsx$",
+  full.names = TRUE
+) |> 
+  map_df(~ read_excel(.x, sheet = "Form_1_0")) |>  
+  select(date = "Tarehe",                                                                                               
+         global_id = "GlobalID",
+        parent_id = "ParentGlobalID",
+       data_collector = "Mkusanya takwimu",
+          region = "Chagua Mkoa",
+          village = "Shehia/BMU",
+         lunar_month = "Mwezi na Bamvua",
+         landing_site = "Bandari",
+          fisher_number = "Namba ya mvuvi",
+          fisher_name = "Jina la Mvuvi",
+          fisher_age = "Umri wa mvuvi",
+         fisher_gender = "Jinsia ya mvuvi",
+          number_per_group = "Idadi ya wavuvi kwenye kundi",
+          fishing_ground = "Eneo la uvuvi",
+          type_of_fishingground = "Aina ya eneo",
+          method = "Mbinu ya uvuvi",
+         gear = "Zana zinazotumika",
+         other_gear = "Andika zana nyingine",
+          price = "bei",
+          going_time = "Muda wakwenda kuvua",
+           return_time = "Muda wakurudi") |>   
+  mutate(date = as.Date(date),
+        year = lubridate::year(date),
+         month = lubridate::month(date, label = TRUE),
+         day = lubridate::day(date),
+         fishing_ground = as.character(fishing_ground)) |> 
+  glimpse()
+  
+
+
+
+fish.gen = fish.gen |> 
+  distinct()
+  
+####TOTAL CATCH COMPOSITION DATA####
+
+catch.composition = list.files(
+  path = "../data/checked/gen/",
+  pattern = "\\.xlsx$",
+  full.names = TRUE
+) |> 
+  map_dfr(~ read_excel(.x, sheet = "Catch_composition_1"))|>
+  select(  global_id = "GlobalID",
+                 parent_id = "ParentGlobalID",
+   creation_date = "CreationDate", 
+          scientific_names = "aina ya samaki",
+          total_weight_g = "Uzito wa jamii moja ya samaki",
+          total_number = "Idadi ya samaki") |>  
+  mutate(year_creation = lubridate::year(creation_date)) |>
+  glimpse()
+  
+
+
+catch.composition = catch.composition |> 
+  distinct()
+  
+  ####SPECIES SPECIFIC LW DATA####
+
+species.specific = list.files(
+  path = "../data/checked/gen/",
+  pattern = "\\.xlsx$",
+  full.names = TRUE
+) |> 
+  map_df(~ read_excel(.x, sheet = "Species_specific_2"))|> 
+  select( global_id = "GlobalID",
+                 parent_id = "ParentGlobalID",
+   creation_date = "CreationDate", 
+          scientific_names = "Aina ya Samaki",
+          weight_g = "Uzito kwa mmoja",
+          length_cm = "Urefu kwa mmoja") |>  
+  mutate(year_creation = lubridate::year(creation_date)) |>
+  glimpse()
+
+
+ 
+## remove duplicates
+
+species.specific = species.specific |> 
+  distinct() 
+  
+####FAMILY, GENERAL, TROPHIC GROUP AND SPECIES NAME DATA####
+  
+fish.families = read.csv("../data/fish_sci_names_families.csv")
+
+# Using data table to fix names
+
+setDT(fish.families)
+
+# Removing duplicates of swahili names
+
+swahili.clean <- fish.families[
+    , .(swahili_names = paste(unique(swahili_names), collapse = ", ")), 
+    by = scientific_names]
+
+
+family_info_by_species <- fish.families[
+  , .SD[1], 
+  by = scientific_names, 
+  .SDcols = c( "family", "common_name", "trophic_groups")
+]
+
+
+# left joining a clean dataset without duplicates
+
+family_info_by_species <- swahili.clean[
+  family_info_by_species, 
+  on = .(scientific_names)
+]
+
+```
+
+
+## Variables cleaning
+
+### Fishing grounds
+
+```{r fishing ground cleaning}
+
+###Chokocho####
+
+fish.gen %<>% 
+  mutate(
+    fishing_ground = case_when(
+      village == "Chokocho" & fishing_ground %in% c("Fungun", "Funguni  ", " Funguni") ~ "Funguni",
+      village == "Chokocho" & fishing_ground %in% c("Mto wapili", "Mtowa pili", "Mtowapili") ~ "Mto wa pili",
+      village == "Chokocho" & fishing_ground %in% c("Mtowatatu", "Mto watatu") ~ "Mto wa tatu",
+      village == "Chokocho" & fishing_ground %in% c("Vujiwevitatu", "Vijiwevitatu", "Vujiwe vitatu") ~ "Vijiwe vitatu",
+      village == "Chokocho" & fishing_ground %in% c("Kwasharif", "Kqasharifu", "Kwashrifu", "Kwasharifu" ) ~ "Kwa sharifu",
+      village == "Chokocho" & fishing_ground %in% c("Matumbin", "Matumbuni", "Matumbini", "Matimbini") ~ "Matumbini",
+      village == "Chokocho" & fishing_ground %in% c("Ngiwani", "Ngowami", "Ngowano") ~ "Ngowani",
+      village == "Chokocho" & fishing_ground %in% c("Mtonyimbi", "Mto nyimbi", "Mtinyimbi", "Mtomyimbi", "Mtonyimbi", "Mto .Nyimbi") ~ "Mto Nyimbi",
+      village == "Chokocho" & fishing_ground %in% c("Pandanguli ", "Pandaguli") ~ "Pandanguli",
+      village == "Chokocho" & fishing_ground %in% c("Rasin ", "Rasin") ~ "Rasini",
+      village == "Chokocho" & fishing_ground %in% c("Mspuku", "Mapukuu") ~ "Mapuku",
+      village == "Chokocko" & fishing_ground == "Michechen" ~ "Michecheni",
+      village == "Chokocko" & fishing_ground == "Fungu roma" ~ "Roma",
+    TRUE ~ fishing_ground))
+ 
+###Chongoleani####     
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Chongoleani" & fishing_ground %in% c("Kwawa ", "Kwawq", "Kwawa.", "KWAWA", "kwawA", "kwawa") ~ "Kwawa",
+      village == "Chongoleani" & fishing_ground %in% c("Mwmbanyama ", "Mwanyanyama", "Mwambanyama", "Mwmbanyama","mwamba nyama","mwambanyama", "mwmbanyama") ~ "Mwamba nyama",
+      village == "Chongoleani" & fishing_ground %in% c("Kimii ", "KiMIo", "KIMIO") ~ "Kimio",
+      village == "Chongoleani" & fishing_ground %in% c("Wanba", "Wamba", "wamba", "WAMBA") ~ "Wamba",
+      village == "Chongoleani" & fishing_ground %in% c("ULENGE", "Ulenge ", " Ulenge") ~ "Ulenge",
+      village == "Chongoleani" & fishing_ground %in% c("Ulenge mnarani", "ULENGE MNARANI", "MNARANI ULENGE") ~ "Ulenge mnarani",
+      village == "Chongoleani" & fishing_ground %in% c("TAA", "Taa ", " Taa", "taa") ~ "Taa",
+      village == "Chongoleani" & fishing_ground %in% c("Fungun", "Funguni  ", " Funguni") ~ "Funguni", 
+      village == "Chongoleani" & fishing_ground %in% c("Mnrani", "Mnrani ", "mnarani") ~ "Mnarani",
+      village == "Chongoleani" & fishing_ground %in% c( "Kinanzini ", "Kinanzini") ~ "Kinazini",
+      village == "Chongoleani" & fishing_ground %in% c( "KIKAANGO", "Kikqango") ~ "Kikaango",
+      village == "Chongoleani" & fishing_ground %in% c("MLIMANI", "MLIMANI ") ~ "Mlimani",
+      village == "Chongoleani" & fishing_ground %in% c("Gomeni", "GOMENI","MAGOMENI") ~ "Magomeni",
+      village == "Chongoleani" & fishing_ground %in% c( "NYULI", "NYULU") ~ "Nyuli",
+      village == "Chongoleani" & fishing_ground %in% c( "MAROMBO ", "MAROMBO", "marombo") ~ "Marombo",
+      village == "Chongoleani" & fishing_ground == "UFUMA" ~ "Ufuma",
+      village == "Chongoleani" & fishing_ground == "KIPWANI" ~ "Kipwani",
+      village == "Chongoleani" & fishing_ground == "Mwaduvi" ~ "Kwamaduvi",
+      village == "Chongoleani" & fishing_ground == "ningani" ~ "Ningani",
+    TRUE ~ fishing_ground))
+
+###Kangani####   
+     fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Kangani" & fishing_ground %in% c("Baharin", "Bahsrin") ~ "Baharini",
+      village == "Kangani" & fishing_ground == "Mkondon" ~ "Mkondoni",
+      village == "Kangani" & fishing_ground == "Matumbin" ~ "Matumbini",
+      village == "Kangani" & fishing_ground == "chekwe" ~ "Chekwe",
+      village == "Kangani" & fishing_ground == "Mnaran" ~ "Mnarani",
+      village == "Kangani" & fishing_ground %in% c("Mawarani", "Mawaran") ~ "Mwarani",
+    TRUE ~ fishing_ground))
+
+###Kichalikani####      
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Kichalikani" & fishing_ground %in% c("Wambs ", "Wamb", "wamba", "WAMBA", "Wmba", "Wambs", "Jiwe la wamba") ~ "Wamba",
+      village == "Kichalikani" & fishing_ground %in% c( "Chund9", "Chndo" ) ~ "Chundo",
+      village == "Kichalikani" & fishing_ground %in% c("Uchuei", "Uchuwu") ~ "Uchuwi",
+      village == "Kichalikani" & fishing_ground %in% c("Milangoni", "Milsngoni") ~ "Mlangoni",
+      village == "Kichalikani" & fishing_ground %in% c( "Maani", "Matsani") ~ "Mataani",
+      village == "Kichalikani" & fishing_ground == "Naweni" ~ "Maweni",
+      village == "Kichalikani" & fishing_ground == "Kimaa" ~ "Kimaha",
+      village == "Kichalikani" & fishing_ground %in% c( "Rssini", ",rasini") ~ "Rasini",
+    TRUE ~ fishing_ground))
+
+###Kisiwa Panza####    
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Kisiwa Panza" & fishing_ground %in% c("Nuinzi", "Muinzi", ".uinzi", "Nuinz", "Muinz","Muinzu" ,"Muibz","Muinzi.") ~ "Miuinzi",
+      village == "Kisiwa Panza" & fishing_ground %in% c("Nfazi", "Nazi", "Ngazl", "Ngaz","NSngzi", "Zi") ~ "Ngazi",
+      village == "Kisiwa Panza" & fishing_ground %in% c("Milangoni", "Mlangon") ~ "Mlangoni",
+      village == "Kisiwa Panza" & fishing_ground == "Kiifimbo" ~ "Kifimbo",
+      village == "Kisiwa Panza" & fishing_ground %in% c("Kisiwa koongo","Visiwakoongo") ~ "Kisiwa Koongo",
+      village == "Kisiwa Panza" & fishing_ground == "Kwajundo" ~ "Kwa Jundo",
+      village == "Kisiwa Panza" & fishing_ground == "Kondon" ~ "Kondoni",
+      village == "Kisiwa Panza" & fishing_ground == "Kaangale" ~ "Kangale",
+      village == "Kisiwa Panza" & fishing_ground == "Mzingan" ~ "Mzingani",
+    TRUE ~ fishing_ground))
+
+###Kiuyu####      
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Kiuyu" & fishing_ground %in% c("Sjangaa", "Shangaaa", "Shangaq", "Shangas", "Ahangaa", "Changaa") ~ "Shangaa",
+      village == "Kiuyu" & fishing_ground %in% c("Mwachi", "Pwach") ~ "Pwachi",
+      village == "Kiuyu" & fishing_ground %in% c("Mdononi", "Mdimon", "Mdomin", "Mdomni","Modomoni","Domoni","Mdomon","Mdonon","Domon", "Mdimoni") ~ "Mdomoni",
+      village == "Kiuyu" & fishing_ground == "Mwamba wakwanza" ~ "Mwamba wa kwanza",
+      village == "Kiuyu" & fishing_ground == "N'gande" ~ "Ng'ande",
+      village == "Kiuyu" & fishing_ground == "Kongoo nchele" ~ "Kongoo mchele",
+      village == "Kiuyu" & fishing_ground == "Jamban" ~ "Jambani",
+      village == "Kiuyu" & fishing_ground %in% c( "Mwamba watu", "Mwamba watatu") ~ "Mwamba wa tatu",
+      village == "Kiuyu" & fishing_ground %in% c("Kogoo", "Kingoo", "Kongooo") ~ "Kongoo",
+    TRUE ~ fishing_ground))
+      
+
+###Kisiwani####      
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Kisiwani" & fishing_ground %in% c( "Mkumbu","Mkumbiu", "Mkumbuu,ndagoni") ~ "Mkumbuu",
+      village == "Kisiwani" & fishing_ground %in% c("Maguju", "Magujuu", "Mahujju","Mahuju") ~ "Mahujuu",
+      village == "Kisiwani" & fishing_ground %in% c("Mithali ", "Mesali") ~ "Misali",
+      village == "Kisiwani" & fishing_ground %in% c( "Jamvino", "Javini") ~ "Jamvini",
+      village == "Kisiwani" & fishing_ground %in% c("Pandwe", "Pande", "Padwe","Pandewe") ~ "Pangwe",
+      village == "Kisiwani" & fishing_ground %in% c("Nakocho", "Mako ho", "Makocho ,funzi", "Makochoo") ~ "Makocho",
+      village == "Kisiwani" & fishing_ground %in% c( "Muangwi", "Mungwi", "Muwangwai") ~ "Muwangwi",
+      village == "Kisiwani" & fishing_ground == "Dongo" ~ "Dongoni",
+      village == "Kisiwani" & fishing_ground %in% c("Mahujui", "Mahjuu","Mahujuuu ,mkumbuu") ~ "Mahujuu",
+      village == "Kisiwani" & fishing_ground == "Kwasharifu" ~ "Kwa sharifu",
+    TRUE ~ fishing_ground))
+
+###Kizingani####   
+
+        fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Kizingani" & fishing_ground == "NYULI" ~ "Nyuli",
+      village == "Kizingani" & fishing_ground == "Mwamba wamba" ~ "Wamba",
+      village == "Kizingani" & fishing_ground %in% c("Mwmba nyama", "MMAMBA NYAMA", "MWAMBA NYAMA","Mwambanyama","MWAMBANYAMA","Mqamba nyama", "Mmwamba nyama") ~ "Mwamba nyama",
+      village == "Kizingani" & fishing_ground %in% c("Funguni boma", "FUNGU BOMA") ~ "Fungu boma",
+      village == "Kizingani" & fishing_ground %in% c( "BOYA CHUPA", "Boy chupa","Poya chupa","BOYACHUPA") ~ "Boya chupa",
+      village == "Kizingani" & fishing_ground %in% c("ULENGE ", "Ulenge ", " Ulenge") ~ "Ulenge",
+      village == "Kizingani" & fishing_ground %in% c("Fungun", "FUNGUNI") ~ "Funguni",
+      village == "Kizingani" & fishing_ground %in% c("Mnarani ", "MNARANI") ~ "Mnarani",
+    TRUE ~ fishing_ground))
+
+###Kukuu####
+
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Kukuu" & fishing_ground %in% c("Vjjiwe vitatu", "Vijiwe 3") ~ "Vijiwe vitatu",
+      village == "Kukuu" & fishing_ground %in% c( "Nyumamji", "Myuma mji", "Nyima mji") ~ "Nyuma mji",
+      village == "Kukuu" & fishing_ground %in% c("Nduqni", "Ndiani") ~ "Nduani",
+      village == "Kukuu" & fishing_ground == "Cekwe" ~ "Chekwe",
+      village == "Kukuu" & fishing_ground == "Muinz" ~ "Muinzi",
+    TRUE ~ fishing_ground))
+
+###Kwale####
+
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Kwale" & fishing_ground %in% c("Jibwe mtu", "Jibwe Ntu", "Jibwemtu", "Jiwe mtu", "J.mtu") ~ "Jiwemtu",
+      village == "Kwale" & fishing_ground %in% c(  "Mngogo", "Mgogo") ~ "Mgongo",
+      village == "Kwale" & fishing_ground %in% c("Muangwi", "Mwangwi") ~ "Muwangwi",
+      village == "Kwale" & fishing_ground == "Makocho" ~ "Makochoo",
+      village == "Kwale" & fishing_ground == "Javini" ~ "Jamvini",
+    TRUE ~ fishing_ground))
+
+
+### Kwale Tanga ####
+
+     fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Kwale Tanga" & fishing_ground %in% c("Kwawa ", "Kwawq", "Kwawa.") ~ "Kwawa",
+      village == "Kwale Tanga" & fishing_ground %in% c("Mwamba yama", "Mwamba  Nyanyama", ".wamba nyama","Mwamba nyama","Mwamba Nyamba","Mwamba   Nyama","Mwamba  nyama","Mwamba. Nyama","Mwamba manya","Mwamba Nyana","Mwamba  Nyama","Mwambanyama","Mwamna Nyama","Mwamba Nyam", "Mwamba  Nya","Mwamba" ) ~ "Mwamba nyama",
+      village == "Kwale Tanga" & fishing_ground %in% c("Uchaui", "Wambauchui","Uchui","Uchwi") ~ "Uchuwi",
+      village == "Kwale Tanga" & fishing_ground %in% c("Wambs", "Wambaa ", "Wambq", "Wamb","Wambaa", "Wamna", "Wamnba") ~ "Wamba",
+      village == "Kwale Tanga" & fishing_ground %in% c("ULENGE ", "Ulenge ", "Uienge","Ulenga") ~ "Ulenge",
+      village == "Kwale Tanga" & fishing_ground %in% c("Boma", "Funguni boma","Moma", "Bama", "Boms") ~ "Fungu boma",
+      village == "Kwale Tanga" & fishing_ground %in% c("Mawemawilu", "Mawenawiki", " Mawemawili","Mawe  mawili","Mawemàwili","Mawemawil","Mawema","Mawe mawil","Mawemawili","Mawe maweli", "Mawemali", "Mawemaili") ~ "Mawe mawili",
+      village == "Kwale Tanga" & fishing_ground %in% c("Tawalan", "Tawlani") ~ "Tawalani",
+      village == "Kwale Tanga" & fishing_ground == "Kinazina" ~ "Kinazini",
+      village == "Kwale Tanga" & fishing_ground == "Mwam,buyu" ~ "Mwambuyu",
+      village == "Kwale Tanga" & fishing_ground == "Vitundu Vitatu" ~ "Vitundu  vitatu",
+      village == "Kwale Tanga" & fishing_ground == "Mto" ~ "Mtoni",
+    TRUE ~ fishing_ground))
+
+###Mabokweni####
+
+     fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Mabokweni" & fishing_ground %in% c("Mtonj", "Myo", "Mto","Mro","mtoni", "Mtoni" ) ~ "Mto kiongwe",
+      village == "Mabokweni " & fishing_ground %in% c("Mikokoni", "MIK") ~ "Mikokotoni",
+      village == "Mabokweni " & fishing_ground == "Mchanganyiko,zigi" ~ "Mchanganyiko",
+    TRUE ~ fishing_ground))
+
+###Makoongwe####
+
+ fish.gen %<>%
+   mutate(
+    fishing_ground = case_when( 
+      village == "Makoongwe" & fishing_ground %in% c( "Vijiwe 3", "Vijiwe3","Vijiwe vitatu") ~ "Vijiwe Vitatu",
+      village == "Makoongwe" & fishing_ground %in% c("Kawta", "Kwat", "Kwsta", "Kwats") ~ "Kwata",
+      village == "Makoongwe" & fishing_ground == "Uksi" ~ "Ukai",
+      village == "Makoongwe" & fishing_ground == "Matumbin" ~ "Matumbini",
+      village == "Makoongwe" & fishing_ground == "Misal" ~ "Misali",
+      village == "Makoongwe" & fishing_ground == "K-Mtama" ~ "Kijiwe mtama",
+    TRUE ~ fishing_ground))
+
+###Michenzani####
+
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Michenzani" & fishing_ground %in% c( "Viwe vitatu", "Vijiwe  vitatu", "Vijiqe vitatu","Vijiwe vutatu","Vijiwe vitqtu") ~ "Vijiwe vitatu",
+      village == "Michenzani" & fishing_ground %in% c("Jiqe membe", "Jiwe mambe", "Jiwe memba", "Jiwe membe","Jiwe membo","Giwe membe","Jiwe nembe") ~ "Jiwe Membe",
+       village == "Michenzani" & fishing_ground %in% c("Kwasharifu", " Kwasharufu","Kwasharufu") ~ "Kwa sharifu",
+      village == "Michenzani" & fishing_ground %in% c("Kizambarsuni", "Iizambarauni", "Kizambarauuni","Kizambaruni") ~ "Kizambarauni",
+      village == "Michenzani" & fishing_ground %in% c("Nyuma ya fungu", "Nyuma Ya Fungu", "Myuma ya fungu", "Nyuma yq fungu", "Nyuma ya Fungu", "Numa Ya Fungu", "Nyama Ya Fungu", "Nyuma ya  fungu") ~ "Nyuma ya Fungu",
+      village == "Michenzani" & fishing_ground == "Kwamwanamauwa" ~ "Kwamwana maua",
+      village == "Michenzani" & fishing_ground %in% c("Kipwq kome","Kipwakome", "Kupws kome", "Kipwa Kome") ~ "Kipwa kome" ,
+      village == "Michenzani" & fishing_ground == "Kijiqe mtama" ~ "Kijiwe mtama",
+      village == "Michenzani" & fishing_ground == "Kipwakidogo" ~ "Kipwa kidogo",
+      village == "Michenzani" & fishing_ground == "Nyama matumbini" ~ "Nyuma matumbini",
+      village == "Michenzani" & fishing_ground == "Kwats" ~ "Kwata",
+    TRUE ~ fishing_ground))
+
+###Michungwani####
+
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(village == "Michungwani" & fishing_ground %in% c("Dogoni", "Dangoni", "Dongini", "Dongni") ~ "Dongoni",
+      village == "Michungwani" & fishing_ground %in% c("Ukongo mrefu", "Mgongo mrefu") ~ "Ugongo mrefu",
+      village == "Michungwani" & fishing_ground %in% c("Funz", "Fnzi") ~ "Funzi",
+      village == "Michungwani" & fishing_ground == "Pawe papa" ~ "Mawe papa",
+      village == "Michungwani" & fishing_ground == "Kinazni" ~ "Kinazini",
+      village == "Michungwani" & fishing_ground == "Ugongo mrefu" ~ "Mgongo mrefu",
+      village == "Michungwani" & fishing_ground == "Mkubuu" ~ "Fuguni mkumbuu",
+      village == "Michungwani" & fishing_ground == "Iengwe" ~ "Lengwe",
+      village == "Michungwani" & fishing_ground == "Fungu" ~ "Funguni",
+      village == "Michungwani" & fishing_ground == "Kijambni" ~ "Kijambani",
+      village == "Michungwani" & fishing_ground == "PAASI" ~ "Paasi",
+      village == "Michungwani" & fishing_ground == "Ponono" ~ "Pononi",
+      village == "Michungwani" & fishing_ground == "Vijiwevitatu" ~ "Vijiwe vitatu",
+    TRUE ~ fishing_ground))
+
+###Monga####
+
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Monga Vyeru" & fishing_ground %in% c("MAWE MAWILI", "Mawe mawil", "Mawi Mawili", "Mawe  mawili","Mawemawili","Nawe mawili") ~ "Mawe mawili",
+      village == "Monga Vyeru" & fishing_ground == "Kwa mzunuu" ~ "Kwa mzungu",
+      village == "Monga Vyeru" & fishing_ground == "CHUNDO" ~ "Chundo",
+      village == "Monga Vyeru" & fishing_ground == "Chamba vyery" ~ "chamba vyeru",
+      village == "Monga Vyeru" & fishing_ground %in% c("UCHUI","Uchui" ) ~ "Uchuwi",
+      village == "Monga Vyeru" & fishing_ground %in% c( "MWAMBANYAMA", "MWAMBA. NYAMA","MWAMBA NYAMA","Mwamba Nyama", "Mwamba  Nyama") ~ "Mwamba nyama",
+      village == "Monga Vyeru" & fishing_ground %in% c("Wanba ", "Wamba ", "wamba", "WAMBA","WAMBA", "Wsmba") ~ "Wamba", 
+      village == "Monga Vyeru" & fishing_ground %in% c("Miambamitatu ", "Miamba  Mitatu ", " Miamba Mitatu","MIAMBA MITATU","Miambamitatu","Miamba  Mitatu","Miamba Mitatu") ~ "Miamba mitatu",
+      village == "Monga Vyeru" & fishing_ground %in% c("FUNGU LA BOMA", "Funguni boma", "Fungu la boma", "FUNGUNI LA BOMA","Boma funguni") ~ "Fungu boma",
+      village == "Monga Vyeru" & fishing_ground %in% c("Fungun", "Fununi", "FUNGUNI") ~ "Funguni",
+      village == "Monga Vyeru" & fishing_ground == "MATAANI" ~ "Mataani",
+      village == "Monga Vyeru" & fishing_ground == "KIMAA" ~ "Kimaa",
+      village == "Monga Vyeru" & fishing_ground == "Maboyan" ~ "Maboyani",
+      village == "Monga Vyeru" & fishing_ground %in% c("MIAMBA MITANO", "Miamba Mitano","Miamba  mitano", "Miamba  Mitano" ) ~ "Miamba mitano",
+      village == "Monga Vyeru" & fishing_ground %in% c("Maweni mtoni", "Maweni/mtoni") ~ "Maweni",
+      village == "Monga Vyeru" & fishing_ground == "KITUNGAMWE" ~ "Kitungamwe",
+      village == "Monga Vyeru" & fishing_ground == "MWAORE" ~ "Mwaore",
+      village == "Monga Vyeru" & fishing_ground == "KINAZINI" ~ "Kinazini",
+      village == "Monga Vyeru" & fishing_ground == "Jiqe la wanda" ~ "Jiwe la wanda",
+      village == "Monga Vyeru" & fishing_ground == "KIROBA" ~ "Kiroba",
+      village == "Monga Vyeru" & fishing_ground == "MILANGONI" ~ "Milangoni",
+      village == "Monga Vyeru" & fishing_ground == "Magogoni" ~ "Magongoni",
+      village == "Monga Vyeru" & fishing_ground == "Vyongoni" ~ "Viongoni",
+      village == "Monga Vyeru" & fishing_ground == "Mlango wa mwaboza" ~ "Milango ya mwaboza",
+    TRUE ~ fishing_ground))
+
+###Mpirani####
+
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Mpirani" & fishing_ground %in% c("Mwambanyama", "Wambanyama") ~ "Mwamba nyama",
+      village == "Mpirani" & fishing_ground %in% c("Mnarano", "Marani", "Mnanarani","Mnaran") ~ "Mnarani",
+      village == "Mpirani" & fishing_ground %in% c("Kzingani", "Kizingqni","Kizingazi","Kizinani","Kizigani","Ķizigani","Kingani","Kizing,ani","Kizizingani","Kizingan", "Kizinga") ~ "Kizingani",
+      village == "Mpirani" & fishing_ground %in% c("Jagwakuu","Jangwakuuya","Jangwakuu") ~ "Jangwa kuu",
+      village == "Mpirani" & fishing_ground %in% c("Kmio", "Kimio0") ~ "Kimio",
+      village == "Mpirani" & fishing_ground %in% c("Mnyang'","Mnyanga","Mnyng'a","Mnyang,a","Mnyag'a", "Mnyag,a") ~ "Mnyang'a",
+    village == "Mpirani" & fishing_ground %in% c("Kironit","Kironi","Krironi","Kirironi","Kiriron") ~ "Kirironi",
+    village == "Mpirani" & fishing_ground == "Uzilo" ~ "Uzio",
+    TRUE ~ fishing_ground ))
+
+###Mtambwe####
+
+    fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Mtambwe Kusini" & fishing_ground %in% c( "Kwasharifu", "Kwa Sharifu", "Kwasharifu,", "KWASHARIFU") ~ "Kwa sharifu",
+      village == "Mtambwe Kusini" & fishing_ground %in% c( "Vijiwe  Viwili", "VIJIWE VIWILI", "VIJIWE  VIWILI", "Vijiwe  viwili") ~ "Vijiwe  viwili",
+      village == "Mtambwe Kusini" & fishing_ground %in% c("PAASI", "Pasi") ~ "Paasi",
+      village == "Mtambwe Kusini" & fishing_ground == "Mahujuu65" ~ "Mahujuu",
+      village == "Mtambwe Kusini" & fishing_ground %in% c("Kokot", "KOKOTA") ~ "Kokota",
+      village == "Mtambwe Kusini" & fishing_ground %in% c("Mpanya", "MAPANYA") ~ "Mapanya",
+      village == "Mtambwe Kusini" & fishing_ground %in% c("NJAU", ".NJAU") ~ "Njau",
+      village == "Mtambwe Kusini" & fishing_ground == "KADHANI" ~ "Kashani",
+      village == "Mtambwe Kusini" & fishing_ground == "UVINJE" ~ "Uvinje",
+      village == "Mtambwe Kusini" & fishing_ground == "PANDWE" ~ "Pandwe",
+      village == "Mtambwe Kusini" & fishing_ground == "FUNZI" ~ "Funzi",
+      village == "Mtambwe Kusini" & fishing_ground == "VIJIWE VITATU" ~ "Vijiwe vitatu",
+      village == "Mtambwe Kusini" & fishing_ground == "PEMBE" ~ "Pembe",
+      village == "Mtambwe Kusini" & fishing_ground == "KIRETI" ~ "Kireti",
+      village == "Mtambwe Kusini" & fishing_ground == "KIONGO" ~ "Kiongo",
+      village == "Mtambwe Kusini" & fishing_ground == "KIWANDANI" ~ "Kiwandani",
+    TRUE ~ fishing_ground))
+
+###Mtundani####
+
+    fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Mtundani" & fishing_ground == "Mataan" ~ "Mataani",
+      village == "Mtundani" & fishing_ground == "Nyasi  bahari" ~ "Nyasi bahari",
+      village == "Mtundani" & fishing_ground == "Bamvua shimo" ~ "Wavu wa shimo",
+    TRUE ~ fishing_ground))
+
+
+###Mwandusi####
+
+    fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Mwandusi" & fishing_ground == "Mataan" ~ "Mataani",
+      village == "Mwandusi" & fishing_ground == "Chamban" ~ "Chambani",
+      village == "Mwandusi" & fishing_ground == "Chamba cha mnaz" ~ "Chamba cha mnazini",
+      village == "Mwandusi" & fishing_ground == "Kigongon" ~ "Kigongoni",
+      village == "Mwandusi" & fishing_ground == "Chamba cha mkumbi" ~ "Chamba cha mnazini",
+      village == "Mwandusi" & fishing_ground == "Makoleo" ~ "Koleo",
+      village == "Mwandusi" & fishing_ground == "Mwambanyama" ~ "Mwamba nyama",
+      village == "Mwandusi" & fishing_ground == "Mnaran" ~ "Mnarani",
+      village == "Mwandusi" & fishing_ground == "Milangon" ~ "Milangoni",
+      village == "Mwandusi" & fishing_ground == "Maviriz" ~ "Mwavirizi",
+      village == "Mwandusi" & fishing_ground == "MKUMBI" ~ "Mkumbi",
+     village == "Mwandusi" & fishing_ground %in% c( "Maboyan", "Maboyano", "Maboyab","Mboyani") ~ "Maboyani",
+      village == "Mwandusi" & fishing_ground %in% c("Uchwi ", "Uchuw", "Uchuqi", "Uchwi") ~ "Uchuwi",
+      village == "Mwandusi" & fishing_ground %in% c("Wamb", "Wsmba", "Qamba", "Wqmba") ~ "Wamba",
+      village == "Mwandusi" & fishing_ground %in% c("Funguni boma", "Fungun boma", "Fingu boma") ~ "Fungu boma",
+      village == "Mwandusi" & fishing_ground %in% c( "Kidutan", "Jidutani") ~ "Kidutani",
+    TRUE ~ fishing_ground))
+ 
+###Ndaoya####
+
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Ndaoya" & fishing_ground %in% c("Nyili", ".nyuli", "Nyulu") ~ "Nyuli",
+      village == "Ndaoya" & fishing_ground %in% c("Mwamba taa", "Tsa") ~ "Taa",
+      village == "Ndaoya" & fishing_ground %in% c("Mwambanyama","M nyama","M nyamam") ~ "Mwamba nyama" ,
+      village == "Ndaoya" & fishing_ground == "Ulemge" ~ "Ulenge",
+      village == "Ndaoya" & fishing_ground == "Maanda" ~ "Mahanda",
+      village == "Ndaoya" & fishing_ground == "Kijamnani" ~ "Kijambani",
+      village == "Ndaoya" & fishing_ground %in% c("Kitungu","Litunga","Kitynga","Kutunga","Kitumga","Kitung") ~ "Kitunga" ,
+      village == "Ndaoya" & fishing_ground %in% c("Jambe. Rasini", "Ĵambe") ~ "Jambe",
+      village == "Ndaoya" & fishing_ground == "Kitinga" ~ "Kitunga",
+    TRUE ~ fishing_ground))
+ 
+###Putini####
+
+       fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Putini" & fishing_ground %in% c( "Mwabanyama", "Mwambanyama", "MWAMBA NYAMA", "Mwambamyama") ~ "Mwamba nyama",
+      village == "Putini" & fishing_ground == "Uchui" ~ "Uchuwi",
+      village == "Putini" & fishing_ground %in% c("Njuli","Nyulo","NYULI", "Nyyli", "Nyulk") ~ "Nyuli" ,
+      village == "Putini" & fishing_ground %in% c("Roho  yamtu","Roho yamtu") ~ "Roho ya mtu" ,
+      village == "Putini" & fishing_ground %in% c("Jutono","Jutloni") ~ "Jutuni" ,
+      village == "Putini" & fishing_ground %in% c("Ty", "TAA") ~ "Taa",
+      village == "Putini" & fishing_ground == "WAMBA" ~ "Wamba",
+      village == "Putini" & fishing_ground == "Jambw" ~ "Jambe",
+      village == "Putini" & fishing_ground == "Jutoni." ~ "Jutoni",
+      village == "Putini" & fishing_ground == "Hazina" ~ "Azina",
+      village == "Putini" & fishing_ground == "UFUMA" ~ "Ufuma",
+      village == "Putini" & fishing_ground == "Chatahani" ~ "Chataani",
+      village == "Putini" & fishing_ground == "Kwssoka" ~ "Kwasoka",
+      village == "Putini" & fishing_ground %in% c("Nambawani", "Namba one") ~ "Namba wani",
+      village == "Putini" & fishing_ground %in% c("Hahanda","MAANDA") ~ "Mahanda",
+      village == "Putini" & fishing_ground == "Nganyawa i" ~ "Nganyawani",
+    TRUE ~ fishing_ground))
+
+ ###Shidi####
+
+       fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Shidi" & fishing_ground %in% c("Kwa Shafiru", "Kwa Sharfu", "Kwasharif","Kwasharifu","Kwa sharfu","Kwa shatif","Kwa saharf","Kwa sharif","Kwa Sharifu" , "Kwa sharifu","Kwa Sharif" ,"Kwa sharif","Kwa sharf","Kws sharif" ) ~ "Kwa sharifu",
+      village == "Shidi" & fishing_ground %in% c("Mvumon","Mavumoni") ~ "Mvumoni",
+      village == "Shidi" & fishing_ground %in% c("Kwaya","Kwat") ~ "Kwata" ,
+      village == "Shidi" & fishing_ground == "Mako ongwe" ~ "Makoongwe",
+      village == "Shidi" & fishing_ground == "Kiboyani" ~ "Boyani",
+    TRUE ~ fishing_ground))
+
+ ###Shumba####  
+
+       fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Shumba" & fishing_ground %in% c("Nyuma ya fungu", "Uziqani", "Uziwan") ~ "Uziwani",
+      village == "Shumba" & fishing_ground == "Mwmbani" ~ "Mwambani",
+      village == "Shumba" & fishing_ground %in% c("Jamban","Jamabni") ~ "Jambani" ,
+      village == "Shumba" & fishing_ground == "Mnarano" ~ "Mnarani",
+      village == "Shumba" & fishing_ground == "Kongop" ~ "Kongoo",
+    TRUE ~ fishing_ground))
+
+###Stahabu####
+
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when( 
+      village == "Stahabu" & fishing_ground %in% c("Kwa mwana kondo", "Kwamwana kondo", "Kwamwanakondo","Mwanakondo") ~ "Kwa mwanakondo",
+      village == "Stahabu" & fishing_ground == "Vijiwe 3" ~ "Vijiwe vitatu",
+      village == "Stahabu" & fishing_ground %in% c("Matumbina","Matumbin") ~ "Matumbini" ,
+      village == "Stahabu" & fishing_ground == "Kwasharifu" ~ "Kwa sharifu",
+      village == "Stahabu" & fishing_ground == "Fungunu" ~ "Funguni",
+      village == "Stahabu" & fishing_ground %in% c("Bwachi parua","Bwachi Parua") ~ "Bwachu parua",
+      village == "Stahabu" & fishing_ground %in% c("Kwajundi","Kwajundo") ~ "Kwa jundo",
+      village == "Stahabu" & fishing_ground == "Fungu Ndogo" ~ "Fungu ndogo",
+    village == "Stahabu" & fishing_ground == "Shikashika" ~ "Shika shika",
+    village == "Stahabu" & fishing_ground == "Kipwa chakati" ~ "Kipwa cha kati",
+    TRUE ~ fishing_ground))
+
+####Tawalani####
+ 
+###Tumbe####
+
+      fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Tumbe" & fishing_ground == "Raaini" ~ "Rasini",
+      village == "Tumbe" & fishing_ground == "IMU" ~ "Imu",
+      village == "Tumbe" & fishing_ground == "Fungunu" ~ "Funguni",
+    village == "Tumbe" & fishing_ground %in% c("Kongoo ya katii", "Kongoo ya ksti") ~ "Kongoo ya kati",
+    village == "Tumbe" & fishing_ground == "Jamba nungwu" ~ "Jamba nungwi",
+    TRUE ~ fishing_ground))
+   
+###Ziwani####
+
+       fish.gen %<>%
+  mutate(
+    fishing_ground = case_when(
+      village == "Ziwani" & fishing_ground %in% c("Pendwe", "Padwe", "Psndwe") ~ "Pandwe",
+      village == "Ziwani" & fishing_ground == "DONGONI" ~ "Dongoni",
+      village == "Ziwani" & fishing_ground %in% c("Kokots","Kokoto") ~ "Kokota" ,
+    village == "Ziwani" & fishing_ground %in% c("Mkimbuu","Mkubuu", "Mhumbuu") ~ "Mkumbuu" ,
+      village == "Ziwani" & fishing_ground == "Pembem" ~ "Pembe",
+    village == "Ziwani" & fishing_ground %in% c("Kijamba", "Kijamban") ~ "Kijambani",
+    village == "Ziwani" & fishing_ground == "Makoongen" ~ "Makoongeni",
+      village == "Ziwani" & fishing_ground %in% c("Mwangwi","Mwangi") ~ "Muwangwi",
+    village == "Ziwani" & fishing_ground == "Makocho" ~ "Makochoo",
+    TRUE ~ fishing_ground ))
+
+
+```
+
+# Merge data
+
+```{r Merge data}
+
+catch.data = fish.gen |> 
+  left_join(catch.composition, by = c("global_id" = "parent_id")) |> 
+  select(-global_id, -parent_id, -creation_date, -global_id.y,-data_collector)
+
+
+catch.data %<>% 
+  left_join(family_info_by_species, by = "scientific_names") 
+
+#write.csv(catch.data, "catch.data_8.25.csv")
+
+
+
+catch.data = catch.data|> 
+  filter(!fishing_ground %in% c("TASI", "Changu", "Pono", "Pono mchele", "Ngalawa", "Majani bahari", "MIK", "Bodo", "1", "Mwani", "Matumbawe/mwamba", "Tembo janja", "Koana", "Mchanga", "Nyasi  bahari", "Nyasi bahari", "Mchangani", "Kundaji", "Bumra", "Mkundaji", "Hakuna", "Naysi bahari", "Nyasibahari", 1,  "Nyasi bajari"))|> 
+  distinct() |> 
+  drop_na(number_per_group,fishing_ground,total_weight_g,total_number, swahili_names,village,year,date)
+ 
+#sort(unique(catch.data$fishing_ground))
+
+
+
+#You can use creation dates to cross-check the dates entered
+
+species.lw = fish.gen |>
+  left_join(species.specific, by = c("global_id" = "parent_id")) |> 
+  select(-global_id, -parent_id, -creation_date, -global_id.y, -fisher_number, -fisher_age, -fisher_name, -fisher_gender,-data_collector, -number_per_group,-price,-going_time,-return_time) 
+
+
+# left join using data.table
+#species.lw <- species.specific[fish.gen, on = .(parent_id = global_id)] 
+
+
+species.lw %<>% 
+  left_join(family_info_by_species, by = "scientific_names")
+
+#species.lw <- family_info_by_species[species.lw, on = .(scientific_names)]
+
+species.lw = species.lw|> 
+  filter(!fishing_ground %in% c("TASI", "Changu", "Pono", "Pono mchele", "Ngalawa", "Majani bahari", "MIK", "Bodo", "1", "Mwani", "Matumbawe/mwamba", "Tembo janja", "Koana", "Mchanga", "Nyasi  bahari", "Nyasi bahari", "Mchangani", "Kundaji", "Bumra", "Mkundaji", "Hakuna", "Naysi bahari", "Nyasibahari", 1, "TASI"))|> 
+  distinct() |> 
+  drop_na(swahili_names,scientific_names,weight_g,length_cm, village,year,date)
+  
+
+# Creating a catch_rds with distinct fishing grounds per village
+
+# fishing.grounds = catch.data |> 
+#   select(village, fishing_ground) |> 
+#   distinct()
+
+#CREATING A catch_rds WITH fishers  NAMES AND CODES
+
+# fisher.info = catch.data |> 
+#   select(village, fisher_name, fisher_age, fisher_gender) |> 
+#   distinct() |> 
+#   mutate(
+#     fisher_code = str_to_upper(str_sub(fisher_name, 1, 1)) |> 
+#                   paste0(str_to_upper(str_sub(fisher_name, -1, -1)), fisher_age, str_sub(fisher_gender, 1, 1))
+#   )
+  
+# write_xlsx(catch.data, "baf catch.xlsx")
+# write_xlsx(fishing_grounds, "fishing_grounds.xlsx")
+
+# setDT(catch.data)
+# setDT(species.lw)
+# setDT(fish.families)
+
+
+
+
+```
+
+::: callout-note
+fish.families \|\> count(scientific_names) \|\> filter(n \> 1) swahili.names \|\> count(scientific_names) \|\> filter(n \> 1)
+
+this is a code for checking many too many warning on a left-join function
+:::
+
+# DATA CLEANING
+
+try using case_when instead of replace to make the code shorter and cleaner
+
+Use creation year to validate years that were entered
+
+```{r }
+
+ 
+
+
+ggplot(data = catch.data|>
+  filter(!total_weight_g > 15000) , aes(x = family, y = total_weight_g))+
+  geom_boxplot() +
+  facet_wrap(~region,scales = "free")+
+  theme_bw()+
+   theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# Split the data by village
+village_split <- catch.data |> 
+  group_split(village)
+
+# Loop through each subset and save the plot
+for (village_catch_rds in village_split) {
+  village_name <- unique(village_catch_rds$village)
+
+  p <- ggplot(village_catch_rds|>
+  filter(!total_weight_g > 15000, !total_weight_g < 15), aes(x = fishing_ground, y = total_weight_g)) +
+    geom_boxplot() +
+   coord_flip()+
+    ggtitle(paste("Catch Composition boxplot for", village_name))
+
+  print(p) # Print the plots
+  
+   # Optionally save
+  # ggsave(filename = paste0("plot_", village_name, ".png"), plot = p, width = 8, height = 6)
+
+}
+
+# number of fisher men per village
+
+ggplot(data = catch.data, aes(x = village, y = number_per_group))+
+  geom_boxplot() +
+  facet_wrap(~region,scales = "free")+
+  theme_bw()+
+   theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# gear catches
+ggplot(data = catch.data|>
+  filter(!total_weight_g > 15000, !total_weight_g < 15, !is.na(gear)), aes(x = gear, y = total_weight_g))+
+  geom_boxplot() +
+  facet_wrap(~region,scales = "free")+
+  theme_bw()+
+   theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+# fishing ground catches 
+
+ggplot(data = catch.data|>
+  filter(!total_weight_g > 15000, !total_weight_g < 15, !is.na(fishing_ground)), aes(x = fishing_ground, y = total_weight_g))+
+  geom_boxplot() +
+  facet_wrap(~region,scales = "free")+
+  theme_bw()+
+   theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+
+
+```
+
+
+```{r}
+
+fish.gen %$%
+  unique(year)
+
+catch.data |> 
+  filter(village == "Chokocho") |> 
+  print()
+
+catch.data |> 
+  select(date,scientific_names,total_weight_g ) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+ cpue |> 
+   filter(region == "Tanga") |> 
+   ggplot(aes(x = mean.cpue, fill = region))+
+  geom_density(alpha = 0.5)
+
+
+```
+
+
+
+##gear name cleaning
+
+```{r gear name cleaning}
+
+catch.comp = catch.comp |> 
+  mutate(Gear_swahili = case_when( 
+    Gear ==  "Chupa" ~	"Chupa",
+Gear == "Seinnet"~	"Juya (Nyavu zenye macho madogo)",
+Gear == "Longline"~	"Kaputi/ dhulumati",
+Gear == "Diving" ~	"Kuzamia",
+Gear == "By_hand" ~	"Kwa mkono",
+Gear == "Speargun" ~	"Mkuki",
+Gear == "Handline" ~	"Mshipi",
+Gear == "Fish_trap" ~	"Mtego/dema",
+Gear == "Gillnet" ~	"Nyavu",
+Gear == "Cast_nets" ~	"Nyavu za kurusha",
+Gear == "Purse_seines/ring_nets" ~	"Nyavu za kuzungusha",
+Gear == "Monofilament_net" ~	"Nyavu za utari",
+Gear == "Stake/fence_traps"	~ "Uzio",
+Gear =="Other" ~	"Nyinginezo"
+  ))
+
+catch.comp %$%
+  unique(Gear)
+
+species.lw = species.lw |>  
+  mutate(Gear_swahili = case_when( 
+    Gear ==  "Chupa" ~	"Chupa",
+Gear == "Seinnet" ~	"Juya (Nyavu zenye macho madogo)",
+Gear == "Longline"~	"Kaputi/ dhulumati",
+Gear == "Diving" ~	"Kuzamia",
+Gear == "By_hand" ~	"Kwa mkono",
+Gear == "Speargun" ~	"Mkuki",
+Gear == "Handline" ~	"Mshipi",
+Gear == "Fish_trap" ~	"Mtego/dema",
+Gear == "Gillnet" ~	"Nyavu",
+Gear == "Cast_nets" ~	"Nyavu za kurusha",
+Gear == "Purse_seines/ring_nets" ~	"Nyavu za kuzungusha",
+Gear == "Monofilament_net" ~	"Nyavu za utari",
+Gear == "Stake/fence_traps"	~ "Uzio",
+Gear =="Other" ~	"Nyinginezo"
+  ))
+
+species.lw %$%
+  unique(Gear)
+
+
+```
+
+## vessel type cleaning
+
+```{r method name cleaning}
+
+catch.comp = catch.comp |> 
+  mutate(vessel_type_swa = case_when( 
+    vessel_type ==  "Walk" ~	"Kutembea",
+vessel_type == "skin_diving"~	"Kuogelea",
+vessel_type == "Scuba_diving"~	"Kuzamia na gesi",
+vessel_type == "Diving" ~	"Kuzamia",
+vessel_type == "Boat_ engine" ~	"Mashua",
+vessel_type == "Sail _boat" ~	"Ngalawa",
+vessel_type == "Canoe" ~	"Dau/Mtumbwi",
+vessel_type == "Fiber" ~	"Faiba",
+vessel_type == "Gillnet" ~	"Nyavu",
+))
+
+catch.comp %$% 
+  unique(vessel_type)
+
+species.lw = species.lw |> 
+  mutate(vessel_type_swa = case_when( 
+    vessel_type ==  "Walk" ~	"Kutembea",
+vessel_type == "skin_diving" ~	"Kuogelea",
+vessel_type == "Scuba_diving"~	"Kuzamia na gesi",
+vessel_type == "Diving" ~	"Kuzamia",
+vessel_type == "Boat_ engine" ~	"Mashua",
+vessel_type == "Sail _boat" ~	"Ngalawa",
+vessel_type == "Canoe" ~	"Dau/Mtumbwi",
+vessel_type == "Fiber" ~	"Faiba",
+vessel_type == "Gillnet" ~	"Nyavu",
+))
+
+species.lw %$% 
+  unique(vessel_type)
+```
+
+## Substrate type
+
+```{r Substartes}
+
+catch.comp = catch.comp |>  
+  mutate(aina_ya_eneo = case_when( 
+    aina_ya_eneo ==  "Bank" ~	"Fungu",
+aina_ya_eneo == "Seagrass"~	"Majani_bahari",
+aina_ya_eneo == "Coral"~	"Matumbawe/miamba",
+aina_ya_eneo == "Mangrove" ~	"Mikoko",
+aina_ya_eneo == "Channel" ~	"Mkondoni",
+aina_ya_eneo == "Seaweed" ~	"Mwani",
+aina_ya_eneo == "Sand" ~	"Mchanga",
+aina_ya_eneo == "Others" ~	"Faiba",
+aina_ya_eneo == "Gillnet" ~	"Nyinginezo",
+))
+
+catch.comp %$% 
+  unique(aina_ya_eneo)
+
+species.lw = species.lw |> 
+  #rename(vessel_type = mbinu_ya_uvuvi) |> 
+  mutate(aina_ya_eneo = case_when( 
+    aina_ya_eneo ==  "Bank" ~	"Fungu",
+aina_ya_eneo == "Seagrass"~	"Majani_bahari",
+aina_ya_eneo == "Coral"~	"Matumbawe/miamba",
+aina_ya_eneo == "Mangrove" ~	"Mikoko",
+aina_ya_eneo == "Channel" ~	"Mkondoni",
+aina_ya_eneo == "Seaweed" ~	"Mwani",
+aina_ya_eneo == "Sand" ~	"Mchanga",
+aina_ya_eneo == "Others" ~	"Faiba",
+aina_ya_eneo == "Gillnet" ~	"Nyinginezo",
+))
+
+species.lw %$% 
+  unique(type_of_fishingground)
+
+
+```
+
+::: callout-note
+**Create a reversed mapping for switching back (Scientific → Swahili)**
+
+sci_swahili_names \<- setNames(names(swahili_sci_names), swahili_sci_names)
+
+**Function to convert between names**
+
+convert_species \<- function(species) { case_when( species %in% names(swahili_sci_names) \~ swahili_sci_names\[species\], \# Swahili → Scientific species %in% names(sci_swahili_names) \~ sci_swahili_names\[species\], \# Scientific → Swahili TRUE \~ species \# Keep unchanged if not found ) }
+
+:::
+
+## Indicator ref sepecies
+
+Species to be collected for LW 
+
+*Naso brevirostris*, *Siganus sutor*, *Scarus ghobban*, *Lethrinus lentjan*, *Lutjanus fulviflamma*, *Caranx tille*, *Balistapus undulatus*, *Cephalopholis miniata*
+
+rare species to watch out for 
+
+*Bolbometapon muricatum*, *Epinephelus multinotatus*, *Epinephelus fuscoguttatus*, *Plectropomus laevis*, *Chelinus undulatus*
+
+
+
+ ## Prompts 
+
+```{r promp}
+
+# ─── LOAD DATA ─────────────────────────────────────────────────────────────
+catch_rds <- readRDS("../data/checked/gen/catch.data_aug25.rds") |>  
+  mutate(date = as.POSIXct(date, origin = "1970-01-01"))
+
+# ─── PATHS ─────────────────────────────────────────────────────────────────
+progress_path <- "../data/checked/gen/cleaning_progress.rds"
+final_save_path <- "../data/checked/gen/cleaned_data.rds"
+
+cutoff <- 3  # Z-score threshold for weight
+
+# ─── CREATE OUTLIER FLAGS ──────────────────────────────────────────────────
+if (!"weight_issue" %in% names(catch_rds)) {
+  catch_rds$weight_issue <- NA
+}
+
+catch_rds <- catch_rds %>%
+  group_by(family) %>%
+  mutate(
+    z_weight = ifelse(!is.na(total_weight_g),
+                      (total_weight_g - mean(total_weight_g, na.rm = TRUE)) /
+                        sd(total_weight_g, na.rm = TRUE),
+                      NA),
+    weight_issue = ifelse(abs(z_weight) > cutoff, "outlier", NA)
+  ) %>%
+  ungroup()
+
+
+# ─── RESUME OR INIT ────────────────────────────────────────────────────────
+if (file.exists(progress_path)) {
+  message("Resuming from saved progress...")
+  catch_rds <- readRDS(progress_path)
+} else {
+  catch_rds$date_new <- NA
+  catch_rds$weight_new <- NA
+  catch_rds$number_new <- NA
+  
+  catch_rds$date_justification <- NA
+  catch_rds$weight_justification <- NA
+  catch_rds$number_justification <- NA
+  
+  catch_rds$date_approved <- NA
+  catch_rds$weight_approved <- NA
+  catch_rds$number_approved <- NA
+  
+  catch_rds$row_checked <- FALSE
+}
+
+# ─── ROWS TO CHECK ─────────────────────────────────────────────────────────
+# ─── INITIALIZE MISSING COLUMNS ──────────────────────────────────────────────
+needed_cols <- c("row_checked", "date_new", "date_justification", "date_approved",
+                 "weight_new", "weight_justification", "weight_approved",
+                 "number_new", "number_justification", "number_approved")
+
+for (col in needed_cols) {
+  if (!col %in% names(catch_rds)) {
+    catch_rds[[col]] <- NA
+  }
+}
+
+# Make logical columns FALSE by default
+logical_cols <- c("row_checked", "date_approved", "weight_approved", "number_approved")
+for (col in logical_cols) {
+  catch_rds[[col]][is.na(catch_rds[[col]])] <- FALSE
+}
+
+# ─── ROWS TO CHECK ───────────────────────────────────────────────────────────
+rows_to_check <- which(!is.na(catch_rds$weight_issue))
+
+# ─── INTERACTIVE LOOP ────────────────────────────────────────────────────────
+i <- 1
+while (i <= length(rows_to_check)) {
+  idx <- rows_to_check[i]
+  row <- catch_rds[idx, ]
+
+  # Skip if already checked
+  if (isTRUE(row$row_checked)) {
+    i <- i + 1
+    next
+  }
+
+  cat("\n--------------------------\n")
+  cat("Row:", idx, "\n")
+  cat("Date:", format(row$date, "%Y-%m-%d"), "\n")
+  cat("Village:", row$village, "\n")
+  cat("Species:", row$scientific_names, "\n")
+  cat("Current weight:", row$total_weight_g, "\n")
+  cat("Current number:", row$total_number, "\n")
+  mean_weight = ifelse(row$total_number > 0,
+                       row$total_weight_g/row$total_number, NA)
+  cat("Current mean weight:", round(mean_weight,2), "\n")
+  cat("Z-score:", round(row$z_weight, 2), "\n")
+  cat("Issue:", row$weight_issue, "\n")
+
+  # Change date?
+  change_date <- readline("Do you want to change the date? (y/n): ")
+  if (tolower(change_date) == "y") {
+    new_date <- readline("Enter new date (YYYY-MM-DD): ")
+    justification <- readline("Enter justification for date change: ")
+    approve <- readline("Approve date change? (y/n): ")
+    if (tolower(approve) == "y") {
+      catch_rds$date_new[idx] <- as.POSIXct(new_date)
+      catch_rds$date_justification[idx] <- justification
+      catch_rds$date_approved[idx] <- TRUE
+    }
+  }
+
+  # Change weight?
+  change_weight <- readline("Do you want to change the weight? (y/n): ")
+  if (tolower(change_weight) == "y") {
+    new_weight <- as.numeric(readline("Enter new weight: "))
+    justification <- readline("Enter justification for weight change: ")
+    approve <- readline("Approve weight change? (y/n): ")
+    if (tolower(approve) == "y") {
+      catch_rds$weight_new[idx] <- new_weight
+      catch_rds$weight_justification[idx] <- justification
+      catch_rds$weight_approved[idx] <- TRUE
+    }
+  }
+
+  # Change number?
+  change_number <- readline("Do you want to change the total number? (y/n): ")
+  if (tolower(change_number) == "y") {
+    new_number <- as.integer(readline("Enter new number: "))
+    justification <- readline("Enter justification for number change: ")
+    approve <- readline("Approve number change? (y/n): ")
+    if (tolower(approve) == "y") {
+      catch_rds$number_new[idx] <- new_number
+      catch_rds$number_justification[idx] <- justification
+      catch_rds$number_approved[idx] <- TRUE
+    }
+  }
+
+  # Mark as checked and save progress
+  catch_rds$row_checked[idx] <- TRUE
+  saveRDS(catch_rds, file = progress_path)
+
+  next_action <- readline("Press Enter for next, type 'back' to go to previous, or 'quit' to exit: ")
+  if (tolower(next_action) == "quit") {
+    cat("Progress saved. You can resume later.\n")
+    break
+  } else if (tolower(next_action) == "back") {
+    if (i > 1) i <- i - 1 else cat("You're at the first row.\n")
+  } else {
+    i <- i + 1
+  }
+}
+
+
+# ─── SAVE FINAL ────────────────────────────────────────────────────────────
+if (i > length(rows_to_check)) {
+  saveRDS(catch_rds, file = final_save_path)
+  cat("\nAll rows reviewed. Final data saved to", final_save_path, "\n")
+}
+
+```
+
+
+
+# IMPORTING CLEANED DATA SET FROM DATA OFFICERS IN DEC
+
+```{r}
+
+# catch.comp_clean = list.files(path =  "C:/Users/USER/Documents/fish_catch_analysis/data/checked_24/catch/", pattern = "*.csv", full.names = TRUE ) |> 
+#   map_catch_rds(~fread(.x, skip = 1)) |> 
+#   janitor::clean_names() |> 
+#   glimpse()
+# 
+# 
+# lw_clean = list.files(path =  "C:/Users/USER/Documents/fish_catch_analysis/data/checked_24/lw/", pattern = "*.csv", full.names = TRUE) |> 
+#   map_catch_rds(~fread(.x, skip = 1)) |> 
+#   janitor::clean_names() |> 
+#   glimpse()
+
+catch.comp_clean = read.csv("C:/Users/USER/Documents/fish_catch_analysis/data/catch_composition_compiled_check.csv") |> 
+  janitor::clean_names() |> 
+  glimpse()
+
+##cleaning variables
+catch.comp_clean$tarehe = as.Date(catch.comp_clean$tarehe, format = "%d/%m/%Y")
+
+catch.comp_clean$tarehe = as.Date(catch.comp_clean$tarehe, format = "%d/%m/%Y")
+
+
+catch.comp_clean$uzito_wa_jamii_moja_ya_samaki = as.numeric(catch.comp_clean$uzito_wa_jamii_moja_ya_samaki)
+
+
+catch.comp_clean$bei = as.integer(catch.comp_clean$bei)
+
+# Split data by Shehia
+Shehia.catch.comp = split(catch.comp_clean, catch.comp_clean$shehia_bmu)
+
+# Make valid names for the data frames
+names(Shehia.catch.comp) <- make.names(names(Shehia.catch.comp))
+
+# Assign each split data frame to a separate variable in the global environment
+list2env(Shehia.catch.comp, envir = .GlobalEnv)
+
+```
+
+##Cleaning
+
+
+```{r}
+
+# for (i in names(catch.data$village)) {
+#  
+#   
+#   cat("\n--- Analysis for region:", i, "---\n")
+#   
+#   village.cleaning[[i]] = catch.data |>
+#   select(number_per_group,fishing_ground,total_weight_g,total_number) |> 
+#   catch_rdsSummary() |> 
+#     print(method = "render")
+# 
+# }
+
+ 
+catch.data |> 
+  select(village, number_per_group,fishing_ground,total_weight_g,total_number) |> 
+  group_by(village) |> 
+  catch_rdsSummary() |> 
+    print(method = "render")
+
+
+catch.data |> 
+  select(village, number_per_group, total_weight_g,total_number) |> 
+  group_by(village) |> 
+ descr()|> 
+  print(method = "render")
+
+```
+
+
+# Species LW cleaning
+
+```{r}
+
+species.lw |> 
+  select(village,fishing_ground,weight_g,length_cm) |> 
+  group_by(village) |> 
+  catch_rdsSummary() |> 
+    print(method = "render")
+
+
+species.lw |> 
+  select(village,weight_g,length_cm) |> 
+  group_by(village) |> 
+ descr()|> 
+  print(method = "render")
+
+
+```
+
+
+# CHONGOLEANI
+
+```{r}
+
+chongoleani.comp = catch.data |> 
+  filter(village == "Chongoleani") |> 
+  glimpse()
+
+head(chongoleani.comp) # prints the first few rows of the data
+str(chongoleani.comp) #structure of data set
+
+#### Cleaning chongoleani data ####
+
+#how many missing values
+
+colSums(is.na(chongoleani.comp))
+
+
+# DATE
+
+ sort(unique(chongoleani.comp$month))
+ 
+ sort(unique(chongoleani.comp$date))
+
+
+# Fishing ground
+sort(unique(chongoleani.comp$fishing_ground))
+
+chongoleani.comp$fishing_ground = replace(chongoleani.comp$fishing_ground,chongoleani.comp$fishing_ground == "ulenge","Ulenge")
+
+chongoleani.comp$fishing_ground = replace(chongoleani.comp$fishing_ground,chongoleani.comp$fishing_ground == "nduwaga","Nduwaga")
+
+# Chongoleani$eneo_la_uvuvi = replace(Chongoleani$eneo_la_uvuvi,Chongoleani$eneo_la_uvuvi == 'Kwawa','Kwawa')
+# Chongoleani$eneo_la_uvuvi = replace(Chongoleani$eneo_la_uvuvi,Chongoleani$eneo_la_uvuvi == 'Kwawq','Kwawa')
+# Chongoleani$eneo_la_uvuvi = replace(Chongoleani$eneo_la_uvuvi,Chongoleani$eneo_la_uvuvi == 'Mwmbanyama','Mwamba nyama')
+# Chongoleani$eneo_la_uvuvi = replace(Chongoleani$eneo_la_uvuvi,Chongoleani$eneo_la_uvuvi == 'Mwanyanyama','Mwamba nyama')
+# Chongoleani$eneo_la_uvuvi = replace(Chongoleani$eneo_la_uvuvi,Chongoleani$eneo_la_uvuvi == 'Kimii','Kimio')
+# Chongoleani$eneo_la_uvuvi = replace(Chongoleani$eneo_la_uvuvi,Chongoleani$eneo_la_uvuvi == 'KiMIo','Kimio')
+# Chongoleani$eneo_la_uvuvi = replace(Chongoleani$eneo_la_uvuvi,Chongoleani$eneo_la_uvuvi == 'Wanba','Wamba')
+# Chongoleani$eneo_la_uvuvi = replace(Chongoleani$eneo_la_uvuvi,Chongoleani$eneo_la_uvuvi == 'Kwawa.','Kwawa')
+# Chongoleani$eneo_la_uvuvi = replace(Chongoleani$eneo_la_uvuvi,Chongoleani$eneo_la_uvuvi == 'Mwambanyama','Mwamba nyama')
+# Chongoleani$eneo_la_uvuvi = replace(Chongoleani$eneo_la_uvuvi,Chongoleani$eneo_la_uvuvi == 'Mnrani','Mnarani')
+
+# Type of fishing ground
+
+sort(unique(chongoleani.comp$type_of_fishingground))
+
+# Gear
+
+sort(unique(chongoleani.comp$gear))
+sort(unique(chongoleani.comp$other_gear))
+
+# Vessels
+
+sort(unique(chongoleani.comp$method))
+
+# species
+
+sort(unique(chongoleani.comp$scientific_names))
+
+# total weight
+
+hist(chongoleani.comp$total_weight_g)
+
+plot(chongoleani.comp$total_weight_g)
+
+ggplot(data = chongoleani.comp, aes(x = total_weight_g, y = family)) + 
+  geom_boxplot()+
+  theme_bw()+
+  facet_grid(month~year, scales = "free")
+
+## Values above >5000
+
+# Total number
+
+
+```
+
+```{r}
+
+ggplot(data = catch.data |> 
+        filter(village == "Kisiwa Panza") , aes(x = total_weight_g, y = family)) + 
+  geom_boxplot()+
+  theme_bw()+
+  facet_grid(year~month, scales = "free")
+
+
+
+catch.data |> 
+  filter(region == "Tanga")
+```
+
+
+
+##Summary and distribution
+
+```{r}
+
+Chongoleani |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+
+Chongoleani |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvi) |> 
+  descr()|> 
+  print(method = "render")
+
+```
+
+#KANGANI
+
+##Cleaning
+
+```{r}
+
+head(Kangani) # prints the first few rows of the data
+str(Kangani) #structure of data set
+
+#Removing duplicates
+
+Kangani %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Kangani))
+
+
+
+
+
+##FISHING GROUND 
+
+Kangani$eneo_la_uvuvi = replace(Kangani$eneo_la_uvuvi,Kangani$eneo_la_uvuvi == 'Bahsrin','Baharini')
+
+
+Kangani %$% 
+  unique(eneo_la_uvuvi)
+
+
+##LUNAR MONTH
+
+Kangani$mwezi_na_bamvua = replace(Kangani$mwezi_na_bamvua,Kangani$mwezi_na_bamvua == 'Mfunguo_Tisa_1','Mfunguo_Sita_1')
+
+
+Kangani %$% 
+  unique(mwezi_na_bamvua)
+
+
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Kangani |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Kangani |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvi) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#KICHALIKANI
+
+##Cleaning
+
+```{r}
+
+head(Kichalikani) # prints the first few rows of the data
+str(Kichalikani) #structure of data set
+
+#Removing duplicates
+
+Kichalikani %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Kichalikani))
+
+
+
+
+##FISHING GROUND
+
+Kichalikani$eneo_la_uvuvi = replace(Kichalikani$eneo_la_uvuvi,Kichalikani$eneo_la_uvuvi == 'Chund9','Chundo')
+Kichalikani$eneo_la_uvuvi = replace(Kichalikani$eneo_la_uvuvi,Kichalikani$eneo_la_uvuvi == 'Wambs','Wamba')
+Kichalikani$eneo_la_uvuvi = replace(Kichalikani$eneo_la_uvuvi,Kichalikani$eneo_la_uvuvi == 'Milangoni','Mlangoni')
+Kichalikani$eneo_la_uvuvi = replace(Kichalikani$eneo_la_uvuvi,Kichalikani$eneo_la_uvuvi == 'Milsngoni','Mlangoni')
+
+
+Kichalikani %$% 
+  unique(eneo_la_uvuvi)
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Kichalikani |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Kichalikani |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvi) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#K/PANZA
+
+##Cleaning
+
+```{r}
+
+head(Kisiwa.Panza) # prints the first few rows of the data
+str(Kisiwa.Panza) #structure of data set
+
+#Removing duplicates
+
+Kisiwa.Panza %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Kisiwa.Panza))
+
+
+
+
+
+
+
+##DATE
+
+Kisiwa.Panza$tarehe = replace(Kisiwa.Panza$tarehe,Kisiwa.Panza$tarehe == '2023-09-19','2024-09-19')
+Kisiwa.Panza$tarehe = replace(Kisiwa.Panza$tarehe,Kisiwa.Panza$tarehe == '2023-10-20','2024-10-20')
+Kisiwa.Panza$tarehe = replace(Kisiwa.Panza$tarehe,Kisiwa.Panza$tarehe == '2023-10-18','2024-10-18')
+
+Kisiwa.Panza %$% 
+  unique(tarehe)
+
+##FISHING GROUND
+
+Kisiwa.Panza$eneo_la_uvuvi = replace(Kisiwa.Panza$eneo_la_uvuvi,Kisiwa.Panza$eneo_la_uvuvi == 'Muinzi','Miuinzi')
+Kisiwa.Panza$eneo_la_uvuvi = replace(Kisiwa.Panza$eneo_la_uvuvi,Kisiwa.Panza$eneo_la_uvuvi == 'Muinz','Miuinzi')
+Kisiwa.Panza$eneo_la_uvuvi = replace(Kisiwa.Panza$eneo_la_uvuvi,Kisiwa.Panza$eneo_la_uvuvi == 'Nuinzi','Miuinzi')
+Kisiwa.Panza$eneo_la_uvuvi = replace(Kisiwa.Panza$eneo_la_uvuvi,Kisiwa.Panza$eneo_la_uvuvi == 'Kondon','Kondoni')
+Kisiwa.Panza$eneo_la_uvuvi = replace(Kisiwa.Panza$eneo_la_uvuvi,Kisiwa.Panza$eneo_la_uvuvi == 'Ngaz','Ngazi')
+Kisiwa.Panza$eneo_la_uvuvi = replace(Kisiwa.Panza$eneo_la_uvuvi,Kisiwa.Panza$eneo_la_uvuvi == 'Mlangon','Mlangoni')
+Kisiwa.Panza$eneo_la_uvuvi = replace(Kisiwa.Panza$eneo_la_uvuvi,Kisiwa.Panza$eneo_la_uvuvi == 'Mzingan','Mzingani')
+
+Kisiwa.Panza %$% 
+  unique(eneo_la_uvuvi)
+
+
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Kisiwa.Panza |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Kisiwa.Panza |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvi) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#KISIWANI
+
+##Cleaning
+
+```{r}
+
+head(Kisiwani) # prints the first few rows of the data
+str(Kisiwani) #structure of data set
+
+#Removing duplicates
+
+Kisiwani %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Kisiwani))
+
+
+##FISHING GROUND
+
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Mahujju','Mahujuu')
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Padwe','Pandwe')
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Pangwe','Pandwe')
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Pande','Pandwe')
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Mahuju','Mahujuu')
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Mahujui','Mahujuu')
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Magujuu','Mahujuu')
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Jamvino','Jamvini')
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Javini','Jamvini')
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Muwangwai','Muwangwi')
+Kisiwani$eneo_la_uvuvi = replace(Kisiwani$eneo_la_uvuvi,Kisiwani$eneo_la_uvuvi == 'Muangwi','Muwangwi')
+
+
+Kisiwani %$% 
+  unique(eneo_la_uvuvi)
+
+#WHAT is Mako ho, is Maguju = mahujuu
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Kisiwani |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Kisiwani |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvi) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#KWALE
+
+##Cleaning
+
+```{r}
+
+head(Kwale) # prints the first few rows of the data
+str(Kwale) #structure of data set
+
+#Removing duplicates
+
+Kwale %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Kwale))
+
+#FISHING GROUND
+
+Kwale$eneo_la_uvuvi = replace(Kwale$eneo_la_uvuvi,Kwale$eneo_la_uvuvi == 'Muangwi','Muwangwi')
+
+
+Kwale %$% 
+  unique(eneo_la_uvuvi)
+
+
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Kwale |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Kwale |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvir) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#KWALE_TANGA
+
+##Cleaning
+
+```{r}
+
+head(Kwale.Tanga) # prints the first few rows of the data
+str(Kwale.Tanga) #structure of data set
+
+#Removing duplicates
+
+Kwale.Tanga %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Kwale.Tanga))
+
+
+#FISHING GROUND
+
+Kwale.Tanga$eneo_la_uvuvi = replace(Kwale.Tanga$eneo_la_uvuvi,Kwale.Tanga$eneo_la_uvuvi == 'Mwamba  nyama','Mwamba Nyama')
+Kwale.Tanga$eneo_la_uvuvi = replace(Kwale.Tanga$eneo_la_uvuvi,Kwale.Tanga$eneo_la_uvuvi == 'Mwamba. Nyama','Mwamba Nyama')
+Kwale.Tanga$eneo_la_uvuvi = replace(Kwale.Tanga$eneo_la_uvuvi,Kwale.Tanga$eneo_la_uvuvi == 'Mwamba  Nyama','Mwamba Nyama')
+Kwale.Tanga$eneo_la_uvuvi = replace(Kwale.Tanga$eneo_la_uvuvi,Kwale.Tanga$eneo_la_uvuvi == 'Uchui','Uchuwi')
+Kwale.Tanga$eneo_la_uvuvi = replace(Kwale.Tanga$eneo_la_uvuvi,Kwale.Tanga$eneo_la_uvuvi == '.wamba nyama','Mwamba Nyama')
+Kwale.Tanga$eneo_la_uvuvi = replace(Kwale.Tanga$eneo_la_uvuvi,Kwale.Tanga$eneo_la_uvuvi == 'Mwamba nyama','Mwamba Nyama')
+Kwale.Tanga$eneo_la_uvuvi = replace(Kwale.Tanga$eneo_la_uvuvi,Kwale.Tanga$eneo_la_uvuvi == 'Mwamba   Nyama','Mwamba Nyama')
+Kwale.Tanga$eneo_la_uvuvi = replace(Kwale.Tanga$eneo_la_uvuvi,Kwale.Tanga$eneo_la_uvuvi == 'Mawe  mawil','Mawe mawili')
+Kwale.Tanga$eneo_la_uvuvi = replace(Kwale.Tanga$eneo_la_uvuvi,Kwale.Tanga$eneo_la_uvuvi == 'Mawe mawil','Mawe mawili')
+
+
+Kwale.Tanga %$% 
+  unique(eneo_la_uvuvi)
+
+#mjani bahari and mikokoni to be checked
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Kwale.Tanga |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Kwale.Tanga |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvir) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#MABOKWENI
+
+##Cleaning
+
+```{r}
+
+head(Mabokweni) # prints the first few rows of the data
+str(Mabokweni) #structure of data set
+
+#Removing duplicates
+
+Mabokweni %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Mabokweni))
+
+
+#FISHING GROUND
+Mabokweni$eneo_la_uvuvi = replace(Mabokweni$eneo_la_uvuvi,Mabokweni$eneo_la_uvuvi == 'Mawe mawil','Mawe mawili')
+
+
+Mabokweni %$% 
+  unique(aina_ya_eneo)
+
+#There is a confusion between fishing ground and substrate type at fishing ground
+```
+
+##Summaries and distribution
+
+```{r}
+
+Mabokweni |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Mabokweni |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvir) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#MAKOONGWE ##Cleaning
+
+```{r}
+
+head(Makoongwe) # prints the first few rows of the data
+str(Makoongwe) #structure of data set
+
+#Removing duplicates
+
+Makoongwe %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Makoongwe))
+
+
+
+#FISHING GROUND
+Makoongwe$eneo_la_uvuvi = replace(Makoongwe$eneo_la_uvuvi,Makoongwe$eneo_la_uvuvi == 'Kwat','Kwata')
+Makoongwe$eneo_la_uvuvi = replace(Makoongwe$eneo_la_uvuvi,Makoongwe$eneo_la_uvuvi == 'Uksi','Ukai')
+Makoongwe$eneo_la_uvuvi = replace(Makoongwe$eneo_la_uvuvi,Makoongwe$eneo_la_uvuvi == 'Kwsta','Kwata')
+Makoongwe$eneo_la_uvuvi = replace(Makoongwe$eneo_la_uvuvi,Makoongwe$eneo_la_uvuvi == 'Misal','Misali')
+Makoongwe$eneo_la_uvuvi = replace(Makoongwe$eneo_la_uvuvi,Makoongwe$eneo_la_uvuvi == 'Matumbin','Matumbini')
+
+Makoongwe %$% 
+  unique(eneo_la_uvuvi)
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Makoongwe |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Makoongwe |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvir) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#MICHENZANI
+
+##Cleaning
+
+```{r}
+
+head(Michenzani) # prints the first few rows of the data
+str(Michenzani) #structure of data set
+
+#Removing duplicates
+
+Michenzani %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Michenzani))
+
+
+
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Kwasharifu','Kwa sharifu')
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Vijiwe vitqtu','Vijiwe vitatu')
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Matumbin','Matumbini')
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Kipwakome','Kipwa kome')
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Jiwe memba','Jiwe membe')
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Jiwe mambe','Jiwe membe')
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Jiwe memba','Jiwe membe')
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Jiwe nembe','Jiwe membe')
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Jiwe membo','Jiwe membe')
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Myuma ya fungu','Nyuma ya fungu')
+Michenzani$eneo_la_uvuvi = replace(Michenzani$eneo_la_uvuvi,Michenzani$eneo_la_uvuvi == 'Iizambarauni','Kizambarauni')
+
+
+Michenzani %$% 
+  unique(eneo_la_uvuvi)
+
+
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Michenzani |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Michenzani |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvir) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#MICHUNGWANI
+
+##Cleaning
+
+```{r}
+
+head(Michungwani) # prints the first few rows of the data
+str(Michungwani) #structure of data set
+
+#Removing duplicates
+
+Michungwani %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Michungwani))
+
+
+Michungwani$eneo_la_uvuvi = replace(Michungwani$eneo_la_uvuvi,Michungwani$eneo_la_uvuvi == 'Iizambarauni','Kizambarauni')
+
+
+Michungwani %$% 
+  unique(eneo_la_uvuvi)
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Michungwani |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Michungwani |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvir) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#MPIRANI
+
+##Cleaning
+
+```{r}
+
+head(Mpirani) # prints the first few rows of the data
+str(Mpirani) #structure of data set
+
+#Removing duplicates
+
+Mpirani %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Mpirani))
+
+
+#FISHING GROUND
+
+Mpirani$eneo_la_uvuvi = replace(Mpirani$eneo_la_uvuvi,Mpirani$eneo_la_uvuvi == 'Mwambanyama','Mwamba Nyama')
+Mpirani$eneo_la_uvuvi = replace(Mpirani$eneo_la_uvuvi,Mpirani$eneo_la_uvuvi == 'Wambanyama','Mwamba Nyama')
+Mpirani$eneo_la_uvuvi = replace(Mpirani$eneo_la_uvuvi,Mpirani$eneo_la_uvuvi == 'Mnyang,a',"Mnyang'a")
+Mpirani$eneo_la_uvuvi = replace(Mpirani$eneo_la_uvuvi,Mpirani$eneo_la_uvuvi == 'Mnyanga',"Mnyang'a")
+Mpirani$eneo_la_uvuvi = replace(Mpirani$eneo_la_uvuvi,Mpirani$eneo_la_uvuvi == 'Kizingan',"Kizingani")
+Mpirani$eneo_la_uvuvi = replace(Mpirani$eneo_la_uvuvi,Mpirani$eneo_la_uvuvi == 'Kizinani',"Kizingani")
+Mpirani$eneo_la_uvuvi = replace(Mpirani$eneo_la_uvuvi,Mpirani$eneo_la_uvuvi == 'Kizing,ani',"Kizingani")
+Mpirani$eneo_la_uvuvi = replace(Mpirani$eneo_la_uvuvi,Mpirani$eneo_la_uvuvi == 'Kingani',"Kizingani")
+Mpirani$eneo_la_uvuvi = replace(Mpirani$eneo_la_uvuvi,Mpirani$eneo_la_uvuvi == 'Kzingani',"Kizingani")
+
+Mpirani %$% 
+  unique(eneo_la_uvuvi)
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Mpirani |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Mpirani |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvir) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#PUTINI
+
+##Cleaning
+
+```{r}
+
+head(Putini) # prints the first few rows of the data
+str(Putini) #structure of data set
+
+#Removing duplicates
+
+Putini %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Putini))
+
+#FISHING GROUND
+
+Putini$eneo_la_uvuvi = replace(Putini$eneo_la_uvuvi,Putini$eneo_la_uvuvi == 'Nganyawa i',"Nganyawani")
+
+Putini %$% 
+  unique(eneo_la_uvuvi)
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Putini |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+Putini |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvir) |> 
+  descr()|> 
+  print(method = "render")
+```
+
+#TAWALANI
+
+##Cleaning
+
+```{r}
+
+head(Tawalani) # prints the first few rows of the data
+str(Tawalani) #structure of data set
+
+#Removing duplicates
+
+Tawalani %<>%
+  distinct()
+
+#how many missing values
+
+colSums(is.na(Tawalani))
+
+
+
+#FISHING GROUND
+
+Tawalani$eneo_la_uvuvi = replace(Tawalani$eneo_la_uvuvi,Tawalani$eneo_la_uvuvi == 'Nganyawa i',"Nganyawani")
+
+Tawalani %$% 
+  unique(aina_ya_eneo)
+
+#has problems with fishing grounds
+
+```
+
+##Summaries and distribution
+
+```{r}
+
+Tawalani |> 
+  select(-data_collector) |> 
+  catch_rdsSummary() |> 
+  print(method = "render")
+
+```
+
+##Descriptive statistics
+
+```{r}
+
+Tawalani |> 
+  select(-data_collector,-bei,-idadi_ya_wavuvi_kwenye_kundi,-umri_wa_mvuvir) |> 
+  descr()|> 
+  print(method = "render")
+
+```
+
+# DATA MERGING 
+
+This is for training purposes. we merge and export the data in excel
+
+
+```{r message=TRUE}
+
+fish.gen = read_excel("C:/Users/USER/Documents/fish_catch_analysis/data/Taarifa_Za_Mavuvi_4.25.xlsx" , sheet = "Form_1_0")
+
+
+catch.composition = read_excel("C:/Users/USER/Documents/fish_catch_analysis/data/Taarifa_Za_Mavuvi_4.25.xlsx" , sheet = "Catch_composition_1")
+
+species.specific = read_excel("C:/Users/USER/Documents/fish_catch_analysis/data/Taarifa_Za_Mavuvi_4.25.xlsx" , sheet = "Species_specific_2")
+
+# fish.families = read.csv("C:/Users/USER/Documents/fish_catch_analysis/data/fish_sci_names_families.csv")
+
+catch.data = fish.gen |> 
+  left_join(catch.composition, by = c("GlobalID" = "ParentGlobalID")) 
+
+ write_xlsx(catch.data, "baf catch.xlsx")
+
+species.lw = fish.gen |>
+  left_join(species.specific, by = c("GlobalID" = "ParentGlobalID"))
+
+ write_xlsx(species.lw, "baf LW.xlsx")
+
+
+```
+
+
+
+
+
+

@@ -1,0 +1,207 @@
+---
+title: "3 Months catch data report (July-September)- WCS BAF"
+author: "Kaijage Laurian"
+format:
+  html:
+    embed-resources: true
+    self-contained-math: true
+date: "2025-10-17"
+date-modified: "today"
+institute: "Mwambao Coastal Community Network"
+toc: true  #table of content
+toc-depth: 6
+lof: true  #list of figures
+lot: true  #list of tables
+number-sections: true
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+---
+
+```{r source_code, echo=FALSE, include=FALSE}
+source("../code/wcs_baf_3month_report_10.25.R")
+```
+
+
+# INTRODUCTION
+
+This is a brief report on reef fish catch data from Kiuyu, Tumbe and Shumba collected between July to September. It provides highlights on the catch and CPUE trends, gear composition, vessel composition and spatial variability of selected indicator reef species.
+
+In the reporting period one data checking and unannounced were conducted every month with the exception of September. This was due to the departmental limited personel during the month. 
+
+# RESULTS
+
+Data was collected between `r first_date_fmt` and `r last_date_fmt`, from villages `r unique(village_stats$village)`. 
+These data were recorded from `r village.wcs.info$number_fground[village.wcs.info$village == "Tumbe"]` in Tumbe, 
+`r village.wcs.info$number_fground[village.wcs.info$village == "Shumba"]` in Shumba, 
+and `r village.wcs.info$number_fground[village.wcs.info$village == "Kiuyu"]` in Kiuyu fishing grounds. 
+The recorded fish family richness were `r village.wcs.info$family_richness[village.wcs.info$village == "Tumbe"]` in Tumbe, 
+`r village.wcs.info$family_richness[village.wcs.info$village == "Shumba"]` in Shumba, 
+and `r village.wcs.info$family_richness[village.wcs.info$village == "Kiuyu"]` in Kiuyu.
+
+## CPUE Trends
+
+From these results, Tumbe recorded a mean catch of `r round(village_stats$mean_weight[village_stats$village=="Tumbe"], 1)` g, 
+Shumba `r round(village_stats$mean_weight[village_stats$village=="Shumba"], 1)` g, 
+and Kiuyu `r round(village_stats$mean_weight[village_stats$village=="Kiuyu"], 1)` g.
+
+In Tumbe, the average catch weight ranged from `r round(village_stats$min_weight[village_stats$village == "Tumbe"],1)` g 
+to `r round(village_stats$max_weight[village_stats$village == "Tumbe"],1)` g, 
+while CPUE varied between `r village_stats$min_cpue[village_stats$village == "Tumbe"]` g/fisher/day 
+and `r village_stats$max_cpue[village_stats$village == "Tumbe"]` g/fisher/day (@fig-fig71).
+
+In Shumba, catch weights ranged from `r village_stats$min_weight[village_stats$village == "Shumba"]` g 
+to `r village_stats$max_weight[village_stats$village == "Shumba"]` g, 
+with CPUE values between `r village_stats$min_cpue[village_stats$village == "Shumba"]` g/fisher/day 
+and `r village_stats$max_cpue[village_stats$village == "Shumba"]` g/fisher/day (@fig-fig71).
+
+In Kiuyu, catch weights ranged from `r round(village_stats$min_weight[village_stats$village == "Kiuyu"],1)` g 
+to `r round(village_stats$max_weight[village_stats$village == "Kiuyu"],1)` g, 
+and CPUE ranged between `r village_stats$min_cpue[village_stats$village == "Kiuyu"]` g/fisher/day 
+and `r village_stats$max_cpue[village_stats$village == "Kiuyu"]` g/fisher/day (@fig-fig71).
+
+Trend analysis suggests that `r paste(village_stats$village[trend_model$trend_slope > 0], collapse = ", ")` experienced increasing catches while Shumba exhibits a slight decline. CPUE patterns varied by location, Kiuyu no visible change, Shumba showed slight increase, and Tumbe experienced a consistent upward trend through the study period.
+
+```{r cpue}
+#| label: fig-fig71
+#| fig-cap: Temporal trends in mean total catch (blue bars) and mean catch per unit effort (CPUE, red line).
+#| fig-pos: H
+#| 
+ggplot(month.cpue.june , aes(x = interaction(month, year))) +
+  # Bar for Total Catch
+  geom_col(aes(y = mean_catch), fill = "steelblue", alpha = 0.6) +
+  
+  # Line for CPUE
+  geom_line(aes(y = mean_cpue, group = 1), color = "red", size = 1.2) +
+  
+  # Dual Y-axes
+  scale_y_continuous(
+    name = "Mean Total Catch (kg)",  # Primary Y axis (Total Catch)
+    sec.axis = sec_axis(~ ., name = "Mean CPUE (kg/fisher/day)")  # Secondary Y axis (CPUE)
+  ) +
+  scale_x_discrete(guide = "axis_nested")+
+  
+  # Styling
+  theme_bw() +
+  labs(x = "Month and Year") +
+  theme(
+    axis.title.y.left = element_text(color = "steelblue"),
+    axis.title.y.right = element_text(color = "red"),
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  ) +
+  
+  # Faceting
+  facet_grid(~village)
+
+```
+
+
+
+## Selected Family Trends
+
+In Tumbe, CPUE peaks were higher and more frequent, with notable catches of Labridae in July  (1.6 g/fisher/day), Lethrinidae in August  (1.5 kg/fisher/day), and Scaridae in August (1.5 kg/fisher/day) as seen in @fig-fig70.
+
+Shumba displayed generally lower CPUE values compared to the other villages, with most families averaging below 1 kg/fisher/day.  Labridae recorded the highest CPUE of 0.8 kg/fisher/day in August  (@fig-fig70).
+
+From @fig-fig70, Kiuyu CPUE values were below 1  kg/fisher/day with high values recorded for Acanthuridae and Siganidae.
+
+```{r}
+#| label: fig-fig70
+#| fig-cap: Temporal changes in selected reef families.
+#| fig-pos: H
+
+ggplot(data = reef.family.trend|> 
+         filter(family %in% c("Siganidae","Mullidae","Lethrinidae","Scaridae","Acanthuridae","Labridae","Lutjanidae","Carangidae","Serranidae","Chaetodontidae", "Haemulidae")), 
+       aes(x = interaction(month, year), y = family, label = round((mean_cpue/1000),2)  ,fill = round((mean_cpue/1000),2))) +
+  geom_tile(color = "grey") +
+  scale_x_discrete(guide = "axis_nested")+
+  scale_fill_gradient2(low = "#0a7d9a",
+                       mid = "orange",
+                       high = "#3c742f",
+                       name = "Average CPUE")+
+  geom_text(color = "white")+
+  scale_y_discrete(limit = rev)+
+  labs(x = "Month and Year", y = "Family", fill = "Average CPUE (kg)") +
+  theme_bw()+
+  facet_grid(~village)
+```
+
+
+## Fishing Grounds Use and CPUE
+
+A total of 39 fishing grounds were monitored across Kiuyu, Tumbe, and Shumba (@tbl-table22). Kiuyu recorded the highest single-ground catch at Uziwani (764.40 g), followed by Kongoo Mchele (722.62 g/fisher/day) and Pwakuu (513.65 g/fisher/day). Tumbe’s top-producing grounds included Kitwani (1,728.32 g/fisher/day) and Funguni (1,647.84 g/fisher/day), while Shumba’s leading sites were Mapakacha (1,047.50 g/fisher/day) and Jiwe mtu (832.50 g/fisher/day). From @tbl-table22 there are fishing grounds such as Farumuni, Uziwani and Jambani that are being utiize between the three villages.
+
+```{r fishing grounds}
+#| label: tbl-table22
+#| tbl-cap: The fishing ground CPUE from Kiuyu, Tumbe and Shumba calculated as g/fisher/day 
+#|
+fgrounds.cpue |> 
+  filter(!fishing_ground %in% c("Pono mchele", "")) |> 
+  pivot_wider(names_from =  village, values_from = mean_cpue) |> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::set_header_labels(fishing_ground = "Fishing Grounds")|> 
+  flextable::bold(part = "header")
+
+```
+
+
+## Gear use
+
+As seen in @tbl-table23, data revealed that gillnets were the most commonly used fishing gear, with Kiuyu recording the highest number of observations (217) . Fish traps were also widely used, particularly in Tumbe (209) , while Handlines were common in Shumba (59). Other notable gears included spearguns (180). Less frequently reported gears included purse seines/ring nets (16) and mixed gear types such as handline–fish trap, each recorded only once.
+
+```{r gear}
+#| label: tbl-table23
+#| tbl-cap: The Frequency of gear used during the data collection period 
+#|
+gear.use |> 
+  pivot_wider(names_from =village, values_from = gear_count ) |> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::set_header_labels(gear = "Gear") |> 
+  flextable::bold(part = "header")
+
+```
+
+Seine nets and fish traps/Handline-combo have recorded the highest amount of CPUE of 1,832.42 g/fisher/day and 1,582.50g/fisher /day respectively. The lowest CPUE of a gear was recorded in Shumba with the use of seine nets of 108.04 g/fisher/day (@tbl-table24). 
+
+```{r gear_cpue}
+#| label: tbl-table24
+#| tbl-cap: The recorded CPUE in g/fisher/day for each gear recorded 
+#|
+gear.cpue.june |> 
+  pivot_wider(names_from =village, values_from = mean_gear_cpue ) |> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::set_header_labels(gear = "Gear") |> 
+  flextable::bold(part = "header")
+
+```
+
+## Vessel use
+
+The most commonly used vessel type was the canoe in  Kiuyu and Fiber boats in Tumbe, while boats with engines (Mashua) were more prevalent in Shumba (@tbl-table25). Kiuyu recorded the use of all vessel types , whereas Tumbe utilized only canoes and fiber boats. In addition to canoes and fiber boats, Shumba also reported the use of Mashua.
+
+```{r vessel_use}
+#| label: tbl-table25
+#|tbl-cap: The recorded frequency of vessles used in Kiuyu, Shumba and Tumbe 
+#|
+vessel.use|> 
+  pivot_wider(names_from =village, values_from = vessel_count ) |> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::set_header_labels(method = "Vessel used") |> 
+  flextable::bold(part = "header")
+
+```
+
+
+
+
+
+
+
+
+

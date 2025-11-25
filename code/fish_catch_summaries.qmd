@@ -1,0 +1,475 @@
+---
+title: "Fish Catch Summary "
+author: "Kaijage Laurian"
+format: html
+date: "2025-02-14"
+date-modified: "today"
+institute: "Mwambao Coastal Communnity Network"
+toc: true  #table of content
+toc-depth: 6
+lof: true  #list of figures
+lot: true  #list of tables
+number-sections: true
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+#bibliography: myref.bib
+---
+
+# CPUE GENERAL
+
+```{r general cpue}
+
+cpue = catch.data |> 
+    select(date, day,month,year, village, region, fisher_number, fisher_name, number_per_group, 
+           fishing_ground, total_weight_g,total_number,family, scientific_names) |> 
+    filter(!is.na(total_weight_g),
+           !is.na(total_number),
+           !is.na(number_per_group),
+           !is.na(village),
+           !family %in% c("Scombridae","Small pelagic" ),
+           !scientific_names %in% c( "Nyuna", "kidau", "Saradini", "vihoro", "Uwono", "Bang'ra",  "Bang'ra mbuzi", "dagaa/dagaa damu/biri biri"),
+           !total_weight_g > 15000,
+           !total_weight_g < 15,
+           !number_per_group > 25)|>
+  group_by(day,month,year, region, village,fisher_number, fisher_name) |>
+    summarise(
+      total_catch = sum(total_weight_g, na.rm = TRUE),
+      total_fishers = sum(number_per_group, na.rm = TRUE),
+      cpue = (total_catch/total_fishers)
+    ) 
+
+cpue = cpue |> 
+  select(month,year, region, cpue, village) |> 
+  group_by(month,year, region, village) |> 
+  summarise(mean.cpue = mean(cpue))
+
+
+
+# # iterating for saving data
+# 
+# #  Split the data into a list by village
+# cpue_split <- split(cpue, cpue$'Wastani wa pato la Mvuvi kwa gramu')
+# 
+# for (v in names(cpue_split)) {
+#   write.csv(cpue_split[[v]], paste0("catch_composition_", v, ".csv"), row.names = FALSE)
+# }
+# 
+ write.csv(cpue,"cpue.csv" ,row.names = FALSE)
+
+# getting top 5 cpue values
+ top5_cpue = cpue |>
+    select( region, village, mean.cpue ) |>
+    group_by(region,village) |> 
+    summarize(CPUE = round(mean(mean.cpue),2)) |> 
+    top_n(5, wt = CPUE) |>
+    arrange(desc(CPUE)) |> 
+    print()
+ 
+
+
+```
+
+# CPUE PER SPECIES
+
+```{r cpue species}
+
+species.cpue = catch.data |>  
+  select(date, day,month,year, village, region, fisher_number, fisher_name, number_per_group, 
+           fishing_ground, total_weight_g,total_number,family,scientific_names) |> 
+  group_by(day,month,year, region, village,family,scientific_names,fisher_number, fisher_name) |>
+    filter(!is.na(total_weight_g),
+           !is.na(total_number),
+           !is.na(number_per_group),
+           !is.na(village),
+           !month %in% c("Jun", "Jul", "Aug"),
+           !family %in% c("Scombridae","Small pelagic" ),
+           !scientific_names %in% c( "Nyuna", "kidau", "Saradini", "vihoro", "Uwono", "Bang'ra",  "Bang'ra mbuzi", "dagaa/dagaa damu/biri biri"),
+           !total_weight_g > 15000,
+           !total_weight_g < 15,
+           !number_per_group > 25)|>  
+    summarise(
+      total_catch = sum(total_weight_g, na.rm = TRUE),
+      total_fishers = sum(number_per_group, na.rm = TRUE),
+      cpue = (total_catch/total_fishers)
+    )
+
+species.cpue = species.cpue |>  
+  select(month,year, region, village,scientific_names,cpue) |> 
+  group_by(month,year, region, village,scientific_names) |> 
+  summarise(mean.cpue = mean(cpue))
+
+
+ top5_species = species.cpue |>
+    select( region,scientific_names,mean.cpue ) |> 
+    filter(!is.na(scientific_names)) |>
+    group_by(region, scientific_names) |> 
+    summarize(CPUE = round(mean(mean.cpue),2)) |> 
+    top_n(5, wt = CPUE) |>
+    arrange(desc(CPUE)) |> 
+    print()
+
+```
+
+# CPUE PER FAMILY
+
+```{r cpue family}
+
+family.cpue = catch.data |>  
+  select(date, day,month,year, village, region, fisher_number, fisher_name, number_per_group, 
+           fishing_ground, total_weight_g,total_number,family,scientific_names) |> 
+    filter(!is.na(total_weight_g),
+           !is.na(total_number),
+           !is.na(number_per_group),
+           !is.na(village),
+           !month %in% c("Jun", "Jul", "Aug"),
+           !family %in% c("Scombridae","Small pelagic" ),
+           !scientific_names %in% c( "Nyuna", "kidau", "Saradini", "vihoro", "Uwono", "Bang'ra",  "Bang'ra mbuzi", "dagaa/dagaa damu/biri biri"),
+           !total_weight_g > 15000,
+           !total_weight_g < 15,
+           !number_per_group > 25)|>
+  group_by(day,month,year, region, village,family,fisher_number, fisher_name) |>  
+    summarise(
+      total_catch = sum(total_weight_g, na.rm = TRUE),
+      total_fishers = sum(number_per_group, na.rm = TRUE),
+      cpue = (total_catch/total_fishers)
+    )
+
+
+family.cpue = family.cpue |>  
+  select(month,year, region, family,cpue) |> 
+  group_by(month,year, region, family) |> 
+  summarise(mean.cpue = mean(cpue))
+
+
+
+
+
+
+  top5_family = family.cpue |>
+    select( region,family,mean.cpue ) |> 
+    filter(!is.na(family),
+           family != "Unknown") |>
+    group_by(region, family) |> 
+    summarize(CPUE = round(mean(mean.cpue),2)) |> 
+    top_n(5, wt = CPUE) |>
+    arrange(desc(CPUE)) |> 
+    print()
+  
+```
+
+# CPUE PER GEAR
+
+```{r cpue gear}
+
+gear.cpue = catch.data |>  
+  select(date, day,month,year,region, village, region, fisher_number, fisher_name, number_per_group, 
+           fishing_ground, total_weight_g,total_number,gear, family,scientific_names) |> 
+    filter(!is.na(total_weight_g),
+           !is.na(total_number),
+           !is.na(number_per_group),
+           !is.na(village),
+           !is.na(gear),
+           !month %in% c("Jun", "Jul", "Aug"),
+           !family %in% c("Scombridae","Small pelagic" ),
+           !scientific_names %in% c( "Nyuna", "kidau", "Saradini", "vihoro", "Uwono", "Bang'ra",  "Bang'ra mbuzi", "dagaa/dagaa damu/biri biri"),
+           !total_weight_g > 15000,
+           !total_weight_g < 15,
+           !number_per_group > 25)|>
+  group_by(day,month,year, region, village,gear,fisher_number, fisher_name) |>  
+    summarise(
+      total_catch = sum(total_weight_g, na.rm = TRUE),
+      total_fishers = sum(number_per_group, na.rm = TRUE),
+      cpue = (total_catch/total_fishers)
+    )
+
+gear.cpue = gear.cpue |>  
+  select(month,year, region, village,gear,cpue) |> 
+  group_by(month,year, region, village,gear) |> 
+  summarise(mean.cpue = mean(cpue))
+
+top5_gear = gear.cpue |> 
+    select( region,gear,mean.cpue ) |> 
+    filter(!is.na(gear)) |>
+    group_by(region, gear) |> 
+    summarize(CPUE = round(mean(mean.cpue),2)) |> 
+    top_n(5, wt = CPUE) |>
+    arrange(desc(CPUE)) |> 
+    print()
+
+```
+
+# FISHING GROUND CPUE
+
+```{r}
+
+fground.cpue = catch.data |>  
+  select(date, day,month,year, village, region, fisher_number, fisher_name, number_per_group, 
+           fishing_ground, total_weight_g,total_number,gear, family, scientific_names) |> 
+    filter(!is.na(total_weight_g),
+           !is.na(total_number),
+           !is.na(number_per_group),
+           !is.na(village),
+           !is.na(gear),
+           !month %in% c("Jun", "Jul", "Aug"),
+           !family %in% c("Scombridae","Small pelagic" ),
+           !scientific_names %in% c( "Nyuna", "kidau", "Saradini", "vihoro", "Uwono", "Bang'ra",  "Bang'ra mbuzi", "dagaa/dagaa damu/biri biri"),
+           !total_weight_g > 15000,
+           !total_weight_g < 15,
+           !number_per_group > 25)|>
+  group_by(day,region, month,year, fishing_ground, village,gear,fisher_number, fisher_name) |>  
+    summarise(
+      total_catch = sum(total_weight_g, na.rm = TRUE),
+      total_fishers = sum(number_per_group, na.rm = TRUE),
+      cpue = (total_catch/total_fishers)
+    )
+
+fground.cpue = fground.cpue |>  
+  select(month,year,region, village,fishing_ground,cpue) |> 
+  group_by(month,year,region,village, fishing_ground) |> 
+  summarise(mean.cpue = mean(cpue))
+
+top5_fground = fground.cpue |> 
+    select( region,fishing_ground,mean.cpue ) |> 
+    group_by(region, fishing_ground) |> 
+    summarize(CPUE = round(mean(mean.cpue),2)) |> 
+    top_n(5, wt = CPUE) |>
+    arrange(desc(CPUE)) |> 
+    print()
+
+
+```
+
+# TROPHIC GROUP CPUE
+
+```{r}
+trophic.cpue = catch.data |>  
+  select(date, day,month,year, village, region, fisher_number, fisher_name, number_per_group, 
+           fishing_ground, total_weight_g,total_number,gear, family, scientific_names, trophic_groups) |> 
+    filter(!is.na(total_weight_g),
+           !is.na(total_number),
+           !is.na(number_per_group),
+           !is.na(village),
+           !is.na(gear),
+           !month %in% c("Jun", "Jul", "Aug"),
+           !family == "Scombridae",
+           !is.na(trophic_groups),
+           !trophic_groups == "#N/A",
+           !total_weight_g > 15000,
+           !total_weight_g < 15,
+           !number_per_group > 25)|>
+  group_by(day,region, month,year, fishing_ground, village,trophic_groups,fisher_number, fisher_name) |>  
+    summarise(
+      total_catch = sum(total_weight_g, na.rm = TRUE),
+      total_fishers = sum(number_per_group, na.rm = TRUE),
+      cpue = (total_catch/total_fishers)
+    )
+
+trophic.cpue = trophic.cpue |>  
+  select(month,year,region, village,trophic_groups,cpue) |> 
+  group_by(month,year,region,village, trophic_groups) |> 
+  summarise(mean.cpue = mean(cpue)) |> 
+  mutate(percentage = (mean.cpue/sum(mean.cpue))*100)
+
+top5_trophicg = trophic.cpue |> 
+    select( region,trophic_groups,mean.cpue ) |> 
+    group_by(region, trophic_groups) |> 
+    summarize(CPUE = round(mean(mean.cpue),2)) |> 
+    top_n(5, wt = CPUE) |>
+    arrange(desc(CPUE)) |> 
+    print()
+```
+
+# GEAR TYPES composition
+
+```{r gear}
+
+gear.composition = fish.gen |>   
+  filter(!is.na(gear),
+         !month %in% c("Jun", "Jul", "Aug")) |> 
+  select(region,village,gear) |> 
+  group_by(region, gear) |> 
+  summarize(gear_counts = n()) |> 
+  mutate(gear_percent = (gear_counts/sum(gear_counts))*100) |> 
+  arrange(desc(gear_percent)) |> 
+  print()
+
+#you will add a filter region where need
+
+```
+
+# VESSEL TYPE
+
+```{r vessel}
+
+vessel.composition = fish.gen |>   
+  filter(!is.na(method),
+         !month %in% c("Jun", "Jul", "Aug")) |> 
+  select(region,village,method) |> 
+  group_by(region,method) |> 
+  summarize(vessel_counts = n()) |> 
+  mutate(vessel_percent = (vessel_counts/sum(vessel_counts))*100) |> 
+  arrange(desc(vessel_percent)) |> 
+  print()
+
+```
+
+# LOOPING THROUGH
+
+this section is not clearly understood and should be learnt
+
+::: callout-note
+Loop through each shehia and print unique fishing grounds
+
+for (v in names(village.catch.data)) { df \<- village.catch.data\[\[v\]\]
+
+cat("\n=== Unique fishing grounds for Shehia:", v, "===\n") print(unique(df\$fishing_ground)) }
+:::
+
+## Creating list
+
+Here is a code use to split data set into village and regions .......creating csv files
+
+```{r data grouping}
+
+
+# Split data by villages
+village.catch.data = split(catch.data, catch.data$village)
+
+
+village.species.lw = split(species.lw, species.lw$village)
+
+#Split data by regions
+region.catch.data = split(catch.data, catch.data$region)
+
+regione.species.lw = split(species.lw, species.lw$region)
+
+
+# # Write each village to a separate CSV file
+# for (v in names(Shehia.catch.comp)) {
+#   write.csv(Shehia.catch.comp[[v]], paste0("catch_composition_", v, ".csv"), row.names = FALSE)
+# }
+# 
+# for (v in names(Shehia.species.lw)) {
+#   write.csv(Shehia.species.lw[[v]], paste0("species_lw_", v, ".csv"), row.names = FALSE)
+# }
+
+
+# for (v in names(village.catch.data)) {
+#   catches = village.catch.data[[v]]
+# }
+
+
+
+```
+
+## Family loop
+
+```{r}
+#Fishing grounds
+
+village.catch.data = split(fish.gen, fish.gen$village)
+
+for (v in names(village.catch.data)) {
+  fish.gen = village.catch.data[[v]] 
+  
+  cat("\n--- Analysis for region:", v, "---\n")
+  
+   fish.gen %$%
+     sort(unique(fishing_ground) )|> 
+    print()
+
+}
+
+## SPECIES 
+
+for (v in names(village.family.cpue)) {
+  top5_species = village.family.cpue[[v]] 
+  
+  cat("\n--- Analysis for region:", v, "---\n")
+  
+  top5_species = species.cpue |>
+    select( region,scientific_names,mean.cpue ) |> 
+    filter(!is.na(scientific_names),
+           region == "Tanga") |>
+    group_by(scientific_names) |> 
+    summarize(CPUE = round(mean(mean.cpue),2)) |> 
+    top_n(5, wt = CPUE) |>
+    arrange(desc(CPUE)) |> 
+    print()
+
+}
+```
+
+## Region subsetting
+
+```{r region subseting}
+
+# Now loop through each subset of REGIONS
+
+for (v in names(region.catch.data)) {
+  catch.data = region.catch.data[[v]]
+  
+  cat("\n--- Analysis for region:", v, "---\n")
+  
+  family.measures =catch.data |> 
+    select(day,month,year, region,village, fisher_number, fisher_name, number_per_group, 
+           fishing_ground, total_weight_g,total_number,family) |> 
+    filter(family %in% c("Scaridae", "Mullidae", "Siganidae", "Chaetodontidae")) |> 
+    group_by(day,month,year,region,village,  fisher_number, fisher_name, family) |> 
+    mutate(
+      total_catch = sum(total_weight_g, na.rm = TRUE ),
+      total_fishers = sum(number_per_group, na.rm = TRUE)
+    ) |> 
+    print()  
+
+}
+
+```
+
+## 1st attempt
+
+```{r}
+
+
+catch.data |> 
+  select(region,village, fishing_ground, fisher_number, fisher_name, number_per_group, gear,date, family,scientific_names, total_weight_g, total_number,month) |> 
+filter(month == "Dec") |> 
+  print()
+
+family.measures = catch.data |> 
+  select(day,year,month, region, lunar_month, fisher_number, fisher_name, number_per_group, fishing_ground,  total_weight_g,total_number,family) |>
+  filter(family %in% c("Scaridae", "Mullidae", "Siganidae" , "Chaetodontidae")) |> 
+  group_by(year,month, region, fisher_number, fisher_name,family) |> 
+    mutate(
+    total_catch = sum(total_weight_g, na.rm = TRUE),  # Total catch per date
+    total_fishers = sum(number_per_group)) |> # Unique fishers per date
+   print()
+  
+  
+family.measures %<>%
+  select( date,region, family, total_catch, total_fishers) |>  
+  group_by(year,month, family.y, region) |> 
+  reframe(cpue_fisher = sum(total_catch, na.rm = T) / sum(total_fishers, na.rm = T)) |>
+  ggplot(aes(x = interaction(month,year), y = cpue_fisher, , fill = family.y))+
+  geom_bar(stat = "identity", position = "fill")+
+  labs(x = "Date", y = "CPUE" )+
+  scale_x_discrete(guide = "axis_nested")+
+  scale_color_manual(values = c("#0a7d9a", "#b44f18", "red", "orange"))+
+  scale_fill_manual(values = c("#0a7d9a", "#b44f18", "red", "orange"))+
+  facet_wrap(~region)+
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, face = "bold"),
+        axis.text.y = element_text(size = 12, face = "bold"),
+        axis.title = element_text(size = 14, face = "bold")
+        )
+```
+
+vessels composition
+
+Most common species per site heat map
+
+CPUE trend for indicator species
+
+CPUE trend for fishing ground to see pressure points

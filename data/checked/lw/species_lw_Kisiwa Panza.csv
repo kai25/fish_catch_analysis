@@ -1,0 +1,735 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,andika_zana_nyingine,bei,maelezo_ya_ziada,Species,uzito_kwa_mmoja_y,urefu_kwa_mmoja_y
+Khamis_Silimi,04/07/2024,Pemba,Kisiwa Panza,Mfunguo_Nane_1,Majomani,Fisher_1,YUSSUF KHAMIS HAJI,24,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Mkuki,NA,5000,NA,Tembo,120,26
+Khamis_Silimi,04/07/2024,Pemba,Kisiwa Panza,Mfunguo_Nane_1,Majomani,Fisher_1,YUSSUF KHAMIS HAJI,24,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Mkuki,NA,5000,NA,Chewa/Tewa,305,28
+Khamis_Silimi,04/07/2024,Pemba,Kisiwa Panza,Mfunguo_Nane_1,Majomani,Fisher_1,YUSSUF KHAMIS HAJI,24,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Mkuki,NA,5000,NA,Myripristis hexagona,167,20
+Khamis_Silimi,04/07/2024,Pemba,Kisiwa Panza,Mfunguo_Nane_1,Majomani,Fisher_1,YUSSUF KHAMIS HAJI,24,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Mkuki,NA,5000,NA,Kibange uzi,112,16
+Khamis_Silimi,04/07/2024,Pemba,Kisiwa Panza,Mfunguo_Nane_1,Majomani,Fisher_1,YUSSUF KHAMIS HAJI,24,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Mkuki,NA,5000,NA,Pono/Chumumbu,209,21
+Aboud_Bakari,25/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Mwembeni,Fisher_1,Ali Mohd,24,male,3,Geandiba,Mwani,NA,Mshipi,NA,5500,NA,Kundaji,59,18
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Mohd Ame,56,male,1,Miuinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,4500,Mkunga mbona haukuingizwa kwenye kundi la samaki,Laga/Puju,672,7
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Chetu Zamir vuai,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,Majina ya baadhi ya samaki hayamo,NA,370,30
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Chetu Zamir vuai,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,Majina ya baadhi ya samaki hayamo,NA,NA,NA
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Chetu Zamir vuai,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,Majina ya baadhi ya samaki hayamo,NA,266,215
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Chetu Zamir vuai,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,Majina ya baadhi ya samaki hayamo,NA,226,21.5
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Chetu Zamir vuai,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,Majina ya baadhi ya samaki hayamo,NA,113,16
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Mohd Abdalla Khellef,37,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,5000,NA,Mzira meno/sumbururu,608,70
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Mohd Abdalla Khellef,37,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,5000,NA,Mzira meno/sumbururu,164,65
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Abubakar Khamis Silima,24,male,1,Muinzi,Mkondoni,Kuogelea),Kuzamia,NA,10000,NA,Chewa/Tewa,500,44
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Abubakar Khamis Silima,24,male,1,Muinzi,Mkondoni,Kuogelea),Kuzamia,NA,10000,NA,Chewa2,1200,66
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Abubakar Khamis Silima,24,male,1,Muinzi,Mkondoni,Kuogelea),Kuzamia,NA,10000,NA,Chewa3,405,39.5
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Abubakar Khamis Silima,24,male,1,Muinzi,Mkondoni,Kuogelea),Kuzamia,NA,10000,NA,Chewa4,400,38
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Yussuf Khamis Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3500,NA,Dambada,600,28
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Yussuf Khamis Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3500,NA,Dambada,200,21
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_5,Hussein Mohd Abdalla,30,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Mkuki,NA,5000,NA,Mzira meno/sumbururu,1148,90
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Mohd Said Omar,20,male,1,Kondon,Matumbawe/miamba,Kutembea,Mshipi,NA,4000,NA,Panda,430,48
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Mohd Said Omar,20,male,1,Kondon,Matumbawe/miamba,Kutembea,Mshipi,NA,4000,NA,Panda,422,38
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Mohd Said Omar,20,male,1,Kondon,Matumbawe/miamba,Kutembea,Mshipi,NA,4000,NA,Panda,422,38
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Abdul Amoun Kassim,35,male,1,Muinzi,Matumbawe/miamba,Kutembea,Kuzamia,NA,6000,NA,NA,202,30
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Abdul Amoun Kassim,35,male,1,Muinzi,Matumbawe/miamba,Kutembea,Kuzamia,NA,6000,NA,NA,420,40
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Abdul Amoun Kassim,35,male,1,Muinzi,Matumbawe/miamba,Kutembea,Kuzamia,NA,6000,NA,NA,350,28.5
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Abdul Amoun Kassim,35,male,1,Muinzi,Matumbawe/miamba,Kutembea,Kuzamia,NA,6000,NA,NA,251,22.5
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Kheir Mohd Ayoub,40,male,1,Muinzi,Majani_bahari,Kuogelea),Mkuki,NA,11000,NA,Laga/Puju,1025,46
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Kheir Mohd Ayoub,40,male,1,Muinzi,Majani_bahari,Kuogelea),Mkuki,NA,11000,NA,Laga/Puju,2600,43.5
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Kheir Mohd Ayoub,40,male,1,Muinzi,Majani_bahari,Kuogelea),Mkuki,NA,11000,NA,Laga/Puju,700,40
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Ahmed  Juma Ali,35,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,NA,1241,29
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Ahmed  Juma Ali,35,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Pono,341,22
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Ahmed  Juma Ali,35,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Pono3,250,18.5
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Ahmed  Juma Ali,35,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Pono4,300,17
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Ahmed  Juma Ali,35,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Pono5,280,16.5
+Khamis_Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Hilali Mohd Ayoub,33,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Chewa/Tewa,1027,65
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Kassim Ali Othman,18,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,3000,NA,Chewa/Tewa,425,34
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Kassim Ali Othman,18,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,3000,NA,Chewa/Tewa,230,25
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Juma Ali Mashaka,53,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,1000,NA,Potepote,449,38
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Aman Abdalla Abdalla,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,2000,NA,Gayogayo,106,19.5
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Aman Abdalla Abdalla,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,2000,NA,Gayogayo,344,26.5
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Faki Othman Juma,40,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7500,NA,Changu2,802,34.5
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Faki Othman Juma,40,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7500,NA,Changu2,330,14
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_5,Chetu Zamir Othman,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,8500,NA,Mzira meno/sumbururu,705,75.5
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_5,Chetu Zamir Othman,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,8500,NA,Mzira meno/sumbururu,743,76
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Shariff Shaal Mdadia,60,male,1,Kondoni,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,8000,NA,Tembo kandaa,430,31.5
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Shariff Shaal Mdadia,60,male,1,Kondoni,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,8000,NA,Tembo kandaa,350,25
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Shariff Shaal Mdadia,60,male,1,Kondoni,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,8000,NA,Tembo kandaa,395,26
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Shariff Shaal Mdadia,60,male,1,Kondoni,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,8000,NA,Tembo kandaa,310,18.5
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Shariff Shaal Mdadia,60,male,1,Kondoni,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,8000,NA,Tembo kandaa,320,14
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Mcha Juma Ali,27,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,9000,NA,Chaa,86,16
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Mcha Juma Ali,27,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,9000,NA,Chaa2,91,22
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Mcha Juma Ali,27,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,9000,NA,Chaa,66,11
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Mcha Juma Ali,27,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,9000,NA,Chaa,152,10
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Mcha Juma Ali,27,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,9000,NA,Chaa,100,12
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Mcha Juma Ali,27,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,9000,NA,Chaa,82,10
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Mwaache Vuaa Hamad,36,female,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,1000,NA,Kurumbwi,300,11.5
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Mwaache Vuaa Hamad,36,female,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,1000,NA,Kurumbwi,300,12
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Mwaache Vuaa Hamad,36,female,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,1000,NA,Kurumbwi,200,9
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Mwaache Vuaa Hamad,36,female,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,1000,NA,Kurumbwi,200,10
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Kassim Juma Kassim,19,male,1,Kondoni,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Mzira meno/sumbururu,285,28
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Kassim Juma Kassim,19,male,1,Kondoni,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Mzira meno/sumbururu,270,17
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Kassim Juma Kassim,19,male,1,Kondoni,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Mzira meno/sumbururu,240,25
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Kassim Juma Kassim,19,male,1,Kondoni,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Mzira meno/sumbururu,260,20
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Kassim Juma Kassim,19,male,1,Kondoni,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Mzira meno/sumbururu,245,23.5
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Kassim Juma Kassim,19,male,1,Kondoni,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Mzira meno/sumbururu,365,28
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Kassim Juma Kassim,19,male,1,Kondoni,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Mzira meno/sumbururu,215,15
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Kassim Juma Kassim,19,male,1,Kondoni,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Mzira meno/sumbururu,215,21
+Khamis_Silimi,02/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Ame Zahir Ame,18,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,5000,NA,Dambada,1675,43
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Salim Haji Makame,30,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,NA,Pono,216,20
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Salim Haji Makame,30,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,NA,Pono,215,20
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Salim Haji Makame,30,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,NA,Pono mwekundu,190,17
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Salim Haji Makame,30,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,NA,Pono3,150,18
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Salim Haji Makame,30,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,NA,Pono,99,15.5
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Salim Haji Makame,30,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,NA,Pono,88,14
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Salim Haji Makame,30,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,NA,Pono,126,17.5
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Salim Haji Makame,30,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,NA,Pono,116,16
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Juma Ali Mashaka,53,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,8000,NA,Mzira boko/ mzia,985,78
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Chetu Zamir Vuai,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,2500,NA,Chewa/Tewa,800,28
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Zahir Ame Ali,53,male,1,Kondon,Matumbawe/miamba,NA,Nyinginezo,Ngawiro,1500,NA,Potepote,754,33
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,NA,Said Omar Abas,53,male,1,Kondon,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,1000,NA,Potepote,106,15
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,NA,Said Omar Abas,53,male,1,Kondon,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,1000,NA,Potepote,83,13.5
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Aman Abdalla,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,2000,NA,Chewa2,737,26
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Aman Abdalla,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,2000,NA,Chewa2,209,20
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Juma Said Hassan,30,male,1,Miuinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,30000,NA,Changu kifimbo/ Mrongo,5000,56
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Juma Othman Juma,47,male,1,Kondon,Matumbawe/miamba,Kutembea,Mkuki,NA,2500,NA,Panda,337,41
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Juma Othman Juma,47,male,1,Kondon,Matumbawe/miamba,Kutembea,Mkuki,NA,2500,NA,Panda,284,63
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Juma Othman Juma,47,male,1,Kondon,Matumbawe/miamba,Kutembea,Mkuki,NA,2500,NA,Panda,337,67
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Juma Othman Juma,47,male,1,Kondon,Matumbawe/miamba,Kutembea,Mkuki,NA,2500,NA,Panda,284,63
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Juma Othman Juma,47,male,1,Kondon,Matumbawe/miamba,Kutembea,Mkuki,NA,2500,NA,NA,178,53
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Nyinginezo,Bunduki,9000,NA,NA,289,41
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Nyinginezo,Bunduki,9000,NA,Pono,154,38
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Nyinginezo,Bunduki,9000,NA,Pono,193,30
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Nyinginezo,Bunduki,9000,NA,Pono,274,40
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Nyinginezo,Bunduki,9000,NA,Pono,72,21
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Nyinginezo,Bunduki,9000,NA,Pono,289,41
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Mussa Said Hassan,19,male,1,Kondon,Matumbawe/miamba,Kuogelea),Mshipi,NA,9000,NA,Tembo kandaa,117,19
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Mussa Said Hassan,19,male,1,Kondon,Matumbawe/miamba,Kuogelea),Mshipi,NA,9000,NA,Tembo kandaa,178,23
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Mussa Said Hassan,19,male,1,Kondon,Matumbawe/miamba,Kuogelea),Mshipi,NA,9000,NA,Tembo kandaa,65,17.5
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Mussa Said Hassan,19,male,1,Kondon,Matumbawe/miamba,Kuogelea),Mshipi,NA,9000,NA,Tembo kandaa,59,16
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Mussa Said Hassan,19,male,1,Kondon,Matumbawe/miamba,Kuogelea),Mshipi,NA,9000,NA,Tembo kandaa,316,27
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Mussa Said Hassan,19,male,1,Kondon,Matumbawe/miamba,Kuogelea),Mshipi,NA,9000,NA,Tembo kandaa,112,22
+Khamis_Silimi,03/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Mussa Said Hassan,19,male,1,Kondon,Matumbawe/miamba,Kuogelea),Mshipi,NA,9000,NA,Tembo kandaa,150,20
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Suleiman Ali Ismail,40,male,1,Jombe,Matumbawe/miamba,Kutembea,Mshipi,NA,4500,NA,NA,215,29.5
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Suleiman Ali Ismail,40,male,1,Jombe,Matumbawe/miamba,Kutembea,Mshipi,NA,4500,NA,Changu5,275,34.5
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Suleiman Ali Ismail,40,male,1,Jombe,Matumbawe/miamba,Kutembea,Mshipi,NA,4500,NA,Changu3,230,31
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Suleiman Ali Ismail,40,male,1,Jombe,Matumbawe/miamba,Kutembea,Mshipi,NA,4500,NA,Changu4,117,23
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Suleiman Ali Ismail,40,male,1,Jombe,Matumbawe/miamba,Kutembea,Mshipi,NA,4500,NA,Changu5,123,14
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Hamad Juma Badru,33,male,1,Jombe,Mchanga,Kutembea,Mshipi,NA,7000,NA,NA,758,41
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Hamad Juma Badru,33,male,1,Jombe,Mchanga,Kutembea,Mshipi,NA,7000,NA,NA,341,29
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Hamad Juma Badru,33,male,1,Jombe,Mchanga,Kutembea,Mshipi,NA,7000,NA,NA,213,15
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Ali Makame Vuai,43,male,1,Jombe,Mchanga,Kutembea,Mshipi,NA,9000,NA,Mzira meno/sumbururu,275,63
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Ali Makame Vuai,43,male,1,Jombe,Mchanga,Kutembea,Mshipi,NA,9000,NA,Mzira meno/sumbururu,250,58
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Ali Makame Vuai,43,male,1,Jombe,Mchanga,Kutembea,Mshipi,NA,9000,NA,Mzira meno/sumbururu,255,55
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Ali Makame Vuai,43,male,1,Jombe,Mchanga,Kutembea,Mshipi,NA,9000,NA,Mzira meno/sumbururu,280,68
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_5,Salim Hsji Msksme,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,4500,NA,Dambada,320,30
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_5,Salim Hsji Msksme,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,4500,NA,Dambada,503,58
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Juma Badru Omar,53,male,1,Kwamwadin,Majani_bahari,NA,Nyavu,NA,11000,NA,Mzira boko/ mzia,255,64
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Juma Badru Omar,53,male,1,Kwamwadin,Majani_bahari,NA,Nyavu,NA,11000,NA,Mzira boko/ mzia,275,59
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Juma Badru Omar,53,male,1,Kwamwadin,Majani_bahari,NA,Nyavu,NA,11000,NA,Mzira boko/ mzia,215,44
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Juma Badru Omar,53,male,1,Kwamwadin,Majani_bahari,NA,Nyavu,NA,11000,NA,Mzira boko/ mzia,214,39
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Juma Badru Omar,53,male,1,Kwamwadin,Majani_bahari,NA,Nyavu,NA,11000,NA,Mzira boko/ mzia,300,63
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Juma Badru Omar,53,male,1,Kwamwadin,Majani_bahari,NA,Nyavu,NA,11000,NA,Mzira boko/ mzia,301,71
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Juma Badru Omar,53,male,1,Kwamwadin,Majani_bahari,NA,Nyavu,NA,11000,NA,Mzira boko/ mzia,270,58.5
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Muinzi,Matumbawe/miamba,Kutembea,Kuzamia,NA,5000,NA,NA,201,32
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Muinzi,Matumbawe/miamba,Kutembea,Kuzamia,NA,5000,NA,Pono,198,25
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Abdalla Omar Abas,46,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,11000,NA,Chewa2,912,49
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Abdalla Omar Abas,46,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,11000,NA,Chewa2,507,40
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Abdalla Omar Abas,46,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,11000,NA,Chewa2,912,49
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Abdalla Omar Abas,46,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,11000,NA,Chewa2,507,40
+Khamis Pandu Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Ussi Said Jecha,39,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,15000,NA,Dambada,4200,79
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Aman Abdalla Abdalla,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,5000,NA,Potepote,111,18.5
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Aman Abdalla Abdalla,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,5000,NA,Potepote,233,35
+Khamis_Silimi,08/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Aman Abdalla Abdalla,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,5000,NA,Potepote,165,27
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Juma Pandu Juma,64,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,Majina samaki hayamo kwenye sistimu hayakaikatika fomu,NA,215,23
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Juma Pandu Juma,64,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,Majina samaki hayamo kwenye sistimu hayakaikatika fomu,NA,215,20
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Juma Pandu Juma,64,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,Majina samaki hayamo kwenye sistimu hayakaikatika fomu,NA,193,17
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Juma Pandu Juma,64,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,Majina samaki hayamo kwenye sistimu hayakaikatika fomu,NA,150,14
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Juma Pandu Juma,64,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,Majina samaki hayamo kwenye sistimu hayakaikatika fomu,NA,85,27
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Juma Pandu Juma,64,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,Majina samaki hayamo kwenye sistimu hayakaikatika fomu,NA,201,12
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Juma Pandu Juma,64,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,Majina samaki hayamo kwenye sistimu hayakaikatika fomu,NA,124,15
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Juma Pandu Juma,64,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,Majina samaki hayamo kwenye sistimu hayakaikatika fomu,NA,118,11.5
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Wanu Hsji Duŵan,57,female,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,NA,400,21
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Wanu Hsji Duŵan,57,female,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,NA,268,23
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Asha Khamis Ali,30,female,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,5500,Majina ya samaki wengine hawamo kwenye mfumo,NA,1100,89
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Faki Othman Juma,40,male,1,Kondon,Matumbawe/miamba,Kutembea,Kwa mkono,NA,4500,NA,Panda,403,71
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Faki Othman Juma,40,male,1,Kondon,Matumbawe/miamba,Kutembea,Kwa mkono,NA,4500,NA,Panda,318,58
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_5,Salama Fasihi Yussuf,48,female,1,Kondoni,Matumbawe/miamba,Kutembea,Mkuki,NA,9000,NA,NA,1000,94
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_5,Salama Fasihi Yussuf,48,female,1,Kondoni,Matumbawe/miamba,Kutembea,Mkuki,NA,9000,NA,NA,375,60
+Khamis Pandu Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_5,Salama Fasihi Yussuf,48,female,1,Kondoni,Matumbawe/miamba,Kutembea,Mkuki,NA,9000,NA,NA,1000,94
+Khamis Pandu Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_5,Salama Fasihi Yussuf,48,female,1,Kondoni,Matumbawe/miamba,Kutembea,Mkuki,NA,9000,NA,NA,375,60
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Kheir Mohd Ayoub,40,male,1,Muinzi,Mkondoni,Kuogelea),Kuzamia,NA,65000,NA,NA,10783,120
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Kasim Ali Othman,19,male,1,Kondon,Mchanga,Kutembea,Mshipi,NA,2000,NA,NA,407,16
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Kasim Ali Othman,19,male,1,Kondon,Mchanga,Kutembea,Mshipi,NA,2000,NA,NA,141,13
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Mwadin Haji Makame,29,male,1,Kondoni,Mwani,Kutembea,Kuzamia,NA,2000,NA,Tasi2,300,33
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Mwadin Haji Makame,29,male,1,Kondoni,Mwani,Kutembea,Kuzamia,NA,2000,NA,Tasi2,201,28
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Mwadin Haji Makame,29,male,1,Kondoni,Mwani,Kutembea,Kuzamia,NA,2000,NA,Pono,313,27
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Omar Mcha Ame,25,male,1,Kondon,Mchanga,Kutembea,Mshipi,NA,6000,NA,Changu2,988,53
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Omar Mcha Ame,25,male,1,Kondon,Mchanga,Kutembea,Mshipi,NA,6000,NA,Changu2,420,41
+Khamis_Silimi,09/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Karama Vuai Kwale,45,male,1,Kondon,Mchanga,Kuogelea),Mkuki,NA,5000,NA,NA,641,71
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Jidawi Ali Ismail,46,male,1,Visiwakoongo,Matumbawe/miamba,Ngalawa,Mshipi,NA,16000,NA,Tembo,525,58
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Jidawi Ali Ismail,46,male,1,Visiwakoongo,Matumbawe/miamba,Ngalawa,Mshipi,NA,16000,NA,Tembo,500,57.5
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Jidawi Ali Ismail,46,male,1,Visiwakoongo,Matumbawe/miamba,Ngalawa,Mshipi,NA,16000,NA,Tembo,307,41
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Jidawi Ali Ismail,46,male,1,Visiwakoongo,Matumbawe/miamba,Ngalawa,Mshipi,NA,16000,NA,Tembo,500,57.5
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_1,Jidawi Ali Ismail,46,male,1,Visiwakoongo,Matumbawe/miamba,Ngalawa,Mshipi,NA,16000,NA,numba,996,57
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Ali Makame Vuai,43,male,1,Visiwakoongo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Tembo,814,57.5
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Ali Makame Vuai,43,male,1,Visiwakoongo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Tembo,56,46
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Ali Makame Vuai,43,male,1,Visiwakoongo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Tembo,396,44
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Ali Makame Vuai,43,male,1,Visiwakoongo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Tembo,504,60
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Ali Makame Vuai,43,male,1,Visiwakoongo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Tembo,200,54
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Ali Makame Vuai,43,male,1,Visiwakoongo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Tembo,195,40
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_2,Ali Makame Vuai,43,male,1,Visiwakoongo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Tembo,198,38
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Omar Ali Faki,51,male,1,Visiwakoongo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,10000,NA,numba,506,70
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Omar Ali Faki,51,male,1,Visiwakoongo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,10000,NA,numba,498,55
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_3,Omar Ali Faki,51,male,1,Visiwakoongo,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,10000,NA,numba,323,39
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Hamad Juma Badru,33,male,1,Jombe,Fungu,Kutembea,Mshipi,NA,5000,NA,Chaa,502,57
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Hamad Juma Badru,33,male,1,Jombe,Fungu,Kutembea,Mshipi,NA,5000,NA,Chaa,450,58.5
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_5,Ame Tashidid Zubeir,40,male,1,Jombe,Mchanga,Kutembea,Mshipi,NA,2500,NA,Chaa,801,69
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Maazi Amoun Kasim,41,male,2,Muinzi,Matumbawe/miamba,Ngalawa,Mshipi,NA,7000,NA,Changu3,740,48
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Maazi Amoun Kasim,41,male,2,Muinzi,Matumbawe/miamba,Ngalawa,Mshipi,NA,7000,NA,Changu2,501,43
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_6,Maazi Amoun Kasim,41,male,2,Muinzi,Matumbawe/miamba,Ngalawa,Mshipi,NA,7000,NA,Changu3,402,40
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Chetu Zamir Othman,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,4000,NA,NA,914,85
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Sslim Haji Makame,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,Panda,52,45.5
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Sslim Haji Makame,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,Panda,203,50
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_8,Sslim Haji Makame,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,Panda,286,53
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Juma Othman Juma,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,8000,NA,NA,502,70
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Juma Othman Juma,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,8000,NA,NA,1099,98.5
+Khamis_Silimi,10/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_10,Faki Aman Khamis,48,male,1,Kondon,Matumbawe/miamba,Kutembea,Mkuki,NA,10000,NA,NA,409,32
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Vuai Shaali Mala,21,male,1,Mlangoni,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,1500,Majina mageni ya samaki hayakai,NA,643,27.5
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Abdulshakur Jamal Ghalib,19,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,1000,NA,Panda,330,60
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Mohd Abdalla Khellef,37,male,1,Mzingan,Matumbawe/miamba,Kutembea,Mshipi,NA,5000,NA,Dambada2,769,38
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Mohd Abdalla Khellef,37,male,1,Mzingan,Matumbawe/miamba,Kutembea,Mshipi,NA,5000,NA,Dambada2,349,25
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Ondoa Amoun Kasim,41,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,1000,NA,Pono,985,44
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Salim Haji Makame,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,10000,NA,Chewa/Tewa,204,24
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Salim Haji Makame,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,10000,NA,Chewa/Tewa,112,20
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Salim Haji Makame,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,10000,NA,Tembo,138,15
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Salim Haji Makame,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,10000,NA,Tembo,58,15
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Salim Haji Makame,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,10000,NA,Pono,230,16
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Said Omar Abasi,53,male,1,Mzingan,Matumbawe/miamba,Kutembea,Mshipi,NA,7000,NA,Chewa/Tewa,1575,87
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Aman Abdalla Abdalla,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,1000,NA,NA,671,26.5
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Saik Iliyasa Ame,19,male,1,Mzingani,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,1200,NA,Panda,515,65
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Saik Iliyasa Ame,19,male,1,Mzingani,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,1200,NA,Panda,500,62
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Saik Iliyasa Ame,19,male,1,Mzingani,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,1200,NA,Panda,174,50
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Ali Zamir Othman,46,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,8000,NA,NA,525,20.5
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Ali Zamir Othman,46,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,8000,NA,NA,144,18
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Ali Zamir Othman,46,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,8000,NA,NA,500,20
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Ali Zamir Othman,46,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,8000,NA,NA,509,21
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Ali Zamir Othman,46,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,8000,NA,NA,250,13
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Mohd Abdalla Abdalla,21,male,1,Mzingan,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,5500,NA,NA,189,19
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Mohd Abdalla Abdalla,21,male,1,Mzingan,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,5500,NA,NA,2000,21
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Mohd Abdalla Abdalla,21,male,1,Mzingan,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,5500,NA,NA,162,20.5
+Khamis_Silimi,17/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Mohd Abdalla Abdalla,21,male,1,Mzingan,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,5500,NA,NA,74,28
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Ussi Said Jecha,34,male,1,Mlangon,Mkondoni,Kuogelea),Kuzamia,NA,12000,NA,Puju2,1460,69
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Ussi Said Jecha,34,male,1,Mlangon,Mkondoni,Kuogelea),Kuzamia,NA,12000,NA,Puju2,1009,62
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Ame Zahir Ame,18,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,8000,NA,NA,471,67
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Ame Zahir Ame,18,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,8000,NA,NA,923,85
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Aviwe Vuai Othman,21,female,4,Muinzi,Matumbawe/miamba,Kutembea,Kwa mkono,NA,NA,5000,Chelema/Mboo ya mvuvi,150,34
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Aviwe Vuai Othman,21,female,4,Muinzi,Matumbawe/miamba,Kutembea,Kwa mkono,NA,NA,5000,Pono,700,55
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Aviwe Vuai Othman,21,female,4,Muinzi,Matumbawe/miamba,Kutembea,Kwa mkono,NA,NA,5000,Pono,642,49
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Aviwe Vuai Othman,21,female,4,Muinzi,Matumbawe/miamba,Kutembea,Kwa mkono,NA,NA,5000,Pono,411,23
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Mohd Abdalla Khellef,37,male,1,Mzingan,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,6500,NA,NA,431,67
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Mohd Abdalla Khellef,37,male,1,Mzingan,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,6500,NA,NA,556,71.5
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Mwanaid Juma Othman,21,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,NA,NA,Chewa/Tewa,1624,60
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Juma Othman Juma,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,1500,NA,NA,155,20
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Juma Othman Juma,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,1500,NA,NA,196,14.5
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Juma Othman Juma,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,1500,NA,NA,187,20
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Maazi Amoun Kassim,41,male,1,Mzingan,Matumbawe/miamba,Kutembea,Mshipi,NA,2500,NA,Chimbashi,515,49
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Maazi Amoun Kassim,41,male,1,Mzingan,Matumbawe/miamba,Kutembea,Mshipi,NA,2500,NA,Chimbashi,500,50
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Maazi Amoun Kassim,41,male,1,Mzingan,Matumbawe/miamba,Kutembea,Mshipi,NA,2500,NA,Chimbashi,185,40
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Rafii Khalfan Kikao,22,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,1600,NA,Dambada,645,45
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Rafii Khalfan Kikao,22,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,1600,NA,Dambada,643,45.5
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Yussuf Khamis Haji,20,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,NA,NA,Chewa/Tewa,2625,57.5
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ahmed Juma Faki,22,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,362,31.5
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ahmed Juma Faki,22,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,326,29
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ahmed Juma Faki,22,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,326,29
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ahmed Juma Faki,22,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,327,22
+Khamis_Silimi,18/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ahmed Juma Faki,22,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,NA,331,25.5
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Ali Bakar Abas,26,male,1,Kifimbo,Matumbawe/miamba,Kutembea,Kuzamia,NA,7000,NA,Pono4,184,37
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Ali Bakar Abas,26,male,1,Kifimbo,Matumbawe/miamba,Kutembea,Kuzamia,NA,7000,NA,NA,600,45
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Ali Bakar Abas,26,male,1,Kifimbo,Matumbawe/miamba,Kutembea,Kuzamia,NA,7000,NA,Pono,540,48.5
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Ali Bakar Abas,26,male,1,Kifimbo,Matumbawe/miamba,Kutembea,Kuzamia,NA,7000,NA,Pono,459,20.5
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Said Juma halichwi,34,male,1,Mlangon,Matumbawe/miamba,Kutembea,Kuzamia,NA,5000,NA,Chewa2,500,49
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Said Juma halichwi,34,male,1,Mlangon,Matumbawe/miamba,Kutembea,Kuzamia,NA,5000,NA,Chewa2,401,43
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Said Juma halichwi,34,male,1,Mlangon,Matumbawe/miamba,Kutembea,Kuzamia,NA,5000,NA,Pono mwekundu,370,46
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,NA,Maazi Amoun Kassim,41,male,1,NSngzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawirp,7000,NA,NA,1396,90
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Abdalla Said Hassan,35,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,5000,NA,Dambada,1230,40
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Hakim salehe Ali,79,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,6500,NA,Changu2,334,29
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Hakim salehe Ali,79,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,6500,NA,Chewa/Tewa,306,25
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Hakim salehe Ali,79,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,6500,NA,Changu2,334,29
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Mohd Fumu Makame,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,Pono4,153,20
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Mohd Fumu Makame,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,NA,58,20.5
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Mohd Fumu Makame,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,Pono,72,20
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Mohd Fumu Makame,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,Pono,63,20
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,9000,NA,Pono,331,60
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,9000,NA,Pono,344,65
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,9000,NA,Pono,644,73
+Khamis_Silimi,19/09/2023,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Rafii Khalfan Kikao,22,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,NA,NA,Tembo kandaa,1634,31.5
+Khamis_Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_9,Pandu Juma Pandu,55,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,6500,NA,Mzira meno/sumbururu,1124,80
+Khamis Pandu Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ramadhan Abdalla Abdalla,40,male,1,Mlangon,Matumbawe/miamba,Kutembea,Kuzamia,NA,2500,NA,Chewa/Tewa,138,23.5
+Khamis Pandu Silimi,19/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ramadhan Abdalla Abdalla,40,male,1,Mlangon,Matumbawe/miamba,Kutembea,Kuzamia,NA,2500,NA,Pono,250,24.5
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Ussi Said Jecha,34,male,1,Mlangon,Majani_bahari,Kutembea,Kuzamia,NA,35000,NA,Chewa/Tewa,10000,155.5
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Ussi Said Jecha,34,male,1,Mlangon,Majani_bahari,Kutembea,Kuzamia,NA,35000,NA,Chewa/Tewa,1877,85
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Kazija Khamis Hamad,49,female,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,4000,NA,Chaa,52,16
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Kazija Khamis Hamad,49,female,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,4000,NA,Chaa,280,30
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Kazija Khamis Hamad,49,female,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,4000,NA,Chaa,60,16.5
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Kazija Khamis Hamad,49,female,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,4000,NA,Kurumbwi,132,15.5
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Kazija Khamis Hamad,49,female,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,4000,NA,Kurumbwi,32,10
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Kazija Khamis Hamad,49,female,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,4000,NA,Kurumbwi,23,11
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Kazija Khamis Hamad,49,female,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,4000,NA,Kurumbwi,40,12
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Ame Zahir Ame,18,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,5000,Hawajaingizwa kwenye mfumo,NA,561,70
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Ame Zahir Ame,18,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,5000,Hawajaingizwa kwenye mfumo,NA,500,65
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Haji Shaal Mala,30,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3500,NA,Chewa/Tewa,222,25
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Haji Shaal Mala,30,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3500,NA,Tasi,290,29
+Khamis_Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Haji Shaal Mala,30,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3500,NA,NA,386,28
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Yussuf Khamis Haji,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Chewa2,920,47
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Yussuf Khamis Haji,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Chewa2,504,31
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Mohd Abdalla Rakwe,51,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,3500,NA,Mkunga,614,70
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Kassim Ali Othman,19,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,2500,NA,Chewa/Tewa,97,25
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Kassim Ali Othman,19,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,2500,NA,Pono,108,16
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Kassim Ali Othman,19,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,2500,NA,Dambada,58,15
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Kassim Ali Othman,19,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,2500,NA,NA,160,17
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Kassim Ali Othman,19,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,2500,NA,Crenimugil crenilabis,98,31
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,9000,NA,Tembo,310,27.5
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,9000,NA,Changu2,218,21.5
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,9000,NA,Potepote,512,33
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Makame Khamis Shaal,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8500,NA,Tembo,134,20
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Makame Khamis Shaal,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8500,NA,Tembo,60,14
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Makame Khamis Shaal,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8500,NA,Tembo,73,17
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Makame Khamis Shaal,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8500,NA,Chewa3,385,22.5
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Makame Khamis Shaal,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8500,NA,Chewa2,262,27
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Abdalla Omar Abas,35,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Chewa2,306,21
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Abdalla Omar Abas,35,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,NA,112,16
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Abdalla Omar Abas,35,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,NA,192,23
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Abdalla Omar Abas,35,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Changu2,323,29.5
+Khamis Pandu Silimi,21/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Abdalla Omar Abas,35,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Tasi uziwa,193,32.5
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Abdalla Salim Faki,22,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,5500,NA,Mkunga,676,70
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Abdalla Salim Faki,22,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,5500,NA,NA,291,55
+Khamis Pandu Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Yussuf Khamis Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3500,NA,Dambada,600,28
+Khamis Pandu Silimi,01/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Yussuf Khamis Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3500,NA,Dambada,200,21
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Makame Kali Shaal,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono,81,19
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Makame Kali Shaal,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono,316,26
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Makame Kali Shaal,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono,189,22.5
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Makame Kali Shaal,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono,138,24
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Makame Kali Shaal,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono,114,19
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,NA,353,29
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,NA,108,18
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Pono,357,28
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Pono,102,18
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Pono,72,16
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,5500,NA,Chewa/Tewa,353,29
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,5500,NA,Chewa/Tewa,228,27
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,5500,NA,Chewa/Tewa,85,19
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,5500,NA,Chewa/Tewa,89,18.5
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,5500,NA,Chewa/Tewa,72,16
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Ahmed Juma Faki,28,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Tasi mweupe,88,19
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Ahmed Juma Faki,28,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Pono,352,26
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Ahmed Juma Faki,28,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Pono,152,20
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,8000,NA,Kundaji,58,15
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,8000,NA,Kundaji2,61,17
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,8000,NA,Kundaji3,62,16.5
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,8000,NA,Tembo,58,16
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,8000,NA,Tembo,50,16
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Khalid Mussa Makame,23,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,826,21
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Khalid Mussa Makame,23,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Dambada,189,20
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Khalid Mussa Makame,23,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Crenimugil crenilabis,119,17
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Said Juma Halichwi,34,male,4,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,1120,28
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Said Juma Halichwi,34,male,4,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,153,22.5
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Said Juma Halichwi,34,male,4,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,113,17.5
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Said Juma Halichwi,34,male,4,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,145,21
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Juma Khalfan Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Kundaji,184,25
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Juma Khalfan Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Kundaji,131,23
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Juma Khalfan Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Kundaji,150,24
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Juma Khalfan Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Kundaji,177,24.5
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Juma Khalfan Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Kundaji,114,21
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ismail Juma Khamis,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,9000,NA,Chewa/Tewa,111,20
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ismail Juma Khamis,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,9000,NA,Chewa/Tewa,106,20
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ismail Juma Khamis,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,9000,NA,Tembo,58,14
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ismail Juma Khamis,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,9000,NA,Tembo,84,20
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ismail Juma Khamis,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,9000,NA,Pono,184,21
+Khamis Pandu Silimi,22/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ismail Juma Khamis,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,9000,NA,Kundaji,184,21
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Hussein Mohd Abdalla,30,male,1,Ngazi,Majani_bahari,Kuogelea),Kuzamia,NA,7000,NA,Pono,500,21
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Hussein Mohd Abdalla,30,male,1,Ngazi,Majani_bahari,Kuogelea),Kuzamia,NA,7000,NA,Pono,250,19
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Hussein Mohd Abdalla,30,male,1,Ngazi,Majani_bahari,Kuogelea),Kuzamia,NA,7000,NA,Pono,700,20
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_1,Hussein Mohd Abdalla,30,male,1,Ngazi,Majani_bahari,Kuogelea),Kuzamia,NA,7000,NA,Pono,921,35
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Ali Bakar Abasi,26,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3000,NA,Chewa/Tewa,522,27
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_2,Ali Bakar Abasi,26,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3000,NA,Chewa/Tewa,428,23
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Khamis Hakimu Haji,31,male,1,Muinzi,Matumbawe/miamba,Kutembea,Kuzamia,NA,3500,NA,Chewa/Tewa,255,27
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_3,Khamis Hakimu Haji,31,male,1,Muinzi,Matumbawe/miamba,Kutembea,Kuzamia,NA,3500,NA,Chewa/Tewa,232,25
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_4,Ame Zahir Ame,18,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,2000,NA,Tembo,262,27
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Said Juma Halichwi,34,male,1,Kifimbo,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Dambada,323,27.5
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_5,Said Juma Halichwi,34,male,1,Kifimbo,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Dambada,428,28.5
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,2000,NA,Tembo,112,16
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,2000,NA,Crenimugil crenilabis,55,16
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,2000,NA,Bodo,56,16
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_6,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,2000,NA,Ndodozi,47,16
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Yussuf Khamis Haji.,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Chewa/Tewa,81,20
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Yussuf Khamis Haji.,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Chewa/Tewa,271,26
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Yussuf Khamis Haji.,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Chewa/Tewa,482,30
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Yussuf Khamis Haji.,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Tembo,50,16.5
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_7,Yussuf Khamis Haji.,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Tembo,76,17
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Hassan Bakar Ali,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,NA,Tembo,60,17
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Hassan Bakar Ali,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,NA,Chewa/Tewa,335,38
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Hassan Bakar Ali,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,NA,Chewa/Tewa,134,21
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Hassan Bakar Ali,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,NA,Dambada,123,16
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Hassan Bakar Ali,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,NA,Dambada,200,22
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Hassan Bakar Ali,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,NA,Dambada,248,24
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,7500,NA,Chewa/Tewa,104,20
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,7500,NA,Chewa/Tewa,228,29
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,7500,NA,Chewa/Tewa,270,26
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,7500,NA,Tembo,64,16.5
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,7500,NA,Tembo,80,16
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_9,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,7500,NA,Tembo,82,17
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ali Vuai Othman,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Pono,150,20
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ali Vuai Othman,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Pono,100,19
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ali Vuai Othman,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Pono,90,18
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_10,Ali Vuai Othman,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Pono,160,21.5
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Harub Faki Anasi,31,male,1,Mlangon,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,NA,Puju1,1403,50
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Ussi Said Jecha,34,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Puju1,2153,55
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Ussi Said Jecha,34,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Puju1,1871,53.5
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Ussi Said Jecha,34,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Puju1,NA,NA
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Khalfan Muharami Ali,36,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,5500,NA,Mkunga,907,86
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Said Omar Abasi,53,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,Mkunga,882,75
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Mwadin Ali Haji,33,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,NA,NA,Puju1,1455,45
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Maazi Amoun Kassim,41,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,6000,NA,Mkunga,1107,83
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Juma Ali Mashaka,53,male,1,Mlangoni,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,6000,NA,Mkunga,985,75
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Juma Mohd Foum,22,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,helahela_ngozi,380,22
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Juma Mohd Foum,22,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,helahela_ngozi,180,21
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Juma Mohd Foum,22,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Pono,200,24
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Juma Mohd Foum,22,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Pono,150,21
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Haji Imam Kombo,21,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,7000,NA,Mkunga,1200,88.5
+Khamis Pandu Silimi,01/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Hashim Juma Kombo,33,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13000,NA,Dambada,2975,47
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Ame Zahir Ame,18,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,2000,NA,Mkunga,671,76
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Abdalla Omar Abasi,46,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Chewa/Tewa,307,27
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Abdalla Omar Abasi,46,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Chewa/Tewa,433,30
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Abdalla Omar Abasi,46,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Chewa/Tewa,355,30
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Chewa/Tewa,116,19
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Chewa/Tewa,225,23
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Chewa/Tewa,227,28
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Chewa/Tewa,119,21
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Chewa/Tewa,145,21.5
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Makame Haji Makame,40,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,2500,NA,Fatundu,165,23.5
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Makame Haji Makame,40,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,2500,NA,Fatundu,200,22
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Vuai Othman Zamir,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,3000,NA,Nbwege,985,27
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Mohd Abdalla Rakwe,51,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,8000,NA,Chewa/Tewa,241,25
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Mohd Abdalla Rakwe,51,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,8000,NA,Myripristis hexagona,48,16
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Mohd Abdalla Rakwe,51,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,8000,NA,Crenimugil crenilabis,80,13
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Hassan Bakar Ali,18,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,60,17
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Hassan Bakar Ali,18,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,1150,25.5
+Khamis Pandu Silimi,23/09/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_2,Majomani,Fisher_8,Hassan Bakar Ali,18,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,270,20
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Salim Haji Makame,32,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,2000,NA,Mkunga,88,80
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Habil Bakar Ali,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,NA,NA,Changu3,303,35
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Habil Bakar Ali,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,NA,NA,Tasi2,252,34
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Ussi Said Jecha,34,male,1,Mlangoni,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13000,NA,Laga/Puju,1500,52.5
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Ussi Said Jecha,34,male,1,Mlangoni,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13000,NA,Laga/Puju,1300,48
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Khamis Juma Suleiman,19,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,1500,NA,Chewa/Tewa,610,36
+Khamis Pandu Silimi,02/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Khamis Juma Suleiman,19,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,1500,NA,Chewa/Tewa,149,28.5
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Ngwali Mohd Ame,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,4500,30,Changu3,128,27
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Ngwali Mohd Ame,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,4500,30,Changu3,111,11
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Ngwali Mohd Ame,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,4500,30,Changu3,89,12
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Ngwali Mohd Ame,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,4500,30,NA,166,NA
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Yussuf Khamis Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Fatundu,386,30
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Yussuf Khamis Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Fatundu,303,30
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Yussuf Khamis Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Pono,342,26
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Yussuf Khamis Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Pono,375,27
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Yussuf Khamis Haji,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Pono,373,28.5
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Khalid mussa Ali,23,male,1,Ngazi,Majani_bahari,Kuogelea),Kuzamia,NA,8000,NA,Changu4,1113,25
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Khalid mussa Ali,23,male,1,Ngazi,Majani_bahari,Kuogelea),Kuzamia,NA,8000,NA,Changu4,119,20
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Khalid mussa Ali,23,male,1,Ngazi,Majani_bahari,Kuogelea),Kuzamia,NA,8000,NA,Changu4,83,16
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Khalid mussa Ali,23,male,1,Ngazi,Majani_bahari,Kuogelea),Kuzamia,NA,8000,NA,Changu4,59,18.5
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Vuai Shaal Mala,21,male,1,Mlangon,Matumbawe/miamba,Kutembea,Mkuki,NA,6000,NA,Pono,1022,11
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Vuai Shaal Mala,21,male,1,Mlangon,Matumbawe/miamba,Kutembea,Mkuki,NA,6000,NA,Pono,119,25
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Vuai Shaal Mala,21,male,1,Mlangon,Matumbawe/miamba,Kutembea,Mkuki,NA,6000,NA,Pono,33,14
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Vuai Shaal Mala,21,male,1,Mlangon,Matumbawe/miamba,Kutembea,Mkuki,NA,6000,NA,Pono,25,16
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Juma Mohd Foum,22,male,1,Mlangoni,Majani_bahari,Kutembea,Mshipi,NA,13500,NA,Changu Ndomo,506,20
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Juma Mohd Foum,22,male,1,Mlangoni,Majani_bahari,Kutembea,Mshipi,NA,13500,NA,Changu Ndomo,557,21
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Juma Mohd Foum,22,male,1,Mlangoni,Majani_bahari,Kutembea,Mshipi,NA,13500,NA,Changu2,36,6
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Juma Mohd Foum,22,male,1,Mlangoni,Majani_bahari,Kutembea,Mshipi,NA,13500,NA,Changu2,29,21
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Saleh Ame Vuai,19,male,1,Muinzi,Majani_bahari,Kutembea,Mshipi,NA,9000,NA,Changu5,557,17.5
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Saleh Ame Vuai,19,male,1,Muinzi,Majani_bahari,Kutembea,Mshipi,NA,9000,NA,Changu5,110,18
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Saleh Ame Vuai,19,male,1,Muinzi,Majani_bahari,Kutembea,Mshipi,NA,9000,NA,Changu5,567,18.5
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Saleh Ame Vuai,19,male,1,Muinzi,Majani_bahari,Kutembea,Mshipi,NA,9000,NA,Changu5,79,20
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Saleh Ame Vuai,19,male,1,Muinzi,Majani_bahari,Kutembea,Mshipi,NA,9000,NA,Changu5,61,17
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Saik Ilyasa Ame,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,2000,NA,Kikande mweupe,309,17
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_7,Saik Ilyasa Ame,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,2000,NA,Kikande mweupe,348,26
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Hussein Mohd Rakwe,30,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,1500,NA,Chimbashi,76,16
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Hussein Mohd Rakwe,30,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,1500,NA,Chimbashi,72,17
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Ibrahim Bakar Ali,21,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3000,NA,Pono,449,30
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Ibrahim Bakar Ali,21,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3000,NA,Pono,116,21
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Ibrahim Bakar Ali,21,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3000,NA,Pono,92,26
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Ussi Said Jecha,21,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4000,NA,Fatundu,234,33.5
+Khamis Pandu Silimi,03/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Ussi Said Jecha,21,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4000,NA,Fatundu,133,NA
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Yussuf Othman Abdalla,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Dambada,141,19
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Yussuf Othman Abdalla,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Dambada,142,33
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Yussuf Othman Abdalla,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Dambada,195,21.5
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Yussuf Othman Abdalla,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Dambada,90,26
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Yussuf Othman Abdalla,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Kundaji,64,20
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Yussuf Othman Abdalla,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Kundaji,85,12.5
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,3000,NA,Chewa/Tewa,68,21
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,3000,NA,Chewa/Tewa,65,29
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,3000,NA,Chewa/Tewa,56,16
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,3000,NA,Chewa/Tewa,75,20
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Vuai Othman Vuai,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,Potepote,199,20
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Vuai Othman Vuai,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,Potepote,100,20
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Kassim Juma Kassim,20,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,Mkunga,730,81.5
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Aman Abdalla Abdalla,47,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,Kikande mweupe,157,19
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Aman Abdalla Abdalla,47,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,Kikande mweupe,234,20
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Aman Abdalla Abdalla,47,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,Kikande mweupe,160,18.5
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Ibrahim Bakar Ali,21,male,1,Muinzi,Matumbawe/miamba,Kutembea,Kwa mkono,NA,1500,NA,Bunju,317,21
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Chimbashi,371,28.5
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Chimbashi,84,25
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Pono,184,27
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Pono,92,27
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Pono,61,21
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Khalid Mussa Ali,23,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Chimbashi,180,23
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Khalid Mussa Ali,23,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Kikande mweupe,150,17
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Khalid Mussa Ali,23,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Pono,150,23
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Khalid Mussa Ali,23,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Mkunga,430,70
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,Hali ya upepo mkali,Tembo,564,22
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,Hali ya upepo mkali,Tembo,62,14.5
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,Hali ya upepo mkali,Tembo,54,15.5
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,Hali ya upepo mkali,Tembo,48,16.5
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,Hali ya upepo mkali,Tembo,546,21
+Khamis Pandu Silimi,05/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8000,Hali ya upepo mkali,Tembo,65,16
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Kasim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,5500,NA,Kundaji,139,17
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Kasim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,5500,NA,Kundaji,66,19.5
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Kasim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,5500,NA,Kundaji,22,19
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Kasim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,5500,NA,Dambada,250,20
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Kasim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,5500,NA,NA,50,13
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Kasim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,5500,NA,Bora,350,20
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Abdhalim Mohd Foum,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,5000,NA,Dambada,121,20
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Abdhalim Mohd Foum,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,5000,NA,Dambada,126,21
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Abdhalim Mohd Foum,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,5000,NA,Chewa/Tewa,117,30
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Mohd Abdalla khelef,37,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,6500,NA,Dambada,1265,44
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Ndodozi,58,19
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Ndodozi,84,19.5
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Ndodozi,63,18.5
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Dambada,179,21
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_4,Vuai Shaal Mala,21,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Dambada,165,19
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Faki Othman Juma,40,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Kundaji,80,17
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Faki Othman Juma,40,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Chewa/Tewa,381,29
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Faki Othman Juma,40,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Bora,443,30
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Faki Othman Juma,40,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,NA,60,15
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Othman Mohd Foum,38,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,5000,NA,Kikande mweupe,142,18.5
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Othman Mohd Foum,38,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,5000,NA,Mkunga,367,70
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Othman Mohd Foum,38,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,5000,NA,Mkunga,1174,81
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Othman Mohd Foum,38,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,5000,NA,Mkunga,167,51
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Khamis Salehe Ali,19,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,Bunju,673,28
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Rafii Khalfan Kikao,20,male,1,Muinzi,Majani_bahari,Kutembea,Kwa mkono,NA,5000,NA,Bodo,134,20
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Rafii Khalfan Kikao,20,male,1,Muinzi,Majani_bahari,Kutembea,Kwa mkono,NA,5000,NA,Bodo,99,18.5
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Rafii Khalfan Kikao,20,male,1,Muinzi,Majani_bahari,Kutembea,Kwa mkono,NA,5000,NA,Bodo,105,22
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Rafii Khalfan Kikao,20,male,1,Muinzi,Majani_bahari,Kutembea,Kwa mkono,NA,5000,NA,Bodo,144,20
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Rafii Khalfan Kikao,20,male,1,Muinzi,Majani_bahari,Kutembea,Kwa mkono,NA,5000,NA,Bodo,88,18.5
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,9000,NA,Dambada,1515,49
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,9000,NA,Dambada,938,20
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Juma Othman Juma,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,7000,NA,Mkunga,997,90
+Khamis Pandu Silimi,16/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Juma Othman Juma,47,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au kaba,7000,NA,Mkunga,311,68
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,4000,NA,Chewa/Tewa,128,21
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,4000,NA,Chewa/Tewa,113,21.5
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_1,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,4000,NA,Bunju,173,15
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Ame Zahir Ame,18,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Panda,239,60
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_2,Ame Zahir Ame,18,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Mkunga,332,53
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Sultan Sharif Shaali,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,400,36
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Sultan Sharif Shaali,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,187,24
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Sultan Sharif Shaali,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,159,23
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Sultan Sharif Shaali,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Myripristis hexagona,235,17
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_3,Sultan Sharif Shaali,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,227,27
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Ussi Said Jecha,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,9500,NA,Laga/Puju,1800,50
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Sita_1,Majomani,Fisher_4,Ussi Said Jecha,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,9500,NA,Laga/Puju,1300,46.5
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_5,Juma Mohd Foum,22,male,1,Mlangon,Matumbawe/miamba,Kutembea,Mkuki,NA,3000,NA,Chana,533,51
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Mustafa Haji Seif,36,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,346,25
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Mustafa Haji Seif,36,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,246,23
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Mustafa Haji Seif,36,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,247,24.5
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_6,Mustafa Haji Seif,36,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Pono,223,24
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Khamis Hakimu Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Pono,425,27
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Khamis Hakimu Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Pono,386,27
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_7,Khamis Hakimu Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5500,NA,Pono,452,26.5
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Haroub Faki Anas,34,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,120,21
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Haroub Faki Anas,34,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,124,21.5
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Haroub Faki Anas,34,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Dambada,356,36
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Haroub Faki Anas,34,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Dambada,193,21
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Haroub Faki Anas,34,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Chewa/Tewa,106,20
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_8,Haroub Faki Anas,34,male,1,Mlangon,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Changu kibaku,100,19
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Pono,147,24
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Pono,275,28
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,numba,273,23.5
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_9,Hussein Mohd Abdalla,30,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Chimbashi,312,26
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Khamis Juma Othman,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,3500,NA,Chelema/Mboo ya mvuvi,105,23.5
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Khamis Juma Othman,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,3500,NA,Chewa/Tewa,69,20
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Khamis Juma Othman,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,3500,NA,Bora,155,30
+Khamis Pandu Silimi,17/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_1,Majomani,Fisher_10,Khamis Juma Othman,18,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,3500,NA,Dambada,47,16
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Kheir Abdalla Abdalla,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyavu,NA,5000,NA,Chewa/Tewa,337,29
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Kheir Abdalla Abdalla,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyavu,NA,5000,NA,Chewa/Tewa,90,19.5
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Kheir Abdalla Abdalla,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyavu,NA,5000,NA,Kurumbwi,60,12
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Kheir Abdalla Abdalla,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyavu,NA,5000,NA,Kurumbwi,47,10
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Kheir Abdalla Abdalla,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyavu,NA,5000,NA,Kurumbwi,19,10.5
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Harbu Faki Anas,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Bunju,331,14.5
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Harbu Faki Anas,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Bunju,314,29
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Harbu Faki Anas,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Bunju,211,12
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Chewa/Tewa,370,19
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Chewa/Tewa,82,20
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Chelema/Mboo ya mvuvi,62,23.5
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,NA,NA,Bunju,212,22
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Rafii Khalfan Kikao,20,male,1,Muinzi,Matumbawe/miamba,Kutembea,Mkuki,NA,2500,NA,Nbwege,543,26
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Mohd Sbdalla khelef,37,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,3000,NA,Dambada,394,26.5
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_6,AbbakarMohd Ayoub,25,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngazi,6000,NA,Mkunga,1465,85
+Khamis Pandu Silimi,18/10/2023,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Chewa/Tewa,113,18.5
+Khamis Pandu Silimi,18/10/2023,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Chewa/Tewa,81,17.5
+Khamis Pandu Silimi,18/10/2023,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Pono,138,25
+Khamis Pandu Silimi,18/10/2023,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Pono,59,16
+Khamis Pandu Silimi,18/10/2023,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Pono,79,27
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Omar Khamis Wadi,51,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,9500,NA,Kikande mweupe,520,19
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Omar Khamis Wadi,51,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,9500,NA,Kikande mweupe,149,20
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Omar Khamis Wadi,51,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,9500,NA,Kikande mweupe,503,19.5
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Omar Khamis Wadi,51,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,9500,NA,Kikande mweupe,506,20
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Omar Khamis Wadi,51,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Msumari,9500,NA,Kikande mweupe,203,17
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Suleiman Ali Ismail,38,male,1,Kondon,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Changu6,520,18
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Suleiman Ali Ismail,38,male,1,Kondon,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Changu2,5000,17
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Suleiman Ali Ismail,38,male,1,Kondon,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Changu3,207,25
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Suleiman Ali Ismail,38,male,1,Kondon,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Changu4,110,12.5
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Suleiman Ali Ismail,38,male,1,Kondon,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Changu5,303,20
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Suleiman Ali Ismail,38,male,1,Kondon,Matumbawe/miamba,Kutembea,Mshipi,NA,14000,NA,Kikande mweusi,996,57
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Ahmed Juma Faki,28,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Pono,310,27.5
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Ahmed Juma Faki,28,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Potepote,512,20
+Khamis Pandu Silimi,18/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Ahmed Juma Faki,28,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Tembo kibaku,218,18
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Khalid Mussa Ali,23,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Fatundu,365,33.5
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Khalid Mussa Ali,23,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Fatundu,478,36.5
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Khalid Mussa Ali,23,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Fatundu,367,26
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Khalid Mussa Ali,23,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Dambada,593,33
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Khalid Mussa Ali,23,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Pono bluu,546,28
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Khalid Mussa Ali,23,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Pono4,342,27
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Khalid Mussa Ali,23,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Pono,459,31.5
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Khalid Mussa Ali,23,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Chimbashi,330,26
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,NA,3000,Panda,246,56
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,NA,3000,Kikande mweupe,184,19.5
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Vuai Othman Vuai,57,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mkuki,NA,2000,NA,Mkunga,266,54
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Saik Iliyasa Ame,19,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,2000,NA,Bunju,300,24
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Juma Othmab Juma,47,male,1,Nuinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,5000,NA,Chimbashi,254,26
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Juma Othmab Juma,47,male,1,Nuinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,5000,NA,Chimbashi,206,24
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Juma Othmab Juma,47,male,1,Nuinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,5000,NA,Chimbashi,154,23.5
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_6,Ishaka Pandu Makame,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,NA,NA,Chewa/Tewa,156,21
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_6,Ishaka Pandu Makame,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,NA,NA,Chewa/Tewa,358,30
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_6,Ishaka Pandu Makame,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,NA,NA,Changu2,205,24
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_6,Ishaka Pandu Makame,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,NA,NA,Kundaji,112,21
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_6,Ishaka Pandu Makame,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,NA,NA,Dambada,112,12
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Juma Pandu Makame,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8500,NA,Chewa/Tewa,328,29
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Juma Pandu Makame,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8500,NA,Chewa/Tewa,315,26
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Juma Pandu Makame,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8500,NA,Kundaji,123,21
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Juma Pandu Makame,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8500,NA,Kundaji,305,31
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Juma Pandu Makame,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Kuzamia,NA,8500,NA,Pono9,165,21.5
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Ahmed Said Omar,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,7500,NA,Tembo kibaku,91,19
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Ahmed Said Omar,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,7500,NA,Tembo kibaku,70,17
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Ahmed Said Omar,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,7500,NA,Tembo kibaku,80,18
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Ahmed Said Omar,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,7500,NA,Tembo kibaku,59,19
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Ahmed Said Omar,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,7500,NA,Tembo kibaku,65,16
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Ahmed Said Omar,26,male,1,Ngazi,Matumbawe/miamba,Kutembea,Mshipi,NA,7500,NA,Kangamacho,96,19
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Othman Juma Pandu,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Tembo,71,16
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Othman Juma Pandu,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Tembo kibaku,57,16
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Othman Juma Pandu,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Tembo,75,16.5
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Othman Juma Pandu,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Myripristis hexagona,162,16.5
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Othman Juma Pandu,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Kundaji,90,15.5
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Othman Juma Pandu,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,5000,NA,Mlea,75,17
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Maazi Amoun Kassim,40,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au Kaba,8500,NA,Mkunga,1005,95
+Khamis Pandu Silimi,19/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Maazi Amoun Kassim,40,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au Kaba,8500,NA,Mkunga,85,80
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Nyavu,NA,NA,NA,Myripristis hexagona,57,15
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Nyavu,NA,NA,NA,Kifuu2,52,14.5
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Nyavu,NA,NA,NA,Myripristis hexagona,64,16
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Kassim Ali Othman,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Nyavu,NA,NA,NA,Kundaji,27,13
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Kazija Khamis Hamad,47,female,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au Kaba,5000,NA,Nbwege,490,23
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Kazija Khamis Hamad,47,female,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro au Kaba,5000,NA,Mkunga,344,66
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Tembo kandaa,121,16.5
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Tembo kibaku,115,16.5
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Tembo kibaku,67,16
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Tembo kibaku,78,17.5
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Tembo kibaku,68,17
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Salehe Ame Vuai,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Myripristis hexagona,160,16
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Khamis Abdalla Abdalla,32,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,10000,NA,Chewa/Tewa,70,17
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Khamis Abdalla Abdalla,32,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,10000,NA,Chewa/Tewa,308,26
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Khamis Abdalla Abdalla,32,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,10000,NA,Chewa/Tewa,144,22
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Khamis Abdalla Abdalla,32,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,10000,NA,Tembo kibaku,133,16
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Khamis Abdalla Abdalla,32,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,10000,NA,Pono,114,18
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Khamis Abdalla Abdalla,32,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,10000,NA,Pono,100,18.5
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Chewa/Tewa,275,25
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Chewa/Tewa,678,35
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Chewa/Tewa,320,27
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Chewa/Tewa,295,27.5
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Chewa/Tewa,243,27
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Chewa/Tewa,294,26
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Chewa/Tewa,300,26
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Mbuzi mto,257,25
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Mbuzi mto,226,24
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Tembo,290,27
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Abdalla Omar Abas,46,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,13500,NA,Dambada,177,21
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_6,Khalid Mussa Ali,23,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,15000,NA,Kolekole1,2524,57.5
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Dambada,157,22
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Dambada,167,22.5
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Dambada,174,24
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Dambada,202,24
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Changu13,90,19
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Ibrahim Bakar Ali,21,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6000,NA,Bora,294,26
+Khamis Pandu Silimi,20/10/2023,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Ussi Said Jecha,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Kifuu mkondo,255,25
+Khamis Pandu Silimi,20/10/2023,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Ussi Said Jecha,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Chewa/Tewa,324,24
+Khamis Pandu Silimi,20/10/2023,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Ussi Said Jecha,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Chewa/Tewa,360,28
+Khamis Pandu Silimi,20/10/2023,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Ussi Said Jecha,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Chewa/Tewa,334,27
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Mohd Abdalla Rakwe,51,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,5000,NA,Mkunga,1325,85
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Ahmed Said Omar,26,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,Kikande mweupe,201,20
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Ahmed Said Omar,26,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,Kikande mweupe,103,15
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Ahmed Said Omar,26,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,Kikande mweupe,61,14
+Khamis Pandu Silimi,20/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Ahmed Said Omar,26,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,NA,Kikande mweupe,26,11
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Ussi Said Jecha,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Nguwazi,1930,50
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Ussi Said Jecha,34,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,12000,NA,Nguwazi,1263,43
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Ame Zahir Ame,18,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,6500,NA,Mkunga,369,59
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Ame Zahir Ame,18,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,6500,NA,Mkunga,766,71
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Mohd Abdalla Khelef,37,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,4500,NA,Mkunga,614,68
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Habil Bakar Ali,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono,169,20
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Habil Bakar Ali,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono bluu,301,20
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Habil Bakar Ali,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono,356,28.5
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Habil Bakar Ali,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono,248,17.5
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Habil Bakar Ali,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono9,170,20
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Habil Bakar Ali,20,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono mchele,231,24.5
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Mwadin Ali Haji,33,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono bluu,583,33
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Mwadin Ali Haji,33,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono bluu,599,31
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Mwadin Ali Haji,33,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono9,728,28
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Mwadin Ali Haji,33,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Pono,400,29
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_6,Aman Abdalla Abdalla,47,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,6500,NA,Kikande mweusi,1877,40
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Zahir Ame Ali,54,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,5000,NA,Mkunga,1200,75
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Abdul Jamal Ghalib,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3500,NA,Bunju,1070,39
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Abdul Jamal Ghalib,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3500,NA,Bunju,433,25
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Abdul Jamal Ghalib,19,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,3500,NA,Bunju,311,24
+Khamis Pandu Silimi,21/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,3000,Wavuvi walikuawkidogo,Chewa tumbo,440,25
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_1,Ussi Said Jecha,34,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,8000,NA,Nguwazi,2215,55
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Ibrahim Mohd Foum,33,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,helahela_ngozi,118,19
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Ibrahim Mohd Foum,33,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,helahela_ngozi,90,19.5
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Ibrahim Mohd Foum,33,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,helahela_ngozi,100,18
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Ibrahim Mohd Foum,33,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Kundaji,250,30
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Ibrahim Mohd Foum,33,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Ndodozi,185,22
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_2,Ibrahim Mohd Foum,33,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7000,NA,Myripristis hexagona,86,16
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Khamis Hakim Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Kundaji,114,23
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Khamis Hakim Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Kundaji,133,21
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Khamis Hakim Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Chewa2,151,21
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Khamis Hakim Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Pono,130,21
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Khamis Hakim Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Pono,167,19
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Khamis Hakim Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Pono,142,22
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Khamis Hakim Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Pono,168,22
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_3,Khamis Hakim Haji,31,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,6500,NA,Pono,322,19
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Ibrahim Bakar Ali,21,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4000,NA,Pono,200,23
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Ibrahim Bakar Ali,21,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4000,NA,Pono,168,15
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_4,Ibrahim Bakar Ali,21,male,1,Muinzi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4000,NA,Chana,331,30
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Ali Khamis Ali,67,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,5000,NA,Mkunga,759,80
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_5,Ali Khamis Ali,67,male,1,Mlangon,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,5000,NA,Chimbashi,159,20
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_6,Vuai Othman Vuai,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,NA,NA,Mkunga,467,60
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_6,Vuai Othman Vuai,57,male,1,Muinzi,Matumbawe/miamba,Kutembea,Nyinginezo,Ngawiro,NA,NA,Mkunga,176,51
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Said Omar Abas,53,male,1,Muinz,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,7500,NA,Chimbashi,78,16
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Said Omar Abas,53,male,1,Muinz,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,7500,NA,Chimbashi,97,18
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Said Omar Abas,53,male,1,Muinz,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,7500,NA,Chimbashi,278,25
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Said Omar Abas,53,male,1,Muinz,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,7500,NA,Kikande mweupe,391,15
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Said Omar Abas,53,male,1,Muinz,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,7500,NA,Kikande mweupe,76,14
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Said Omar Abas,53,male,1,Muinz,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,7500,NA,Kikande mweupe,226,20
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_7,Said Omar Abas,53,male,1,Muinz,Matumbawe/miamba,Kutembea,Nyinginezo,Msumar,7500,NA,Kikande mweupe,89,15
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Salehe Ame Vuai,19,male,1,Ngaz,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Bunju,331,23
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_8,Salehe Ame Vuai,19,male,1,Ngaz,Matumbawe/miamba,Kuogelea),Kuzamia,NA,7500,NA,Bunju,516,25
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4500,NA,Pono,93,16
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4500,NA,Pono,89,19
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4500,NA,Pono,86,17
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4500,NA,Pono,100,22
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4500,NA,Pono,88,18
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4500,NA,Pono,98,19
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_9,Rafii Khalfan Kikao,20,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Kuzamia,NA,4500,NA,Pono,98,19
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Hashim Juma Kombo,33,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Nyavu,NA,2500,NA,NA,132,18.5
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Hashim Juma Kombo,33,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Nyavu,NA,2500,NA,Mlea,52,15
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Hashim Juma Kombo,33,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Nyavu,NA,2500,NA,Chewa/Tewa,156,NA
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Hashim Juma Kombo,33,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Nyavu,NA,2500,NA,Tembo,120,15
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Hashim Juma Kombo,33,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Nyavu,NA,2500,NA,Tembo,70,16
+Khamis Pandu Silimi,31/10/2024,Pemba,Kisiwa Panza,Mfunguo_Saba_2,Majomani,Fisher_10,Hashim Juma Kombo,33,male,1,Ngazi,Matumbawe/miamba,Kuogelea),Nyavu,NA,2500,NA,Tembo,50,16.5

@@ -1,0 +1,544 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,andika_zana_nyingine,bei,maelezo_ya_ziada,Species,uzito_wa_jamii_moja_ya_samaki,idadi_ya_samaki
+"Khadija_Kombo,Wahida_Hamad",02/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_1,Iddi Juma Iddi,63,male,2,Chekwe,Fungu,Ngalawa,Nyavu,NA,5000,NA,Changu14,211,3
+"Khadija_Kombo,Wahida_Hamad",02/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_1,Iddi Juma Iddi,63,male,2,Chekwe,Fungu,Ngalawa,Nyavu,NA,5000,NA,Kangaja2,585,4
+"Khadija_Kombo,Wahida_Hamad",02/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_1,Iddi Juma Iddi,63,male,2,Chekwe,Fungu,Ngalawa,Nyavu,NA,5000,NA,Chaa,58,1
+"Khadija_Kombo,Wahida_Hamad",12/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Ali Omari,37,male,2,Kwata,Fungu,Mashua,Nyavu,NA,5000,Siku yaleo kulikua na mawingu na upepo mkali,Puju1,3378,4
+"Khadija_Kombo,Wahida_Hamad",12/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Ali Omari,37,male,2,Kwata,Fungu,Mashua,Nyavu,NA,5000,Siku yaleo kulikua na mawingu na upepo mkali,Puju1,3378,4
+"Khadija_Kombo,Wahida_Hamad",12/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Ali Omari,37,male,2,Kwata,Fungu,Mashua,Nyavu,NA,5000,Siku yaleo kulikua na mawingu na upepo mkali,Puju1,3378,4
+Khadija_Kombo,04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_1,Ali Mohd Juma,29,male,NA,K-Mtama,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,5000,NA,Pono,131,3
+Khadija_Kombo,04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_1,Ali Mohd Juma,29,male,NA,K-Mtama,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,5000,NA,Pono/Chumumbu,564,12
+"Khadija_Kombo,Wahida_Hamad",15/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,Faki kipeni,25,male,2,Kwata,Mwani,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Pono,272,5
+"Khadija_Kombo,Wahida_Hamad",15/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,Ali Juma Ali,29,male,2,Ukai,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,7000,NA,Pono15,144,5
+"Khadija_Kombo,Wahida_Hamad",15/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,Ali Juma Ali,29,male,2,Ukai,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,7000,NA,Pono3,239,4
+"Khadija_Kombo,Wahida_Hamad",15/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,Mohd Juma kombo,43,male,1,Kwata,Fungu,Dau/Mtumbwi,Mtego/dema,NA,7000,NA,Changu13,160,4
+"Khadija_Kombo,Wahida_Hamad",15/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,Juma Mohd juma,38,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,9000,NA,Pono,117,3
+"Khadija_Kombo,Wahida_Hamad",15/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,Juma Mohd juma,38,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,9000,NA,Pono,214,5
+"Khadija_Kombo,Wahida_Hamad",15/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_5,Pandu Juma Ali,30,male,2,Kwata,Fungu,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Pono,193,5
+"Khadija_Kombo,Wahida_Hamad",15/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_5,Pandu Juma Ali,30,male,2,Kwata,Fungu,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Myripristis hexagona,76,2
+"Khadija_Kombo,Wahida_Hamad",15/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_5,Pandu Juma Ali,30,male,2,Kwata,Fungu,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,NA,314,9
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_2,Haji moh'd Juma,22,male,4,Vijiwe vitatu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Tasi,255,8
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_2,Haji moh'd Juma,22,male,4,Vijiwe vitatu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,NA,184,2
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_2,Haji moh'd Juma,22,male,4,Vijiwe vitatu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,NA,307,6
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_3,JUMA FAKI HAJI,23,male,3,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,Mlea,40,1
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_3,JUMA FAKI HAJI,23,male,3,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,NA,30,1
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_3,JUMA FAKI HAJI,23,male,3,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,Kibua,340,7
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_1,ALI MOH'D JUMA,30,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,8000,NA,Chaa,567,6
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_1,ALI MOH'D JUMA,30,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,8000,NA,Kundaji,351,3
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_1,ALI MOH'D JUMA,30,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,8000,NA,Pono,107,2
+"Khadija_Kombo,Wahida_Hamad",05/07/2024,Pemba,Makoongwe,NA,KwamwalimuIddi,NA,Mohd juma mohd,29,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Myripristis hexagona,496,14
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,NA,KwamwalimuIddi,NA,Abdallh h makame,NA,male,1,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,NA,407,8
+"Khadija_Kombo,Wahida_Hamad",04/07/2024,Pemba,Makoongwe,NA,KwamwalimuIddi,NA,Abdallh h makame,NA,male,1,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Tembo,114,2
+"Khadija_Kombo,Wahida_Hamad",06/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,ALU MOHAMMED JUMA,30,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,7000,NA,Chaa,567,6
+"Khadija_Kombo,Wahida_Hamad",06/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,ALU MOHAMMED JUMA,30,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,7000,NA,NA,351,3
+"Khadija_Kombo,Wahida_Hamad",06/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,ALU MOHAMMED JUMA,30,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,7000,NA,NA,107,2
+"Khadija_Kombo,Wahida_Hamad",06/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,NA,Omar Mohd Omar,15,male,1,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Kangaja3,162,10
+"Khadija_Kombo,Wahida_Hamad",11/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Juma Haji Juma,27,male,2,Kwata,Matumbawe/miamba,Mashua,Nyavu,NA,5000,NA,Myripristis hexagona,66,5
+"Khadija_Kombo,Wahida_Hamad",11/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Juma Haji Juma,27,male,2,Kwata,Matumbawe/miamba,Mashua,Nyavu,NA,5000,NA,Tasi,71,4
+"Khadija_Kombo,Wahida_Hamad",11/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Bakar Juma bakar,30,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Changu13,162,2
+"Khadija_Kombo,Wahida_Hamad",12/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Ali Juma Ali,29,male,2,Ukai,Fungu,Dau/Mtumbwi,Nyavu,NA,10000,NA,Mwewe/Komba,1293,2
+"Khadija_Kombo,Wahida_Hamad",11/07/2024,Pemba,Makoongwe,Mfunguo_Nne_1,KwamwalimuIddi,Fisher_1,Ali Haji Ali,30,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,14000,NA,Changu2,1048,2
+"Khadija_Kombo,Wahida_Hamad",11/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,Juma Haji Ali,32,male,2,Matumbin,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,11000,NA,Tembo,1290,2
+"Khadija_Kombo,Wahida_Hamad",11/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_4,Makame Juma Makame,27,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,NA,NA,Pono,1040,2
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Ali Haji Juma,2,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tembo,597,4
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Ali Haji Juma,2,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,10000,NA,Pono,612,3
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Ali Haji Juma,2,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,10000,NA,Kolekole1,627,2
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Ali Haji Juma,2,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tasi,1347,2
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Abdillah J Ali,20,male,3,Matumbini,Mwani,Dau/Mtumbwi,Kaputi/ dhulumati,NA,14000,NA,Tasi,1019,4
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Abdillah J Ali,20,male,3,Matumbini,Mwani,Dau/Mtumbwi,Kaputi/ dhulumati,NA,14000,NA,Kibua1,10192,2
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Abdillah J Ali,20,male,3,Matumbini,Mwani,Dau/Mtumbwi,Kaputi/ dhulumati,NA,14000,NA,Mwewe/Komba,1087,3
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,Hamad J Mohd,23,male,2,Siau,Mwani,Dau/Mtumbwi,Nyavu,NA,12000,NA,Mkonge,550,6
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_4,Samir A Juma,21,male,4,Kwata,Mchanga,Dau/Mtumbwi,Nyavu,NA,9000,NA,Chaa,793,5
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_4,Samir A Juma,21,male,4,Kwata,Mchanga,Dau/Mtumbwi,Nyavu,NA,9000,NA,Pepero,120,2
+Khadija_Kombo,13/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_5,Ali M Ali,32,male,2,Misali,Mwani,Mashua,Kaputi/ dhulumati,NA,7000,NA,Changu13,298,5
+"Khadija_Kombo,Wahida_Hamad",18/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Othman .A .juma,25,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,5000,NA,Tasi,2103,3
+"Khadija_Kombo,Wahida_Hamad",18/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Othman .A .juma,25,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,5000,NA,Myripristis hexagona,119,2
+"Khadija_Kombo,Wahida_Hamad",18/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,ABDALLAH MAKAME ALI,29,male,3,Boyani,Mchanga,Ngalawa,Nyavu,NA,8000,NA,Tasi,597,5
+"Khadija_Kombo,Wahida_Hamad",18/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,ABDALLAH MAKAME ALI,29,male,3,Boyani,Mchanga,Ngalawa,Nyavu,NA,8000,NA,Changu kifimbo/ Mrongo,612,3
+"Khadija_Kombo,Wahida_Hamad",18/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,OMAR MOHD OMAR,24,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Puju1,1087,3
+"Khadija_Kombo,Wahida_Hamad",18/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,OMAR MOHD OMAR,24,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pono mwekundu,297,5
+"Khadija_Kombo,Wahida_Hamad",18/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_4,ISSA MAKAME USI,29,male,3,Matumbini,Fungu,Dau/Mtumbwi,Nyavu,NA,NA,NA,Kangaja1,1192,2
+"Khadija_Kombo,Wahida_Hamad",18/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_4,ISSA MAKAME USI,29,male,3,Matumbini,Fungu,Dau/Mtumbwi,Nyavu,NA,NA,NA,Changu2,110,2
+"Wahida_Hamad,Khadija_Kombo",19/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,HAJI KASSIM ALI,29,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Tasi,623,3
+"Wahida_Hamad,Khadija_Kombo",19/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,HAJI KASSIM ALI,29,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Changu3,362,3
+"Wahida_Hamad,Khadija_Kombo",19/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,OMAR FAKI JAFAR,30,male,3,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji2,880,1
+"Wahida_Hamad,Khadija_Kombo",19/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,OMAR FAKI JAFAR,30,male,3,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Chaa,109,2
+"Khadija_Kombo,Wahida_Hamad",19/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,JUMA MAKAME JUMA,30,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,15000,NA,Changu Ndomo,4779,8
+"Khadija_Kombo,Wahida_Hamad",19/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,JUMA MAKAME JUMA,30,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,15000,NA,Kolekole1,855,7
+"Khadija_Kombo,Wahida_Hamad",20/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,HAJI JUMA MAKAME,48,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Myripristis hexagona,597,5
+"Khadija_Kombo,Wahida_Hamad",20/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,HAJI JUMA MAKAME,48,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Kibua1,2103,3
+"Khadija_Kombo,Wahida_Hamad",20/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,JUMA .M .MCHA,20,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,6000,NA,Tasi,298,5
+"Khadija_Kombo,Wahida_Hamad",20/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,JUMA .M .MCHA,20,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,6000,NA,Mkonge,550,6
+"Khadija_Kombo,Wahida_Hamad",20/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,HAMAD USSI  JUMA,30,male,2,Mvuleni,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Changu5,298,5
+"Khadija_Kombo,Wahida_Hamad",20/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,HAMAD USSI  JUMA,30,male,2,Mvuleni,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Tembo,1192,2
+"Khadija_Kombo,Wahida_Hamad",20/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,HAMAD USSI  JUMA,30,male,2,Mvuleni,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,14000,NA,Kibua1,623,3
+"Khadija_Kombo,Wahida_Hamad",20/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_4,MUSSA JUMA MUSSA,40,male,3,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,13000,NA,Pono mwekundu,855,7
+"Khadija_Kombo,Wahida_Hamad",20/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_4,MUSSA JUMA MUSSA,40,male,3,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,13000,NA,Pono/Chumumbu,109,2
+"Khadija_Kombo,Wahida_Hamad",25/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,OMAR JUMA OMAR,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,18000,NA,Kolekole1,3793,8
+"Khadija_Kombo,Wahida_Hamad",25/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,OMAR JUMA OMAR,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,18000,NA,Pono,120,2
+"Khadija_Kombo,Wahida_Hamad",25/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,JUMA MAKAME JUMA,32,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Changu14,698,3
+"Khadija_Kombo,Wahida_Hamad",25/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,JUMA MAKAME JUMA,32,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Kundaji2,243,3
+"Khadija_Kombo,Wahida_Hamad",25/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,JUMA MAKAME JUMA,32,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Kibua1,2500,7
+"Khadija_Kombo,Wahida_Hamad",25/07/2020,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,ALI MOHD MCHA,30,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,13000,NA,Tasi,1839,8
+"Khadija_Kombo,Wahida_Hamad",26/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Mundhir Mati Haji,19,male,1,Kwata,Mwani,Mashua,Nyavu,NA,12000,NA,Myripristis hexagona,123,1
+"Khadija_Kombo,Wahida_Hamad",26/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Mundhir Mati Haji,19,male,1,Kwata,Mwani,Mashua,Nyavu,NA,12000,NA,Chaa,662,5
+"Khadija_Kombo,Wahida_Hamad",26/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Juma Haji Khamis,23,male,1,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,15000,NA,Kibua1,300,1
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,Juma Faki Juma,25,male,2,Vijiwe vitatu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,18000,NA,Tasi,489,4
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,Juma Faki Juma,25,male,2,Vijiwe vitatu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,18000,NA,Mlea,112,2
+"Khadija_Kombo,Wahida_Hamad",27/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Mundhir Mati Haji,19,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,13000,NA,Kibua1,281,4
+"Khadija_Kombo,Wahida_Hamad",27/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Mundhir Mati Haji,19,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,13000,NA,Pono,1759,8
+"Khadija_Kombo,Wahida_Hamad",27/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Juma Haji Juma,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Chaa,193,4
+"Khadija_Kombo,Wahida_Hamad",27/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Juma Haji Juma,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tasi,213,3
+"Khadija_Kombo,Wahida_Hamad",27/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,Juma Haji khamis,23,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Changu13,289,3
+"Khadija_Kombo,Wahida_Hamad",27/07/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_3,Juma Haji khamis,23,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Myripristis hexagona,655,4
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,Ali Sleiman Ali,30,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,10000,NA,Changu13,712,6
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,Ali Sleiman Ali,30,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tembo,148,4
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,NA,Hassani ali omari,35,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,9000,NA,Pono,292,2
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,NA,Hassani ali omari,35,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Kaputi/ dhulumati,NA,9000,NA,Chaa,880,4
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,NA,Nassri makame kombo,29,male,1,Matumbin,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,15000,NA,Mzira meno/sumbururu,1338,2
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,NA,Nassri makame kombo,29,male,1,Matumbin,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,15000,NA,Kifuu3,177,3
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,NA,Nassri makame kombo,29,male,1,Matumbin,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,15000,NA,Mwewe/Komba,1376,2
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,KHAMIS ALI KHAMIS,24,male,2,Boyani,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,12000,NA,Pepero,221,3
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,KHAMIS ALI KHAMIS,24,male,2,Boyani,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,12000,NA,Tasi,698,3
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Salum Khamis Haji,22,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,5000,Siku yaleo nihali yaupepo namawing,Pono,268,4
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Salum Khamis Haji,22,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,5000,Siku yaleo nihali yaupepo namawing,Pono15,211,5
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Salum Khamis Haji,22,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,5000,Siku yaleo nihali yaupepo namawing,Pono15,291,6
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Juma Haji,41,male,2,Kwata,Mwani,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Pono,332,5
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Juma Haji,41,male,2,Kwata,Mwani,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Pono5,206,4
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Juma Haji,41,male,2,Kwata,Mwani,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Pono3,96,2
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_3,Khatib Juma Faki,31,male,1,Siau,Mwani,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Pono,374,8
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_3,Khatib Juma Faki,31,male,1,Siau,Mwani,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Bodo,171,4
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Ibrahim Ramadhan Juma,45,male,2,Kwata,Mwani,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Pono/Chumumbu,283,6
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Ibrahim Ramadhan Juma,45,male,2,Kwata,Mwani,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Bodo,139,4
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Ibrahim Ramadhan Juma,45,male,2,Kwata,Mwani,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Pono mwekundu,168,4
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_5,Omar Ali Hamad,37,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Changu2,241,6
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_5,Omar Ali Hamad,37,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Pono,162,5
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_5,Omar Ali Hamad,37,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Changu5,355,8
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_5,Omar Ali Hamad,37,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Changu2,241,6
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_5,Omar Ali Hamad,37,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Pono,162,5
+"Khadija_Kombo,Wahida_Hamad",16/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_5,Omar Ali Hamad,37,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Changu5,355,8
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_5,JUMA MAKAME ALI,28,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Kolekole1,523,4
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_5,JUMA MAKAME ALI,28,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Mlea,912,5
+"Khadija_Kombo,Wahida_Hamad",01/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_5,JUMA MAKAME ALI,28,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tasi,1011,5
+"Khadija_Kombo,Wahida_Hamad",02/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,FAKI JUKA FAKI,29,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tasi,491,5
+"Khadija_Kombo,Wahida_Hamad",02/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,FAKI JUKA FAKI,29,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tembo,427,4
+"Khadija_Kombo,Wahida_Hamad",02/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,Mohd Juma Ali,27,male,2,Ukai,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,8000,NA,Chaa,451,4
+"Khadija_Kombo,Wahida_Hamad",02/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,Mohd Juma Ali,27,male,2,Ukai,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,8000,NA,Pono/Chumumbu,290,3
+"Khadija_Kombo,Wahida_Hamad",02/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,JUMA MAKAME JUMA,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu2,221,2
+"Khadija_Kombo,Wahida_Hamad",02/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,JUMA MAKAME JUMA,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kolekole1,609,6
+"Khadija_Kombo,Wahida_Hamad",02/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,ALI MOHD KHAMIS,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Mwewe/Komba,872,8
+"Khadija_Kombo,Wahida_Hamad",03/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,MOHD ALI HAJI,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,Tembo kandaa,2482,8
+"Khadija_Kombo,Wahida_Hamad",03/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,MOHD ALI HAJI,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,Kolekole2,442,4
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,ALI JUMA ALI,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,570,5
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,ALI JUMA ALI,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mwewe/Komba,988,2
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,ALI JUMA ALI,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Chaa,720,3
+"Khadija_Kombo,Wahida_Hamad",03/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,FAKI MOHD MCHA,31,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Myripristis hexagona,105,1
+"Khadija_Kombo,Wahida_Hamad",03/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,FAKI MOHD MCHA,31,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Pono,895,6
+"Khadija_Kombo,Wahida_Hamad",03/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,FAKI MOHD MCHA,31,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kundaji,460,4
+Khadija_Kombo,03/08/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Haji Ali Mohd,29,male,3,Ukai,Mwani,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Pono/Chumumbu,749,7
+Khadija_Kombo,03/08/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Haji Ali Mohd,29,male,3,Ukai,Mwani,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Tasi,477,4
+Khadija_Kombo,03/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_5,Ali Haji Said,32,male,3,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Tembo,150,1
+Khadija_Kombo,03/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_5,Ali Haji Said,32,male,3,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Changu13,698,5
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,JUMA MAKAME ALI,28,male,2,Boyani,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,12000,NA,Tasi,414,5
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,JUMA MAKAME ALI,28,male,2,Boyani,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,12000,NA,Pono,290,2
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,JUMA MAKAME ALI,28,male,2,Boyani,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,12000,NA,Chaa,417,2
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,HASSAN .A. ABDALLA,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,eriola rivoliana,85,5
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,HASSAN .A. ABDALLA,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tembo,200,3
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,HASSAN .A. ABDALLA,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Changu ndomo2,370,3
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,ABDALLA .J. SAID,28,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,9000,NA,Mwewe/Komba,277,2
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,ABDALLA .J. SAID,28,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,9000,NA,Chaa,180,2
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,ABDALLA .J. SAID,28,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,9000,NA,Bangi Kukuu,286,4
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,MOHD OMAR JUMA,30,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Kibua1,197,3
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,MOHD OMAR JUMA,30,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Myripristis hexagona,327,4
+"Khadija_Kombo,Wahida_Hamad",08/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,MOHD OMAR JUMA,30,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Kundaji,277,2
+"Khadija_Kombo,Wahida_Hamad",09/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,HAJ8 MAKAME HAJI,28,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Kundaji2,288,2
+"Khadija_Kombo,Wahida_Hamad",09/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,HAJ8 MAKAME HAJI,28,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Pono/Chumumbu,152,5
+"Khadija_Kombo,Wahida_Hamad",09/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,HAJ8 MAKAME HAJI,28,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Mwewe/Komba,1332,2
+"Khadija_Kombo,Wahida_Hamad",09/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,HAJ8 MAKAME HAJI,28,male,2,Siau,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Tasi,749,7
+"Khadija_Kombo,Wahida_Hamad",09/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,OTHMAN .A. OTHMAN,24,male,3,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Kolekole1,550,6
+"Khadija_Kombo,Wahida_Hamad",09/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,OTHMAN .A. OTHMAN,24,male,3,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,NA,NA,Kundaji2,460,4
+"Khadija_Kombo,Wahida_Hamad",09/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,MWALIMU.A. MAKAME,29,male,2,Siau,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Chaa,162,10
+"Khadija_Kombo,Wahida_Hamad",09/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,MWALIMU.A. MAKAME,29,male,2,Siau,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kibua1,66,5
+"Khadija_Kombo,Wahida_Hamad",09/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,MAKAME.M.MAKAME,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Changu2,1839,8
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,HAJI ALI HAJI,29,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kundaji,104,2
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,HAJI ALI HAJI,29,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Chaa,484,3
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,HAJI ALI HAJI,29,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Pono,234,2
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,HAJI ALI HAJI,29,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Myripristis hexagona,131,3
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,HAJI ALI HAJI,29,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Changu13,518,2
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,MAKAME ALI MAKAME,30,male,3,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kundaji2,1084,4
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,MAKAME ALI MAKAME,30,male,3,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Tembo,1122,4
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,MAKAME ALI MAKAME,30,male,3,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Tasi,319,4
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,ALI MAKAME ALI,29,male,3,Uksi,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kibua1,265,2
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,ALI MAKAME ALI,29,male,3,Uksi,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Puju1,204,2
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,ALI MAKAME ALI,29,male,3,Uksi,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Myripristis hexagona,221,3
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,ALI MAKAME ALI,29,male,3,Uksi,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pepero,319,3
+"Khadija_Kombo,Wahida_Hamad",10/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,ALI MAKAME ALI,29,male,3,Uksi,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi uziwa,1271,3
+"Khadija_Kombo,Wahida_Hamad",15/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,JYMA ALI JUMA,24,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pono,566,3
+"Khadija_Kombo,Wahida_Hamad",15/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,JYMA ALI JUMA,24,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,1328,3
+"Khadija_Kombo,Wahida_Hamad",15/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,JYMA ALI JUMA,24,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji2,1277,3
+"Khadija_Kombo,Wahida_Hamad",15/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,JYMA ALI JUMA,24,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu2,847,3
+"Khadija_Kombo,Wahida_Hamad",15/08/2023,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,ALI.S.MAKAME,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kibua1,470,2
+"Khadija_Kombo,Wahida_Hamad",15/08/2023,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,ALI.S.MAKAME,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Myripristis hexagona,183,4
+"Khadija_Kombo,Wahida_Hamad",15/08/2023,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,ALI.S.MAKAME,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Mwewe/Komba,595,5
+"Khadija_Kombo,Wahida_Hamad",15/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,HAJI .M.HAJI,28,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu ndomo2,632,4
+"Khadija_Kombo,Wahida_Hamad",15/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,HAJI .M.HAJI,28,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji,1015,3
+"Khadija_Kombo,Wahida_Hamad",15/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,HAJI .M.HAJI,28,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mzira/Mzia,854,2
+"Khadija_Kombo,Wahida_Hamad",17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Ame Kombo,34,male,2,Ukai,Mwani,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Changu13,221,6
+"Khadija_Kombo,Wahida_Hamad",17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Ame Kombo,34,male,2,Ukai,Mwani,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Pono,266,5
+Khadija_Kombo,17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Omar Ali,42,male,2,Ukai,Fungu,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Tasi,205,4
+Khadija_Kombo,17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Omar Ali,42,male,2,Ukai,Fungu,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Pono,155,4
+Khadija_Kombo,17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Omar Ali,42,male,2,Ukai,Fungu,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Changu13,192,5
+Khadija_Kombo,17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Omar Ali,42,male,2,Ukai,Fungu,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Kundaji,55,2
+Khadija_Kombo,17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Omar Ali,42,male,2,Ukai,Fungu,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Bodo,126,2
+Khadija_Kombo,17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_3,Mohd Kombo Ame,46,male,1,Kwata,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,2000,NA,Pono,258,4
+"Khadija_Kombo,Wahida_Hamad",17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Kassim Juma Makame,38,male,2,Umandeni,Fungu,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Tasi,110,3
+"Khadija_Kombo,Wahida_Hamad",17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Kassim Juma Makame,38,male,2,Umandeni,Fungu,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Bodo,220,4
+"Khadija_Kombo,Wahida_Hamad",17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Kassim Juma Makame,38,male,2,Umandeni,Fungu,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Pono,149,3
+"Khadija_Kombo,Wahida_Hamad",17/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Kassim Juma Makame,38,male,2,Umandeni,Fungu,Dau/Mtumbwi,Mtego/dema,NA,5000,NA,Changu13,150,4
+Khadija_Kombo,15/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,Mohd A Mohd,28,male,3,Boyani,Fungu,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mwewe/Komba,665,2
+Khadija_Kombo,15/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,Mohd A Mohd,28,male,3,Boyani,Fungu,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu13,951,2
+Khadija_Kombo,15/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,Mohd A Mohd,28,male,3,Boyani,Fungu,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tembo,564,4
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,Mohd Ali Juma,29,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kibua1,536,3
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,Mohd Ali Juma,29,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Changu13,634,2
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_1,Mohd Ali Juma,29,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Chaa,718,2
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,Kassim Khamis Ali,27,male,3,Kwata,Fungu,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,1084,4
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,Kassim Khamis Ali,27,male,3,Kwata,Fungu,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tembo,319,4
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,Kassim Khamis Ali,27,male,3,Kwata,Fungu,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji,342,7
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_2,Kassim Khamis Ali,27,male,3,Kwata,Fungu,Dau/Mtumbwi,Nyavu,NA,5000,NA,Chaa,114,2
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,Idd Makame Ali,28,male,2,Umandeni,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Tasi,114,7
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,Idd Makame Ali,28,male,2,Umandeni,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Tembo,712,6
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,Idd Makame Ali,28,male,2,Umandeni,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Pono,460,4
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,Ali Mohd Omar,28,male,2,Siau,Mwani,Dau/Mtumbwi,Nyavu,NA,11000,NA,Chaa,1759,8
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,Ali Mohd Omar,28,male,2,Siau,Mwani,Dau/Mtumbwi,Nyavu,NA,11000,NA,Changu13,597,5
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,Ali Mohd Omar,28,male,2,Siau,Mwani,Dau/Mtumbwi,Nyavu,NA,11000,NA,Tuguu,597,4
+Khadija_Kombo,16/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,Ali Mohd Omar,28,male,2,Siau,Mwani,Dau/Mtumbwi,Nyavu,NA,11000,NA,Myripristis hexagona,988,2
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,NA,Fisher_1,Ali Sleiman Ali,30,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Laga/Puju,968,1
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,NA,Fisher_1,Ali Sleiman Ali,30,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Mlea2,424,2
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,NA,Fisher_1,Ali Sleiman Ali,30,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Kibua1,591,3
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,NA,Fisher_1,Ali Sleiman Ali,30,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Mkonge,1183,2
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,NA,Fisher_1,Ali Sleiman Ali,30,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Mwewe/Komba,372,2
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,NA,Fisher_1,Ali Sleiman Ali,30,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Kolekole1,1550,4
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Salum Mohd Salum,51,male,1,Matumbin,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,9000,NA,Puju1,961,1
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Salum Mohd Salum,51,male,1,Matumbin,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,9000,NA,Changu13,590,3
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Salum Mohd Salum,51,male,1,Matumbin,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,9000,NA,Chaa,1759,8
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Faki Mkojani Juma,32,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Mzira meno/sumbururu,960,1
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Faki Mkojani Juma,32,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kangaja1,590,3
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Faki Mkojani Juma,32,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kolekole1,988,2
+Khadija_Kombo,17/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Faki Mkojani Juma,32,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Tembo,564,4
+Khadija_Kombo,22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Pandu Juma Pandu,27,male,3,Misali,Mwani,Dau/Mtumbwi,Kaputi/ dhulumati,NA,6000,NA,Kundaji,266,2
+Khadija_Kombo,22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Pandu Juma Pandu,27,male,3,Misali,Mwani,Dau/Mtumbwi,Kaputi/ dhulumati,NA,6000,NA,Mlea,109,3
+Khadija_Kombo,22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Pandu Juma Pandu,27,male,3,Misali,Mwani,Dau/Mtumbwi,Kaputi/ dhulumati,NA,6000,NA,Tembo,99,4
+Khadija_Kombo,22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Pandu Juma Pandu,27,male,3,Misali,Mwani,Dau/Mtumbwi,Kaputi/ dhulumati,NA,6000,NA,Tasi,190,2
+Khadija_Kombo,22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Pandu Juma Pandu,27,male,3,Misali,Mwani,Dau/Mtumbwi,Kaputi/ dhulumati,NA,6000,NA,Changu13,50,2
+"Khadija_Kombo,Wahida_Hamad",22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Ali Haji Ali,30,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kibua1,128,4
+"Khadija_Kombo,Wahida_Hamad",22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Ali Haji Ali,30,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Myripristis hexagona,129,4
+"Khadija_Kombo,Wahida_Hamad",22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Ali Haji Ali,30,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kurumbwi,85,38
+"Khadija_Kombo,Wahida_Hamad",22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Ali Haji Ali,30,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Changu13,500,6
+Khadija_Kombo,22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Juma Ali kombo,30,female,2,Ukai,Fungu,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kibua1,128,4
+Khadija_Kombo,22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Juma Ali kombo,30,female,2,Ukai,Fungu,Dau/Mtumbwi,Nyavu,NA,4000,NA,Myripristis hexagona,NA,4
+Khadija_Kombo,22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Juma Ali kombo,30,female,2,Ukai,Fungu,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kurumbwi,85,3
+Khadija_Kombo,22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Juma Ali kombo,30,female,2,Ukai,Fungu,Dau/Mtumbwi,Nyavu,NA,4000,NA,Mwewe/Komba,212,6
+"Khadija_Kombo,Wahida_Hamad",22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Haji Kombo Ali,31,male,2,Misali,Matumbawe/miamba,Mashua,Nyavu,NA,7000,NA,Pono,152,6
+"Khadija_Kombo,Wahida_Hamad",22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Haji Kombo Ali,31,male,2,Misali,Matumbawe/miamba,Mashua,Nyavu,NA,7000,NA,Kundaji,48,2
+"Khadija_Kombo,Wahida_Hamad",22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Haji Kombo Ali,31,male,2,Misali,Matumbawe/miamba,Mashua,Nyavu,NA,7000,NA,Mzira meno/sumbururu,537,2
+"Khadija_Kombo,Wahida_Hamad",22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Haji Kombo Ali,31,male,2,Misali,Matumbawe/miamba,Mashua,Nyavu,NA,7000,NA,Myripristis hexagona,288,4
+"Khadija_Kombo,Wahida_Hamad",22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Mohd Kombo Juma,30,male,3,Siau,Fungu,Dau/Mtumbwi,Kaputi/ dhulumati,NA,3000,NA,Tasi,230,1
+"Khadija_Kombo,Wahida_Hamad",22/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Mohd Kombo Juma,30,male,3,Siau,Fungu,Dau/Mtumbwi,Kaputi/ dhulumati,NA,3000,NA,Pono,533,2
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Omar Ali Juma,29,male,2,Matumbin,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pono,337,2
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Omar Ali Juma,29,male,2,Matumbin,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mzira meno/sumbururu,972,5
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Omar Ali Juma,29,male,2,Matumbin,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Panda,390,2
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Habibu Ali Omar,30,male,3,Umandeni,Matumbawe/miamba,Mashua,Nyavu,NA,6000,NA,Mwewe/Komba,553,2
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Habibu Ali Omar,30,male,3,Umandeni,Matumbawe/miamba,Mashua,Nyavu,NA,6000,NA,Pepero,100,2
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Habibu Ali Omar,30,male,3,Umandeni,Matumbawe/miamba,Mashua,Nyavu,NA,6000,NA,Mlea,252,2
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Habibu Ali Omar,30,male,3,Umandeni,Matumbawe/miamba,Mashua,Nyavu,NA,6000,NA,Myripristis hexagona,100,2
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Habibu Ali Omar,30,male,3,Umandeni,Matumbawe/miamba,Mashua,Nyavu,NA,6000,NA,Tembo,265,3
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Habibu Ali Omar,30,male,3,Umandeni,Matumbawe/miamba,Mashua,Nyavu,NA,6000,NA,Tasi,428,3
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,Mohd Ali Juma,27,male,2,Boyani,Mwani,Dau/Mtumbwi,Nyavu,NA,4000,NA,Changu13,526,5
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,Mohd Ali Juma,27,male,2,Boyani,Mwani,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kangaja1,103,2
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,Mohd Ali Juma,27,male,2,Boyani,Mwani,Dau/Mtumbwi,Nyavu,NA,4000,NA,Chaa,279,3
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,Mohd Ali Juma,27,male,2,Boyani,Mwani,Dau/Mtumbwi,Nyavu,NA,4000,NA,Tembo,247,2
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,Kassim Said Ali,28,male,2,Siau,Fungu,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tasi,473,4
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,Kassim Said Ali,28,male,2,Siau,Fungu,Dau/Mtumbwi,Nyavu,NA,10000,NA,Kundaji,198,3
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_4,Kassim Said Ali,28,male,2,Siau,Fungu,Dau/Mtumbwi,Nyavu,NA,10000,NA,Changu13,547,5
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Omar R  Abuu,26,male,3,Kwata,Mwani,Mashua,Nyavu,NA,NA,NA,Kundaji,48,2
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Omar R  Abuu,26,male,3,Kwata,Mwani,Mashua,Nyavu,NA,NA,NA,Mzira meno/sumbururu,537,4
+Khadija_Kombo,23/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Omar R  Abuu,26,male,3,Kwata,Mwani,Mashua,Nyavu,NA,NA,NA,Tembo,99,4
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Juma Haji Juma,29,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Puju1,192,2
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Juma Haji Juma,29,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Myripristis hexagona,279,3
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_1,Juma Haji Juma,29,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Tembo,322,2
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Ali Othman Haji,20,male,3,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Changu13,380,1
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Ali Othman Haji,20,male,3,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Mlea,109,3
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Ali Othman Haji,20,male,3,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Kibua1,128,4
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_2,Ali Othman Haji,20,male,3,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Myripristis hexagona,129,4
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,Kombo Haji Mohd,40,male,3,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kundaji,474,1
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,Kombo Haji Mohd,40,male,3,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Tembo,474,2
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,Kombo Haji Mohd,40,male,3,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Myripristis hexagona,288,4
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_3,Kombo Haji Mohd,40,male,3,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kolekole1,109,3
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Nassir Ali Juma,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pono,258,5
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Nassir Ali Juma,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu13,533,2
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Nassir Ali Juma,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mlea,337,2
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_4,Nassir Ali Juma,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mzira meno/sumbururu,50,2
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Juma  Omar Juma,30,male,2,Boyani,Mwani,Dau/Mtumbwi,Kaputi/ dhulumati,NA,7000,NA,Mzira meno/sumbururu,972,5
+Khadija_Kombo,24/08/2024,Pemba,Makoongwe,Mfunguo_Tano_2,KwamwalimuIddi,Fisher_5,Juma  Omar Juma,30,male,2,Boyani,Mwani,Dau/Mtumbwi,Kaputi/ dhulumati,NA,7000,NA,Kibua1,724,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Ali Juma Ali,35,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tasi,562,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Ali Juma Ali,35,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tembo,133,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Ali Juma Ali,35,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Changu13,99,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Ali Juma Ali,35,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Mwewe/Komba,1338,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Abdalla Juma Said,28,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Myripristis hexagona,221,3
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Abdalla Juma Said,28,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kundaji,662,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Abdalla Juma Said,28,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Mkonge,319,4
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Abdalla Juma Said,28,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kibua1,693,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Abdalla Juma Said,28,male,2,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Changu13,718,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,Juma Haji Khamis,23,male,3,Ukai,Mwani,Kuzamia na gesi,Nyavu,NA,9000,NA,Kundaji,624,1
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,Juma Haji Khamis,23,male,3,Ukai,Mwani,Kuzamia na gesi,Nyavu,NA,9000,NA,Pono,638,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,Juma Haji Khamis,23,male,3,Ukai,Mwani,Kuzamia na gesi,Nyavu,NA,9000,NA,Mlea,488,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,Juma Haji Khamis,23,male,3,Ukai,Mwani,Kuzamia na gesi,Nyavu,NA,9000,NA,Changu13,824,2
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,Juma Haji Khamis,23,male,3,Ukai,Mwani,Kuzamia na gesi,Nyavu,NA,9000,NA,Mwewe/Komba,988,30
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Tano_1,KwamwalimuIddi,Fisher_3,Juma Haji Khamis,23,male,3,Ukai,Mwani,Kuzamia na gesi,Nyavu,NA,9000,NA,Kolekole1,442,4
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Othman A Othman,24,male,2,Kwata,Matumbawe/miamba,NA,Nyavu,NA,12000,NA,Changu13,2482,8
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Othman A Othman,24,male,2,Kwata,Matumbawe/miamba,NA,Nyavu,NA,12000,NA,Pono,934,5
+Khadija_Kombo,05/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Othman A Othman,24,male,2,Kwata,Matumbawe/miamba,NA,Nyavu,NA,12000,NA,Kolekole1,1180,5
+Khadija_Kombo,06/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Ali Haji Ali,30,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,3000,Siku ya tareh 6-9-204 kulikua namsiba wavuvi hawakwenda kuvua,Kolekole1,1566,4
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Haji Ali makame,29,male,2,Kwata,Matumbawe/miamba,Mashua,Nyavu,NA,11000,NA,Kundaji,290,2
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Haji Ali makame,29,male,2,Kwata,Matumbawe/miamba,Mashua,Nyavu,NA,11000,NA,Tembo,800,4
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Haji Ali makame,29,male,2,Kwata,Matumbawe/miamba,Mashua,Nyavu,NA,11000,NA,Myripristis hexagona,650,3
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_1,Haji Ali makame,29,male,2,Kwata,Matumbawe/miamba,Mashua,Nyavu,NA,11000,NA,Changu13,1269,5
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Makame faki,38,male,2,Ukai,Fungu,Mashua,Nyavu,NA,9000,NA,Changu13,890,4
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Makame faki,38,male,2,Ukai,Fungu,Mashua,Nyavu,NA,9000,NA,Pono,670,2
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_2,Faki Makame faki,38,male,2,Ukai,Fungu,Mashua,Nyavu,NA,9000,NA,Tasi,570,5
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_3,Abass Ali Juma,29,male,2,Kwata,Matumbawe/miamba,Mashua,Nyavu,NA,14000,NA,Puju1,960,7
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_3,Abass Ali Juma,29,male,2,Kwata,Matumbawe/miamba,Mashua,Nyavu,NA,14000,NA,Kundaji,966,6
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Juma Ali Juma,35,male,2,Ukai,Matumbawe/miamba,Mashua,Nyavu,NA,13000,NA,Myripristis hexagona,85,1
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Juma Ali Juma,35,male,2,Ukai,Matumbawe/miamba,Mashua,Nyavu,NA,13000,NA,Kibua1,1415,5
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Juma Ali Juma,35,male,2,Ukai,Matumbawe/miamba,Mashua,Nyavu,NA,13000,NA,Kundaji,1654,4
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Juma Ali Juma,35,male,2,Ukai,Matumbawe/miamba,Mashua,Nyavu,NA,13000,NA,Pono,680,5
+Khadija_Kombo,07/09/2024,Pemba,Makoongwe,Mfunguo_Sita_1,KwamwalimuIddi,Fisher_4,Juma Ali Juma,35,male,2,Ukai,Matumbawe/miamba,Mashua,Nyavu,NA,13000,NA,Chaa,673,3
+Yakub Mohd Mcha,21/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,Juma makame juma,28,male,2,Kwata,Fungu,Dau/Mtumbwi,Nyavu,NA,4000,NA,Changu kibaku,298,5
+Khadija Haji Kombo,21/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,HAJI ALI HAJI,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Tasi,623,3
+Khadija Haji Kombo,21/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,HAJI ALI HAJI,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Changu mweupe,253,3
+Khadija Haji Kombo,21/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,HAJI ALI HAJI,28,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Myripristis hexagona,119,2
+Wahida Saleh Hamad,21/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,ALI SULEIMAN ALI,25,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mbuzi mto,2103,3
+Wahida Saleh Hamad,21/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,ALI SULEIMAN ALI,25,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Myripristis hexagona,119,2
+Wahida Saleh Hamad,21/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,ALI SULEIMAN ALI,25,male,2,Siau,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pono,793,5
+Yakub Mohd Mcha,21/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,ALI MOHD JUMA,30,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,4000,NA,Changu mweupe,567,6
+Yakub Mohd Mcha,21/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,ALI MOHD JUMA,30,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kundaji mweupe,351,3
+Yakub Mohd Mcha,21/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,ALI MOHD JUMA,30,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,4000,NA,Pono,109,2
+Khadija Haji Kombo,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,Bakar Juma Bakar,30,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu mweupe,162,10
+Khadija Haji Kombo,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,Bakar Juma Bakar,30,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,72,4
+Wahida Saleh Hamad,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,ALI HAJI SAID,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,Mwewe/Komba,562,5
+Wahida Saleh Hamad,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,ALI HAJI SAID,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,Tasi,1841,8
+Yakub Mohd Mcha,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,MOHD JUMA ALI,29,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mwewe/Komba,665,2
+Yakub Mohd Mcha,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,MOHD JUMA ALI,29,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu kibaku,951,2
+Yakub Mohd Mcha,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,MOHD JUMA ALI,29,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu Ndomo,564,4
+Yakub Mohd Mcha,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,MOHD JUMA ALI,29,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji mwekundu,319,4
+Khadija Haji Kombo,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,SALUM MOHD SALUM,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kangaja1,590,3
+Khadija Haji Kombo,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,SALUM MOHD SALUM,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kolekole1,988,2
+Khadija Haji Kombo,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,SALUM MOHD SALUM,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pono mwekundu,564,4
+Wahida Saleh Hamad,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_5,FAKI MKOJANI JUMA,32,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kundaji,104,2
+Wahida Saleh Hamad,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_5,FAKI MKOJANI JUMA,32,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Chaa,484,3
+Wahida Saleh Hamad,22/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_5,FAKI MKOJANI JUMA,32,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Pono mwekundu,319,4
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,ALI SALUMU ALI,27,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Pono,165,4
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,ALI SALUMU ALI,27,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Changu mweupe,120,3
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,ALI SALUMU ALI,27,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Myripristis hexagona,79,2
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Ali Mohd Ali,31,male,1,Ukai,Fungu,NA,Nyavu,NA,4000,NA,Tembo,231,4
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Ali Mohd Ali,31,male,1,Ukai,Fungu,NA,Nyavu,NA,4000,NA,Changu Ndomo,257,4
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Juma Makame Juma,30,female,4,Ukutani,Matumbawe/miamba,Mashua,Nyavu,NA,10000,NA,Changu13,286,4
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Juma Makame Juma,30,female,4,Ukutani,Matumbawe/miamba,Mashua,Nyavu,NA,10000,NA,Tasi,244,4
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Juma Makame Juma,30,female,4,Ukutani,Matumbawe/miamba,Mashua,Nyavu,NA,10000,NA,Kolekole1,184,3
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Omar Makame Ali,27,female,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,66,5
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Omar Makame Ali,27,female,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu13,162,2
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Omar Makame Ali,27,female,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji,243,3
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Faki Juma Faki,29,female,3,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Pono,1269,5
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Faki Juma Faki,29,female,3,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Chaa,670,2
+Khadija Haji Kombo,20/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Faki Juma Faki,29,female,3,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Myripristis hexagona,805,4
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,PANDU JUMA PANDU,27,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kibua1,127,4
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,PANDU JUMA PANDU,27,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kurumbwi,130,3
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,PANDU JUMA PANDU,27,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji,500,3
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,PANDU JUMA PANDU,27,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pono,120,2
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,HAJI MAKAME MCHA,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Pono,160,2
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,HAJI MAKAME MCHA,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kundaji,319,4
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,HAJI MAKAME MCHA,31,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Myripristis hexagona,284,6
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,KHATIB JUMA FAKI,31,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,3000,NA,Pono mwekundu,249,5
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,KHATIB JUMA FAKI,31,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,3000,NA,Pono bluu,145,3
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,KHATIB JUMA FAKI,31,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,3000,NA,Kolekole1,307,6
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_5,ALI MOHD JUMA,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kundaji,4778,8
+Wahida Saleh Hamad,23/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_5,ALI MOHD JUMA,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Changu mweupe,275,4
+Wahida Saleh Hamad,29/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,JUMA ALI KOMBO,28,male,3,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Mwewe/Komba,342,7
+Wahida Saleh Hamad,29/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,JUMA ALI KOMBO,28,male,3,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Tembo,100,4
+Wahida Saleh Hamad,29/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,JUMA ALI KOMBO,28,male,3,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Myripristis hexagona,90,3
+Wahida Saleh Hamad,28/09/2023,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,HASSAN A  ABDALLAH,27,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,Changu2,712,6
+Wahida Saleh Hamad,28/09/2023,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,HASSAN A  ABDALLAH,27,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,Tasi,1271,3
+Wahida Saleh Hamad,28/09/2023,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,HASSAN A  ABDALLAH,27,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,Puju1,204,2
+Wahida Saleh Hamad,28/09/2023,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,HASSAN A  ABDALLAH,27,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,6000,NA,Kundaji,319,3
+Wahida Saleh Hamad,28/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,ALI MAKAME ALI,29,male,3,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji mwekundu,247,5
+Wahida Saleh Hamad,28/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,ALI MAKAME ALI,29,male,3,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,NA,275,4
+Wahida Saleh Hamad,28/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_3,ALI MAKAME ALI,29,male,3,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,488,2
+Wahida Saleh Hamad,28/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,SULIMAN ALI MAALIM,31,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,4000,NA,Chaa,100,2
+Wahida Saleh Hamad,28/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,SULIMAN ALI MAALIM,31,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kundaji mweupe,800,4
+Wahida Saleh Hamad,28/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,SULIMAN ALI MAALIM,31,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,4000,NA,Tasi,650,3
+Wahida Saleh Hamad,28/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_4,SULIMAN ALI MAALIM,31,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,4000,NA,Pono,110,2
+Wahida Saleh Hamad,29/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,FADHIL HAJI KHAMIS,27,male,3,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji,712,6
+Wahida Saleh Hamad,29/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,FADHIL HAJI KHAMIS,27,male,3,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tembo,100,4
+Khadija Haji Kombo,29/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,MAKAME M. MAKAME,44,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Tembo,424,3
+Wahida Saleh Hamad,30/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,ABDI ALI JUMA,38,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Mwewe/Komba,225,2
+Wahida Saleh Hamad,30/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_1,ABDI ALI JUMA,38,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Myripristis hexagona,191,2
+Wahida Saleh Hamad,30/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,MUSSA MAKAME,32,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kibua1,739,2
+Wahida Saleh Hamad,30/09/2024,Pemba,Makoongwe,Mfunguo_Sita_2,KwamwalimuIddi,Fisher_2,MUSSA MAKAME,32,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mwewe/Komba,320,2
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,FADHIL HAJI KHAMIS,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu2,270,5
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,FADHIL HAJI KHAMIS,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pono,275,4
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,FADHIL HAJI KHAMIS,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Chaa,246,5
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,FAKI  KIPENI,25,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Pono,460,4
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,FAKI  KIPENI,25,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Tasi,740,7
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,FAKI  KIPENI,25,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Chaa,200,3
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,ALI JUMA ALI,29,male,2,Kwsta,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Tembo kibaku,564,4
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,ALI JUMA ALI,29,male,2,Kwsta,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Mlea,192,6
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,ALI JUMA ALI,29,male,2,Kwsta,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Pono,48,2
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,FAKI MKOJANI JUMA,32,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Kolekole1,850,6
+Wahida Saleh Hamad,05/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,FAKI MKOJANI JUMA,32,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Pono6,239,4
+Wahida Saleh Hamad,06/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,JUMA HAJI JUMA,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Pono,342,7
+Wahida Saleh Hamad,06/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,JUMA HAJI JUMA,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Kundaji,790,5
+Wahida Saleh Hamad,06/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,JUMA HAJI JUMA,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Tasi,120,2
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Mohd kombo,30,female,1,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Kundaji,3262,NA
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Mohd kombo,30,female,1,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Myripristis hexagona,85,3
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Mohd kombo,30,female,1,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,8000,NA,Tembo,650,3
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Habibu Khamis,38,female,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Chaa,413,7
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Habibu Khamis,38,female,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Tasi,296,5
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Habibu Khamis,38,female,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Kolekole1,283,6
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Ali makame,29,female,1,Kwata,Mikoko,Dau/Mtumbwi,Mshipi,NA,8000,NA,Kibua1,262,4
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Ali makame,29,female,1,Kwata,Mikoko,Dau/Mtumbwi,Mshipi,NA,8000,NA,Mwewe/Komba,279,5
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Ali makame,29,female,1,Kwata,Mikoko,Dau/Mtumbwi,Mshipi,NA,8000,NA,Tasi,274,6
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Ali makame,29,female,1,Kwata,Mikoko,Dau/Mtumbwi,Mshipi,NA,8000,NA,Changu mweupe,187,3
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Haji Mohd Ali,40,female,3,Boyani,Mchanga,Dau/Mtumbwi,Nyavu,NA,7000,NA,Changu13,325,5
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Haji Mohd Ali,40,female,3,Boyani,Mchanga,Dau/Mtumbwi,Nyavu,NA,7000,NA,Mlea,265,5
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Haji Mohd Ali,40,female,3,Boyani,Mchanga,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kundaji,255,4
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Haji Mohd Ali,40,female,3,Boyani,Mchanga,Dau/Mtumbwi,Nyavu,NA,7000,NA,Chaa,324,4
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_5,Ali Juma kombo,43,female,2,Kwata,Mwani,Dau/Mtumbwi,Mshipi,NA,10000,NA,Pono,749,7
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_5,Ali Juma kombo,43,female,2,Kwata,Mwani,Dau/Mtumbwi,Mshipi,NA,10000,NA,Mwewe/Komba,595,5
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_5,Ali Juma kombo,43,female,2,Kwata,Mwani,Dau/Mtumbwi,Mshipi,NA,10000,NA,Kundaji,1015,3
+Khadija Haji Kombo,21/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_5,Ali Juma kombo,43,female,2,Kwata,Mwani,Dau/Mtumbwi,Mshipi,NA,10000,NA,Tembo kibaku,988,2
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Faki Makame,43,male,3,Ukai,Matumbawe/miamba,Mashua,Mshipi,NA,8000,NA,Pono bluu,3793,8
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Faki Makame,43,male,3,Ukai,Matumbawe/miamba,Mashua,Mshipi,NA,8000,NA,Tasi,597,5
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Faki Makame,43,male,3,Ukai,Matumbawe/miamba,Mashua,Mshipi,NA,8000,NA,Tembo kibaku,243,3
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Faki Makame,43,male,3,Ukai,Matumbawe/miamba,Mashua,Mshipi,NA,8000,NA,Pono,623,3
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Hassan Ali,38,male,1,Misal,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Tasi,4999,7
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Hassan Ali,38,male,1,Misal,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Pono bluu,342,7
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Hassan Ali,38,male,1,Misal,Mwani,Dau/Mtumbwi,Nyavu,NA,9000,NA,Kundaji,350,3
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Haji Kombo,40,male,2,Boyani,Fungu,Dau/Mtumbwi,Mshipi,NA,9000,NA,Tasi,454,7
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Haji Kombo,40,male,2,Boyani,Fungu,Dau/Mtumbwi,Mshipi,NA,9000,NA,Kundaji,338,5
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Haji Kombo,40,male,2,Boyani,Fungu,Dau/Mtumbwi,Mshipi,NA,9000,NA,Changu mweupe,385,6
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Kombo Ali,25,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,7000,NA,Tembo,482,8
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Kombo Ali,25,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,7000,NA,Pono bluu,290,4
+Khadija Haji Kombo,22/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Kombo Ali,25,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,7000,NA,Changu13,275,5
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Rajab Salum,48,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Chaa,271,4
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Rajab Salum,48,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji,841,4
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Rajab Salum,48,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Myripristis hexagona,293,4
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Rajab Salum,48,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,1260,5
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Makame Abdalla,39,male,3,Matumbini,Fungu,Dau/Mtumbwi,Nyavu,NA,12000,NA,Changu13,633,3
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Makame Abdalla,39,male,3,Matumbini,Fungu,Dau/Mtumbwi,Nyavu,NA,12000,NA,Myripristis hexagona,355,8
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Makame Abdalla,39,male,3,Matumbini,Fungu,Dau/Mtumbwi,Nyavu,NA,12000,NA,Kundaji,331,6
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Khamis Ali,48,male,2,Misali,Fungu,Dau/Mtumbwi,Nyavu,NA,10000,NA,Changu13,623,7
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Khamis Ali,48,male,2,Misali,Fungu,Dau/Mtumbwi,Nyavu,NA,10000,NA,Myripristis hexagona,382,5
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Khamis Ali,48,male,2,Misali,Fungu,Dau/Mtumbwi,Nyavu,NA,10000,NA,Kundaji,637,5
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Faki Ali,29,male,2,Boyani,Mwani,Mashua,Nyavu,NA,NA,NA,Tasi,598,2
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Faki Ali,29,male,2,Boyani,Mwani,Mashua,Nyavu,NA,NA,NA,Kundaji,840,2
+Khadija Haji Kombo,26/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_4,Faki Ali,29,male,2,Boyani,Mwani,Mashua,Nyavu,NA,NA,NA,Myripristis hexagona,623,7
+Khadija Haji Kombo,27/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Juma Ali Juma,24,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tembo,917,2
+Khadija Haji Kombo,27/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Juma Ali Juma,24,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Myripristis hexagona,552,5
+Khadija Haji Kombo,27/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Juma Ali Juma,24,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji,541,2
+Khadija Haji Kombo,27/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Abdalla Juma Said,28,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pono,407,4
+Khadija Haji Kombo,27/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Abdalla Juma Said,28,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,137,2
+Khadija Haji Kombo,27/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Abdalla Juma Said,28,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji,567,6
+Khadija Haji Kombo,27/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Mohd Juma Ali,29,male,3,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Changu13,799,5
+Khadija Haji Kombo,27/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Mohd Juma Ali,29,male,3,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,3000,NA,Pepero,330,3
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Abdi  Ali Juma,38,male,2,Ukai,Mchanga,Mashua,Nyavu,NA,8000,NA,Mkonge,875,2
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Abdi  Ali Juma,38,male,2,Ukai,Mchanga,Mashua,Nyavu,NA,8000,NA,Kurumbwi,130,3
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_1,Abdi  Ali Juma,38,male,2,Ukai,Mchanga,Mashua,Nyavu,NA,8000,NA,Pono bluu,249,5
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Fadhili Haji Khamim,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Changu Ndomo,991,2
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Fadhili Haji Khamim,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Mkonge,632,4
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Fadhili Haji Khamim,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Mwewe/Komba,595,5
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_2,Fadhili Haji Khamim,27,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kolekole1,749,2
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Ali Said Haji,31,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Tasi,379,1
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Ali Said Haji,31,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Kolekole1,756,2
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Ali Said Haji,31,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Chaa,239,4
+Khadija Haji Kombo,28/10/2024,Pemba,Makoongwe,Mfunguo_Saba_1,KwamwalimuIddi,Fisher_3,Ali Said Haji,31,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Kundaji mweupe,488,2
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Omar  Ali  Makame,38,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Pono,376,2
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Omar  Ali  Makame,38,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Kundaji,658,2
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Omar  Ali  Makame,38,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Tasi,577,6
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Omar  Ali  Makame,38,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Myripristis hexagona,375,5
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Hassan khamis,20,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Tasi,1452,2
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Hassan khamis,20,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Changu2,672,2
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Hassan khamis,20,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Myripristis hexagona,451,6
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Hassan khamis,20,male,2,Umandeni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kolekole1,1435,7
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Hashim  Faki  Omar,28,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Mkonge,275,46
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Hashim  Faki  Omar,28,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Myripristis hexagona,511,5
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Hashim  Faki  Omar,28,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Pono,382,3
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Hashim  Faki  Omar,28,male,2,Ukai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Tasi,598,5
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_4,Hussein Ali makame,40,male,2,Matumbini,Matumbawe/miamba,NA,Nyavu,NA,8000,NA,Kundaji,405,4
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_4,Hussein Ali makame,40,male,2,Matumbini,Matumbawe/miamba,NA,Nyavu,NA,8000,NA,Kurumbwi,742,8
+Khadija Haji Kombo,08/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_4,Hussein Ali makame,40,male,2,Matumbini,Matumbawe/miamba,NA,Nyavu,NA,8000,NA,Myripristis hexagona,555,6
+Khadija Haji Kombo,09/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Ahmed Ali Juma,28,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Myripristis hexagona,682,7
+Khadija Haji Kombo,09/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Ahmed Ali Juma,28,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Tasi,652,7
+Khadija Haji Kombo,09/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Ahmed Ali Juma,28,male,2,Kwata,Mwani,Dau/Mtumbwi,Nyavu,NA,7000,NA,Tembo,275,2
+Khadija Haji Kombo,09/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Ali Juma Ali,40,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Pepero,556,6
+Khadija Haji Kombo,09/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Ali Juma Ali,40,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Kundaji,492,2
+Khadija Haji Kombo,09/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Ali Juma Ali,40,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Kurumbwi,562,6
+Khadija Haji Kombo,09/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Ali Juma Ali,40,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Myripristis hexagona,834,7
+Khadija Haji Kombo,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,NA,Faki ali ali,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,NA,562,6
+Khadija Haji Kombo,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,NA,Faki ali ali,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Pepero,262,3
+Khadija Haji Kombo,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,NA,Faki ali ali,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Tasi,10132,4
+Yakub Mohd Mcha,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Ali juma ali,24,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu4,987,4
+Yakub Mohd Mcha,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Ali juma ali,24,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,1216,3
+Yakub Mohd Mcha,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Ali juma ali,24,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,1216,3
+Yakub Mohd Mcha,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Ali juma ali,24,male,2,Ukai,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji,866,4
+Wahida Saleh Hamad,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,FAKI MOHD MCHA,19,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu2,540,5
+Wahida Saleh Hamad,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,FAKI MOHD MCHA,19,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Pono,848,3
+Wahida Saleh Hamad,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,FAKI MOHD MCHA,19,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Myripristis hexagona,392,4
+Wahida Saleh Hamad,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_4,KHATIB JUMA FAKI,NA,male,3,Kwat,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Chaa,1328,3
+Wahida Saleh Hamad,15/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_4,KHATIB JUMA FAKI,NA,male,3,Kwat,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,4000,NA,Tasi,341,2
+Khadija Haji Kombo,16/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Ali Makame,43,male,2,Matumbini,Matumbawe/miamba,NA,Nyavu,NA,5000,NA,Changu13,410,6
+Khadija Haji Kombo,16/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Ali Makame,43,male,2,Matumbini,Matumbawe/miamba,NA,Nyavu,NA,5000,NA,Pono,364,8
+Khadija Haji Kombo,16/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Hai Mohd,22,male,2,Kwata,Fungu,Mashua,Nyavu,NA,5000,NA,Tembo,237,5
+Khadija Haji Kombo,16/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Hai Mohd,22,male,2,Kwata,Fungu,Mashua,Nyavu,NA,5000,NA,Tasi,248,5
+Khadija Haji Kombo,16/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Faki Makame,38,male,2,Ukai,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,6000,NA,Changu13,210,4
+Khadija Haji Kombo,16/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Faki Makame,38,male,2,Ukai,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,6000,NA,Kolekole1,609,6
+Khadija Haji Kombo,16/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Faki Makame,38,male,2,Ukai,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,6000,NA,Pono bluu,290,3
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Hassan Ali Haji,20,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,6000,NA,Kurumbwi,570,5
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_1,Hassan Ali Haji,20,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,6000,NA,Tembo,342,7
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Mcha Makame,29,male,2,Matumbini,Mkondoni,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kundaji,284,6
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Mcha Makame,29,male,2,Matumbini,Mkondoni,Dau/Mtumbwi,Nyavu,NA,7000,NA,Chaa,724,2
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Mcha Makame,29,male,2,Matumbini,Mkondoni,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kibua1,447,2
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Mcha Makame,29,male,2,Matumbini,Mkondoni,Dau/Mtumbwi,Nyavu,NA,7000,NA,Myripristis hexagona,85,3
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_2,Mcha Makame,29,male,2,Matumbini,Mkondoni,Dau/Mtumbwi,Nyavu,NA,7000,NA,Changu13,319,4
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Mohd Ali Juma,40,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Mshipi,NA,9000,NA,Tembo,1004,NA
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Mohd Ali Juma,40,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Mshipi,NA,9000,NA,Myripristis hexagona,650,3
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Mohd Ali Juma,40,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Mshipi,NA,9000,NA,Changu13,4779,8
+Khadija Haji Kombo,17/11/2024,Pemba,Makoongwe,Mfunguo_Nane_1,KwamwalimuIddi,Fisher_3,Mohd Ali Juma,40,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Mshipi,NA,9000,NA,Pono,131,3
+Khadija Haji Kombo,21/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_1,Ali Makame,38,male,2,Matumbini,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kurumbwi,834,7
+Khadija Haji Kombo,21/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_1,Ali Makame,38,male,2,Matumbini,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,7000,NA,Pepero,565,6
+Khadija Haji Kombo,21/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_1,Ali Makame,38,male,2,Matumbini,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,7000,NA,Pono13,371,2
+Khadija Haji Kombo,21/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_2,Salehe Ali Haji,29,male,2,Matumbini,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Myripristis hexagona,757,6
+Khadija Haji Kombo,21/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_2,Salehe Ali Haji,29,male,2,Matumbini,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mlea,658,2
+Khadija Haji Kombo,21/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_2,Salehe Ali Haji,29,male,2,Matumbini,Mchanga,Dau/Mtumbwi,Nyavu,NA,5000,NA,Changu13,987,4
+Khadija Haji Kombo,21/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_3,Nassir Ali,30,male,2,Boyani,Mikoko,Dau/Mtumbwi,Nyavu,NA,7000,NA,Chaa,1328,3
+Khadija Haji Kombo,21/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_3,Nassir Ali,30,male,2,Boyani,Mikoko,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kundaji,866,4
+Khadija Haji Kombo,21/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_3,Nassir Ali,30,male,2,Boyani,Mikoko,Dau/Mtumbwi,Nyavu,NA,7000,NA,Myripristis hexagona,1216,3
+Khadija Haji Kombo,21/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_3,Nassir Ali,30,male,2,Boyani,Mikoko,Dau/Mtumbwi,Nyavu,NA,7000,NA,Tasi,760,2
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Faki ali ali,29,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Myripristis hexagona,127,2
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Faki ali ali,29,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Tasi,10300,3
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Faki ali ali,29,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kolekole1,1290,3
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_1,Faki ali ali,29,male,2,Kwata,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Mbuzi mto,1360,3
+Wahida Saleh Hamad,22/11/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Ali mohd omar,28,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,4000,NA,Pono bluu,130,2
+Wahida Saleh Hamad,22/11/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Ali mohd omar,28,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kundaji,791,3
+Wahida Saleh Hamad,22/11/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Ali mohd omar,28,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,4000,NA,Changu Ndomo,416,6
+Wahida Saleh Hamad,22/11/2024,Pemba,Makoongwe,Mfunguo_Nne_2,KwamwalimuIddi,Fisher_2,Ali mohd omar,28,male,2,Ukai,Mwani,Dau/Mtumbwi,Nyavu,NA,4000,NA,Kibua1,404,2
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_3,Abasi ali juma,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Pono,248,5
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_3,Abasi ali juma,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Tasi,128,2
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_3,Abasi ali juma,29,male,2,Kwata,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,8000,NA,Kolekole1,701,3
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_4,Kombo Haji Mohd,40,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Mzira/Mzia,910,3
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_4,Kombo Haji Mohd,40,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Mkonge,642,2
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_4,Kombo Haji Mohd,40,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Kibua,927,4
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_4,Kombo Haji Mohd,40,male,2,Matumbini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,7000,NA,Changu13,520,2
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_5,Juma Omar Juma,30,male,2,Ukai,Fungu,Dau/Mtumbwi,Nyavu,NA,6000,NA,Mzira/Mzia,576,3
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_5,Juma Omar Juma,30,male,2,Ukai,Fungu,Dau/Mtumbwi,Nyavu,NA,6000,NA,Kibua,612,3
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_5,Juma Omar Juma,30,male,2,Ukai,Fungu,Dau/Mtumbwi,Nyavu,NA,6000,NA,Chaa,876,4
+Khadija Haji Kombo,22/11/2024,Pemba,Makoongwe,Mfunguo_Nane_2,KwamwalimuIddi,Fisher_5,Juma Omar Juma,30,male,2,Ukai,Fungu,Dau/Mtumbwi,Nyavu,NA,6000,NA,Mkonge,346,2
+,,,,,,,,,,,,,,,,,,,,

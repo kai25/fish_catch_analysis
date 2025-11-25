@@ -1,0 +1,246 @@
+---
+title: "6 Months Catch Data Report - WCS BAF"
+author: "Kaijage Laurian"
+format:
+  html:
+    embed-resources: true
+    self-contained-math: true
+date: "2025-08-9"
+date-modified: "today"
+institute: "Mwambao Coastal Communnity Network"
+toc: true  #table of content
+toc-depth: 6
+lof: true  #list of figures
+lot: true  #list of tables
+number-sections: true
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+---
+
+```{r sourcing, echo=FALSE, include=FALSE}
+
+source("../code/wcs_baf_6month_report_8.25.R")
+
+```
+
+# INTRODUCTION
+
+Artisanal fisheries are a key livelihood for coastal communities in Tanzania. However, in recent years, these fisheries have experienced a decline due to various factors such as climate change, over-exploitation, invasive species, pollution, natural calamities, and habitat degradation. These communities rely heavily on nearby natural resources, particularly mangrove forests and coral reefs. Without proper regulation and management, these vital ecosystems may no longer be able to support the people who depend on them.
+
+To address this, the Mwambao Coastal Community Network has been working in collaboration with coastal communities, to promote the sustainable use of marine resources. One of the primary tools employed is participatory management planning, which empowers communities to identify and implement suitable measures for their local marine areas. In the context of coral reef management, proposed interventions have included temporal reef closures to enhance octopus catches, permanent no-take zones (also known as community-managed fisheries replenishment zones), and, less commonly, gear restrictions.
+
+To ensure that management decisions are data-driven and well-informed, catch data collection has been prioritized. This includes data on both reef fish and octopus, gathered using the Mwambao methodology and stored in the Mwambao ArcGIS database. Since the first training on fish catch monitoring held on September, data collection has been ongoing in 3 communities with support from BAF funding.
+
+This report presents the catch data collected, its analysis and interpretation, the challenges encountered during the process, and key recommendations to support effective community-based fisheries management.
+
+# MATERIAL AND METHODS
+
+## Sites
+
+Data were collected from three villages, Tumbe, Shumba, and Kiuyu each with a single monitored landing site. Fishing activities from these sites covered 45 fishing grounds, as illustrated in @fig-fig69.
+
+```{r map}
+#| label: fig-fig69
+#| fig-cap: The distribution of 45 fishing grounds (20 Tumbe, 15 Shumba and 19 Kiuyu). Note that not all fishing grounds are represented in the map and some fishing grounds are shared between the three communities.
+#| fig-pos: H
+
+wcs.grounds.map
+
+```
+
+
+## Data collection
+
+Data collection was carried out three days per week (equivalent to approximately 12 days per month) by trained community data recorders stationed at designated landing sites. Each recorder was tasked with documenting landings from up to 10 fishers per day using standardized logbooks.
+
+To ensure data accuracy and consistency, logbook entries were transcribed into the Survey123 digital form by data entry personnel. Importantly, data were not submitted until the entries were verified by regional data officers, particularly with respect to location information. This verification step was implemented to minimize errors and ensure clean, reliable datasets.
+
+To support accurate species identification, a [Fish ID guidebook](https://drive.google.com/file/d/1C4HvZUALSHoXRJoa4eJ6_tr2a3nlM59n/view?usp=drive_link) was distributed to all sites and used as a reference tool by recorders during data collection.
+
+All collected data were stored in ArcGIS Online, from where they were downloaded and imported into R for cleaning, processing, and statistical analysis 
+
+
+### Data checking
+
+To uphold the integrity and reliability of the data collected, two levels of quality control measures are implemented:
+
+1. Monthly Data Checks
+Designated data officers from North Pemba conduct routine monthly visits to all participating villages. During these visits, the officer validate that the information recorded in the physical logbooks aligns with entries in the digital Survey123 forms. Any discrepancies identified are resolved before the data is officially submitted. In addition to data validation, officers also verify the number of active working days for each recorder, which is essential for processing performance-based payments. These verification results are logged using a dedicated KoBoToolbox digital form.
+
+2. Unannounced Spot Checks
+To further ensure data quality and adherence to protocols, data officer carry out random, unannounced spot checks  each month. These visits confirm that data recorders are present at the designated locations and are following the proper data collection procedures. Any absence or failure to comply with protocols results in a verbal warning, followed by a written warning for repeat offenses. This process is intended to safeguard the credibility of the data.
+
+3. Capacity Building and Follow-up Training
+To strengthen the capacity of data recorders and reduce errors, follow-up training is conducted approximately three months after initial deployment. These sessions focus on improving fish identification skills, reviewing previously collected data, and reinforcing correct data entry methods. This continuous learning approach helps enhance the overall quality and consistency of the data. 
+
+# RESULTS
+
+Data was collected between `r first_date_fmt` and `r last_date_fmt`, from villages `r unique(village_stats$village)`. 
+These data were recorded from `r village.wcs.info$number_fground[village.wcs.info$village == "Tumbe"]` in Tumbe, 
+`r village.wcs.info$number_fground[village.wcs.info$village == "Shumba"]` in Shumba, 
+and `r village.wcs.info$number_fground[village.wcs.info$village == "Kiuyu"]` in Kiuyu fishing grounds. 
+The recorded fish family richness were `r village.wcs.info$family_richness[village.wcs.info$village == "Tumbe"]` in Tumbe, 
+`r village.wcs.info$family_richness[village.wcs.info$village == "Shumba"]` in Shumba, 
+and `r village.wcs.info$family_richness[village.wcs.info$village == "Kiuyu"]` in Kiuyu.
+
+## CPUE Trends
+
+From these results, Tumbe recorded a mean catch of `r round(village_stats$mean_weight[village_stats$village=="Tumbe"], 1)` g, 
+Shumba `r round(village_stats$mean_weight[village_stats$village=="Shumba"], 1)` g, 
+and Kiuyu `r round(village_stats$mean_weight[village_stats$village=="Kiuyu"], 1)` g.
+
+In Tumbe, the average catch weight ranged from `r village_stats$min_weight[village_stats$village == "Tumbe"]` g 
+to `r village_stats$max_weight[village_stats$village == "Tumbe"]` g, 
+while CPUE varied between `r village_stats$min_cpue[village_stats$village == "Tumbe"]` g/fisher/day 
+and `r village_stats$max_cpue[village_stats$village == "Tumbe"]` g/fisher/day.
+
+In Shumba, catch weights ranged from `r village_stats$min_weight[village_stats$village == "Shumba"]` g 
+to `r village_stats$max_weight[village_stats$village == "Shumba"]` g, 
+with CPUE values between `r village_stats$min_cpue[village_stats$village == "Shumba"]` g/fisher/day 
+and `r village_stats$max_cpue[village_stats$village == "Shumba"]` g/fisher/day.
+
+In Kiuyu, catch weights ranged from `r village_stats$min_weight[village_stats$village == "Kiuyu"]` g 
+to `r village_stats$max_weight[village_stats$village == "Kiuyu"]` g, 
+and CPUE ranged between `r village_stats$min_cpue[village_stats$village == "Kiuyu"]` g/fisher/day 
+and `r village_stats$max_cpue[village_stats$village == "Kiuyu"]` g/fisher/day.
+
+Trend analysis suggests that `r paste(village_stats$village[trend_model$trend_slope > 0], collapse = ", ")` experienced increasing catches, with Kiuyu and Tumbe showing more pronounced seasonal peaks in January–February, whereas Shumba exhibited a steadier rise with less fluctuation. CPUE patterns varied by location, Kiuyu displayed a sharp increase in November followed by a decline and gradual recovery, Shumba showed minimal variation after an initial rise, and Tumbe experienced a consistent upward trend through the study period.
+
+```{r cpue}
+#| label: fig-fig71
+#| fig-cap: temporal trends in mean total catch (blue bars) and mean catch per unit effort (CPUE, red line).
+#| fig-pos: H
+#| 
+ggplot(month.cpue.june , aes(x = interaction(month, year))) +
+  # Bar for Total Catch
+  geom_col(aes(y = mean_catch), fill = "steelblue", alpha = 0.6) +
+  
+  # Line for CPUE
+  geom_line(aes(y = mean_cpue, group = 1), color = "red", size = 1.2) +
+  
+  # Dual Y-axes
+  scale_y_continuous(
+    name = "Mean Total Catch (kg)",  # Primary Y axis (Total Catch)
+    sec.axis = sec_axis(~ ., name = "Mean CPUE (kg/fisher/day)")  # Secondary Y axis (CPUE)
+  ) +
+  scale_x_discrete(guide = "axis_nested")+
+  
+  # Styling
+  theme_bw() +
+  labs(x = "Month and Year") +
+  theme(
+    axis.title.y.left = element_text(color = "steelblue"),
+    axis.title.y.right = element_text(color = "red"),
+    axis.text.x = element_text(angle = 45, hjust = 1)
+  ) +
+  
+  # Faceting
+  facet_grid(~village)
+
+```
+
+
+
+## Selected Family Trends
+
+In Tumbe, CPUE peaks were higher and more frequent, with notable catches of Chaetodontidae in November 2024 (3.7 g/fisher/day), Acanthuridae in October 2024 (3.4 kg/fisher/day), and Haemulidae in March 2025 (3.6 kg/fisher/day) as seen in @fig-fig70.
+
+Shumba displayed generally lower CPUE values compared to the other villages, with most families averaging below 2 kg/fisher/day. However, Chaetodontidae in October 2024 and Haemulidae in December 2024 reached peaks of 3.0 and 2.6 kg/fisher/day, respectively (@fig-fig70).
+
+From @fig-fig70 In, Kiuyu showed highest average CPUE values were recorded for Siganidae in October 2024 (4.7 kg/fisher/day) and for Lethrinidae in February 2025 (4.3 kg/fisher/day). The catch composition was relatively diverse throughout the study period, with consistent catches from Scaridae and Haemulidae.
+
+![Change in abundance and availability of 10 selected reef fish families](../results/wcs_heatmap_8.25.jpg){#fig-fig70}
+
+
+## Fishing Grounds Use and CPUE
+
+A total of 45 fishing grounds were monitored across Kiuyu, Tumbe, and Shumba (@tbl-table22). Kiuyu recorded the highest single-ground catch at Kongoo Majini (2,705.15 g), followed by Kiweni (1,711.67 g) and Pwakuu (1,558.19 kg). Tumbe’s top-producing grounds included Farumuni (1,331.39 g) and Jambani (1,248.77 g), while Shumba’s leading sites were Jambani (646.18 g) and Imu (792.41 g). From @tbl-table22 there are fishing grounds such as Jambani, Kundeni, Mnarani, Imu and Mapakacha that are being utiize between the three villages.
+
+```{r fishing grounds}
+#| label: tbl-table22
+#| tbl-cap: The fishing ground CPUE from Kiuyu, Tumbe and Shumba calculated as g/fisher/day 
+#|
+fgrounds.cpue |> 
+  filter(!fishing_ground %in% c("Pono mchele", "")) |> 
+  pivot_wider(names_from =  village, values_from = mean_cpue) |> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::set_header_labels(fishing_ground = "Fishing Grounds")|> 
+  flextable::bold(part = "header")
+
+```
+
+
+## Gear use
+
+As seen in @tbl-table23, data revealed that gillnets were the most commonly used fishing gear, with Kiuyu recording the highest number of observations (648) followed by Tumbe (512). Handlines were also widely used, particularly in Tumbe (278) and Shumba (193), while fish traps were common in Kiuyu (512). Other notable gears included spearguns (181), sein nets (37 in Kiuyu and 125 in Tumbe), and diving (37). Less frequently reported gears included purse seines/ring nets (16) and mixed gear types such as gillnet–monofilament net, gillnet–speargun, and handline–fish trap, each recorded only once.
+
+```{r gear}
+#| label: tbl-table23
+#| tbl-cap: The Frequency of gear used during the data collection period 
+#|
+gear.use |> 
+  pivot_wider(names_from =village, values_from = gear_count ) |> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::set_header_labels(gear = "Gear") |> 
+  flextable::bold(part = "header")
+
+```
+
+Seine nets and fish traps have recorded the highest amount of CPUE of 1248.16 g/fisher/day and 1051.55 g/fisher /day respectively. The lowest CPUE of a gear was recorded for the combination of 86 g/fisher/day (@tbl-table24). 
+
+```{r gear_cpue}
+#| label: tbl-table24
+#| tbl-cap: The recorded CPUE in g/fisher/day for each gear recorded 
+#|
+gear.cpue.june |> 
+  pivot_wider(names_from =village, values_from = mean_gear_cpue ) |> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::set_header_labels(gear = "Gear") |> 
+  flextable::bold(part = "header")
+
+```
+
+## Vessel use
+
+The most commonly used vessel type was the canoe in both Kiuyu and Tumbe, while boats with engines (Mashua) were more prevalent in Shumba (@tbl-table25). Kiuyu recorded the use of all vessel types except skin diving, whereas Tumbe utilized only canoes and fiber boats. In addition to canoes and fiber boats, Shumba also reported the use of Mashua and one instance of scuba diving.
+
+```{r vessel_use}
+#| label: tbl-table25
+#|tbl-cap: The recorded frequency of vessles used in Kiuyu, Shumba and Tumbe 
+#|
+vessel.use|> 
+  pivot_wider(names_from =village, values_from = vessel_count ) |> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::set_header_labels(method = "Vessel used") |> 
+  flextable::bold(part = "header")
+
+```
+
+
+## Data Checking 
+
+A number of issues have arisen from the data checking process. In some instances, recorders were found to be entering catch data for future dates in advance, likely to save time. There were also cases where only one recorder was present at the landing site, leading to incomplete coverage. Methodological errors were observed, including misidentification of fish species despite the availability of fish ID guides, and deviations from the approved data collection protocols. Additional issues included incomplete data entries, such as blanks left during logging, and discrepancies between information recorded in logbooks and that entered into the digital forms. In some cases, data were logged only in physical logbooks and not in the digital system, or vice versa. These challenges highlight the importance of ongoing capacity building, regular supervision, and systematic data audits to ensure data quality and integrity. For more detail please read [data checking reports](https://docs.google.com/document/d/1OVOnjDSMJV-7NXhmfnCUBr8AayRoAiIx/edit?usp=drive_link&ouid=117181916031444492229&rtpof=true&sd=true).
+
+# DISCUSION
+
+The data reveal substantial spatial and temporal variation in catch per unit effort (CPUE) and fishing practices across Kiuyu, Tumbe, and Shumba, indicating differences in fishing pressure and resource availability. Kiuyu exhibited the highest CPUE peaks for specific families such as Siganidae (4.7 kg/fisher/day) and Lethrinidae (4.3 kg/fisher/day), while Tumbe showed frequent peaks across multiple families, suggesting both high productivity and potentially higher fishing pressure. In contrast, Shumba displayed consistently lower CPUE values, possibly reflecting depleted stocks or less productive fishing grounds.
+
+The overlap in fishing ground use (e.g., Jambani, Kundeni, Mnarani, Imu, Mapakacha) highlights potential hotspots of fishing pressure. Without coordinated management, such shared sites are at higher risk of overexploitation. Gear-specific CPUE patterns, with seine nets (1,248 g/fisher/day) and fish traps (1,052 g/fisher/day) producing the highest returns — indicate that these gears may disproportionately impact target species and habitats if used intensively.
+
+# RECOMMENDATION 
+
+Given these patterns, a mixed management strategy is recommended:
+
+Temporal Closures – Implement seasonal bans during peak catches of vulnerable or high-value families (e.g., Siganidae in October, Lethrinidae in February). This would allow replenishment of spawning stocks while maintaining livelihoods during non-peak months.
+
+Permanent Closures – Designate no-take zones around critical and shared fishing grounds such as Jambani and Kundeni. Permanent closures in these areas could function as spillover sources to replenish surrounding reefs.
+
+Gear Restrictions – Regulate high-impact gears such as seine nets, especially in sensitive habitats, and limit the number of traps to reduce habitat damage .
+

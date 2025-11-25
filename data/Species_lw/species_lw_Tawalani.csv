@@ -1,0 +1,972 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,bei,Species,uzito_kwa_mmoja_y,urefu_kwa_mmoja_y
+NA,16/07/2024,Tanga,Tawalani,Mfunguo_Nne_1,Tawalani,Fisher_1,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Kolekole1,299,30
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Mzizima,Fisher_1,Mwalimu kassimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mkizi,587,40.5
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Mzizima,Fisher_1,Mwalimu kassimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mkizi,585,39.5
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Mzizima,Fisher_1,Mwalimu kassimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mkizi,459,35
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Mzizima,Fisher_1,Mwalimu kassimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Unga,395,30
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Mzizima,Fisher_1,Mwalimu kassimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,NA,205,25
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,80,16
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,119,18
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Tembo,51,14.5
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Omari yusufu,50,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,20000,Kolekole1,222,27
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Omari yusufu,50,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,20000,Kolekole2,215,27
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Omari yusufu,50,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,20000,Kolekole3,198,27
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Hasani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Tembo bato,88,17.5
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Hasani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Pono,106,18.5
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Hasani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Changu5,69,16
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Hasani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Mlea,33,12.5
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Mbalamwezi,65,16
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Pono,126,20
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Mlea2,68,16
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Changu5,69,16
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_6,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,5000,Changu8,84,18
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_6,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,5000,Changu8,83,17.9
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_6,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,5000,Changu8,65,16
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_7,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Mbalamwezi,86,16.5
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_7,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Mbalamwezi,61,15.5
+Seleman Yahya Salwa,25/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_7,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Mbalamwezi,72,17
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Pono,190,22
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Pono,99,17
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Changu ndomo2,65,16
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Changu13,33,12.9
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Changu Ndomo,21,11
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,3000,Changu2,31,12.5
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,3000,Changu3,20,11
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,3000,Tembo,26,12
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_3,Mkumbwa mohamed,69,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Changu2,40,14
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_3,Mkumbwa mohamed,69,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Changu3,29,11.5
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_3,Mkumbwa mohamed,69,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Changu4,39,13
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_3,Mkumbwa mohamed,69,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Pono,63,15
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_3,Mkumbwa mohamed,69,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Tembo,54,15
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,4000,Tembo,59,15
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,4000,Changu2,71,16
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,4000,Changu13,22,11
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,4000,NA,14,9.5
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_5,Hasani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Changu2,96,18.5
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_5,Hasani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,NA,129,21
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_5,Hasani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Tembo,60,15
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Pono,101,17.5
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Pono,39,13
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,NA,33,12
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Changu7,27,12
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Potepote,26,12
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_7,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12000,Pono,62,15.9
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_7,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12000,Mlea2,21,11
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_7,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12000,Changu2,36,13.5
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_8,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Mbalamwezi,112,19.5
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_8,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Pono,143,19.5
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_8,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Kundaji,87,19
+Seleman Yahya Salwa,26/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_8,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Chewa2,46,14
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_1,Mwamzenga halfani,63,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,25000,Mzira meno/sumbururu,5110,99
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Tembo,51,15
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Pono,49,13.5
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Pono,33,12.9
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Pono,28,12
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu2,31,12.5
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_3,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,3500,Changu2,41,14
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_3,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,3500,Changu2,23,11.9
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_3,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,3500,Tembo,53,15
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_3,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,3500,NA,15,10
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Changu2,27,12
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Changu2,24,11.5
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Pono,64,15
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Pono,21,12
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Mlea,29,12
+Seleman Yahya Salwa,28/09/2024,Tanga,Tawalani,Mfunguo_Sita_2,Tawalani,Fisher_4,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Kundaji,21,12
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_1,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,25000,Tasi,329,28.5
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_1,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,25000,Tasi,325,28
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_1,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,25000,Tasi,335,27.9
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_2,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,10000,Changu dizi,275,23
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_2,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,10000,Changu mweupe,179,23
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_2,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,10000,Kolekole1,287,28
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_2,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,10000,Tembo bato,78,17
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_3,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Tasi,424,30
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_3,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Tasi,376,27.5
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_3,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Tasi,227,25
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu ndomo2,299,29
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu mweupe,274,29
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu kifimbo/ Mrongo,183,22.5
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Mzizima,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Tembo bato,78,16.5
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Mkumbwa mohamed,69,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tasi,340,29
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Mkumbwa mohamed,69,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tasi,222,25.5
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Mkumbwa mohamed,69,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tasi,255,25.5
+Seleman Yahya Salwa,03/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Mkumbwa mohamed,69,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tasi,189,23.5
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Omari yusufu,50,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,12500,Mzira/Mzia,2650,91
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi,250,24
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi2,165,23
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Changu chomi,189,24
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Changu mweupe,159,22
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mwewe/Komba,519,23
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Pono,136,19.5
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Ali bakari,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi,300,27.9
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Ali bakari,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi2,182,24
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Ali bakari,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi2,125,19
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Ali bakari,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Pono,132,19.5
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Ali bakari,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Pono,116,19
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Ali bakari,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Kowe,139,21.5
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Ruga mohamedi,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu ndomo2,174,18.5
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Ruga mohamedi,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu dizi,310,24
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Ruga mohamedi,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu mweupe,214,20
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Ruga mohamedi,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu kifimbo/ Mrongo,176,17.5
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Ruga mohamedi,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Tembo bato,218,19
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Ruga mohamedi,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Chewa/Tewa,219,21
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu2,165,21.5
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu2,149,21.5
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Tembo bato,107,18
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Tembo bato,99,18
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Tembo bato,77,17
+Seleman Yahya Salwa,04/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Tembo bato,77,17
+Seleman Yahya Salwa,09/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,15000,Mkizi,505,38.5
+Seleman Yahya Salwa,09/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,15000,Mkizi,442,35
+Seleman Yahya Salwa,09/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,15000,Mkizi,505,36
+Seleman Yahya Salwa,09/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,15000,Paramamba,656,36.5
+Seleman Yahya Salwa,09/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,12500,Mkizi,409,36.5
+Seleman Yahya Salwa,09/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,12500,Mkizi,369,33
+Seleman Yahya Salwa,09/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,12500,Mkizi,300,31
+Seleman Yahya Salwa,09/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,12500,Unga,464,31
+Seleman Yahya Salwa,09/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,12500,Paramamba,313,29
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Changu2,78,17
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Changu kifimbo/ Mrongo,32,12.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Changu kifimbo/ Mrongo,23,11
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Tembo bato,65,15.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Tembo bato,60,15.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Tembo bato,49,14.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,53,14
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,38,13
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,30,11
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Kowe,108,20
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Kowe,112,20
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Kowe,89,19
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Pono,74,16
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Pono,57,14.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Pono,62,15
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Changu2,50,14.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Changu2,32,13
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Changu kifimbo/ Mrongo,25,12
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Tembo bato,57,15.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Tembo bato,44,14
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kasimu timwa,80,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Tembo bato,35,13
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Pono,78,16
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Pono,44,14.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Pono,50,14
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Changu2,35,13
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Changu2,34,13
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Changu2,22,11.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Tembo bato,64,16
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Tembo,52,15
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Tembo,50,15
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Kowe,124,20.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Kowe,97,19.9
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Tembo bato,70,16.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Tembo bato,50,14
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Tembo bato,48,14.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Changu kifimbo/ Mrongo,42,14
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Changu2,27,11.5
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Changu2,31,12
+Seleman Yahya Salwa,10/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Chelema/Mboo ya mvuvi,65,23.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,274,21
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,300,21
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,260,21.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,231,19.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tembo bato,160,15.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tembo bato,142,14
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tembo bato,138,13.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tembo bato,137,13
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Changu2,42,13.9
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Changu dizi,23,11
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Mlea,19,10
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Mwaita mkabura,57,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,25000,Chewa/Tewa,2312,51.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Mwaita mkabura,57,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,25000,Chewa2,1228,44
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Mwaita mkabura,57,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,25000,Chewa3,516,32.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Mwaita mkabura,57,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Kaputi/ dhulumati,25000,Chewa4,330,27.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Kingobi kamba,65,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,25000,Unga,431,30
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Kingobi kamba,65,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,25000,Unga,254,25
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Kingobi kamba,65,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,25000,Unga,206,24
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Kingobi kamba,65,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,25000,Tasi mweusi,353,28.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Kingobi kamba,65,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,25000,Tasi mweusi,248,26
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Kingobi kamba,65,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,25000,Tasi mweupe,235,25
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Kingobi kamba,65,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,25000,Tasi mweupe,185,24.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Kingobi kamba,65,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,25000,Kowe,905,41
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Kingobi kamba,65,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,25000,Chewa/Tewa,564,34.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Unga,204,23.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Unga,202,23
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Unga,187,23
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Chewa/Tewa,817,37.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Chewa2,248,25.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Tasi mweupe,247,26
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Tasi mweusi,204,24.9
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Tasi mweusi,164,21.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Kowe,433,30.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Kowe,248,26
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Changu dizi,102,25
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Changu2,109,19.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Changu2,100,18.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Tembo bato,62,15
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,27500,Tembo bato,44,14.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Chewa/Tewa,1243,42
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Chewa/Tewa,685,36.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Chewa/Tewa,519,32.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Chewa/Tewa,406,31.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Chewa2,247,25.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Unga,186,22.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Unga,189,23
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Unga,144,20.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Changu dizi,189,24
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Changu2,194,23
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Changu2,107,18.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tasi mweusi,252,24
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tasi mweusi,137,22
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tasi mweusi,121,20
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tasi uziwa,112,18
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tembo bato,84,17.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tembo bato,72,16.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Tembo bato,33,12.5
+Seleman Yahya Salwa,13/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_5,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,30000,Kundaji,264,27
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salehe ali,52,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,30000,Hongwe,2940,67
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salehe ali,52,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,30000,Hongwe,2600,67.5
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salehe ali,52,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,30000,Hongwe,4080,76
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Kolekole1,463,33
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Changu dizi,116,20
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Changu2,85,18
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Changu2,65,16.5
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Tembo bato,94,18
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Tembo bato,40,14
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Tembo bato,40,14
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Koana,145,25
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,12500,Mkizi,333,36
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,12500,Mkizi,178,28
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,12500,Mkizi,164,27
+Seleman Yahya Salwa,15/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,12500,Mkizi,192,28.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Naysi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,37500,Pandu,2050,68.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Naysi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,37500,Pandu,1437,60
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Naysi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,37500,Kolekole1,359,28.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Naysi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,37500,Kolekole1,341,27.9
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Naysi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,37500,Kolekole1,400,29
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Naysi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,37500,Tasi mweusi,383,27
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Naysi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,37500,Tasi mweusi,353,26
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Naysi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,37500,Tasi mweusi,276,23
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Naysi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,37500,Changu dizi,315,24
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Naysi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,37500,NA,523,40
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Pono,175,16.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Pono,175,16
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Changu2,182,18
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Changu dizi,157,16.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Changu2,135,13.9
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tembo bato,131,12.9
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Hasani ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tembo bato,127,13
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Pono,147,21.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Pono,128,19.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Pono,129,21
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Pono,70,15
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Pono,55,14
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Changu2,39,14
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Changu2,38,13.9
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Rashidi abdallah,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Changu Ndomo,122,21.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Rashidi abdallah,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Changu2,37,13.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Rashidi abdallah,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Changu2,38,13.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Rashidi abdallah,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Pono,182,22
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Rashidi abdallah,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Pono,118,19
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Rashidi abdallah,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mtego/dema,6000,Pono,147,20.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Pono,120,19
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Pono,128,19.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Pono,106,18.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Pono,102,18
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Tembo bato,65,17
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Tembo bato,47,14
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Tembo bato,47,15
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Mlea,24,10.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Changu2,38,13
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Changu2,26,11.5
+Seleman Yahya Salwa,24/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Changu2,35,13
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,1500,Tembo bato,56,15.5
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,1500,Tembo bato,49,14.5
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,1500,Chewa/Tewa,127,21
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,1500,Changu dizi,34,12.9
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,1500,Changu kifimbo/ Mrongo,19,11
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,138,19
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,126,18.5
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,58,14
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,34,11.5
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Tembo bato,114,19
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Tembo,68,14.5
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Chengo,42,13
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Changu dizi,33,12
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Chengo,42,12.9
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Mlea,38,11
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Pono,73,15.5
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Pono,142,19
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Potepote,55,14
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Mlea,75,15.5
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Mlea,86,16.5
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Chengo,71,14
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Chengo,67,14
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Chengo,58,13.5
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Chewa/Tewa,109,17.5
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Mzizima,Fisher_4,Mwalimu kasimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,10000,Mkizi,664,44
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Mzizima,Fisher_4,Mwalimu kasimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,10000,Mkizi,591,42
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Mzizima,Fisher_4,Mwalimu kasimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,10000,Mkizi,480,40
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Mzizima,Fisher_4,Mwalimu kasimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,10000,Mkizi,533,42
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Mzizima,Fisher_4,Mwalimu kasimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,10000,Mkizi,509,40
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Mkizi,470,40
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Mkizi,505,41
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Mkizi,477,38
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Mkizi,447,39
+Seleman Yahya Salwa,26/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,10000,Kolekole1,312,29.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Mkumbwa mohamedi,69,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Chewa/Tewa,425,31
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Mkumbwa mohamedi,69,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Chewa/Tewa,416,32
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Mkumbwa mohamedi,69,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Chewa/Tewa,229,23.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Mkumbwa mohamedi,69,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Chewa/Tewa,145,22
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Mkumbwa mohamedi,69,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Chewa/Tewa,135,20
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Mkumbwa mohamedi,69,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Tembo bato,89,18.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Mkumbwa mohamedi,69,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Tembo bato,107,18.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Mkumbwa mohamedi,69,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Tembo bato,88,18
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,140,20
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,127,19
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,146,20.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,171,21.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,141,19.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,159,21.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,185,21.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,153,20
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Chewa/Tewa,123,21
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Chewa/Tewa,140,22
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Changu kifimbo/ Mrongo,79,18
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Changu kifimbo/ Mrongo,76,17
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,6000,Mbalamwezi,32,13.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,6000,Mbalamwezi,29,12.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,6000,Mbalamwezi,31,13
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,6000,Mbalamwezi,30,12.9
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,6000,Changu2,37,13.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,6000,Changu Ndomo,37,14.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,6000,Changu2,29,12.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,6000,Changu2,29,12
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Chengo,35,13
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Chengo,41,14
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Chengo,29,12.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Chengo,23,12
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Tembo bato,79,17.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Tembo bato,27,12
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Tembo bato,20,11
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Maarifa kamba,54,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,2000,Tembo bato,22,11
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Chengo,84,16.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Chengo,69,15.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Chengo,46,14
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Chengo,86,16.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Changu Ndomo,61,16.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Kowe,201,23.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Kowe,164,23
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Kowe,152,21.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Kowe,143,23
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,236,24
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,141,20.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,126,19.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,130,19.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,78,16.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,60,15
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,50,13.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,73,15.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,183,23.9
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,118,20
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,104,18.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,130,20.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,134,20.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,123,19.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Tembo bato,129,20
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Tembo bato,119,28
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Mbalamwezi,85,17.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Mbalamwezi,66,15.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,102,17.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,69,15
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,31,11.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,29,11.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,28,11.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,26,11
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,21,10.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,23,10.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono,29,12.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Changu dizi,119,19.9
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Changu dizi,90,19
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Changu2,72,16.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Changu2,34,13
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Tembo bato,52,15
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Tembo bato,35,12.9
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Tembo bato,25,12
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Tembo bato,24,11
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Kundaji,36,13.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Kundaji,31,13
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Mbalamwezi,25,11.5
+Seleman Yahya Salwa,28/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Mbalamwezi,20,11
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,32500,Changu Ndomo,346,27
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,32500,Changu dizi,239,21
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,32500,Changu2,251,21
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,32500,Kolekole1,570,33.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,32500,Kolekole1,428,30.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,32500,Kowe,231,21
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,32500,Tembo bato,60,15.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,32500,Tembo bato,74,16
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_1,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,32500,Tembo bato,68,16.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Mwalimu kasimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,30000,Changu dizi,285,24
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Mwalimu kasimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,30000,Changu2,263,22
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Mwalimu kasimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,30000,Changu dizi,266,22.9
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Mwalimu kasimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,30000,Changu kifimbo/ Mrongo,200,17
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,105,20
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,87,19
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,78,17
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu dizi,317,27
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu2,103,18.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu dizi,188,23
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu2,65,16
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Kolekole1,290,28
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,73,16.9
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,85,18
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,119,19
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,92,18
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,62,15.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,100,18
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Abdallah liwali,56,male,3,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Kowe,153,21.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu2,164,22
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu2,104,18.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu dizi,81,17.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu dizi,129,21
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Changu kifimbo/ Mrongo,70,16
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Tembo bato,93,17.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Tembo bato,95,18
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,10000,Tembo bato,79,16.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,25000,Changu mweupe,274,22
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,25000,Changu dizi,362,25
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,25000,Changu dizi,207,19.9
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,25000,Changu dizi,300,24
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,25000,Changu kifimbo/ Mrongo,174,18
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,25000,Tembo bato,169,16.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Zari bakari,65,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,25000,Tembo bato,170,17
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Pono,306,23
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Pono,264,21
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Pono,213,19.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Tembo bato,186,18
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Tembo bato,175,16.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Chewa/Tewa,834,38.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Chewa/Tewa,533,30
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Chewa/Tewa,293,25
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Chewa/Tewa,228,21.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Hassan ally,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Chewa/Tewa,285,22
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi mweusi,326,27.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi mweusi,265,25.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi mweusi,109,19.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi mweusi,181,22.9
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi mweusi,105,20
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi mweusi,186,23
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi mweusi,165,23
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi mweusi,169,23
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Tasi mweusi,61,16
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Chewa/Tewa,235,24
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Chewa/Tewa,274,25.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Chewa/Tewa,120,20
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Chewa/Tewa,174,17.5
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Changu2,61,15.9
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Changu2,66,16
+Seleman Yahya Salwa,29/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Changu dizi,46,14.5
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,15000,Changu dizi,122,21
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,15000,Changu Ndomo,321,26
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,15000,Changu kifimbo/ Mrongo,229,24.5
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,15000,Kolekole1,220,26.5
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_1,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,15000,Kolekole1,219,26.5
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,12000,Pono,116,18
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,12000,Pono,64,15
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,12000,Pono,67,15
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,12000,Chengo,102,18
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,12000,Chengo,27,12
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,12000,Chengo,28,12
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,12000,Tembo bato,52,15
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_2,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,12000,Tembo bato,50,14.5
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Mwalimu kassimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Mkizi,239,29
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Mwalimu kassimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Mkizi,587,40.5
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Mwalimu kassimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Mkizi,585,39.5
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Mwalimu kassimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Changu chomi,395,30
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_3,Mwalimu kassimu,55,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Changu chomi,376,28.5
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Changu dizi,69,16
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Changu2,54,15
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Tembo bato,88,17.5
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Tembo bato,73,17
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Tembo bato,66,16
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Mlea,33,12.5
+Seleman Yahya Salwa,06/10/2024,Tanga,Tawalani,Mfunguo_Saba_1,Tawalani,Fisher_4,Hassan ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Mlea,104,18
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Unga,565,33.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Unga,597,34
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Unga,378,30
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Tasi uziwa,300,25.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Tasi uziwa,187,23
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Tasi uziwa,197,22
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Changu dizi,168,23
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Changu dizi,120,20
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Kangaja1,251,21.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Kangaja2,156,17
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Kowe,870,37.9
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Mtoni,NA,Dau/Mtumbwi,Nyavu,30000,Chewa/Tewa,384,30.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweupe,290,27.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweupe,285,27
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweupe,272,27
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi uziwa,218,23
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi uziwa,145,20.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Chewa/Tewa,664,24.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Chewa/Tewa,132,20
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu5,158,22
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu dizi,160,21
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu mweupe,108,19
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,68,16
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,69,16.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,421,30
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,338,28
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,390,29
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,251,26
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi uziwa,229,23.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,127,20
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,82,17.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,78,17
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu2,239,24.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu2,52,15
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Kundaji,106,20
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Mzira/Mzia,87,26.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi,317,27
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi,308,27
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi,231,25
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi,180,23
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi,215,24.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Changu2,104,19
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Changu kifimbo/ Mrongo,88,17.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Changu dizi,63,16.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tembo bato,131,19
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tembo bato,93,18
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tembo bato,86,17
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Kowe,173,23.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Changu2,99,19
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Changu2,86,18
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Changu2,86,18
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Changu kifimbo/ Mrongo,88,18
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Tasi mweusi,361,27.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Tasi mweusi,288,27
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Tasi uziwa,95,17.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Tembo bato,104,19
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Tembo bato,61,16
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Kowe,141,21.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Potepote,160,20
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,109,17.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,112,18
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,103,17.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tembo bato,67,16
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tembo bato,58,15.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Chengo,26,11.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Chengo,15,10
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Kibao zari,65,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Potepote,35,12.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Kassimu timwa,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Kowe,539,34
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Kassimu timwa,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Tasi mweusi,405,29
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Kassimu timwa,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Tasi mweusi,302,27.5
+Seleman Yahya Salwa,04/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Kassimu timwa,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Tasi mweusi,260,26.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Kolekole1,205,25.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Kolekole1,198,25.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Kolekole1,165,24.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Changu dizi,172,22.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Tasi mweupe,264,25
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Tasi mweusi,236,25
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Tasi mweusi,197,24.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Tasi mweusi,192,24
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Mzira/Mzia,237,36
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Mzira/Mzia,104,26.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Mkizi,500,34
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Mkizi,609,41
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_2,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,22500,Mkizi,451,33.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Chewa/Tewa,2301,51
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Chewa/Tewa,520,33
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Tasi mweupe,353,28.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Tasi mweusi,248,26
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_3,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Tasi uziwa,235,25
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Changu dizi,291,25.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Changu dizi,172,22.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Changu dizi,130,20
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Kolekole1,299,30
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Kolekole1,253,27.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Kolekole1,290,30
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Tembo bato,220,19
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Tembo bato,209,19
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,249,33
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,320,29
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_4,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,264,25
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Pono,214,23
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Pono,177,23
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Pono,118,19
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Chelema/Mboo ya mvuvi,87,25
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Kungu,54,15.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Changu2,60,16.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Changu kifimbo/ Mrongo,51,14.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Changu Ndomo,42,14.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Mbalamwezi,56,15
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Mbalamwezi,54,15
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_5,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,13000,Mbalamwezi,38,13
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Ruga mohamed,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu dizi,320,27
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Ruga mohamed,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu dizi,233,24
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Ruga mohamed,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu dizi,227,24
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Ruga mohamed,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu dizi,221,24
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Ruga mohamed,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu dizi,176,23
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Ruga mohamed,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Tembo bato,118,19.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Ruga mohamed,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Tembo bato,91,18
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Ruga mohamed,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Tembo bato,98,18
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Ruga mohamed,80,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Tembo bato,86,17
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,374,29.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,363,29
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,274,27
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,303,28
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Mzira/Mzia,242,35
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Mzira/Mzia,178,31.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu dizi,227,24.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu dizi,142,21
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Changu ndomo2,119,19.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Kowe,232,25.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Kowe,131,20.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Omari yusufu,50,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,20000,Tembo bato,96,17.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Pono,189,21
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Pono,162,21
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Pono,131,19
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Pono,120,20
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Tasi mweusi,290,27
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Tasi mweusi,249,26.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Tasi mweusi,166,22.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Changu ndomo2,95,18
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Changu kifimbo/ Mrongo,71,16
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Changu chomi,60,15
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Tembo bato,141,20
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Tembo bato,82,17.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Tembo bato,76,17
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Chewa/Tewa,256,24.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,402,29
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,276,27
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Tasi mweupe,344,26.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Tasi mweusi,274,26.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Changu chomi,140,20
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Changu ndomo2,106,18.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Changu chomi,81,17
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Changu dizi,73,17
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Tembo bato,86,17.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Tembo bato,89,18
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Mzira/Mzia,165,31.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Mwalimu kassimu,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,20000,Kowe,170,23.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Kowe,537,34
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Kowe,261,27.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Kundaji,253,27
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Kundaji,227,26
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Changu mweupe,95,18
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Changu dizi,86,18.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Changu kifimbo/ Mrongo,87,17.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Pono,266,25.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Pono,194,22.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Pono,100,18.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Tasi mweusi,219,25
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Tasi mweusi,150,22.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,20000,Tasi mweupe,91,18
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu Ndomo,428,33
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu dizi,276,26
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu dizi,187,22.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Changu2,74,17
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Tembo bato,97,18.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Tembo bato,96,18
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Jumaa azizi,27,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,15000,Tembo bato,84,17.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,294,27.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,316,27.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,279,26.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,213,25
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,163,22
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,183,23
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,257,27
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,30000,Tasi mweupe,108,19
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,30000,Tasi mweupe,147,21.5
+Seleman Yahya Salwa,05/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,30000,Tasi mweusi,258,25
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,Changu dizi,240,23
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,Changu dizi,97,19
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,Changu dizi,84,17
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,Mwewe/Komba,226,25
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,mngare ngare,605,69.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,mngare ngare,464,60
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,mngare ngare,251,31.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,Tasi,245,24.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,Tasi,191,22
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,Tasi,153,21.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,Mzira/Mzia,815,58
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_6,Ali bakari,55,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,25000,Mkizi,1161,51.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu2,35,13
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu2,43,14
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu dizi,25,11.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Tembo bato,54,15
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Tembo bato,42,13.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Tembo bato,21,11
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_7,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Ngagu,28,12.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_8,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu dizi,157,22
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_8,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu dizi,227,24
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_8,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu Ndomo,109,18.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_9,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Chewa/Tewa,1421,47.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_9,Halfani mdandao,26,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Chewa/Tewa,1420,47
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Changu Ndomo,67,15.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Changu kifimbo/ Mrongo,54,13.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Changu kibaku,54,14.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Pono,53,14
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Pono,43,13
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Pono,32,11.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Tembo bato,57,14.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Tembo bato,39,13.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Potepote,42,14
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Potepote,37,13.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Potepote,35,13.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Mlea,68,15.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Mlea,33,12.5
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Mlea,25,11
+Seleman Yahya Salwa,16/10/2024,Tanga,Tawalani,Mfunguo_Saba_2,Tawalani,Fisher_10,Haruna ally,53,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Mbalamwezi,16,10
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu chomi,188,18
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu chomi,185,17.5
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu chomi,189,18
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Changu2,122,19.5
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Changu2,48,14.9
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Changu2,43,14
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Tembo bato,100,18
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Tembo bato,72,16
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Tembo bato,19,10.5
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Mwewe/Komba,190,16
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Hassani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6000,Changu ndomo2,89,17.5
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Hassani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6000,Changu ndomo2,192,18.5
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Hassani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6000,Changu kifimbo/ Mrongo,151,15
+Seleman Yahya Salwa,06/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Hassani ally,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6000,Changu dizi,132,13.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Changu dizi,196,24
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Changu dizi,189,23
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Changu dizi,135,21
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Changu dizi,115,19.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,8000,Changu dizi,109,19.9
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,5000,Chewa/Tewa,463,31
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,5000,Kowe,456,33
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,5000,Kowe,222,25.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Halfani mdandao,26,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mkuki,5000,Pono,249,24
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Changu chomi,201,23.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Changu dizi,140,21.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Changu dizi,170,22.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Changu dizi,161,22
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Changu dizi,148,22
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Changu dizi,195,23.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Changu dizi,112,20
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Changu dizi,135,20.9
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Rashidi abdallah,80,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Changu dizi,158,22.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi mweusi,263,26.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi mweusi,262,26
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi mweupe,256,25.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tasi uziwa,172,22
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Changu dizi,170,22
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Changu dizi,139,21.9
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Changu chomi,201,23.9
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Tembo bato,124,19.5
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mwewe/Komba,212,18
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mwewe/Komba,211,18
+Seleman Yahya Salwa,09/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mwewe/Komba,148,16
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Changu dizi,193,24
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Changu dizi,122,20
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Changu dizi,123,21
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Changu dizi,125,20
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Changu dizi,157,21.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Tasi,394,29
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Tasi,307,27
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Tasi,219,24.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Tasi,174,22
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Mzira/Mzia,337,44
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Hasani ally,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,7500,Tembo bato,117,19
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Hasani ally,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,7500,Tembo bato,109,18
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Hasani ally,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,7500,Tembo bato,103,18
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Hasani ally,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,7500,Tembo bato,100,18
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Hasani ally,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,7500,Tembo bato,100,18
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Nyavu,16000,Changu dizi,164,22
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Nyavu,16000,Changu dizi,158,22
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Nyavu,16000,Changu dizi,141,20.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Nyavu,16000,Changu dizi,125,20
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Nyavu,16000,Changu dizi,115,19.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Nyavu,16000,Tasi,123,20
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Nyavu,16000,Tasi,95,18.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Omari yusufu,50,male,1,Fungu,Fungu,Dau/Mtumbwi,Nyavu,16000,Pono9,145,21
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Tasi mweusi,223,25
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Tasi mweusi,238,20
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Tasi mweusi,176,23.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Tasi mweusi,206,24.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Tasi mweupe,71,16.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Changu mweupe,123,19.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Changu Ndomo,119,21
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Changu chomi,85,17
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Changu chomi,82,17
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Changu chomi,75,16.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Changu chomi,78,16.9
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Kingobi kamba,70,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Pono,148,19.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,220,24.9
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,144,21
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,123,20
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,109,19.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,83,18
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Changu chomi,203,19
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Changu chomi,182,17.9
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Changu chomi,154,16
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Changu chomi,150,15.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Changu kifimbo/ Mrongo,134,13.9
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tembo bato,91,17.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tembo bato,82,17.9
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tembo bato,64,16
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tembo bato,71,17
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tembo bato,56,15.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_6,Mwaita mbwana,38,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Chelema/Mboo ya mvuvi,103,25.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Mkumbwa mohamed,69,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu dizi,234,25
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Mkumbwa mohamed,69,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu dizi,113,19
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Mkumbwa mohamed,69,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu dizi,113,19.5
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Mkumbwa mohamed,69,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu dizi,98,19
+Seleman Yahya Salwa,11/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_7,Mkumbwa mohamed,69,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,7500,Changu dizi,85,18.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Tembo bato,61,16
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Tembo bato,52,15
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Tembo bato,33,13
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Tembo bato,31,12.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Tembo bato,29,12
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Mlea,35,12.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Mlea,37,13
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Pono,66,15
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Pono,59,14
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Pono,57,14.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Pono,41,13
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Chengo,43,14
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Chengo,37,14
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Chengo,33,12.9
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Chengo,27,12
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_1,Kibao zari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,7000,Chengo,26,11.9
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Unga,357,28.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Unga,373,27.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Unga,218,24.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Kowe,587,31
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Kowe,590,30
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_2,Salimu mtende,49,male,2,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,30000,Kowe,441,27.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Mwalimu kasimu,55,male,2,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,20000,Kolekole1,961,43
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Mwalimu kasimu,55,male,2,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,20000,Kolekole1,750,39
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Mwalimu kasimu,55,male,2,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,20000,Kolekole1,530,35.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,25000,Kolekole1,1000,44
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,25000,Kolekole1,829,41.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,25000,Kolekole1,555,36
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,25000,Changu dizi,200,23
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,25000,Changu dizi,237,24.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,25000,Changu dizi,252,26
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,27500,Unga,274,26
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,27500,Unga,333,27.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,27500,Unga,212,24.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,27500,Kowe,840,31.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,27500,Kowe,605,27.5
+Seleman Yahya Salwa,13/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_5,Omari yusufu,50,male,1,Mwamba,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,27500,Kowe,718,31.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_8,Salimu mtende,49,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Tasi,293,24.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_8,Salimu mtende,49,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Tasi,324,25.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_8,Salimu mtende,49,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Tasi,341,25
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_8,Salimu mtende,49,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Changu mweupe,158,16
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_8,Salimu mtende,49,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Changu chomi,203,19
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_8,Salimu mtende,49,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Changu chomi,178,17.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_8,Salimu mtende,49,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Tembo bato,175,17
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_8,Salimu mtende,49,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Tembo bato,184,18
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_8,Salimu mtende,49,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Pono,269,21.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_8,Salimu mtende,49,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12500,Chewa/Tewa,283,24
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_7,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Mkizi,900,43.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_7,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Mkizi,559,41.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_7,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Mkizi,664,43.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_7,Mwalimu kasimu,55,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,17500,Mzira/Mzia,148,29.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,8000,Tembo bato,103,18
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,8000,Tembo bato,104,18.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,8000,Tembo bato,100,17.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,8000,Kolekole1,308,30
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,8000,Kolekole1,351,31
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,8000,Changu dizi,83,17.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,8000,Changu mweupe,72,16.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Haruna ally,53,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tasi2,318,26
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Haruna ally,53,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tasi,170,23
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Haruna ally,53,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tasi,214,24.9
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu dizi,258,25
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu dizi,217,23.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu dizi,95,18
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu mweupe,63,15
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Jumaa azizi,27,male,1,Fungu,Fungu,Dau/Mtumbwi,Mshipi,5000,Tembo bato,89,18
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Halfani mdandao,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,9500,Changu dizi,192,23
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Halfani mdandao,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,9500,Changu chomi,101,19
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Halfani mdandao,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,9500,Changu dizi,75,17
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Halfani mdandao,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,9500,Tembo bato,77,17
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Halfani mdandao,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,9500,Tembo bato,94,18
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Halfani mdandao,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,9500,Pono,269,22.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Halfani mdandao,65,male,1,Fungu,Fungu,Dau/Mtumbwi,Mtego/dema,9500,Pono,174,15.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,6000,Tasi,411,28.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,6000,Tasi,272,26
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,6000,Tasi,227,23
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,6000,Tasi,205,24
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Kingobi kambaa,70,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Changu mweupe,91,18.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Kingobi kambaa,70,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Changu mweupe,84,17.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Kingobi kambaa,70,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Changu dizi,77,17.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Kingobi kambaa,70,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Changu mweupe,67,16
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Kingobi kambaa,70,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Pono,116,18.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Kingobi kambaa,70,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Pono,99,17
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Kingobi kambaa,70,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Pono,108,18.5
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Kingobi kambaa,70,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Chewa/Tewa,159,23
+Seleman Yahya Salwa,19/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Kingobi kambaa,70,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Mzira/Mzia,125,29.9
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,10000,Mkizi,510,39.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,10000,Mkizi,780,43.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,10000,Mkizi,790,45
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Omari yusufu,50,male,1,Mtoni,Mkondoni,Dau/Mtumbwi,Nyavu,10000,Changu dizi,285,25
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mkizi,520,39
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mkizi,525,28.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mkizi,515,39.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mkizi,575,38.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Mkizi,440,36.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Salimu mtende,49,male,2,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,15000,Kolekole1,405,31.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,285,25
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,320,25.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,270,24
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,305,25
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,17500,Kolekole1,300,27.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,17500,Kolekole1,229,27
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,17500,Changu dizi,290,25
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,17500,Changu dizi,260,23.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,17500,Changu dizi,249,23
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,17500,Mkizi,615,38.5
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,17500,Mkizi,790,44
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Abdallah liwali,56,male,2,Fungu,Fungu,Dau/Mtumbwi,Nyavu,17500,Tembo bato,55,16
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Changu dizi,230,32
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Changu dizi,230,28
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Changu dizi,200,21
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Changu dizi,180,20
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Tembo kibaku,185,20
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Tembo bato,50,15
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Tembo bato,50,16
+Seleman Yahya Salwa,16/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Rashidi abdallah,80,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Chewa/Tewa,90,20
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Mbwana mkabura,63,male,1,Mwamba,Matumbawe/miamba,Kuogelea,Mkuki,22500,Chewa/Tewa,2145,50.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Mbwana mkabura,63,male,1,Mwamba,Matumbawe/miamba,Kuogelea,Mkuki,22500,Chewa/Tewa,2090,50
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_1,Mbwana mkabura,63,male,1,Mwamba,Matumbawe/miamba,Kuogelea,Mkuki,22500,Kowe,425,32
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,7500,Mkonge,295,36.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,7500,Mkonge,220,34
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,7500,Mkonge,215,34.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,7500,Kolekole1,375,30.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,7500,Kolekole1,220,27
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,7500,Kolekole1,245,27
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_2,Omari yusufu,50,male,1,Nyasi bahari,Majani_bahari,Dau/Mtumbwi,Nyavu,7500,Chaa,175,24
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,245,25.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,230,24
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,115,20
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Changu dizi,105,18
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Kolekole1,245,26.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Tembo kibaku,135,20
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Tembo bato,60,15.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Tembo bato,80,15.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Tembo bato,65,15
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_1,Tawalani,Fisher_3,Zari bakari,65,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,10000,Mwewe/Komba,80,14.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Mwalimu mshiti,32,male,1,Nyasi bahari,Majani_bahari,Kuogelea,Mkuki,14000,Chewa/Tewa,1580,48
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Mwalimu mshiti,32,male,1,Nyasi bahari,Majani_bahari,Kuogelea,Mkuki,14000,Chewa/Tewa,360,29.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_4,Mwalimu mshiti,32,male,1,Nyasi bahari,Majani_bahari,Kuogelea,Mkuki,14000,Pono,880,38
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Jumaa azizi,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Changu dizi,240,25
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Jumaa azizi,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Changu dizi,175,22
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Jumaa azizi,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Changu dizi,210,24.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Jumaa azizi,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Changu dizi,205,24
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Jumaa azizi,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Changu dizi,185,23.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Jumaa azizi,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Changu dizi,140,20.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_5,Jumaa azizi,26,male,1,Mchanga,Mchanga,Dau/Mtumbwi,Mshipi,13000,Changu dizi,170,22
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Abdallah liwali,56,male,2,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,15000,Changu dizi,210,24
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Abdallah liwali,56,male,2,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,15000,Changu dizi,235,24
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Abdallah liwali,56,male,2,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,15000,Changu dizi,270,25
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Abdallah liwali,56,male,2,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,15000,Changu dizi,210,23.9
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_6,Abdallah liwali,56,male,2,Mchanga,Mchanga,Dau/Mtumbwi,Nyavu,15000,Changu dizi,180,23
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_7,Nyange kombo,36,male,1,Nyasi bahari,Majani_bahari,Kuogelea,Mkuki,16000,Chewa/Tewa,1730,49.5
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_7,Nyange kombo,36,male,1,Nyasi bahari,Majani_bahari,Kuogelea,Mkuki,16000,Chewa/Tewa,1010,42
+Seleman Yahya Salwa,18/11/2024,Tanga,Tawalani,Mfunguo_Nane_2,Tawalani,Fisher_7,Nyange kombo,36,male,1,Nyasi bahari,Majani_bahari,Kuogelea,Mkuki,16000,Tasi uziwa,705,36.5

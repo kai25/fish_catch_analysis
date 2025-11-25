@@ -1,0 +1,95 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,bei,Species,uzito_kwa_mmoja_y,urefu_kwa_mmoja_y
+NA,01/09/2024,Tanga,Ndaoya,Mfunguo_Tano_2,Mwacheji,Fisher_1,Athumani,46,male,3,Nyuli,Mkondoni,Ngalawa,Mshipi,NA,NA,NA,NA
+NA,01/09/2024,Tanga,Ndaoya,Mfunguo_Tano_2,Mwacheji,Fisher_1,Athumani,46,male,3,Nyuli,Mkondoni,Ngalawa,Mshipi,NA,NA,NA,NA
+NA,01/09/2024,Tanga,Ndaoya,Mfunguo_Tano_2,Mwacheji,Fisher_1,Athumani,46,male,3,Nyuli,Mkondoni,Ngalawa,Mshipi,NA,NA,NA,NA
+NA,09/10/2024,Tanga,Ndaoya,Mfunguo_Tano_1,Mwacheji,Fisher_1,Hussen,38,male,5,Nyulu,Fungu,Kuogelea,NA,12000,Kangaja2,105,8
+Saidi Hassani Mmaka,16/10/2024,Tanga,Ndaoya,Mfunguo_Saba_1,Mwacheji,Fisher_1,JUMAA ABOBO,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,25000,NA,428,30
+Saidi Hassani Mmaka,16/10/2024,Tanga,Ndaoya,Mfunguo_Saba_1,Mwacheji,Fisher_1,JUMAA ABOBO,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,25000,NA,422,30
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_3,Mashango saidi,55,male,1,Nyuli,Fungu,Ngalawa,Mshipi,18000,NA,112,20
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_3,Mashango saidi,55,male,1,Nyuli,Fungu,Ngalawa,Mshipi,18000,NA,75,17
+Saidi Hassani Mmaka,21/10/2024,Tanga,Ndaoya,Mfunguo_Saba_2,NA,Fisher_1,Jumbe hassani,49,male,3,Kitunga,Mkondoni,Mashua,NA,160000,NA,17000,99
+Saidi Hassani Mmaka,22/10/2024,Tanga,Ndaoya,Mfunguo_Saba_2,Mwacheji,Fisher_8,Ganjo sarai,26,male,2,Nyuli,Fungu,Ngalawa,Mshipi,60000,Kangaja1,1073,44
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,NA,Fisher_1,Rama idi,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,40000,NA,570,33
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,NA,Fisher_1,Rama idi,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,40000,NA,270,27
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,NA,Fisher_1,Rama idi,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,40000,NA,221,23
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_2,KIleo njama,22,male,2,Kitunga,Matumbawe/miamba,NA,Mshipi,90000,Chewa/Tewa,8040,100
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_4,Kubo mwalimu,35,male,1,Nyuli,Fungu,Ngalawa,Mshipi,20000,NA,313,28
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_4,Kubo mwalimu,35,male,1,Nyuli,Fungu,Ngalawa,Mshipi,20000,NA,164,22
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_4,Kubo mwalimu,35,male,1,Nyuli,Fungu,Ngalawa,Mshipi,20000,NA,83,18
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_5,Jumaa idi,43,male,2,Kitunga,Fungu,Ngalawa,Mshipi,30000,NA,538,32
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_5,Jumaa idi,43,male,2,Kitunga,Fungu,Ngalawa,Mshipi,30000,NA,224,23
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_6,Mwagwaya sarai,50,male,2,Mwambanyama,Fungu,Ngalawa,Mshipi,170000,NA,1248,43
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_6,Mwagwaya sarai,50,male,2,Mwambanyama,Fungu,Ngalawa,Mshipi,170000,NA,523,32
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_7,Jumaa habobo,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,27000,NA,1720,46
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_7,Jumaa habobo,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,27000,NA,1718,45
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_7,Jumaa habobo,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,27000,NA,1181,40
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,NA,Fisher_8,Shabani kalamu,49,male,2,Kitunga,Fungu,Ngalawa,Mshipi,16000,NA,767,37
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,NA,Fisher_8,Shabani kalamu,49,male,2,Kitunga,Fungu,Ngalawa,Mshipi,16000,NA,607,34
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_9,Jumbe hassani,49,male,3,Kijambani,Mkondoni,Mashua,Mshipi,110000,NA,11200,100
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_9,Jumbe hassani,49,male,3,Kijambani,Mkondoni,Mashua,Mshipi,110000,NA,11200,100
+Saidi Hassani Mmaka,03/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,NA,Fisher_10,Ganjo sarai,26,male,2,Nyuli,Fungu,Ngalawa,Mshipi,35000,NA,235,24
+Saidi Hassani Mmaka,04/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_1,Mashango saidii,55,male,1,Kitunga,Fungu,Ngalawa,Mshipi,20000,NA,126,19
+Saidi Hassani Mmaka,04/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_2,Jumaa abobo,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,30000,NA,303,30
+Saidi Hassani Mmaka,04/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,NA,Fisher_3,Ng'anzi omari,44,male,2,Nyuli,Fungu,NA,Mshipi,27000,NA,438,300
+NA,04/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_4,Jumaa idi,43,male,2,Kitunga,Fungu,Ngalawa,Mshipi,45000,NA,343,28
+Saidi Hassani Mmaka,04/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_5,Rama abdi,49,male,2,Kwasoka,Matumbawe/miamba,NA,Mshipi,120000,NA,9700,100
+Saidi Hassani Mmaka,04/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_6,Rama idi,42,male,3,Nyuli,Fungu,Ngalawa,Mshipi,32000,NA,508,3
+Saidi Hassani Mmaka,04/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_7,Ganjo sarai,26,male,2,Kitunga,Fungu,NA,Mshipi,45000,NA,493,35
+Saidi Hassani Mmaka,04/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_8,Mwagwaya sarai,50,male,2,Kitunga,Fungu,NA,Mshipi,37000,NA,366,28
+Saidi Hassani Mmaka,04/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_9,Kileo njama,22,male,3,Kitunga,Fungu,Ngalawa,Mshipi,65000,NA,790,38
+Saidi Hassani Mmaka,04/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,NA,Jumbe hassani,49,male,2,Kijambani,Mkondoni,Ngalawa,Mshipi,230000,Mzira/Mzia,2365,87
+Saidi Hassani Mmaka,05/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_1,Ng'anzi omari,44,male,2,Nyuli,Fungu,NA,Mshipi,20000,NA,473,30
+Saidi Hassani Mmaka,05/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_2,Kileo njama,22,male,3,Kitunga,Fungu,Mashua,Mshipi,27000,NA,293,27
+Saidi Hassani Mmaka,05/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_3,Mwagwaya sarai,50,male,2,Nyuli,Fungu,NA,Mshipi,40000,NA,910,29
+Saidi Hassani Mmaka,05/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_4,Jumaa abobo,42,male,2,Kitunga,Fungu,Ngalawa,Mshipi,47000,NA,782,39
+Saidi Hassani Mmaka,05/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_5,Ganjo sarai,26,male,2,Nyuli,Fungu,NA,Mshipi,45000,NA,972,40
+Saidi Hassani Mmaka,05/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_6,Shabani kalamu,49,male,2,Kijambani,Mkondoni,NA,Mshipi,110000,NA,9430,100
+Saidi Hassani Mmaka,05/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_7,Jumbe hassani,49,male,2,Kijambani,Mkondoni,NA,Mshipi,160000,NA,7119,89
+Saidi Hassani Mmaka,05/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_8,Rama abdi,49,male,2,Nyuli,Fungu,Ngalawa,Mshipi,28000,Chengo,160,20
+Saidi Hassani Mmaka,05/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_9,Jumaa idi,43,male,2,Nyuli,Fungu,Ngalawa,Mshipi,34000,NA,163,25
+Saidi Hassani Mmaka,09/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_1,Kileo njama,22,male,3,Kijambani,Mkondoni,Mashua,Mshipi,110000,Jodari,17322,100
+Saidi Hassani Mmaka,09/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,NA,Fisher_2,Jumaa abobo,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,21000,NA,445,30
+Saidi Hassani Mmaka,09/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_3,Jumaa idi,43,male,2,Kitunga,Fungu,NA,Mshipi,35000,Mlea,479,30
+Saidi Hassani Mmaka,09/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_4,Dudu sarai,49,male,2,Nyuli,Fungu,Ngalawa,Mshipi,32000,Changu13,357,28
+Saidi Hassani Mmaka,09/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_5,Rama idi,42,male,2,Kitunga,Fungu,Ngalawa,Mshipi,40000,Haraki,693,36
+Saidi Hassani Mmaka,09/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_6,Mashango saidi,55,male,1,Nyuli,Fungu,Ngalawa,Mshipi,20000,NA,134,19
+Saidi Hassani Mmaka,09/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_7,Shabani kalamu,49,male,2,Kitunga,Fungu,Ngalawa,Mshipi,125000,Unga,2783,60
+Saidi Hassani Mmaka,09/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_8,Ng'anzi omari,44,male,2,Nyuli,Fungu,Ngalawa,Mshipi,240001,NA,93,17
+Saidi Hassani Mmaka,09/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_9,Mwagwaya,50,male,2,Kitunga,Fungu,Ngalawa,Mshipi,22000,NA,224,24
+Saidi Hassani Mmaka,10/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_1,Jumaa abobo,43,male,2,Nyuli,Fungu,Ngalawa,Mshipi,27000,Tembo bato,273,24
+Saidi Hassani Mmaka,10/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_2,Kubo mwalimu,40,male,1,Taa,Fungu,NA,Mshipi,30000,NA,176,23
+Saidi Hassani Mmaka,10/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_3,Kileo njama,22,male,NA,Kijambani,Fungu,NA,Mshipi,80000,Jodari,7600,80
+Saidi Hassani Mmaka,10/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_4,Shabani kalamu,49,male,2,Kitunga,Fungu,Ngalawa,Mshipi,70000,NA,3220,57
+Saidi Hassani Mmaka,10/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_5,Mashango saidi,55,male,1,Nyuli,Fungu,Ngalawa,Mshipi,20000,NA,316,27
+Saidi Hassani Mmaka,10/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_6,Jumaa idi,43,male,2,Nyuli,Fungu,Ngalawa,Mshipi,22000,Chaa,205,23
+Saidi Hassani Mmaka,10/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_7,Ng'anzi omari,44,male,2,Kitunga,Fungu,Ngalawa,Mshipi,25000,Kolekole1,174,23
+Saidi Hassani Mmaka,10/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_8,Jumaa jumbe,25,male,3,Kijambani,Fungu,Mashua,Mshipi,NA,NA,3223,69
+Saidi Hassani Mmaka,10/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_9,Dudu sarai,49,male,2,Nyuli,Fungu,Ngalawa,Mshipi,25000,NA,171,22
+Saidi Hassani Mmaka,10/11/2024,Tanga,Ndaoya,Mfunguo_Nane_1,Mwacheji,Fisher_10,Mwagwaya sarai,50,male,2,Kitung,Fungu,Ngalawa,Mshipi,87000,NA,1369,49
+Saidi Hassani Salimu,21/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_1,Abdala lunga,41,male,2,Kijambani,Mkondoni,Mashua,Mshipi,55000,NA,4125,65
+Saidi Hassani Mmaka,21/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_2,Kubo mwalimu,40,male,1,Nyuli,Fungu,Ngalawa,Mshipi,60000,NA,162,22
+Saidi Hassani Mmaka,21/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_3,Jumaa  idi,43,male,2,Kitunga,Fungu,Ngalawa,Mshipi,1.00E+05,Kolekole1,995,44
+Saidi Hassani Mmaka,21/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_4,Shabani kalamu,49,male,2,Kitunga,Fungu,Ngalawa,Mshipi,70000,NA,1456,52
+Saidi Hassani Mmaka,21/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_5,Athumani sarai,46,male,NA,Nyuli,Fungu,Ngalawa,Mshipi,130000,NA,1371,45
+Saidi Hassani Mmaka,21/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_6,Jumbe hassani,49,male,2,Kijambani,Mkondoni,Mashua,Mshipi,130000,Jodari,14000,100
+Saidi Hassani Mmaka,21/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_7,Dudu sarai,49,male,2,Kitunga,Fungu,NA,Mshipi,270000,Kolekole mrondoo,3120,57
+Saidi Hassani Mmaka,21/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_8,Rama idi,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,57000,NA,1060,60
+Saidi Hassani Mmaka,21/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_9,Ng'anzi omari,44,male,2,Kitunga,Fungu,NA,Mshipi,78000,Changu dizi,648,33
+Saidi Hassani Mmaka,21/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_10,Mwagwaya sarai,50,male,2,Nyuli,Mkondoni,Ngalawa,Mshipi,40000,NA,5000,78
+Saidi Hassani Mmaka,23/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_1,Rama Abdi,49,male,2,Nyuli,Fungu,Ngalawa,Mshipi,90000,NA,1210,89
+Saidi Hassani Mmaka,23/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_2,Athumani sarai,46,male,2,Nyuli,Fungu,Ngalawa,Mshipi,30000,NA,445,30
+Saidi Hassani Mmaka,23/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_3,Jumaa idi,43,male,2,Kitunga,Fungu,Ngalawa,Mshipi,27000,Tembo,123,18
+Saidi Hassani Mmaka,23/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_4,Mashango saidi,55,male,1,Ulenge,Fungu,Ngalawa,Mshipi,25000,Changu13,132,20
+Saidi Hassani Mmaka,23/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_5,Dudu sarai,49,male,2,Kitunga,Fungu,Ngalawa,Mshipi,80000,Kolekole1,717,40
+Saidi Hassani Mmaka,23/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_6,Ganjo sarai,26,male,2,Nyuli,Fungu,Ngalawa,Mshipi,50000,NA,308,27
+Saidi Hassani Mmaka,23/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_7,Jumaa bobo,42,male,2,Kitunga,Fungu,NA,Mshipi,22000,Chaa,277,27
+Saidi Hassani Mmaka,23/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_8,Kileo njama,22,male,2,Nyuli,Fungu,Ngalawa,Mshipi,90000,Mdunji,5200,65
+Saidi Hassani Mmaka,23/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_9,Ng'anzi omari,44,male,2,Nyuli,Fungu,Ngalawa,Mshipi,23000,Chewa/Tewa,209,NA
+Saidi Hassani Mmaka,23/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_10,Mwagwaya sarai,50,male,2,Kitunga,Matumbawe/miamba,NA,Mshipi,130000,Unga,7300,75
+Saidi Hassani Mmaka,24/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_1,Jumaa jumbe,25,male,3,Kijambani,Mkondoni,Mashua,Mshipi,120000,Jodari,9300,99
+Saidi Hassani Mmaka,24/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_2,Mashango saidi,55,male,1,Nyuli,Fungu,Ngalawa,Mshipi,30000,NA,236,25
+Saidi Hassani Mmaka,24/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_3,Ganjo sarai,26,male,2,Kitunga,Fungu,Ngalawa,Mshipi,52000,NA,1468,45
+Saidi Hassani Mmaka,24/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_4,Shabani kalamu,49,male,2,Jambe,Fungu,Ngalawa,Mshipi,1.00E+05,NA,8320,98
+Saidi Hassani Mmaka,24/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_5,Rama idi,42,male,2,Nyuli,Fungu,Ngalawa,Mshipi,40000,tembo/janja,76,17
+Saidi Hassani Mmaka,24/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_6,Jumaa idi,43,male,2,Kitunga,Fungu,Ngalawa,Mshipi,67000,Chewa/Tewa,1554,48
+Saidi Hassani Mmaka,24/11/2024,Tanga,Ndaoya,Mfunguo_Nane_2,Mwacheji,Fisher_7,Ng'anzi omari,44,male,2,Kitunga,Fungu,Ngalawa,Mshipi,NA,NA,1067,42

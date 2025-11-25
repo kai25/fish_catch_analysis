@@ -1,0 +1,698 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,bei,Species,uzito_wa_jamii_moja_ya_samaki,idadi_ya_samaki
+Mohamedi Mwinchambi Rashidi,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Kikango,Fisher_1,Muhidini Amiri,54,male,1,Dutani,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Changu13,576,8
+Mohamedi Mwinchambi Rashidi,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Kikango,Fisher_1,Muhidini Amiri,54,male,1,Dutani,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,tembo/janja,249,4
+Mohamedi Mwinchambi Rashidi,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Kikango,Fisher_2,Mohamed shemne,57,male,7,Kwawa,Majani_bahari,Mashua,Mshipi,6000,Changu,475,7
+Mohamedi Mwinchambi Rashidi,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Kikango,Fisher_3,Jumaa mohamedi,58,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Madema,3500,Kumbi,370,4
+Mohamedi Mwinchambi Rashidi,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Kikango,Fisher_4,Sefu Hamisi,28,male,2,Ufuma,Majani_bahari,Dau/Mtumbwi,Mshipi,12000,Tasi,1069,8
+Mohamedi Mwinchambi Rashidi,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Kikango,Fisher_5,Haji hamisi,45,male,2,Marombo,Majani_bahari,Dau/Mtumbwi,Mshipi,2500,Kolekole1,2198,7
+Mohamedi Mwinchambi Rashidi,15-07-24,Tanga,Chongoleani,Mfunguo_Pili_2,Kikango,Fisher_6,Ally Masuo,33,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Madema,3000,Changu,492,6
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_1,Mdiri akida,29,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu2,1039,8
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_2,Hasani hamadi,42,male,1,Marombo,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Pono,1811,10
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_3,Miraji mohamedi,56,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Pono,653,5
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_3,Miraji mohamedi,56,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,tembo/janja,609,4
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_4,Abdallah halifa,70,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Changu13,572,7
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_5,Mohamedi shemni,65,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mshipi,3500,Pono,703,8
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_6,Mohamedi jure,52,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Changu2,750,10
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_7,Mohamedi hatibu,30,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Pono,974,12
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_8,Hamadi Faki,32,male,1,Mwamba nyama,Fungu,Dau/Mtumbwi,Mishipi,5000,Chewa,931,5
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_9,Hamidu hamduni,32,male,1,Ulenge,NA,Dau/Mtumbwi,Mshipi,5000,Chewa2,1116,5
+ Mwanabai Hamadi,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_10,Halfani amiri,382,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,7500,Pono/Chumumbu,1600,5
+Mohamedi Mwinchambi Rashidi,03-10-24,Tanga,Chongoleani,Mfunguo_Pili_2,Kikango,Fisher_1,Ali moamed,321,male,1,Marombo,Fungu,Dau/Mtumbwi,Mshipi,5000,Mkonge,500,2
+Mohamedi Mwinchambi Rashidi,03-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_1,Mohamedi omary,50,male,3,Nyuli,Fungu,Dau/Mtumbwi,Mshipi,6000,Kolekole1,1257,6
+Mohamedi Mwinchambi Rashidi,03-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_2,Nahodha haji,45,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,5500,Tasi,1336,11
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_1,Makame alli,35,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Kolekole1,1521,8
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_1,Makame alli,35,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Pono,653,4
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_2,Shelali omari,32,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Pono,808,5
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_2,Shelali omari,32,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tembo,533,4
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_2,Shelali omari,32,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Dizi Maji,748,6
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_3,Mdungi haji,70,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,13000,Tasi,885,6
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_3,Mdungi haji,70,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,13000,Kundaji,1117,5
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_3,Mdungi haji,70,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,13000,Pono,750,5
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_4,Siojo mwinyiulenge,56,male,1,Ulenge,Majani_bahari,Mashua,Mshipi,10000,Dizi Maji,2004,10
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_5,Hussein bakari,65,male,2,Marombo,Majani_bahari,Dau/Mtumbwi,Mtego/dema,13000,Tasi,885,6
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_5,Hussein bakari,65,male,2,Marombo,Majani_bahari,Dau/Mtumbwi,Mtego/dema,13000,Kundaji,1117,5
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_5,Hussein bakari,65,male,2,Marombo,Majani_bahari,Dau/Mtumbwi,Mtego/dema,13000,Pono,750,5
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Tano_2,Kikango,Fisher_6,Kirofisha,40,male,1,Nyuli,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Dizi Maji,1468,8
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Tano_2,Kikango,Fisher_6,Kirofisha,40,male,1,Nyuli,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Tasi,531,3
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_7,Kona hajo,62,male,2,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,7000,Tasi,1468,7
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_8,Mdiri akida,69,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,8000,Tembo,517,4
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_8,Mdiri akida,69,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,8000,Changu13,528,4
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_8,Mdiri akida,69,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,8000,Dizi Maji,816,5
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_10,Mwaziri mwinjuma,40,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Tembo,754,4
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_10,Mwaziri mwinjuma,40,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Pono,690,6
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_10,Mwaziri mwinjuma,40,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Kundaji,649,6
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_10,Bakari shejao,60,male,2,Nyuli,Majani_bahari,Dau/Mtumbwi,Mshipi,12500,Kundaji,1420,6
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_10,Bakari shejao,60,male,2,Nyuli,Majani_bahari,Dau/Mtumbwi,Mshipi,12500,Changu13,396,4
+Mohamedi Mwinchambi Rashidi,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_10,Bakari shejao,60,male,2,Nyuli,Majani_bahari,Dau/Mtumbwi,Mshipi,12500,Pono,747,5
+Mohamedi Mwinchambi Rashidi,06-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_1,Ally jure,32,male,2,Marombo,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Changu13,2159,8
+Mohamedi Mwinchambi Rashidi,06-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_2,Omari shali,40,male,2,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Pono/Chumumbu,1976,10
+Mohamedi Mwinchambi Rashidi,06-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_3,Muhidini amiri,54,male,1,Nyuli,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Pono,1323,7
+Mohamedi Mwinchambi Rashidi,06-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Kikango,Fisher_4,Hamadi hasani,45,male,2,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,2246,Puju1,2335,10
+Mohamedi Mwinchambi Rashidi,06-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Kikango,Fisher_5,Omary juma,32,male,2,Marombo,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,1537,8
+Mohamedi Mwinchambi Rashidi,06-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_6,Hasani hamadi,45,male,1,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,3500,Tembo,571,10
+Mohamedi Mwinchambi Rashidi,06-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_7,Mohamedi sadati,35,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6000,Changu2,1105,8
+Mohamedi Mwinchambi Rashidi,06-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_8,Ruga mohamedi,25,male,2,Kimio,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Pono3,1385,6
+Mohamedi Mwinchambi Rashidi,06-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_9,Shebwana somobwana,48,male,2,Taa,Fungu,Dau/Mtumbwi,Mshipi,8500,Pono,1710,7
+Mohamedi Mwinchambi Rashidi,06-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_10,Amiri darasa,40,male,1,Nyuli,Fungu,Dau/Mtumbwi,Mshipi,13000,Pono3,2505,12
+Mohamedi Mwinchambi Rashidi,07-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_2,Husein bakari,70,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5500,Pono3,1087,8
+Mohamedi Mwinchambi Rashidi,07-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_1,Mohamedi hatibu,32,male,2,Kipwani,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11250,Changu Ndomo,2187,10
+Mohamedi Mwinchambi Rashidi,07-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_3,Hemedi issa,23,male,2,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Mlea,1331,3
+Mohamedi Mwinchambi Rashidi,07-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_4,Jumaa mohamedi,52,male,2,Kwawa.,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono3,1143,8
+Mohamedi Mwinchambi Rashidi,07-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_5,Mussa ally,32,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Changu3,837,10
+Mohamedi Mwinchambi Rashidi,07-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_6,Saidi hasani,52,male,1,Marombo,Majani_bahari,Dau/Mtumbwi,Mshipi,4500,Tembo,905,10
+Mohamedi Mwinchambi Rashidi,07-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_7,Mdungi haji,70,male,2,Taa,Fungu,Dau/Mtumbwi,Mshipi,6000,Chewa/Tewa,1016,8
+Mohamedi Mwinchambi Rashidi,07-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_8,Mahamedi shemni,65,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Pono,1203,8
+Abdalah Abdalah,24-09-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Yusuph mustaph,40,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,1500,Chaa,NA,5
+Abdalah Abdalah,24-09-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Yusuph mustaph,40,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,1500,Chaa,43,1
+Abdalah Abdalah,24-09-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Yusuph mustaph,40,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,1500,Pono15,39,1
+Abdalah Abdalah,24-09-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Yusuph mustaph,40,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,1500,Chaa,104,3
+Abdalah Abdalah,24-09-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Mwarabu pinda,45,male,2,Taa,Majani_bahari,Mashua,Mtego/dema,5000,Pono15,238,3
+Abdalah Abdalah,24-09-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Mwarabu pinda,45,male,2,Taa,Majani_bahari,Mashua,Mtego/dema,5000,Koana,216,3
+Abdalah Abdalah,24-09-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Mwarabu pinda,45,male,2,Taa,Majani_bahari,Mashua,Mtego/dema,5000,Changu13,328,2
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mzee mdii,202,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Koana,268,4
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mzee mdii,202,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Pono15,302,3
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mzee mdii,202,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Changu13,292,3
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mzee mdii,202,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Chewa/Tewa,35,1
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mzee mdii,202,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Kibua,46,1
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mzee mdii,202,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Changu14,110,3
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Rama hasani,32,male,4,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,6000,Kolekole1,880,2
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Rama hasani,32,male,4,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,6000,Changu14,415,1
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Rama hasani,32,male,4,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,6000,Pono15,164,2
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Rama hasani,32,male,4,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,6000,Changu13,506,2
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Rama hasani,32,male,4,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,6000,Changu3,358,2
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Rama hasani,32,male,4,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,6000,Pono,215,1
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Mustaph mwinyimsa,58,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Changu13,120,2
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Mustaph mwinyimsa,58,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Koana,248,4
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Mustaph mwinyimsa,58,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Pono15,126,1
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Mustaph mwinyimsa,58,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Tasi,144,1
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Ally mohamedi,23,male,2,Taa,Mkondoni,Dau/Mtumbwi,Mshipi,6000,Koana,462,7
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Ally mohamedi,23,male,2,Taa,Mkondoni,Dau/Mtumbwi,Mshipi,6000,Changu14,312,7
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Ally mohamedi,23,male,2,Taa,Mkondoni,Dau/Mtumbwi,Mshipi,6000,Changu13,101,20
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Rama hasani,32,male,4,Taa,Fungu,Ngalawa,Mshipi,NA,Kolekole1,685,4
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Rama hasani,32,male,4,Taa,Fungu,Ngalawa,Mshipi,NA,Changu14,405,3
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Rama hasani,32,male,4,Taa,Fungu,Ngalawa,Mshipi,NA,Changu13,621,4
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Rama hasani,32,male,4,Taa,Fungu,Ngalawa,Mshipi,NA,Pono15,767,3
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Abdala mwidini,53,male,NA,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,7000,Chewa/Tewa,595,5
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Abdala mwidini,53,male,NA,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,7000,Pono15,377,3
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Abdala mwidini,53,male,NA,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,7000,Pono,554,2
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Gosi mwindadi,39,male,2,Taa,Faiba,Ngalawa,Mshipi,4500,Tasi,555,5
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Gosi mwindadi,39,male,2,Taa,Faiba,Ngalawa,Mshipi,4500,Pono15,199,3
+Abdalah Abdalah,15-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Gosi mwindadi,39,male,2,Taa,Faiba,Ngalawa,Mshipi,4500,Koana,195,2
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_1,Twalia gosi,60,male,1,Funguni,Fungu,Dau/Mtumbwi,Mshipi,6000,Changu13,601,5
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_1,Twalia gosi,60,male,1,Funguni,Fungu,Dau/Mtumbwi,Mshipi,6000,Changu14,636,5
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Salimu gosi,69,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,2500,Paramamba,160,1
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Salimu gosi,69,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,2500,Tembo,67,1
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Salimu gosi,69,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,2500,Changu14,98,2
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Salimu gosi,69,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,2500,Changu13,96,3
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Yusuph mustaph,40,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,1500,Chaa,43,1
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Yusuph mustaph,40,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,1500,Pono15,39,1
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Yusuph mustaph,40,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,1500,Changu13,104,3
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Mwarabu pinda,45,male,2,Mwambanyama,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Changu13,328,2
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Mwarabu pinda,45,male,2,Mwambanyama,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Changu14,187,2
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Mwarabu pinda,45,male,2,Mwambanyama,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono15,238,3
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mwahamza mkuu,69,male,2,Taa,Matumbawe/miamba,Ngalawa,Mtego/dema,12000,Tasi,1545,3
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mwahamza mkuu,69,male,2,Taa,Matumbawe/miamba,Ngalawa,Mtego/dema,12000,Chewa/Tewa,619,1
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mwahamza mkuu,69,male,2,Taa,Matumbawe/miamba,Ngalawa,Mtego/dema,12000,Pono,207,1
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Salu muslii,26,male,1,Funguni,Fungu,Dau/Mtumbwi,Mshipi,NA,Tembo,173,4
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Salu muslii,26,male,1,Funguni,Fungu,Dau/Mtumbwi,Mshipi,NA,Changu13,102,2
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Kodi mkuu,35,male,3,Mwamba nyama,Majani_bahari,Ngalawa,Mshipi,6000,Pono15,350,3
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Kodi mkuu,35,male,3,Mwamba nyama,Majani_bahari,Ngalawa,Mshipi,6000,Chaa,570,3
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Kodi mkuu,35,male,3,Mwamba nyama,Majani_bahari,Ngalawa,Mshipi,6000,Changu13,416,4
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Kocha huruma,50,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Pono15,369,3
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Kocha huruma,50,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Tembo,358,3
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Kocha huruma,50,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Chewa/Tewa,315,3
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Abdaramani huruma,39,male,1,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Changu14,211,1
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Abdaramani huruma,39,male,1,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Changu14,314,3
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Abdaramani huruma,39,male,1,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Tembo,208,2
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Abdaramani huruma,39,male,1,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Changu13,211,1
+Abdalah Abdalah,17-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_10,Mwapayo huruma,60,male,1,Mwanyanyama,Majani_bahari,Dau/Mtumbwi,Mshipi,4500,Changu14,841,7
+Abdalah Abdalah,20-07-22,Tanga,Chongoleani,Mfunguo_Nne_1,Bagamoyo,Fisher_1,Jumaa mohamedi,56,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4500,Pono15,NA,10
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Haji hamisi,40,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,14000,Kolekole1,1617,6
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Haji hamisi,40,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,14000,NA,448,3
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Haji hamisi,40,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,14000,Chewa/Tewa,329,3
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Haji hamisi,40,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,14000,Chaa,450,3
+Abdalah Abdalah,20-07-26,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mdungi hamisi,60,male,1,Funguni,Fungu,Ngalawa,Mtego/dema,9000,Pono,701,5
+Abdalah Abdalah,20-07-26,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mdungi hamisi,60,male,1,Funguni,Fungu,Ngalawa,Mtego/dema,9000,NA,626,3
+Abdalah Abdalah,20-07-26,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mdungi hamisi,60,male,1,Funguni,Fungu,Ngalawa,Mtego/dema,9000,NA,305,4
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Abdalah mwihidini,56,male,2,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,350,Changu13,518,6
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Abdalah mwihidini,56,male,2,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,350,Tembo,117,2
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Fadhili juma,34,male,2,Mwambanyama,Majani_bahari,Ngalawa,Mshipi,4500,Koana,507,3
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Fadhili juma,34,male,2,Mwambanyama,Majani_bahari,Ngalawa,Mshipi,4500,Pono,398,4
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Hobo bakari8,22,male,2,Taa,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Pono,428,4
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Hobo bakari8,22,male,2,Taa,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Tasi,567,6
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Hobo bakari8,22,male,2,Taa,Fungu,Dau/Mtumbwi,Mtego/dema,5000,Pono15,163,3
+Abdalah Abdalah,27-09-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Salimu kheri,45,male,2,Funguni,Fungu,Ngalawa,Mshipi,5000,Changu14,NA,NA
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Iddy mbaya,46,male,2,Funguni,Fungu,Mashua,Mtego/dema,6000,Tasi,669,5
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Iddy mbaya,46,male,2,Funguni,Fungu,Mashua,Mtego/dema,6000,Changu13,416,4
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Iddy mbaya,46,male,2,Funguni,Fungu,Mashua,Mtego/dema,6000,Chewa/Tewa,375,3
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Siojo,56,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,NA,388,3
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Siojo,56,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,506,4
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Siojo,56,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tembo,314,5
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_10,Nyerere mbaya,62,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tasi,357,5
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_10,Nyerere mbaya,62,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Pono15,341,4
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_10,Nyerere mbaya,62,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Pono,125,3
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_10,Nyerere mbaya,62,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Chewa/Tewa,980,3
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_1,Yusuph mustaph,42,male,2,Marombo,Majani_bahari,Ngalawa,Mshipi,5000,Koana,937,15
+Abdalah Abdalah,20-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_1,Yusuph mustaph,42,male,2,Marombo,Majani_bahari,Ngalawa,Mshipi,5000,Pono15,106,2
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Buzi nuru,45,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Tasi,1144,4
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Buzi nuru,45,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Pono,240,2
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Buzi nuru,45,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Chewa/Tewa,353,2
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mdaramani huruma,27,male,1,Kwawa,Majani_bahari,Ngalawa,Mshipi,6000,Chaa,254,3
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mdaramani huruma,27,male,1,Kwawa,Majani_bahari,Ngalawa,Mshipi,6000,Changu14,101,1
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mdaramani huruma,27,male,1,Kwawa,Majani_bahari,Ngalawa,Mshipi,6000,Tembo,123,3
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mdaramani huruma,27,male,1,Kwawa,Majani_bahari,Ngalawa,Mshipi,6000,Pono15,242,6
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mdaramani huruma,27,male,1,Kwawa,Majani_bahari,Ngalawa,Mshipi,6000,Changu13,595,9
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Salimu gosi,62,male,1,Milangoni,Majani_bahari,Dau/Mtumbwi,Mshipi,1500,Changu2,111,4
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Salimu gosi,62,male,1,Milangoni,Majani_bahari,Dau/Mtumbwi,Mshipi,1500,Changu13,260,6
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mohamedi mustaph,37,male,3,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,6500,Pono15,675,8
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mohamedi mustaph,37,male,3,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,6500,Chewa/Tewa,720,9
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Gosi muhamedi,39,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Pono,263,4
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Gosi muhamedi,39,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Koana,441,10
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Gosi muhamedi,39,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Changu14,166,3
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Gosi muhamedi,39,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Pono15,78,1
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Mwalolo mohamedi,NA,male,1,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,2000,Pono,297,3
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Mwalolo mohamedi,NA,male,1,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,2000,Tembo,192,4
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Mohamudu mustaph,45,male,1,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,2500,Pono,113,1
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Mohamudu mustaph,45,male,1,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,2500,Changu13,285,10
+Mohamedi Mwinchambi Rashidi,07-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_9,Miraji mohamedi,52,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Changu2,548,7
+Mohamedi Mwinchambi Rashidi,07-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_10,Ali abdalla,54,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,3500,Changu2,659,10
+Mohamedi Mwinchambi Rashidi,08-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_1,Mohamedi ally,45,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,15000,Pono3,3107,6
+Mohamedi Mwinchambi Rashidi,08-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_2,Jumbe mohamedi,32,male,2,Nyuli,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Changu13,1318,10
+Mohamedi Mwinchambi Rashidi,08-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_3,Amiri ruga,65,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Mlea,1075,8
+Mohamedi Mwinchambi Rashidi,08-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_4,Hamza bakari,54,male,1,Ulenge,Matumbawe/miamba,Ngalawa,Mshipi,3500,tembo/janja,758,10
+Mohamedi Mwinchambi Rashidi,08-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_5,Mohamedi jumaa,45,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono3,1774,10
+Mohamedi Mwinchambi Rashidi,08-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_6,Waziri ally,65,male,2,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Pono,784,10
+Mohamedi Mwinchambi Rashidi,08-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_7,Mustaph mohamedi,35,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,7000,Changu2,1429,10
+Mohamedi Mwinchambi Rashidi,08-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_8,Ally.athuman,52,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,1203,8
+Mohamedi Mwinchambi Rashidi,08-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_9,Madaraka hussein,65,male,1,Kipwani,Majani_bahari,Dau/Mtumbwi,Mshipi,3000,Changu2,775,10
+Mohamedi Mwinchambi Rashidi,08-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_10,Mohamedi hasani,32,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Tembo,794,11
+Mohamedi Mwinchambi Rashidi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_1,Hamadi shehe haji,38,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Pono,1117,10
+Mohamedi Mwinchambi Rashidi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_2,Miraji athumani,54,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3000,Changu2,481,8
+Mohamedi Mwinchambi Rashidi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_3,Husein jumaa,45,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Changu2,657,11
+Mohamedi Mwinchambi Rashidi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_4,Jumaa husein,35,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Pono/Chumumbu,368,8
+Mohamedi Mwinchambi Rashidi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_4,Jumaa husein,35,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Changu2,260,5
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Mohamudu mustaph,45,male,1,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,2500,Pono,113,1
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_8,Mohamudu mustaph,45,male,1,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,2500,Changu13,285,10
+Mwanabai Hamadi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_5,Njama hamadi,35,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Pono,638,6
+Mwanabai Hamadi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_5,Njama hamadi,35,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Changu2,581,8
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Iddi mbaya,38,male,3,Mnarani,Fungu,Dau/Mtumbwi,Mshipi,3500,Tembo,550,5
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_9,Iddi mbaya,38,male,3,Mnarani,Fungu,Dau/Mtumbwi,Mshipi,3500,Pono15,259,4
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_10,Mwarabu pinda,50,male,2,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,3500,Chewa/Tewa,323,3
+Abdalah Abdalah,22-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_10,Mwarabu pinda,50,male,2,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,3500,Tembo,389,5
+Mohamedi Mwinchambi Rashidi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_6,Mnyati kidonje,32,male,2,Kipwani,Majani_bahari,Dau/Mtumbwi,Mshipi,4000,Changu2,842,12
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_1,Salu msulii,22,male,1,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,2500,Changu14,456,10
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_2,Salimu gosi,62,male,1,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,2500,Tembo,389,8
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mbaya mwinyiulenge,65,male,NA,Chongoma,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,950,5
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mbaya mwinyiulenge,65,male,NA,Chongoma,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono15,583,4
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_3,Mbaya mwinyiulenge,65,male,NA,Chongoma,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Tembo,238,3
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Buzi nuru,45,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,3000,Tasi,355,3
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_4,Buzi nuru,45,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,3000,Paramamba,206,2
+Huda Bamvuwa,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_7,Muhidini amiri,57,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Changu dizi,558,9
+Huda Bamvuwa,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_7,Muhidini amiri,57,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Kundaji,213,5
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mkuu hamza,60,male,1,Taa,Fungu,Ngalawa,Mshipi,3500,Chewa/Tewa,149,1
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mkuu hamza,60,male,1,Taa,Fungu,Ngalawa,Mshipi,3500,Koana,414,5
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_5,Mkuu hamza,60,male,1,Taa,Fungu,Ngalawa,Mshipi,3500,Pono15,133,1
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Mohamud mustaph,49,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Tembo,291,5
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Mohamud mustaph,49,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Pono,348,4
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_6,Mohamud mustaph,49,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Pono15,85,4
+Abdalah Abdalah,25-07-24,Tanga,Chongoleani,Mfunguo_Nne_2,Bagamoyo,Fisher_7,Siojo mwinyiulenge,60,male,1,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Tasi,1759,5
+Mohamedi Mwinchambi Rashidi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_8,Hasani shelali,35,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tembo,1174,10
+Mohamedi Mwinchambi Rashidi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_9,Omari gosi,50,male,3,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Mzira/Mzia,1890,1
+Mohamedi Mwinchambi Rashidi,13-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_10,Mohamedi halifa,58,male,2,Kimii,Majani_bahari,Dau/Mtumbwi,Mshipi,6500,Tembo,1390,10
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_1,Karai huseini,24,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,6500,Chewa2,1391,2
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_2,Ali mohamedi,36,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,7000,Chewa/Tewa,1437,4
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_1,Buzi nuru,45,male,2,Mnarani,Fungu,Dau/Mtumbwi,Mtego/dema,14000,Tasi,1385,4
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_1,Buzi nuru,45,male,2,Mnarani,Fungu,Dau/Mtumbwi,Mtego/dema,14000,Pono,1296,4
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_3,Ushuru haji,70,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6500,Pono,1270,10
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_4,Abdqllah alifa,65,male,1,Ulenge,Majani_bahari,Mashua,Mshipi,6000,Changu2,654,8
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_4,Abdqllah alifa,65,male,1,Ulenge,Majani_bahari,Mashua,Mshipi,6000,Pono/Chumumbu,458,5
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_5,Mohamedi bakari,35,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Changu2,1074,12
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_6,Huruma pandu,46,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,4000,Chewa/Tewa,723,8
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_2,Vituko mwehaji,65,male,1,Mwambanyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Pono15,309,1
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_2,Vituko mwehaji,65,male,1,Mwambanyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Tasi,451,3
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_2,Vituko mwehaji,65,male,1,Mwambanyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Pono,796,4
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_8,Haluwa famki,35,male,3,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,895,7
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_8,Haluwa famki,35,male,3,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Kundaji,619,5
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_7,Hamadi shehe,45,male,1,Marombo,Majani_bahari,NA,Mtego/dema,8000,Kundaji,1538,8
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_9,Athumani mohamedi,42,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tasi,1918,7
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_3,Iddi mbaya,34,male,3,Mwambanyama,Majani_bahari,Dau/Mtumbwi,Mtego/dema,1100,Tasi,1120,3
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_3,Iddi mbaya,34,male,3,Mwambanyama,Majani_bahari,Dau/Mtumbwi,Mtego/dema,1100,Pono,1200,4
+Mohamedi Mwinchambi Rashidi,14-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_10,Husein ally,54,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Pono,1339,7
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_1,Omari gosi,54,male,2,Wamba,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Tasi,1915,10
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_2,Abuu haji,32,male,2,Kwawq,Majani_bahari,Dau/Mtumbwi,Mtego/dema,9000,Pono,653,5
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_2,Abuu haji,32,male,2,Kwawq,Majani_bahari,Dau/Mtumbwi,Mtego/dema,9000,Tasi,1085,5
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_3,Abasi madaraka,54,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,5500,Changu dizi,1169,10
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_4,Mdiri akida,32,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,7500,Tembo,1531,12
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_4,Twalia gosi,60,male,1,Funguni,Fungu,Dau/Mtumbwi,Mshipi,6000,Tembo,1287,15
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_5,Abawa haji,45,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,17000,Mzira/Mzia,3646,4
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_5,Mahamud msta ph,45,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mtego/dema,5000,Pono,957,10
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_6,Omari kidengu,48,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Kundaji,2177,6
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_6,Selemani mnyamisi,20,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Koana,703,8
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_6,Selemani mnyamisi,20,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Chaa,578,6
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_7,Kocha huruma,50,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,4500,Changu14,450,6
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_7,Kocha huruma,50,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,4500,Tembo,263,4
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_7,Kocha huruma,50,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,4500,Chaa,154,3
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_8,Yunusu shejao,60,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,4000,Koana,440,5
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_8,Yunusu shejao,60,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,4000,Chewa/Tewa,198,4
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_9,Rama hasani,32,male,3,Mnarani,Majani_bahari,Dau/Mtumbwi,Mshipi,12500,Kolekole1,908,2
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_9,Rama hasani,32,male,3,Mnarani,Majani_bahari,Dau/Mtumbwi,Mshipi,12500,Changu13,1644,4
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_10,Kitwana halidi,73,male,1,Taa,Matumbawe/miamba,Ngalawa,Mshipi,8500,Changu13,544,2
+Abdalah Abdalah,28-09-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_10,Kitwana halidi,73,male,1,Taa,Matumbawe/miamba,Ngalawa,Mshipi,8500,Chewa/Tewa,1292,4
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_6,Omari kidengu,48,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Kundaji,2177,6
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_7,Ankala jumaa,45,male,2,KiMIo,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Pono/Chumumbu,1030,8
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_1,Buzi nuru,45,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Pono,2016,5
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_1,Buzi nuru,45,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,17000,Tasi,1470,4
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_8,Amiri sharifu,35,male,2,Magomeni,Majani_bahari,Dau/Mtumbwi,Mshipi,17000,Mzira/Mzia,3646,3
+Mohamedi Mwinchambi Rashidi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_9,Abdallah ally omari,63,male,3,Magomeni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Sonyo,1243,4
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_2,Nyerere mwinyiulenge,67,male,1,Nyuli,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,8500,Pono,574,3
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_2,Nyerere mwinyiulenge,67,male,1,Nyuli,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,8500,Tasi,639,5
+Mwanabai Hamadi,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_10,Ally omari,40,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Kundaji,951,8
+Huda Bamvuwa,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_1,Omari haji,35,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Pono/Chumumbu,1057,10
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_3,Mustaph,45,male,1,Baswara,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,4500,Tembo,274,5
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_3,Mustaph,45,male,1,Baswara,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,4500,Chewa/Tewa,594,3
+Mwanabai Hamadi,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_2,Abdallah waziri,58,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Tembo,730,8
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_4,Siojo mwinyiulenge,60,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Tasi,670,5
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_4,Siojo mwinyiulenge,60,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Puju1,744,5
+Mohamedi Mwinchambi Rashidi,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_3,Omari jumaa,38,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu dizi,953,10
+Mohamedi Mwinchambi Rashidi,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_4,Amiri darasa,35,male,2,Marombo,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Pono/Chumumbu,631,6
+Mohamedi Mwinchambi Rashidi,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_4,Amiri darasa,35,male,2,Marombo,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Kundaji,521,5
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_5,Idd mbaya,32,male,3,Mwmbanyama,Matumbawe/miamba,Mashua,Mtego/dema,4000,Tasi,594,5
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_5,Idd mbaya,32,male,3,Mwmbanyama,Matumbawe/miamba,Mashua,Mtego/dema,4000,Pono,201,2
+Mohamedi Mwinchambi Rashidi,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_5,Husein bakari,68,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Tembo,864,7
+Mohamedi Mwinchambi Rashidi,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_5,Husein bakari,68,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Changu dizi,568,5
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_6,Mwapayo huru,59,male,1,Nyuli,Matumbawe/miamba,Ngalawa,Mtego/dema,9000,Kurumbwi,835,2
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_6,Mwapayo huru,59,male,1,Nyuli,Matumbawe/miamba,Ngalawa,Mtego/dema,9000,Pono,495,2
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_6,Mwapayo huru,59,male,1,Nyuli,Matumbawe/miamba,Ngalawa,Mtego/dema,9000,Changu13,425,2
+Huda Bamvuwa,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_6,Jumaa shemni ally,42,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Changu2,2051,6
+Mwanabai Hamadi,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_7,Ally jure,31,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,20000,Chewa/Tewa,4215,3
+Huda Bamvuwa,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_8,Njama hamadi,34,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Tasi,2428,7
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_7,Rama hasani,32,male,4,Taa,Matumbawe/miamba,Ngalawa,Mshipi,14000,Changu13,1561,2
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_7,Rama hasani,32,male,4,Taa,Matumbawe/miamba,Ngalawa,Mshipi,14000,Chaa,850,2
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_7,Rama hasani,32,male,4,Taa,Matumbawe/miamba,Ngalawa,Mshipi,14000,Chewa/Tewa,759,2
+Mohamedi Mwinchambi Rashidi,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_9,Jumbe mohamedi,32,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mshipi,12500,Puju1,2516,8
+Mwanabai Hamadi,28-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_10,Mwaruga amiri,70,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,7000,Changu2,1615,5
+Mohamedi Mwinchambi Rashidi,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_1,Muhidini halifani,45,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono/Chumumbu,1330,10
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_8,Sele mnyamisi,20,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,4000,Pono15,302,3
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_8,Sele mnyamisi,20,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,4000,Koana,338,3
+Huda Bamvuwa,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_2,Hasani hamidu faki,42,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,11000,Mzira/Mzia,2265,5
+Mohamedi Mwinchambi Rashidi,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_3,Mwatuwe haji,42,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Tasi,2036,8
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_9,Jafari,30,male,2,Mwambanyama,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,8000,Chewa/Tewa,1572,13
+Mwanabai Hamadi,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_4,Kona haji,42,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Tasi,1748,10
+Mohamedi Mwinchambi Rashidi,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_5,Miraji jumaa,65,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu Ndomo,1131,9
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_10,Kodi mkuu,35,male,3,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,10500,Chaa,1329,10
+Abdalah Abdalah,01-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_10,Kodi mkuu,35,male,3,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,10500,Pono15,752,5
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_1,Rama hasani,32,male,4,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,550,Changu13,450,4
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_1,Rama hasani,32,male,4,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,550,Chaa,651,5
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_2,Yusuph mustaph,35,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,8000,Changu14,1062,5
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_2,Yusuph mustaph,35,male,2,Taa,Matumbawe/miamba,Ngalawa,Mshipi,8000,Kolekole1,732,5
+Huda Bamvuwa,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_6,Ushuru haji,72,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Pono/Chumumbu,1483,11
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_3,Salimu nuru,62,male,1,Nyuli,Fungu,Dau/Mtumbwi,Mshipi,3500,Changu14,729,101
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_4,Kodi,35,male,3,Taa,Matumbawe/miamba,NA,Mshipi,4500,Pono15,476,5
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_4,Kodi,35,male,3,Taa,Matumbawe/miamba,NA,Mshipi,4500,Chewa/Tewa,324,5
+Huda Bamvuwa,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_7,Fedheli abawa,28,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Tasi,1157,8
+Mwanabai Hamadi,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_8,Borohoa mohamedi,62,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,7500,Changu2,815,5
+Mwanabai Hamadi,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Kikango,Fisher_8,Borohoa mohamedi,62,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,7500,Tasi,863,6
+Mohamedi Mwinchambi Rashidi,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_9,Mdungi haji,70,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tasi,1948,6
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_5,Vituko mwihaji,65,male,NA,Taa,Fungu,Dau/Mtumbwi,Mshipi,6000,Changu13,627,3
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_5,Vituko mwihaji,65,male,NA,Taa,Fungu,Dau/Mtumbwi,Mshipi,6000,Pono15,514,5
+Huda Bamvuwa,26-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Kikango,Fisher_10,Athumani alifa,35,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Kundaji,1152,10
+Mohamedi Mwinchambi Rashidi,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_3,Mahamudu raga,32,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Changu2,696,10
+Mohamedi Mwinchambi Rashidi,02-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_7,Halidi tajiri,38,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Kangaja1,1672,4
+Mohamedi Mwinchambi Rashidi,02-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_1,Mohamedi kasirani,35,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Pono9,2098,6
+Mohamedi Mwinchambi Rashidi,02-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_2,Ally jure,35,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Tembo,940,10
+Mohamedi Mwinchambi Rashidi,02-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_3,Kisanga omari,32,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Kundaji,939,8
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_6,Abli mahamudu,19,male,1,Mnarani,Fungu,Dau/Mtumbwi,Mshipi,8000,Changu13,643,4
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_6,Abli mahamudu,19,male,1,Mnarani,Fungu,Dau/Mtumbwi,Mshipi,8000,Pono15,554,5
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_6,Abli mahamudu,19,male,1,Mnarani,Fungu,Dau/Mtumbwi,Mshipi,8000,Chewa/Tewa,375,5
+Mohamedi Mwinchambi Rashidi,02-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_4,Njama husein,29,male,1,Marombo,Majani_bahari,Dau/Mtumbwi,Mshipi,7500,Changu2,1557,12
+Mohamedi Mwinchambi Rashidi,02-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_5,Hasani hamadi,42,male,2,Ufuma,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,1216,10
+Mohamedi Mwinchambi Rashidi,02-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_6,Mpala omari,38,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Changu2,982,9
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_7,Hamadi  mwinjuma,20,male,1,Kikaango,Fungu,Ngalawa,Mshipi,3000,Changu13,609,10
+Mohamedi Mwinchambi Rashidi,02-11-24,Tanga,Chongoleani,NA,NA,Fisher_8,Mohamedi abudi,72,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Changu2,2206,8
+Mohamedi Mwinchambi Rashidi,02-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_9,Mwqruga kombo,53,male,1,Kwawa,Majani_bahari,NA,Mshipi,7500,Tasi,1552,9
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_8,Hamisi kombo,60,male,1,Ningani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,3000,Tembo,541,10
+Mohamedi Mwinchambi Rashidi,02-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_10,Iddi mabrouk,85,male,2,Kwawa,Majani_bahari,NA,Mtego/dema,10000,Changu2,1923,7
+Mohamedi Mwinchambi Rashidi,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_1,Abdi eliasi,29,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6500,Kundaji,1323,10
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_8,Mkadamu abdalah,40,male,1,Nyuli,Fungu,Dau/Mtumbwi,Mshipi,3000,Tembo,253,4
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_8,Mkadamu abdalah,40,male,1,Nyuli,Fungu,Dau/Mtumbwi,Mshipi,3000,Changu13,339,5
+Mohamedi Mwinchambi Rashidi,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_2,Ally shemni,58,male,1,Ulenge,Majani_bahari,NA,Mshipi,6000,Tembo,1162,12
+Mohamedi Mwinchambi Rashidi,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_3,Mwaruga halidi,65,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu2,925,6
+Mohamedi Mwinchambi Rashidi,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_4,Abawa mnyatibu,48,male,2,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Chengo,1695,9
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_10,Swalehe biswai,40,male,2,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,3000,Tembo,194,3
+Abdalah Abdalah,02-10-24,Tanga,Chongoleani,Mfunguo_Sita_1,Bagamoyo,Fisher_10,Swalehe biswai,40,male,2,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,3000,Changu13,318,6
+Mohamedi Mwinchambi Rashidi,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_5,Ally omari,60,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Tasi,1111,6
+Mohamedi Mwinchambi Rashidi,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_6,Mohamedi halifa,68,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tembo,1185,10
+Mohamedi Mwinchambi Rashidi,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_7,Karai husein,25,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Changu2,1834,10
+Mohamedi Mwinchambi Rashidi,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_8,Abdallah ally,35,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Mgema,1282,7
+Mohamedi Mwinchambi Rashidi,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_9,Idrissa ally,32,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Chewa/Tewa,683,6
+Mohamedi Mwinchambi Rashidi,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_10,Abuu musa,29,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Chewa/Tewa,2239,5
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,67,male,1,Jiweni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Tasi,341,3
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,67,male,1,Jiweni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Tembo,146,2
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,67,male,1,Jiweni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,NA,179,1
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,67,male,1,Jiweni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Chewa/Tewa,236,1
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,67,male,1,Jiweni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Kangaja1,141,1
+Mohamedi Mwinchambi Rashidi,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_1,Hamidu hamduni,35,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6500,Mlea,1366,8
+Mohamedi Mwinchambi Rashidi,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_2,Hamadi hasani,35,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,8000,Chelema/Mboo ya mvuvi,1733,10
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_2,Buzi nuru,45,male,2,Mnarani,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tasi,631,5
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_2,Buzi nuru,45,male,2,Mnarani,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono15,621,5
+Mohamedi Mwinchambi Rashidi,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_4,Babu dii ndoro,25,male,3,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6500,Changu2,1350,7
+Mohamedi Mwinchambi Rashidi,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_5,Abdi eliasi,35,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Changu dizi,1681,6
+Mohamedi Mwinchambi Rashidi,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_6,Kisanga omari,36,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Changu dizi,1771,8
+Mohamedi Mwinchambi Rashidi,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_7,Muzungu ally,29,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Pono9,1733,5
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_3,Siojo mwinyiulenge,60,male,1,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Tasi,1831,8
+Mohamedi Mwinchambi Rashidi,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_8,Mohamedi.dondo,25,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,7000,Changu2,1690,9
+Mohamedi Mwinchambi Rashidi,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_9,Athumani waziri,36,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono9,1496,7
+Mohamedi Mwinchambi Rashidi,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_10,Ally hamidu,28,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Kundaji,1177,10
+Mohamedi Mwinchambi Rashidi,08-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_1,Abdallah alifa,65,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Changu dizi,1523,10
+Mohamedi Mwinchambi Rashidi,08-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_2,Miraji mote,52,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Pono3,1490,8
+Mohamedi Mwinchambi Rashidi,08-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_3,Karai husein,34,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5500,Tembo,1151,10
+Mohamedi Mwinchambi Rashidi,08-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_4,Mavuro juma,52,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Kundaji,1098,9
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_4,Mdii huruma,40,male,3,Nyuli,Matumbawe/miamba,Ngalawa,Mshipi,5500,Pono15,445,5
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_4,Mdii huruma,40,male,3,Nyuli,Matumbawe/miamba,Ngalawa,Mshipi,5500,Koana,764,8
+Mohamedi Mwinchambi Rashidi,08-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_5,Mwalimu.hasani,34,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Tembo,1165,12
+Mohamedi Mwinchambi Rashidi,08-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_6,Abdallah ally,32,male,2,Taa,Majani_bahari,Kutembea,Mtego/dema,10000,Chelema/Mboo ya mvuvi,2117,5
+Mohamedi Mwinchambi Rashidi,08-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_7,Mohamedi shemni,58,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Changu2,1207,10
+Mohamedi Mwinchambi Rashidi,08-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_8,Omari haji,36,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,3500,Chewa2,840,9
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_5,Salimu gosi,65,male,1,Mnarani,Majani_bahari,Dau/Mtumbwi,Mshipi,4000,Changu2,452,8
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_5,Salimu gosi,65,male,1,Mnarani,Majani_bahari,Dau/Mtumbwi,Mshipi,4000,Chaa,201,2
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_5,Salimu gosi,65,male,1,Mnarani,Majani_bahari,Dau/Mtumbwi,Mshipi,4000,Changu13,167,1
+Mohamedi Mwinchambi Rashidi,08-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_9,Eliasi dondo,32,male,2,Kikaango,Majani_bahari,Dau/Mtumbwi,Mshipi,7500,Chelema/Mboo ya mvuvi,1520,10
+Mohamedi Mwinchambi Rashidi,08-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_10,Mohamedi husein,43,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu2,1088,11
+Mohamedi Mwinchambi Rashidi,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_1,Ally sangoda,52,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,1159,Kundaji,1159,10
+Mohamedi Mwinchambi Rashidi,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_2,Tamimu nungu,25,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Pono9,1086,10
+Mohamedi Mwinchambi Rashidi,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_3,Ruga mohamedi,24,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Changu2,990,10
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_6,Ally mustaph,45,male,NA,Taa,Majani_bahari,Ngalawa,Mshipi,4000,Koana,364,4
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_6,Ally mustaph,45,male,NA,Taa,Majani_bahari,Ngalawa,Mshipi,4000,Changu13,114,1
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_6,Ally mustaph,45,male,NA,Taa,Majani_bahari,Ngalawa,Mshipi,4000,Changu2,326,5
+Mohamedi Mwinchambi Rashidi,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_4,Husein ally,28,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7500,Pono,1483,8
+Mohamedi Mwinchambi Rashidi,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_5,Abdallah zinga,27,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,1057,Mlea,1057,9
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_7,Mdaramani huruma,32,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,3500,Changu14,738,10
+Mohamedi Mwinchambi Rashidi,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_6,Madaraka husein,54,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Tasi,2287,7
+Maida Mwadini Juma,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_7,Mohamedi shemni,65,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,8000,Changu2,1831,8
+Mohamedi Mwinchambi Rashidi,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_8,Ushuru haji,65,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,17500,Pono9,3441,8
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_8,Mohamedi nyerere,20,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,3000,Koana,171,5
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_8,Mohamedi nyerere,20,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,3000,Changu14,207,5
+Mohamedi Mwinchambi Rashidi,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_9,Mpala haji,45,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12000,Chewa2,2470,9
+Mohamedi Mwinchambi Rashidi,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_10,Ibrahimu hsnafi,35,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Mlea,1352,10
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_9,Kocha nyerere,25,male,1,Nyuli,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,3000,Chewa/Tewa,400,9
+Mohamedi Mwinchambi Rashidi,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_1,Mohamedi.ibrahimu,35,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,4000,Kivumbi,902,7
+Mohamedi Mwinchambi Rashidi,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_2,Mohamedi jure,52,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Kundaji,1422,6
+Mohamedi Mwinchambi Rashidi,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_3,Hamadi hamisi,33,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,8000,Changu2,1725,10
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_10,Mudi abdalah,20,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,3000,Changu13,285,5
+Abdalah Abdalah,10-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_10,Mudi abdalah,20,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,3000,NA,221,5
+Mohamedi Mwinchambi Rashidi,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_4,Zuberi bakari,36,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,7000,Pono9,1405,9
+Mohamedi Mwinchambi Rashidi,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Kikango,Fisher_5,Issa jumaa,28,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Tasi,865,8
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_1,Salimu gosi,60,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6000,Paramamba,1352,13
+Mohamedi Mwinchambi Rashidi,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_6,Abdi hamisi,37,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu dizi,1135,10
+Mohamedi Mwinchambi Rashidi,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_7,Hamduni.hamidu,34,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Tembo,1033,9
+Mohamedi Mwinchambi Rashidi,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_8,Athumani omari,38,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5500,Changu dizi,1115,12
+Mohamedi Mwinchambi Rashidi,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_9,Bakari.hamza,37,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mshipi,16500,Mzira meno/sumbururu,3308,5
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_2,Buzi nuru,45,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Myripristis hexagona,601,5
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_2,Buzi nuru,45,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Paramamba,536,5
+Mohamedi Mwinchambi Rashidi,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_10,Miraji hasani,47,male,2,Marombo,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Changu2,1149,10
+Mohamedi Mwinchambi Rashidi,15-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_1,Abushiri yasiri,38,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,6500,Mlea,1374,12
+Mohamedi Mwinchambi Rashidi,15-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_2,Shani rama shani,38,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Bumbula/Rukia,999,10
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_3,Siojo mwinyiulenge,50,male,1,Mwambanyama,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Tasi,529,5
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_3,Siojo mwinyiulenge,50,male,1,Mwambanyama,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Pono15,343,5
+Mohamedi Mwinchambi Rashidi,15-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_3,Soko mwandege,40,male,2,Nyuli,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu dizi,NA,7
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_4,Nyerere mwinyiulenge,65,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Tasi,693,5
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_4,Nyerere mwinyiulenge,65,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Chewa/Tewa,719,5
+Mohamedi Mwinchambi Rashidi,15-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_4,Lali bilali,30,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Tasi,904,8
+Mohamedi Mwinchambi Rashidi,15-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_5,Omari shali.jalala,29,male,2,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Kundaji,935,9
+Mohamedi Mwinchambi Rashidi,15-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_6,Borohoa mohamedi,57,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Changu2,967,8
+Mohamedi Mwinchambi Rashidi,15-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_8,Mwatuwe halidi,49,male,2,Ufuma,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Tembo,1057,10
+Mohamedi Mwinchambi Rashidi,15-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_7,Mohamedi hanafi,45,male,1,Ulenge mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6000,Changu2,1241,10
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_5,Sele mnyamisi,20,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,10000,Koana,380,5
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_5,Sele mnyamisi,20,male,2,Taa,Majani_bahari,Ngalawa,Mshipi,10000,Chaa,1359,5
+Mohamedi Mwinchambi Rashidi,15-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_9,Mdiri akida,29,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5500,Changu2,1167,11
+Mohamedi Mwinchambi Rashidi,15-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_10,Kocha huruma,48,female,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,55000,Pono,1133,9
+Mohamedi Mwinchambi Rashidi,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_1,Mustaph mohamedi,47,male,2,Marombo,Majani_bahari,Dau/Mtumbwi,Mtego/dema,13000,Pono9,2454,7
+Mohamedi Mwinchambi Rashidi,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_2,Ally abdallah ally,35,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6500,Kangaja1,1378,8
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_6,Mustaph mwinyimsa,45,male,1,Nyuli,Majani_bahari,Dau/Mtumbwi,Mshipi,3000,Changu14,229,5
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_6,Mustaph mwinyimsa,45,male,1,Nyuli,Majani_bahari,Dau/Mtumbwi,Mshipi,3000,Koana,377,5
+Mohamedi Mwinchambi Rashidi,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_3,Ally ndoro hatibu,62,male,3,Nyuli,Majani_bahari,Dau/Mtumbwi,Mtego/dema,993,Changu2,993,10
+Mohamedi Mwinchambi Rashidi,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_4,Hasanali omary,37,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu Ndomo,1150,10
+Mohamedi Mwinchambi Rashidi,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_5,Omary juma ally,35,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu2,1192,12
+Mohamedi Mwinchambi Rashidi,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_6,Raahidi mustapha,39,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,6500,Changu dizi,1388,8
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_7,Mwapayo huruma,59,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Pono,680,5
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_7,Mwapayo huruma,59,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Pono15,697,5
+Mohamedi Mwinchambi Rashidi,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_7,Hamadi masuo,41,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,7500,Kundaji,1651,9
+Mohamedi Mwinchambi Rashidi,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_8,Huruma pandu,42,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu2,920,11
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_1,Halfani amiri,34,male,2,Ufuma,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Changu2,1256,11
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_8,Kocha huruma,40,male,1,Nyuli,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Tembo,290,5
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_8,Kocha huruma,40,male,1,Nyuli,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Changu2,802,6
+Mohamedi Mwinchambi Rashidi,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_9,Abdallah hamadi,45,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,7000,Chelema/Mboo ya mvuvi,1502,10
+Mohamedi Mwinchambi Rashidi,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_10,Mwalimu hasani,34,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Chewa2,1195,8
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_2,Bakari shindo,48,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5500,Pono9,1126,10
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_9,Rama hasani,32,male,2,Mnarani,Majani_bahari,Ngalawa,Mshipi,8500,Chaa,698,5
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_9,Rama hasani,32,male,2,Mnarani,Majani_bahari,Ngalawa,Mshipi,8500,Changu13,971,6
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_10,Mdii huruma,40,male,2,Mnarani,Majani_bahari,Ngalawa,Mshipi,7000,Pono15,564,5
+Abdalah Abdalah,15-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_10,Mdii huruma,40,male,2,Mnarani,Majani_bahari,Ngalawa,Mshipi,7000,Chewa/Tewa,539,5
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,67,male,1,Jiweni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7000,Chaa2,731,5
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,67,male,1,Jiweni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7000,Tasi,450,5
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Mosi_2,Bagamoyo,Fisher_2,Siojo mwinyiulenge,63,male,1,Mwambanyama,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Pono,503,6
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Mosi_2,Bagamoyo,Fisher_2,Siojo mwinyiulenge,63,male,1,Mwambanyama,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Tasi,382,4
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_2,Bakari shindo,48,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5500,Pono9,1126,10
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_3,Amiri darasa,36,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,10000,Tasi,2025,7
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_4,Sefu omary,38,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,7500,Kundaji,1591,6
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_3,Iddi nyerere,34,male,3,Mwambanyama,Matumbawe/miamba,Mashua,Mtego/dema,7500,Pono15,703,4
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_3,Iddi nyerere,34,male,3,Mwambanyama,Matumbawe/miamba,Mashua,Mtego/dema,7500,Pono,603,5
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_5,Abuu ndoro,35,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Tasi,1764,10
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_6,Mohamedi sadati,37,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,6000,Kundaji,1235,11
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_7,Bakari rahimu,47,male,3,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,5500,Changu2,1176,10
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_4,Nuru mohamedi,80,male,2,Mnarani,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4500,Pono,620,5
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_4,Nuru mohamedi,80,male,2,Mnarani,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4500,Tasi,361,5
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_8,Mote jafari,39,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,4000,Tembo,887,11
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_9,Abdi sharifu,32,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,6500,Chelema/Mboo ya mvuvi,1371,9
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_5,Mkuu mwinchambi,40,male,1,Taa,Matumbawe/miamba,Ngalawa,Mshipi,6500,Tembo,462,5
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_5,Mkuu mwinchambi,40,male,1,Taa,Matumbawe/miamba,Ngalawa,Mshipi,6500,Chewa/Tewa,752,5
+Mohamedi Mwinchambi Rashidi,17-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_10,Hamadi shehe,38,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,7000,Bumbula/Rukia,1537,10
+Mohamedi Mwinchambi Rashidi,20-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_1,Ally halifa,35,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,6500,Chelema/Mboo ya mvuvi,1143,10
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_6,Mustaph mwinyimsa,45,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Chaa,680,5
+Abdalah Abdalah,19-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_6,Mustaph mwinyimsa,45,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Pono15,498,5
+Mohamedi Mwinchambi Rashidi,20-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_2,Twaha mkuu,31,male,3,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu2,1008,9
+Mohamedi Mwinchambi Rashidi,20-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_3,Selemani mwaliza,34,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5500,Changu dizi,1169,10
+Mohamedi Mwinchambi Rashidi,20-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_4,Nasoro juma,32,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Changu2,920,8
+Mohamedi Mwinchambi Rashidi,20-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_5,Saidi kasimu,45,male,3,Nyuli,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Pono9,1011,8
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Nyerere  mwinyiulenge,67,male,1,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6500,Pono,524,6
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Nyerere  mwinyiulenge,67,male,1,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6500,Kurumbwi,655,5
+Mohamedi Mwinchambi Rashidi,20-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_6,Hamadi shehe omari,42,male,2,Nyuli,Majani_bahari,Dau/Mtumbwi,Mtego/dema,12000,Pono,2381,9
+Mohamedi Mwinchambi Rashidi,20-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_7,Shaame makame,60,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Kundaji,1228,8
+Mohamedi Mwinchambi Rashidi,20-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_8,Halidi tajiri,42,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu2,914,10
+Mohamedi Mwinchambi Rashidi,20-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_9,Hamadi masuo,34,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Chewa2,3042,11
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Iddi nyerere,34,male,3,Mwamba nyama,Majani_bahari,Mashua,Mtego/dema,5000,Tembo,550,7
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Iddi nyerere,34,male,3,Mwamba nyama,Majani_bahari,Mashua,Mtego/dema,5000,Pono,366,4
+Mohamedi Mwinchambi Rashidi,20-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_10,Nahodha haji,42,male,2,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,14000,Pono,2863,10
+Mohamedi Mwinchambi Rashidi,21-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_1,Rashidi jumaa,25,male,1,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,12500,Tembo,2531,12
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Sita_2,Bagamoyo,Fisher_3,Mwinyimsa mustaph,20,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,9000,Tembo,1700,15
+Mohamedi Mwinchambi Rashidi,21-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_2,Fadhili jumaa,35,male,2,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,11000,Pono,2267,8
+Mohamedi Mwinchambi Rashidi,21-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_3,Ally jure ally,29,male,3,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,10000,Pono9,2119,6
+Mohamedi Mwinchambi Rashidi,21-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_4,Ali ramadhani,40,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Chewa2,1647,8
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Buzi nuru,45,male,2,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Pono15,533,7
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Buzi nuru,45,male,2,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,6000,Changu2,456,5
+Mohamedi Mwinchambi Rashidi,21-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_5,Eliasi halifani,34,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,11000,Pono9,2398,10
+Mohamedi Mwinchambi Rashidi,21-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_6,Mohamedi hatibu,32,male,1,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono9,1883,7
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Hobo bakari,22,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5000,Changu13,905,16
+Mohamedi Mwinchambi Rashidi,21-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_7,Fundi ally,72,male,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,6500,Changu2,1337,11
+Mohamedi Mwinchambi Rashidi,21-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_8,Bechungu kasimu,42,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Pono,1199,8
+Mohamedi Mwinchambi Rashidi,21-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_9,Mustapha zinga,35,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Kundaji,995,10
+Mohamedi Mwinchambi Rashidi,21-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_10,Makame ally,35,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Changu2,1050,9
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_6,Mdaramani huruma,32,male,1,Ulenge,Fungu,Ngalawa,Mshipi,4000,Changu3,384,5
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_6,Mdaramani huruma,32,male,1,Ulenge,Fungu,Ngalawa,Mshipi,4000,Tembo,325,5
+Mohamedi Mwinchambi Rashidi,22-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_1,Mohamedi ally omari,50,male,3,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Pono9,1082,10
+Mohamedi Mwinchambi Rashidi,22-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_2,Omari kidengu,57,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Tembo,910,9
+Mohamedi Mwinchambi Rashidi,22-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_3,Omari haji,44,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Changu dizi,1044,10
+Mohamedi Ally,22-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_4,Muhidini amiri,54,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Pono,880,8
+Mohamedi Mwinchambi Rashidi,22-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_5,Nahodha haji,42,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5000,Tasi,1170,11
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_7,Kitwana halidi,70,male,1,Mawe mawili,Matumbawe/miamba,Ngalawa,Mshipi,4000,Chaa,332,5
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_7,Kitwana halidi,70,male,1,Mawe mawili,Matumbawe/miamba,Ngalawa,Mshipi,4000,Changu13,308,5
+Mohamedi Mwinchambi Rashidi,22-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_6,Mdungi haji,70,male,2,Kimio,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5500,Changu2,1113,9
+Mohamedi Mwinchambi Rashidi,22-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_7,Kiro fisha,40,male,3,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,1164,8
+Mohamedi Mwinchambi Rashidi,22-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_8,Bakari shejao,60,male,2,Taa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6000,Pono,1299,10
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_8,Salimu gosi,62,male,1,Ningani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,6000,Changu13,1146,10
+Mohamedi Mwinchambi Rashidi,22-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_9,Omari madaraka,27,male,1,Nyuli,Majani_bahari,Dau/Mtumbwi,Mtego/dema,6500,Changu2,1350,12
+Mohamedi Mwinchambi Rashidi,22-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Kikango,Fisher_10,Omari juma,30,male,1,Kikaango,Majani_bahari,Dau/Mtumbwi,Mshipi,7500,Pono,1503,8
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_9,Mahamudu mustaph,47,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Pono,595,5
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_9,Mahamudu mustaph,47,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Changu13,329,5
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_10,Mwalolo mohamedi,67,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,4000,Pono15,131,3
+Abdalah Abdalah,21-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_10,Mwalolo mohamedi,67,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,4000,Pono,510,4
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Buzi nuru,45,male,2,Mnarani,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5500,Changu13,597,6
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Buzi nuru,45,male,2,Mnarani,Majani_bahari,Dau/Mtumbwi,Mtego/dema,5500,Pono,483,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Vituko mwihaji,65,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono15,448,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Vituko mwihaji,65,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,699,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Vituko mwihaji,65,male,1,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,8000,Pono,596,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Abduli  mahamudu9,20,female,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Tembo,434,6
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Abduli  mahamudu9,20,female,1,Kwawa,Majani_bahari,Dau/Mtumbwi,Mshipi,5000,Chewa/Tewa,609,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Hobo bakari,22,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mtego/dema,59000,Changu14,11939,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Mwinyiulenge,31,male,2,Ulenge,Majani_bahari,Dau/Mtumbwi,Mshipi,20000,Pono,3919,10
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_6,Nuru mohamedi pinda,80,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Tasi,1117,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_1,Bagamoyo,Fisher_6,Nuru mohamedi pinda,80,male,2,Kwawa,Majani_bahari,Dau/Mtumbwi,Mtego/dema,15000,Pono,2044,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_7,Kodi hamza,34,male,3,Nyuli,Majani_bahari,Ngalawa,Mshipi,8000,Changu13,1013,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_7,Kodi hamza,34,male,3,Nyuli,Majani_bahari,Ngalawa,Mshipi,8000,NA,627,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_8,Mahamudu mustaph,47,male,2,Ulenge,Majani_bahari,Ngalawa,Mtego/dema,6000,Pono,1154,10
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_9,Mkuu hamza,65,male,2,Nyuli,Majani_bahari,Ngalawa,Mshipi,4000,Chaa,856,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_9,Mkuu hamza,65,male,2,Nyuli,Majani_bahari,Ngalawa,Mshipi,4000,Changu13,838,7
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_10,Mwarabu mohamedi pinda,50,male,2,Mwmbanyama,Matumbawe/miamba,Mashua,Mtego/dema,10000,Pono,1229,5
+Abdalah Abdalah,22-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_10,Mwarabu mohamedi pinda,50,male,2,Mwmbanyama,Matumbawe/miamba,Mashua,Mtego/dema,10000,Pono15,734,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Rama hasani,32,male,3,Nyuli,Matumbawe/miamba,Ngalawa,Mshipi,6000,Pono,514,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Rama hasani,32,male,3,Nyuli,Matumbawe/miamba,Ngalawa,Mshipi,6000,NA,449,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Ally abdalah,20,male,2,Nyuli,Matumbawe/miamba,Ngalawa,Mshipi,5000,NA,611,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Ally abdalah,20,male,2,Nyuli,Matumbawe/miamba,Ngalawa,Mshipi,5000,NA,311,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Mohamedi abdalah,21,male,2,Ulenge,Fungu,Ngalawa,Mshipi,3000,Koana,488,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Mohamedi abdalah,21,male,2,Ulenge,Fungu,Ngalawa,Mshipi,3000,NA,184,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Hamza mustaph,20,male,2,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,7000,Chaa,490,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Hamza mustaph,20,male,2,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,7000,Koana,875,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Kodi hamza,35,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,7000,Changu14,533,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Kodi hamza,35,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,7000,Chaa,694,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_6,Kitwana halidi,65,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,6000,Koana,507,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_6,Kitwana halidi,65,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,6000,Changu14,454,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_7,Ally mustaph,40,male,2,Ulenge,Matumbawe/miamba,Ngalawa,Mshipi,900,Chaa,999,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_7,Ally mustaph,40,male,2,Ulenge,Matumbawe/miamba,Ngalawa,Mshipi,900,Changu14,654,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_8,Nyerere mwinyiulenge,62,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,11000,Pono,1535,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_8,Nyerere mwinyiulenge,62,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,11000,Chewa/Tewa,549,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_9,Buzi nuru,45,male,2,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,14000,Chewa/Tewa,1130,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_9,Buzi nuru,45,male,2,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,14000,Changu14,1515,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_10,Hobo bakari,22,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,10000,Chaa,785,5
+Abdalah Abdalah,24-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_10,Hobo bakari,22,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,10000,Koana,1070,5
+Abdalah Abdalah,27-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Siojo mwinyiulenge,50,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,5000,Tasi,1017,6
+Abdalah Abdalah,27-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Mesa salimu,62,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,4500,Tembo,281,5
+Abdalah Abdalah,27-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Mesa salimu,62,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,4500,Mwewe/Komba,627,5
+Abdalah Abdalah,27-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Hobo bakari,22,male,2,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,6000,Changu14,898,5
+Abdalah Abdalah,27-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Hobo bakari,22,male,2,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,6000,Mwewe/Komba,396,5
+Abdalah Abdalah,27-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Nyerere mwinyiulenge,68,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Changu13,1131,5
+Abdalah Abdalah,27-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Nyerere mwinyiulenge,68,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Mwewe/Komba,825,4
+Abdalah Abdalah,27-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Idd nyerere,34,male,3,Mnarani,Matumbawe/miamba,Mashua,Mtego/dema,8000,Chewa/Tewa,870,5
+Abdalah Abdalah,27-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Idd nyerere,34,male,3,Mnarani,Matumbawe/miamba,Mashua,Mtego/dema,8000,Kurumbwi,580,4
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,62,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,10000,Pono,1792,10
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Iddi nyerere,35,male,3,Mnarani,Matumbawe/miamba,Mashua,Mtego/dema,5000,Chewa/Tewa,1082,5
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Nuru mohamedi pinda,82,male,2,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Mwewe/Komba,3433,5
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Siojo mwinyiulenge,60,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,8000,Pono,647,4
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Siojo mwinyiulenge,60,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,8000,Mwewe/Komba,876,4
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Mkuu mwinchambi,35,male,1,Taa,Matumbawe/miamba,Ngalawa,Mshipi,9000,Kolekole1,1055,5
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Mkuu mwinchambi,35,male,1,Taa,Matumbawe/miamba,Ngalawa,Mshipi,9000,Chaa,678,5
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_6,Mohamedi abdalah,21,male,2,Nyuli,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,4000,Changu13,689,3
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_6,Mohamedi abdalah,21,male,2,Nyuli,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,4000,Changu2,277,3
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_7,Mwarabu mohamedi,50,male,2,Mwambanyama,Matumbawe/miamba,Mashua,Mtego/dema,9000,Chewa/Tewa,721,5
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_7,Mwarabu mohamedi,50,male,2,Mwambanyama,Matumbawe/miamba,Mashua,Mtego/dema,9000,Pono,1123,4
+Abdalah Abdalah,30-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_8,Buzi nuru,45,male,2,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,50000,Chewa/Tewa,10032,5
+Abdalah Abdalah,31-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Mdaramani huruma,32,male,1,Kwawa,Mkondoni,Ngalawa,Mtego/dema,7000,Tasi,647,5
+Abdalah Abdalah,31-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Mdaramani huruma,32,male,1,Kwawa,Mkondoni,Ngalawa,Mtego/dema,7000,Pono15,848,5
+Abdalah Abdalah,31-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Mahamudu mustaph,45,male,1,Mwambanyama,Matumbawe/miamba,Ngalawa,Mtego/dema,10500,Pono15,1549,5
+Abdalah Abdalah,31-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Mahamudu mustaph,45,male,1,Mwambanyama,Matumbawe/miamba,Ngalawa,Mtego/dema,10500,Tembo,489,5
+Abdalah Abdalah,31-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Kodi mkuu,35,male,3,Wanba,Fungu,Ngalawa,Mshipi,5500,Changu13,480,5
+Abdalah Abdalah,31-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Kodi mkuu,35,male,3,Wanba,Fungu,Ngalawa,Mshipi,5500,Pono15,694,5
+Abdalah Abdalah,31-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Jumaa kuonda,30,male,2,Ulenge,Fungu,Dau/Mtumbwi,Mshipi,5000,Changu13,1098,10
+Abdalah Abdalah,31-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Rama hasani,35,male,3,Ulenge,Matumbawe/miamba,Ngalawa,Mshipi,25000,Chewa/Tewa,5884,5
+Abdalah Abdalah,31-10-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_6,Mwapayo huruma,56,male,1,Kichongoma,Fungu,Dau/Mtumbwi,Mtego/dema,17000,Changu13,3545,5
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,62,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,37250,Chewa/Tewa,7573,6
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Hobo bakari,22,male,2,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Pono,659,5
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_2,Hobo bakari,22,male,2,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Kangaja1,1329,7
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Nuru mohamedi pinda,82,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Chewa/Tewa,1943,8
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_3,Nuru mohamedi pinda,82,male,2,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,15000,Kangaja1,904,4
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Mwapayo,56,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,8000,Tembo,543,7
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_4,Mwapayo,56,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,8000,Pono,907,7
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Kocha huruma,40,male,1,Kwawa,Fungu,Dau/Mtumbwi,Mshipi,6000,Tembo,389,4
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_5,Kocha huruma,40,male,1,Kwawa,Fungu,Dau/Mtumbwi,Mshipi,6000,Kibange/kitatange,833,8
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_6,Jumaa kuhonda,35,male,2,Taa,Mkondoni,Dau/Mtumbwi,Mtego/dema,1500,Chewa/Tewa,1478,4
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_6,Jumaa kuhonda,35,male,2,Taa,Mkondoni,Dau/Mtumbwi,Mtego/dema,1500,Changu14,1560,4
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_7,Salu muslii,23,male,2,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,26000,Changu14,2368,4
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_7,Salu muslii,23,male,2,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,26000,Tiri macho,2696,4
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_8,Buzi nuru,45,male,2,Mnrani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,11000,Changu dizi,938,4
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_8,Buzi nuru,45,male,2,Mnrani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,11000,Pono15,1143,4
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_9,Kodi mkuu,35,male,3,Taa,Matumbawe/miamba,Ngalawa,Mshipi,6000,Tembo,688,4
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_9,Kodi mkuu,35,male,3,Taa,Matumbawe/miamba,Ngalawa,Mshipi,6000,Pono15,651,4
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_10,Mwarabu mohamedi,50,male,2,Ulenge,Fungu,Mashua,Mtego/dema,9000,Pono15,701,5
+Abdalah Abdalah,02-11-24,Tanga,Chongoleani,Mfunguo_Saba_2,Bagamoyo,Fisher_10,Mwarabu mohamedi,50,male,2,Ulenge,Fungu,Mashua,Mtego/dema,9000,Pono,916,5
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,62,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,13000,Pono,2172,10
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,62,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,13000,Pono15,499,4
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_2,Siojo mwinyiulenge,60,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Tembo,432,6
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_2,Siojo mwinyiulenge,60,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,7500,Pono,824,6
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_3,Mwarabu mohamedi pinda,50,male,2,Mnarani,Matumbawe/miamba,Mashua,Mtego/dema,7500,Pono,655,5
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_3,Mwarabu mohamedi pinda,50,male,2,Mnarani,Matumbawe/miamba,Mashua,Mtego/dema,7500,Kurumbwi,864,4
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_4,Buzi nuru,45,male,2,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,20000,Pono,4122,15
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_5,Sele mnyamisi,22,male,2,Kwawa,Matumbawe/miamba,Ngalawa,Mshipi,9000,Koana,1109,7
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_5,Sele mnyamisi,22,male,2,Kwawa,Matumbawe/miamba,Ngalawa,Mshipi,9000,Pono15,300,4
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_5,Sele mnyamisi,22,male,2,Kwawa,Matumbawe/miamba,Ngalawa,Mshipi,9000,Chaa,314,5
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_6,Mwapayo,56,male,1,Mwaduvi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,8000,Changu dizi,1649800,6
+Abdalah Abdalah,03-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_6,Mwapayo,56,male,1,Mwaduvi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,8000,Changu dizi,1649,6
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_1,Buzi nuru,40,male,NA,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,11000,Chewa/Tewa,1703,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_1,Buzi nuru,40,male,NA,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,11000,Pono15,603,7
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_2,Siojo mwinyiulenge,60,male,1,Taa,Fungu,Dau/Mtumbwi,Mtego/dema,5500,Pono,728,6
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_2,Siojo mwinyiulenge,60,male,1,Taa,Fungu,Dau/Mtumbwi,Mtego/dema,5500,Tembo,350,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_3,Nyerere mwinyiulenge,62,male,1,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Changu14,805,6
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_3,Nyerere mwinyiulenge,62,male,1,Kwawa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12000,Pono,1797,8
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_4,Mwarabu mohamedi,50,male,2,Mnarani,Matumbawe/miamba,Mashua,Mtego/dema,7000,Changu kibaku,599,55
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_4,Mwarabu mohamedi,50,male,2,Mnarani,Matumbawe/miamba,Mashua,Mtego/dema,7000,Pono,774,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_5,Mahamudu mustaph,47,male,1,Ulenge,Matumbawe/miamba,Ngalawa,Mtego/dema,8000,Tembo,759,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_5,Mahamudu mustaph,47,male,1,Ulenge,Matumbawe/miamba,Ngalawa,Mtego/dema,8000,Pono15,772,7
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_6,Mdaramani huruma,32,male,1,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,5500,Chelema/Mboo ya mvuvi,756,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_6,Mdaramani huruma,32,male,1,Mwambanyama,Matumbawe/miamba,Ngalawa,Mshipi,5500,Pono,254,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_7,Kodi hamza,34,male,3,Nyuli,Matumbawe/miamba,Ngalawa,Mshipi,3000,Pono15,150,4
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_7,Kodi hamza,34,male,3,Nyuli,Matumbawe/miamba,Ngalawa,Mshipi,3000,Changu kibaku,221,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_8,Mwanachi mwishumu,35,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mshipi,4000,Koana,238,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_8,Mwanachi mwishumu,35,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mshipi,4000,Tembo,378,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_9,Mwapayo huruma,56,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mshipi,8000,Changu dizi,1459,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_10,Kocha huruma,40,male,1,Kwawa,Faiba,Dau/Mtumbwi,NA,NA,Changu dizi,1120,5
+Abdalah Abdalah,04-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_10,Kocha huruma,40,male,1,Kwawa,Faiba,Dau/Mtumbwi,NA,NA,Tembo,316,4
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,62,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,11000,Chewa/Tewa,1384,5
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,62,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,11000,Pono15,522,4
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_2,Siojo mwinyiulenge,60,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,14000,Tasi,754,4
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_2,Siojo mwinyiulenge,60,male,1,Ulenge,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,14000,Chewa/Tewa,1947,8
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_3,Mustaph mwinyimsa,45,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Pono,1450,6
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_3,Mustaph mwinyimsa,45,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,12500,Kurumbwi,740,5
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nne_1,Bagamoyo,Fisher_4,Mwapayo huruma,56,male,1,Kwamaduvi,Fungu,Dau/Mtumbwi,Mtego/dema,15500,Kangaja1,1554,5
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nne_1,Bagamoyo,Fisher_4,Mwapayo huruma,56,male,1,Kwamaduvi,Fungu,Dau/Mtumbwi,Mtego/dema,15500,Tembo,1396,10
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_5,Mwarabu mohamedi,50,male,2,Marombo,Matumbawe/miamba,Mashua,Mtego/dema,9000,Chewa/Tewa,1094,6
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_5,Mwarabu mohamedi,50,male,2,Marombo,Matumbawe/miamba,Mashua,Mtego/dema,9000,Pono,665,4
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_6,Iddy nyerere,34,male,3,Mwambanyama,Matumbawe/miamba,Mashua,Mtego/dema,11500,Pono15,852,7
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_6,Iddy nyerere,34,male,3,Mwambanyama,Matumbawe/miamba,Mashua,Mtego/dema,11500,Pono,1378,8
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_7,Kocha huruma,NA,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,4000,Tembo,347,5
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_7,Kocha huruma,NA,male,1,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,4000,Pono,349,5
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_8,Buzi nuru,45,male,2,Kwawa,Fungu,Dau/Mtumbwi,Mtego/dema,24500,Pono15,1225,5
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_8,Buzi nuru,45,male,2,Kwawa,Fungu,Dau/Mtumbwi,Mtego/dema,24500,Chewa/Tewa,3591,11
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_9,Hobo bakari,22,male,2,Kinanzini,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,4500,Mwewe/Komba,482,7
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_9,Hobo bakari,22,male,2,Kinanzini,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,4500,Tembo,387,5
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_10,Mdaramani huruma,32,male,1,Kwawa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Tembo,438,5
+Abdalah Abdalah,10-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_10,Mdaramani huruma,32,male,1,Kwawa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Changu13,579,9
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_1,Buzi nuru,45,male,2,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,9000,Tasi,761,5
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_1,Buzi nuru,45,male,2,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,9000,Pono,993,6
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_2,Nuru mohamedi,80,male,2,Taa,Faiba,Dau/Mtumbwi,Mtego/dema,12000,Pono,902,7
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_2,Nuru mohamedi,80,male,2,Taa,Faiba,Dau/Mtumbwi,Mtego/dema,12000,Pono15,1139,8
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_3,Mwalolo mohamedi,59,male,1,Kwawa,Faiba,Dau/Mtumbwi,Mtego/dema,12000,Pono,1694,6
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_3,Mwalolo mohamedi,59,male,1,Kwawa,Faiba,Dau/Mtumbwi,Mtego/dema,12000,Pono15,754,5
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_4,Iddy nyerere,32,male,3,Taa,Fungu,Mashua,Mtego/dema,21000,Chewa/Tewa,2502,7
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_4,Iddy nyerere,32,male,3,Taa,Fungu,Mashua,Mtego/dema,21000,Pono,1640,8
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_5,Siojo mwinyiulenge,60,male,1,Kinanzini,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Tasi,509,4
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_5,Siojo mwinyiulenge,60,male,1,Kinanzini,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Pono,1183,5
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_6,Nyerere mwinyiulenge,62,male,1,Mwmbanyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,11500,Chewa/Tewa,1645,7
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_6,Nyerere mwinyiulenge,62,male,1,Mwmbanyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,11500,Changu13,638,9
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_7,Sele mnyamisi,22,male,2,Mnarani,Faiba,Ngalawa,Mshipi,6000,Koana,710,6
+Abdalah Abdalah,11-11-24,Tanga,Chongoleani,Mfunguo_Nane_1,Bagamoyo,Fisher_7,Sele mnyamisi,22,male,2,Mnarani,Faiba,Ngalawa,Mshipi,6000,Chewa/Tewa,310,5
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,62,male,1,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Tasi,928,6
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_1,Nyerere mwinyiulenge,62,male,1,Mwamba nyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,9000,Changu13,787,5
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_2,Siojo mwinyiulenge,60,male,1,Mwambanyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Pono,1054,7
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_2,Siojo mwinyiulenge,60,male,1,Mwambanyama,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,10000,Changu13,992,5
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_3,Mwarabu mohammedi,50,male,2,Kwawa,Fungu,Dau/Mtumbwi,Mtego/dema,11000,Tasi,586,5
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_3,Mwarabu mohammedi,50,male,2,Kwawa,Fungu,Dau/Mtumbwi,Mtego/dema,11000,Chewa/Tewa,1302,7
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_4,Mahamud mustafa,47,male,1,Ulenge,Faiba,Dau/Mtumbwi,Mtego/dema,16000,Changu13,599,4
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_4,Mahamud mustafa,47,male,1,Ulenge,Faiba,Dau/Mtumbwi,Mtego/dema,16000,Chewa/Tewa,2505,8
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_5,Kocha nyerere,25,male,1,Mnarani,Faiba,Dau/Mtumbwi,Mtego/dema,9000,Pono15,1122,6
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_5,Kocha nyerere,25,male,1,Mnarani,Faiba,Dau/Mtumbwi,Mtego/dema,9000,Pono,474,5
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_6,Iddy mbaya,34,male,3,Mwamba nyama,Matumbawe/miamba,Mashua,Mtego/dema,9000,Tasi,1184,9
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_6,Iddy mbaya,34,male,3,Mwamba nyama,Matumbawe/miamba,Mashua,Mtego/dema,9000,Tembo,459,6
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_7,Rama hasani,32,male,3,Nyuli,Fungu,Ngalawa,Mshipi,13000,Chewa/Tewa,2698,10
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_8,Mkuu mwichambi,35,male,1,Taa,Faiba,Ngalawa,Mshipi,1000,Changu13,2032,12
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_9,Salu msulii,23,male,1,Kwawa,Faiba,Dau/Mtumbwi,Mshipi,5000,Changu dizi,389,7
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_9,Salu msulii,23,male,1,Kwawa,Faiba,Dau/Mtumbwi,Mshipi,5000,Tembo,427,7
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_10,Mwichambi mustaph,37,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5500,Paramamba,492,8
+Abdalah Abdalah,09-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_10,Mwichambi mustaph,37,male,1,Mnarani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,5500,Chaa,8,4
+Abdalah Abdalah,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_1,Buzi nuru pinda,45,male,2,Mnarani,Faiba,Dau/Mtumbwi,Mtego/dema,12000,Kurumbwi,1049,6
+Abdalah Abdalah,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_1,Buzi nuru pinda,45,male,2,Mnarani,Faiba,Dau/Mtumbwi,Mtego/dema,12000,Chewa/Tewa,1356,5
+Abdalah Abdalah,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_2,Hobo bakari,22,male,2,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Tasi,1527,7
+Abdalah Abdalah,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_2,Hobo bakari,22,male,2,Taa,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,Pono,1037,7
+Abdalah Abdalah,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_3,Mwarabu mohamedi,50,male,2,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,12000,Chewa/Tewa,904,4
+Abdalah Abdalah,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_3,Mwarabu mohamedi,50,male,2,Ulenge,Fungu,Dau/Mtumbwi,Mtego/dema,12000,Pono,1389,8
+Abdalah Abdalah,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_4,Mohamed mustaph,47,male,1,Taa,Faiba,Dau/Mtumbwi,Mtego/dema,7000,Pono15,712,5
+Abdalah Abdalah,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_4,Mohamed mustaph,47,male,1,Taa,Faiba,Dau/Mtumbwi,Mtego/dema,7000,Tembo,559,5
+Abdalah Abdalah,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_5,Rama hasani dadi,32,male,3,Nyuli,Matumbawe/miamba,Ngalawa,Mshipi,12000,Pono,1363,5
+Abdalah Abdalah,16-11-24,Tanga,Chongoleani,Mfunguo_Nane_2,Bagamoyo,Fisher_5,Rama hasani dadi,32,male,3,Nyuli,Matumbawe/miamba,Ngalawa,Mshipi,12000,Changu dizi,676,4

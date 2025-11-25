@@ -1,0 +1,453 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,andika_zana_nyingine,bei,maelezo_ya_ziada,Species,uzito_wa_jamii_moja_ya_samaki,idadi_ya_samaki
+NA,12/9/2024,Pemba,Kisiwani,Mfunguo_Sita_1,NA,NA,Said juma hamad,52,male,NA,Fungu,Fungu,Mashua,Mshipi,NA,NA,NA,Changu2,123,NA
+NA,12/9/2024,Pemba,Kisiwani,Mfunguo_Sita_1,NA,NA,Said juma hamad,52,male,NA,Fungu,Fungu,Mashua,Mshipi,NA,NA,NA,NA,123,NA
+NA,12/9/2024,Pemba,Kisiwani,Mfunguo_Sita_1,NA,NA,Said juma hamad,52,male,NA,Fungu,Fungu,Mashua,Mshipi,NA,NA,NA,Chaa2,NA,NA
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Moh'd Salim Ali,40,male,5,Dongoni,Mwani,Dau/Mtumbwi,Nyinginezo,Dema,15000,NA,Changu Ndomo,83,1
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Moh'd Salim Ali,40,male,5,Dongoni,Mwani,Dau/Mtumbwi,Nyinginezo,Dema,15000,NA,Changu2,115,2
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Moh'd Salim Ali,40,male,5,Dongoni,Mwani,Dau/Mtumbwi,Nyinginezo,Dema,15000,NA,Changu5,129,2
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Moh'd Salim Ali,40,male,5,Dongoni,Mwani,Dau/Mtumbwi,Nyinginezo,Dema,15000,NA,Pono,216,2
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Salum Said Salum,42,male,3,Mkumbuu,Fungu,Dau/Mtumbwi,Nyinginezo,Dema,5000,NA,Chewa/Tewa,460,2
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Salum Said Salum,42,male,3,Mkumbuu,Fungu,Dau/Mtumbwi,Nyinginezo,Dema,5000,NA,Kundaji,161,2
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Omr Juma Omar,30,male,1,Makocho,Fungu,Dau/Mtumbwi,Nyavu,NA,10000,NA,Nguru,1050,1
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Ali Idi Omar,32,male,10,Mkumbuu,Fungu,Dau/Mtumbwi,Nyavu,NA,NA,NA,Chaa,1400,14
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Ali Idi Omar,32,male,10,Mkumbuu,Fungu,Dau/Mtumbwi,Nyavu,NA,NA,NA,Tasi,310,21
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Ali Idi Omar,32,male,10,Mkumbuu,Fungu,Dau/Mtumbwi,Nyavu,NA,NA,NA,Chelema weupe,90,1
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_5,Kombo Salim Juma,45,male,4,Mkumbuu,Fungu,Dau/Mtumbwi,Nyavu,NA,20000,NA,Toa/msusa,323,28
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_6,Usi  Kombo,45,male,1,Mkumbuu,Fungu,Dau/Mtumbwi,Nyinginezo,Dema,15000,NA,Mzira meno/sumbururu,952,5
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_7,Juma Issa Kombo,35,male,NA,Mkumbuu,Fungu,Dau/Mtumbwi,Nyavu,NA,10000,NA,Mzira meno/sumbururu,386,2
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_7,Juma Issa Kombo,35,male,NA,Mkumbuu,Fungu,Dau/Mtumbwi,Nyavu,NA,10000,NA,Mwatiko,665,5
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_8,Juma Mussa Juma,30,male,4,Misali,Fungu,Dau/Mtumbwi,Mshipi,NA,25000,NA,Mlea,223,2
+NA,16/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_8,Juma Mussa Juma,30,male,4,Misali,Fungu,Dau/Mtumbwi,Mshipi,NA,25000,NA,Puju1,4,2
+NA,17/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Haj Kombo kombo,50,male,1,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Nyinginezo,Dema,5000,Leo wavuvi hawakupata samaki,Pono,241,2
+NA,17/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Haj Kombo kombo,50,male,1,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Nyinginezo,Dema,5000,Leo wavuvi hawakupata samaki,Kundaji,172,1
+NA,17/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Haj Kombo kombo,50,male,1,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Nyinginezo,Dema,5000,Leo wavuvi hawakupata samaki,Changu14,84,1
+NA,17/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Haj Kombo kombo,50,male,1,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Nyinginezo,Dema,5000,Leo wavuvi hawakupata samaki,Chewa/Tewa,152,1
+NA,17/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Amour Ali Juma,28,male,6,Mahuju,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,15000,NA,NA,2000,13
+NA,17/09/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_3,Haji moh'd Ali,28,male,8,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyinginezo,Dema,35000,NA,Kibua,199,2
+NA,17/09/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_3,Haji moh'd Ali,28,male,8,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyinginezo,Dema,35000,NA,Chaa,1391,32
+NA,17/09/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_3,Haji moh'd Ali,28,male,8,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyinginezo,Dema,35000,NA,NA,163,1
+NA,17/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Abdul Ali Faki,35,male,8,Funzi,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,5000,NA,Chelema weupe,731,5
+NA,17/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_5,Hamad Ali Omar,30,male,8,Funzi,Majani_bahari,Dau/Mtumbwi,Nyinginezo,Dema,27000,Leo wavuvi hawakwenda,NA,160,110
+NA,19/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,NA,Fisher_7,ALI MASSOUD MOD,55,male,2,Baharini,Mwani,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Tembo,2670,24
+NA,19/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,NA,Fisher_7,ALI MASSOUD MOD,55,male,2,Baharini,Mwani,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Kundaji,NA,4
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Hamad Ali Omar,30,male,8,Javini,Mchanga,Dau/Mtumbwi,Nyavu,NA,4500,NA,NA,137,40
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Hamad Ali Omar,30,male,8,Javini,Mchanga,Dau/Mtumbwi,Nyavu,NA,4500,NA,Kundaji,788,4
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Juma Mussa Juma,30,male,NA,Mahuju,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,45000,NA,Kibua/Una,70000,26
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Juma Mussa Juma,30,male,NA,Mahuju,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,45000,NA,Tasi,1015,24
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Omri Juma Ali,37,male,7,Muwangwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kurusha,NA,2900,NA,Changu kifimbo/ Mrongo,399,3
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Omri Juma Ali,37,male,7,Muwangwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kurusha,NA,2900,NA,Changu Ndomo,203,2
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Omri Juma Ali,37,male,7,Muwangwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kurusha,NA,2900,NA,Puju1,313,1
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Omri Juma Ali,37,male,7,Muwangwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kurusha,NA,2900,NA,Pono,722,4
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Hajji Kombo Hajji,501,male,1,Pandwe,Mkondoni,Dau/Mtumbwi,Nyinginezo,Dema,45000,NA,Pono,249,2
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Hajji Kombo Hajji,501,male,1,Pandwe,Mkondoni,Dau/Mtumbwi,Nyinginezo,Dema,45000,NA,NA,78,1
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Hajji Kombo Hajji,501,male,1,Pandwe,Mkondoni,Dau/Mtumbwi,Nyinginezo,Dema,45000,NA,Chaa,3800,64
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_5,Hajji Ali Moh'd,28,male,8,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,5000,NA,Kundaji,203,4
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_6,Juma Mussa juma,42,male,3,Mkumbuu,Mwani,Dau/Mtumbwi,Nyavu,NA,5000,NA,Chelema weupe,206,2
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_7,Khamis Salum Muhidini,31,male,8,Mahuju,Mwani,Dau/Mtumbwi,Nyavu za kurusha,NA,35000,NA,NA,779,3
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_7,Khamis Salum Muhidini,31,male,8,Mahuju,Mwani,Dau/Mtumbwi,Nyavu za kurusha,NA,35000,NA,NA,40000,23
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_8,Omar Assa Vuai,32,male,7,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu za kurusha,NA,NA,NA,Chaa2,311,5
+NA,18/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_8,Omar Assa Vuai,32,male,7,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu za kurusha,NA,NA,NA,Pono mwekundu,865,13
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Haji Kombo Haji,50,male,2,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Nyinginezo,Dema,3000,NA,Changu kifimbo/ Mrongo,291,8
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Haji Kombo Haji,50,male,2,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Nyinginezo,Dema,3000,NA,Changu Ndomo,364,5
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Hamadi Ali Omar,30,male,8,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,50000,NA,Pono,586,30
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Hamadi Ali Omar,30,male,8,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,50000,NA,Pono3,592,35
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Juma Mussa Juma,30,male,4,Mahuju,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,30000,NA,Chaa,5922,56
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Juma Mussa Juma,30,male,4,Mahuju,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,30000,NA,NA,371,2
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Omar Assa Vuai,32,male,5,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,10000,NA,Tasi,994,10
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Omar Assa Vuai,32,male,5,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,10000,NA,Tasi2,498,6
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_5,Haji Ali Moh'd,32,male,7,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,NA,20000,NA,Chelema weupe,940,52
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_5,Haji Ali Moh'd,32,male,7,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu za kuzungusha,NA,20000,NA,Mzira meno/sumbururu,2000,4
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_6,Khamis Salim Muhidin,31,male,8,Mahuju,Mwani,Dau/Mtumbwi,Nyavu za kuzungusha,NA,30000,NA,Toa/msusa- Chebwa,1830,35
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_6,Khamis Salim Muhidin,31,male,8,Mahuju,Mwani,Dau/Mtumbwi,Nyavu za kuzungusha,NA,30000,NA,Nguru,1000,1
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_7,Mohd Salim Ali,40,male,5,Mahuju,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kurusha,NA,NA,NA,NA,1150,35
+NA,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_7,Mohd Salim Ali,40,male,5,Mahuju,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kurusha,NA,NA,NA,NA,508,20
+NA,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Haji Kombo Haji,50,male,2,Padwe,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,38000,NA,Pono,684,21
+NA,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Haji Kombo Haji,50,male,2,Padwe,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,38000,NA,Pono,1348,24
+NA,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Salum Said Salum,42,male,2,Mkumbuu,Mwani,Dau/Mtumbwi,Mtego/dema,NA,50000,NA,Tembo,960,30
+NA,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Salum Said Salum,42,male,2,Mkumbuu,Mwani,Dau/Mtumbwi,Mtego/dema,NA,50000,NA,Pono,1332,30
+NA,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Juma Mussa Juma,4,male,4,Mahuju,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kurusha,NA,53000,NA,Chaa,3610,50
+NA,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Hamad Ali Omar,30,male,8,Javini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu za kuzungusha,NA,53000,NA,Changu kifimbo/ Mrongo,5760,60
+NA,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_5,Khamis Salim Muhidini,31,male,8,Mahuju,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Mzira meno/sumbururu,5000,20
+NA,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_6,Omar Assa Vuai,32,male,1,Mkumbuu,Mwani,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Pono,2000,6
+NA,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_7,Ali fak Khamis,31,male,1,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,2000,NA,NA,257,2
+NA,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_8,Hamad Ali Omar,30,male,8,Funzi,Mwani,Dau/Mtumbwi,Nyavu,NA,22000,NA,Tasi,5000,42
+Issa Khamis Hamadi,19/08/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Haji kombo haji,50,male,2,Pandwe,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Changu kibaku,291,8
+Issa Khamis Hamadi,19/08/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Haji kombo haji,50,male,2,Pandwe,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,6000,NA,Changu Ndomo,364,5
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Hamadi Ali Omar,30,male,8,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,50000,NA,Kundaji,84,1
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Hamadi Ali Omar,30,male,8,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,50000,NA,Pono bluu,586,30
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Hamadi Ali Omar,30,male,8,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,50000,NA,Pono13,592,35
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Juma mussajuma,30,male,4,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Chaa,846,56
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Juma mussajuma,30,male,4,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,NA,371,2
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Omar Assa Vuai,32,male,5,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,1000,NA,Tasi mweupe,497,10
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Omar Assa Vuai,32,male,5,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,1000,NA,Tasi mweusi,498,6
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_5,Hajji Ali Moh'd,32,male,7,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,35000,NA,Chelema weupe,235,52
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_5,Hajji Ali Moh'd,32,male,7,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,35000,NA,NA,2000,4
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Khamis Salim Muhidini,31,male,8,Mahuju,Mwani,Dau/Mtumbwi,Nyavu za kuzungusha,NA,30000,NA,Toa/msusa,366,35
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Khamis Salim Muhidini,31,male,8,Mahuju,Mwani,Dau/Mtumbwi,Nyavu za kuzungusha,NA,30000,NA,Nguru,1000,1
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_6,Mohd Salim Ali,40,male,6,Mahujuu,Mikoko,Dau/Mtumbwi,Nyavu,NA,26000,NA,NA,230,35
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_6,Mohd Salim Ali,40,male,6,Mahujuu,Mikoko,Dau/Mtumbwi,Nyavu,NA,26000,NA,NA,127,20
+Issa Khamis Hamadi,21/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_8,Omar juma ali,37,male,9,Muwamvi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,20000,NA,NA,127,36
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Hajji Kombo Hajji,50,male,2,Pandwe,Mwani,Dau/Mtumbwi,Mtego/dema,NA,380000,NA,Pono bluu,228,21
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Hajji Kombo Hajji,50,male,2,Pandwe,Mwani,Dau/Mtumbwi,Mtego/dema,NA,380000,NA,Pono manjano,337,24
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Salum saidi salum,42,male,2,Mkumbuu,Mwani,Dau/Mtumbwi,Mtego/dema,NA,40000,NA,Tembo,160,30
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_2,Salum saidi salum,42,male,2,Mkumbuu,Mwani,Dau/Mtumbwi,Mtego/dema,NA,40000,NA,Pono13,232,30
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_3,Juma mussa juma,30,male,7,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Chaa,361,50
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Hamad Ali Omar,30,male,8,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,53000,NA,Changu mweupe,576,60
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_6,Khamis salim muhidini,31,male,8,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Mzira meno/sumbururu,5500,20
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_7,Omar Assa Vuai,32,male,4,Mkumbuu,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Pono bluu,2000,5
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,NA,Kichuwani,Fisher_8,Ali Faki Khamis,31,male,1,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,1500,NA,Paragunda,257,2
+Issa Khamis Hamadi,22/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_9,Hamad Ali Omar,30,male,8,Funzi,Mwani,Dau/Mtumbwi,Nyavu,NA,22000,NA,Tasi mweusi,5000,42
+Issa Khamis Hamadi,23/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Hamad Ali Omar,30,male,8,Dongoni,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,37000,NA,Kundaji,210,30
+Issa Khamis Hamadi,23/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_1,Hamad Ali Omar,30,male,8,Dongoni,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,37000,NA,Changu mweupe,245,20
+Issa Khamis Hamadi,23/09/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Omar Assa Vuai,32,male,4,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,40000,NA,Pono13,401,35
+Issa Khamis Hamadi,23/09/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Omar Assa Vuai,32,male,4,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,40000,NA,Paragunda,384,18
+Issa Khamis Hamadi,23/09/2024,Pemba,Kisiwani,Mfunguo_Tisa_1,Kichuwani,Fisher_3,Hajji Kombo Hajji,50,male,3,Pande,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Pono bluu,661,5
+Issa Khamis Hamadi,23/09/2024,Pemba,Kisiwani,Mfunguo_Tisa_1,Kichuwani,Fisher_3,Hajji Kombo Hajji,50,male,3,Pande,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Tasi mweusi,243,10
+Issa Khamis Hamadi,23/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Khamis salim muhidini,31,male,7,Mkumbuu,Mwani,Dau/Mtumbwi,Nyavu,NA,25000,NA,Changu Ndomo,177,5
+Issa Khamis Hamadi,23/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_4,Khamis salim muhidini,31,male,7,Mkumbuu,Mwani,Dau/Mtumbwi,Nyavu,NA,25000,NA,Tasi uziwa,1047,3
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_5,Omar Juma Ali,37,male,7,Muwangwai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Pono mwekundu,255,2
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_5,Omar Juma Ali,37,male,7,Muwangwai,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,10000,NA,Chelema weupe,911,7
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_6,Hajji Ali mohd,32,male,10,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,10000,NA,numba,484,1
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_1,Kichuwani,Fisher_6,Hajji Ali mohd,32,male,10,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,10000,NA,Chaa,1000,13
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_1,Ali Faki Khamis,31,male,4,Funzi,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,59000,NA,Pono bluu,445,18
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_1,Ali Faki Khamis,31,male,4,Funzi,Majani_bahari,Dau/Mtumbwi,Mtego/dema,NA,59000,NA,Kibua,7000,54
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Hamadi Ali Haji,43,male,6,Mahuju,Fungu,Dau/Mtumbwi,Nyavu,NA,28000,NA,Mzira meno/sumbururu,2500,36
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Hamadi Ali Haji,43,male,6,Mahuju,Fungu,Dau/Mtumbwi,Nyavu,NA,28000,NA,Tasi,208,2
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Hamadi Ali Haji,43,male,6,Mahuju,Fungu,Dau/Mtumbwi,Nyavu,NA,28000,NA,Changu Ndomo,660,5
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_3,Juma Mussa Juma,30,male,11,Mithali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Chaa,335,18
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_3,Juma Mussa Juma,30,male,11,Mithali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Chelema weupe,263,NA
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_4,Abdalla Said Nassor,31,male,4,Muwangwi,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,21000,NA,Puju1,1000,7
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_4,Abdalla Said Nassor,31,male,4,Muwangwi,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,21000,NA,Chewa/Tewa,655,24
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_5,Hamadi juma Ali,37,male,10,Maguju,Mkondoni,Dau/Mtumbwi,Nyavu,NA,34000,NA,Kundaji mwekundu,1177,20
+Issa Khamis Hamadi,30/09/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_5,Hamadi juma Ali,37,male,10,Maguju,Mkondoni,Dau/Mtumbwi,Nyavu,NA,34000,NA,Changu mweupe,260,12
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_1,Hajji Kombo Hajji,50,male,3,Pandwe,Fungu,Dau/Mtumbwi,Mtego/dema,NA,70000,NA,Kundaji mweupe,923,20
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_1,Hajji Kombo Hajji,50,male,3,Pandwe,Fungu,Dau/Mtumbwi,Mtego/dema,NA,70000,NA,Changu Ndomo,538,24
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Omar Assa Vuai,32,male,5,Mkumbuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,24000,NA,Paragunda,656,35
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Omar Assa Vuai,32,male,5,Mkumbuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,24000,NA,Tasi,305,3
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_3,Shaame Slemani Shaame,36,male,8,Dongoni,Mwani,Dau/Mtumbwi,Nyavu,NA,27000,NA,Pono bluu,603,36
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_3,Shaame Slemani Shaame,36,male,8,Dongoni,Mwani,Dau/Mtumbwi,Nyavu,NA,27000,NA,Chewa/Tewa,896,2
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_4,Khamis Salim Muhidini,31,male,8,Mahujuu,Mwani,Dau/Mtumbwi,Mtego/dema,NA,40000,NA,Chaa,316,25
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_4,Khamis Salim Muhidini,31,male,8,Mahujuu,Mwani,Dau/Mtumbwi,Mtego/dema,NA,40000,NA,Chaa2,475,15
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_5,Salum Said Salum,38,male,10,Pembe,Mkondoni,Dau/Mtumbwi,Nyavu,NA,17000,NA,Chaa,315,20
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_6,Ali Faki Khamis,31,male,2,Funzi,Mkondoni,Dau/Mtumbwi,Mshipi,NA,80000,NA,Mzira meno/sumbururu,505,1
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_6,Ali Faki Khamis,31,male,2,Funzi,Mkondoni,Dau/Mtumbwi,Mshipi,NA,80000,NA,Pono9,1359,2
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_6,Ali Faki Khamis,31,male,2,Funzi,Mkondoni,Dau/Mtumbwi,Mshipi,NA,80000,NA,Tembo kibaku,520,45
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_7,Abrahmani Ali,22,male,9,Mahujuu,Mikoko,Dau/Mtumbwi,Nyavu,NA,35000,NA,NA,406,54
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_8,Ali Idi Omar,32,male,9,Dongoni,Mchanga,Dau/Mtumbwi,Nyavu,NA,24000,NA,Tasi,305,24
+Issa Khamis Hamadi,1/10/2024,Pemba,Kisiwani,Mfunguo_Pili_2,Kichuwani,Fisher_9,Amour Hajji Hamadi,50,male,4,Mkumbuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,NA,6000,16
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_1,Faki Ali Khamis,31,male,3,Misali,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Kolekole1,900,15
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_1,Faki Ali Khamis,31,male,3,Misali,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,18000,NA,Changu kibaku,510,2
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Hajji Kombo Hajji,50,male,3,Mkumbuu,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,45000,NA,NA,2700,7
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Hajji Kombo Hajji,50,male,3,Mkumbuu,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,45000,NA,Kundaji mweupe,497,20
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_3,Abdalla Said Nassor,31,male,9,Dongo,Mwani,Dau/Mtumbwi,Nyavu,NA,28000,NA,Tasi mweusi,722,12
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_3,Abdalla Said Nassor,31,male,9,Dongo,Mwani,Dau/Mtumbwi,Nyavu,NA,28000,NA,Chaa,540,20
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_4,Ali Faki Khamis,31,male,2,Funzi,Mchanga,Dau/Mtumbwi,Mshipi,NA,26000,NA,Mwewe/Komba,815,12
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_4,Ali Faki Khamis,31,male,2,Funzi,Mchanga,Dau/Mtumbwi,Mshipi,NA,26000,NA,Nguru,2436,2
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_5,Khamis Salim Muhidin,31,male,10,Muwangwi,Mwani,Dau/Mtumbwi,Nyavu,NA,44000,NA,Pono bluu,444,36
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_5,Khamis Salim Muhidin,31,male,10,Muwangwi,Mwani,Dau/Mtumbwi,Nyavu,NA,44000,NA,Pono13,472,25
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_6,Juma Mussa Juma,30,male,9,Mahujui,Fungu,Dau/Mtumbwi,Nyavu,NA,53000,NA,Pono13,417,20
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_6,Juma Mussa Juma,30,male,9,Mahujui,Fungu,Dau/Mtumbwi,Nyavu,NA,53000,NA,Changu Ndomo,567,24
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_7,Ali Iddi Omar,32,male,8,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Tasi mweusi,4000,37
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_7,Ali Iddi Omar,32,male,8,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Panda,335,2
+Issa Khamis Hamadi,2/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_8,Hamad Ali Juma,43,male,6,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,45000,NA,Changu dizi,374,24
+Issa Khamis Hamadi,3/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_1,Shaame slemani Shaame,36,male,8,Muwangwi,Mwani,Dau/Mtumbwi,Nyavu,NA,70000,NA,Pono13,627,24
+Issa Khamis Hamadi,3/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_1,Shaame slemani Shaame,36,male,8,Muwangwi,Mwani,Dau/Mtumbwi,Nyavu,NA,70000,NA,Pono13,693,20
+Issa Khamis Hamadi,3/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Juma Masoud Sleman,50,male,4,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,52000,NA,Tasi uziwa,4000,17
+Issa Khamis Hamadi,3/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Juma Masoud Sleman,50,male,4,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,52000,NA,Kibua,4700,30
+Issa Khamis Hamadi,3/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_3,Omar Assa Vuai,32,male,5,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,35000,NA,Kundaji mwekundu,224,12
+Issa Khamis Hamadi,3/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_3,Omar Assa Vuai,32,male,5,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,35000,NA,Tembo kibaku,202,12
+Issa Khamis Hamadi,3/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_4,Haji kombo Haji,50,male,4,Muwangwi,Faiba,Dau/Mtumbwi,Mtego/dema,NA,40000,NA,Chaa,518,20
+Issa Khamis Hamadi,3/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_4,Haji kombo Haji,50,male,4,Muwangwi,Faiba,Dau/Mtumbwi,Mtego/dema,NA,40000,NA,Changu mweupe,300,16
+Issa Khamis Hamadi,3/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_5,Abdalla Said Nassor,31,male,9,Mako ho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Pono bluu,440,16
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_1,Shaame slemsni shaame,36,male,7,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,45000,NA,Chewa/Tewa,2500,1
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_1,Shaame slemsni shaame,36,male,7,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,45000,NA,Kundaji,697,36
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Amour Hajji Hamad,55,male,6,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,45000,NA,Changu Ndomo,493,24
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_2,Amour Hajji Hamad,55,male,6,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,45000,NA,Tasi,494,70
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_3,Mbarouk Ali Juma,29,male,10,Muwangwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,50000,NA,Chaa,434,75
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_4,Juma mussa Juma,30,male,4,Makocho,Mchanga,Dau/Mtumbwi,Nyavu,NA,NA,NA,Pono bluu,788,40
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_4,Juma mussa Juma,30,male,4,Makocho,Mchanga,Dau/Mtumbwi,Nyavu,NA,NA,NA,Pono13,565,70
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_5,Abdalla Said Nassor,30,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,80000,NA,Kolekole1,718,30
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_5,Abdalla Said Nassor,30,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,80000,NA,Chelema weupe,358,50
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_6,Ali Iddi Omar,32,male,8,Mkumbu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,67000,NA,NA,737,12
+Issa Khamis Hamadi,5/10/2024,Pemba,Kisiwani,Mfunguo_Sita_2,Kichuwani,Fisher_6,Ali Iddi Omar,32,male,8,Mkumbu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,67000,NA,NA,306,60
+Issa Khamis Hamadi,12/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Hajji Kombo Hajji,50,male,3,Dongoni,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Chaa,611,18
+Issa Khamis Hamadi,12/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Omar Assa Vuai,32,male,4,Mkumbuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Mwewe/Komba,434,3
+Issa Khamis Hamadi,12/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Omar Assa Vuai,32,male,4,Mkumbuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,NA,NA,Tasi,765,7
+Issa Khamis Hamadi,12/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Salum Said Salum,38,male,10,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Mzira meno/sumbururu,447,16
+Issa Khamis Hamadi,12/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Salum Said Salum,38,male,10,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,NA,83,8
+Issa Khamis Hamadi,12/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Amour Hajji Hajji,38,male,4,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,50000,NA,Changu Ndomo,1753,15
+Issa Khamis Hamadi,12/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Amour Hajji Hajji,38,male,4,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,50000,NA,Changu mweupe,1317,15
+Issa Khamis Hamadi,12/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_5,Abrahmani Ali Ali,22,male,2,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,28000,NA,Mzira boko/ mzia,4000,17
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Amini Ali Juma,29,male,4,Mahujuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,25000,NA,Chelema weupe,771,24
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Amini Ali Juma,29,male,4,Mahujuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,25000,NA,NA,225,7
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Amini Ali Juma,29,male,4,Mahujuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,25000,NA,Chaa,240,16
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Omar Assa Vuai,32,male,2,Javini,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,10000,NA,Mzira meno/sumbururu,1723,4
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Salum saidi Salum,42,male,10,Dongoni,Faiba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Tasi mweupe,592,20
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Salum saidi Salum,42,male,10,Dongoni,Faiba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Tasi mweusi,471,20
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_3,Omar juma Ali,37,male,7,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Paragunda,379,20
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_3,Omar juma Ali,37,male,7,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Changu kibaku,441,16
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Amour Ali Juma,NA,male,4,Mahujuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Laga/Puju,1754,6
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Amour Ali Juma,NA,male,4,Mahujuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Chewa/Tewa,747,3
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_6,Hamadi Ali Omar,30,male,3,Funzi,Mikoko,Dau/Mtumbwi,Mtego/dema,NA,70000,NA,Pono13,1306,75
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_6,Hamadi Ali Omar,30,male,3,Funzi,Mikoko,Dau/Mtumbwi,Mtego/dema,NA,70000,NA,Pono9,771,50
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_7,Juma Issa Kombo,35,male,7,Pangwe,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Mzira meno/sumbururu,284,1
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_7,Juma Issa Kombo,35,male,7,Pangwe,Mwani,Dau/Mtumbwi,Nyavu,NA,6000,NA,Kundaji mwekundu,125,1
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_7,Juma Issa Kombo,35,male,7,Pangwe,Mwani,Dau/Mtumbwi,Nyavu,NA,56000,NA,NA,321,70
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_8,Juma mussa Jama,30,male,2,Mahujuu,Faiba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Changu Ndomo,1904,10
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_8,Juma mussa Jama,30,male,2,Mahujuu,Faiba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Pono bluu,1306,10
+Issa Khamis Hamadi,14/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_8,Juma mussa Jama,30,male,2,Mahujuu,Faiba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,pono10,279,1
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Juma Juma,42,male,7,Mkumbuu,Fungu,Dau/Mtumbwi,Nyavu,NA,27500,NA,Kibua,4000,30
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Juma Juma,42,male,7,Mkumbuu,Fungu,Dau/Mtumbwi,Nyavu,NA,54000,NA,NA,1100,14
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Faki Ali Khamisi,31,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,12000,NA,NA,4000,14
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Faki Ali Khamisi,31,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,12000,NA,Kolekole1,363,1
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Faki Ali Khamisi,31,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,12000,NA,Changu kibaku,134,1
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Faki Ali Khamisi,31,male,2,Misali,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,12000,NA,Tasi mweusi,123,1
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_3,Ali Faki Khamis,31,male,2,Funzi,Faiba,Dau/Mtumbwi,Mshipi,NA,10000,NA,Kundaji mwekundu,510,2
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Abrahmani Ali,22,male,9,Pembe,Mwani,Dau/Mtumbwi,Nyavu,NA,75000,NA,Pono13,782,70
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Abrahmani Ali,22,male,9,Pembe,Mwani,Dau/Mtumbwi,Nyavu,NA,75000,NA,Pono13,646,50
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_5,Ali Iddi Omar,32,male,9,Mahujuu,Mwani,Dau/Mtumbwi,Nyavu,NA,40000,NA,Pono13,780,70
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_6,Amour Hajji Hamadi,50,male,4,Misali,Mikoko,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Pono bluu,1530,20
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_6,Amour Hajji Hamadi,50,male,4,Misali,Mikoko,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Changu Ndomo,778,20
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_7,Khamis salim muhidini,31,male,9,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,17000,NA,Mwewe/Komba,222,1
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_7,Khamis salim muhidini,31,male,9,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,17000,NA,Chaa,532,30
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_8,Omari juma Ali,37,male,7,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,25000,NA,Tasi,533,20
+Issa Khamis Hamadi,15/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_9,Shaame sleman shaame,36,male,8,Dongoni,Fungu,Dau/Mtumbwi,Nyavu,NA,17000,NA,helahela_ngozi,554,18
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Abdalla Said Nassor,31,male,9,Nakocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,27000,NA,Tembo kidoa,524,24
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Amini Ali Juma,45,male,6,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,80000,NA,Pono13,532,30
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Amini Ali Juma,45,male,6,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,80000,NA,Pono13,1183,80
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_3,Mbarouk Ali Juma,29,male,10,Mahujju,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,65000,NA,Kibua,3000,23
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_3,Mbarouk Ali Juma,29,male,10,Mahujju,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,65000,NA,Chaa,597,60
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Omar Juma Ali,37,male,7,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Paragunda,513,5
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Omar Juma Ali,37,male,7,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Mzira meno/sumbururu,852,10
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_5,Shaame Sleman Shaame,36,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,60000,NA,Pono bluu,658,28
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_5,Shaame Sleman Shaame,36,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,60000,NA,Changu Ndomo,838,18
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_6,Hamadi Ali Juma,42,male,6,Mithali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,330000,NA,Kundaji kidoa,551,10
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_6,Hamadi Ali Juma,42,male,6,Mithali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,330000,NA,NA,9000,3
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_7,Ali Faki Khamis,31,male,2,Funzi,Fungu,Dau/Mtumbwi,Mshipi,NA,17000,NA,Nguru,1900,2
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_8,Abdalla Said Nassor,6,male,6,Makocho,Fungu,Dau/Mtumbwi,Nyavu,NA,15000,NA,NA,235,40
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_9,Khamis Salim Muhidini,30,male,8,Mahujuu,Fungu,Dau/Mtumbwi,Nyavu,NA,52000,NA,Changu kibaku,407,20
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_9,Khamis Salim Muhidini,30,male,8,Mahujuu,Fungu,Dau/Mtumbwi,Nyavu,NA,52000,NA,Tembo,241,30
+Issa Khamis Hamadi,16/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_9,Khamis Salim Muhidini,30,male,8,Mahujuu,Fungu,Dau/Mtumbwi,Nyavu,NA,52000,NA,Tasi mweusi,253,2
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Ali Iddi Omar,32,male,8,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Kundaji mwekundu,1173,10
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Ali Iddi Omar,32,male,8,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Mbono/kubu,449,20
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Ali Iddi Omar,32,male,8,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Changu Ndomo,312,30
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Amour Ali Juma,32,male,8,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,67000,NA,Chaa,483,3
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Amour Ali Juma,32,male,8,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,67000,NA,Pono13,593,30
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_2,Amour Ali Juma,32,male,8,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,67000,NA,Pono13,300,70
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_3,Abdalla Said Nasor,31,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,40000,NA,Paragunda,557,4
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_3,Abdalla Said Nasor,31,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,40000,NA,Changu mweupe,439,40
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Amini Ali Juma,45,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,26000,NA,Changu Ndomo,3500,12
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Amini Ali Juma,45,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,26000,NA,Kundaji mwekundu,909,4
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Amini Ali Juma,45,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,26000,NA,Changu Ndomo,3500,12
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_4,Amini Ali Juma,45,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,26000,NA,Kundaji mwekundu,909,4
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_5,Ali Abdalla Juma,30,male,10,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,120000,NA,Changu dizi,6000,15
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_6,Omar Juma Ali,37,male,7,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,64000,NA,Mzira meno/sumbururu,3000,6
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_6,Omar Juma Ali,37,male,7,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,64000,NA,Chaa2,502,60
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_6,Omar Juma Ali,37,male,7,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,64000,NA,Mwewe/Komba,334,4
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_7,Juma Juma,42,male,7,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,60000,NA,Kibua,9000,60
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_8,Ali Faki Khamis,31,male,2,Mahujuu,Fungu,Dau/Mtumbwi,Mshipi,NA,35000,NA,Mwewe,3281,2
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_8,Ali Faki Khamis,31,male,2,Mahujuu,Fungu,Dau/Mtumbwi,Mshipi,NA,35000,NA,Toa/msusa,331,20
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_9,Abdalla Said Nassor,30,male,6,Makocho,Fungu,Dau/Mtumbwi,Nyavu,NA,80000,NA,NA,151,30
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_9,Abdalla Said Nassor,30,male,6,Makocho,Fungu,Dau/Mtumbwi,Nyavu,NA,80000,NA,NA,257,40
+Issa Khamis Hamadi,17/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_9,Abdalla Said Nassor,30,male,6,Makocho,Fungu,Dau/Mtumbwi,Nyavu,NA,80000,NA,Pono9,189,2
+Issa Khamis Hamadi,13/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Hajji kombo Hajji,50,male,3,Mkumbuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,36000,NA,Changu Ndomo,3900,16
+Issa Khamis Hamadi,13/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Hajji kombo Hajji,50,male,3,Mkumbuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,36000,NA,Pono9,245,1
+Issa Khamis Hamadi,13/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Hajji kombo Hajji,50,male,3,Mkumbuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,36000,NA,pono10,119,1
+Hamad Nassor Hamad,1/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Hamad Darusi kombo,24,male,7,Jambani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,120000,NA,Pono,7500,12
+Hamad Nassor Hamad,1/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Hamad Darusi kombo,24,male,7,Jambani,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,120000,NA,Changu2,4095,10
+Rehema Jabu Khamis,13/11/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Mangale,32,male,7,Mdomoni,Majani_bahari,Dau/Mtumbwi,Nyinginezo,Nyavu za mtande,60000,NA,Changu13,1276,50
+Rehema Jabu Khamis,13/11/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Mangale,32,male,7,Mdomoni,Majani_bahari,Dau/Mtumbwi,Nyinginezo,Nyavu za mtande,60000,NA,Toa/msusa,77,2
+Salma Rashid Salum,1/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Juma hamad mkuja,40,male,3,Rasini,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Changu kifimbo/ Mrongo,1266,4
+Salma Rashid Salum,1/10/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Juma hamad mkuja,40,male,3,Rasini,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Kundaji,994,2
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Abdalla Said Nassor,31,male,9,Ndagoni,Mwani,Dau/Mtumbwi,Nyavu,NA,35000,NA,Pono9,189,2
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Abdalla Said Nassor,31,male,9,Ndagoni,Mwani,Dau/Mtumbwi,Nyavu,NA,35000,NA,NA,257,40
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_2,Shaame Sleman Shaame,36,male,9,Funzi,Mikoko,Dau/Mtumbwi,Nyavu,NA,50000,NA,Kundaji mwekundu,7700,40
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_2,Shaame Sleman Shaame,36,male,9,Funzi,Mikoko,Dau/Mtumbwi,Nyavu,NA,50000,NA,Pono9,1342,4
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_2,Shaame Sleman Shaame,36,male,9,Funzi,Mikoko,Dau/Mtumbwi,Nyavu,NA,50000,NA,Pono bluu,395,2
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_2,Shaame Sleman Shaame,36,male,9,Funzi,Mikoko,Dau/Mtumbwi,Nyavu,NA,50000,NA,Changu Ndomo,778,20
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Omar juma Ali,37,male,9,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Paragunda,946,5
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Omar juma Ali,37,male,9,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Chaa,581,40
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Mbarouk Ali Juma,29,male,10,Jamvini,Mkondoni,Dau/Mtumbwi,Nyavu,NA,30000,NA,Tasi mweusi,659,20
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Mbarouk Ali Juma,29,male,10,Jamvini,Mkondoni,Dau/Mtumbwi,Nyavu,NA,30000,NA,Tembo kidoa,157,8
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_5,Amini Ali Juma,45,male,8,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,19000,NA,NA,553,20
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_5,Amini Ali Juma,45,male,8,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,19000,NA,Mzira meno/sumbururu,513,8
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Salum Said Salum,42,male,2,Pande,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,45000,NA,Changu Ndomo,2424,20
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Salum Said Salum,42,male,2,Pande,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,45000,NA,pono10,2000,19
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Ali Faki Khamis,31,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,13000,NA,pono11,2000,19
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Ali Faki Khamis,31,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,13000,NA,Changu dizi,100,1
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_8,Ali Iddi Omar,32,male,9,Pembe,Mwani,Dau/Mtumbwi,Nyavu,NA,44000,NA,Pono13,707,84
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_9,Ali Faki Khamis,31,male,1,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,30000,NA,Mwewe,5000,1
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_10,Omar Juma Ali,37,male,7,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,45000,NA,Paragunda,379,20
+Issa Khamis Hamadi,28/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_10,Omar Juma Ali,37,male,7,Misali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,45000,NA,Changu kibaku,441,16
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Abdalla Ali Kombo,39,male,3,Pembe,Mikoko,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Kundaji mwekundu,1253,8
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Abdalla Ali Kombo,39,male,3,Pembe,Mikoko,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Pono9,2460,10
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Abdalla Ali Kombo,39,male,3,Pembe,Mikoko,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Tembo,251,3
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_2,Ali Faki khamis,31,male,1,Mahujuu,Mwani,Dau/Mtumbwi,Mshipi,NA,23000,NA,Mzira/Mzia,3000,8
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Khamis Omar khamis,10,male,10,Misali,Mwani,Dau/Mtumbwi,Nyavu,NA,20000,NA,Pono13,8000,81
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Ali Iddi Omar,32,male,3,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Kundaji mwekundu,1173,10
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Ali Iddi Omar,32,male,3,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Mbono/kubu,449,20
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Ali Iddi Omar,32,male,3,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,30000,NA,Changu Ndomo,312,30
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_5,Omr Juma Omar,30,male,1,Makocho,Fungu,Dau/Mtumbwi,Mshipi,NA,10000,NA,Nguru,1050,1
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Khamis Salim Muhidini,31,male,9,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,17000,NA,Tasi mweupe,619,16
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Khamis Salim Muhidini,31,male,9,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,17000,NA,Tembo kidoa,503,24
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Mbarouk Ali Juma,29,male,10,Makocho,Mchanga,Dau/Mtumbwi,Nyavu,NA,50000,NA,Changu mweupe,507,30
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Mbarouk Ali Juma,29,male,10,Makocho,Mchanga,Dau/Mtumbwi,Nyavu,NA,50000,NA,Chelema weupe,174,4
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Mbarouk Ali Juma,29,male,10,Makocho,Mchanga,Dau/Mtumbwi,Nyavu,NA,50000,NA,Chaa,124,3
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_8,Haji Kombo Haji,51,male,3,Mkumbuu,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,26000,NA,Mbono/kubu,6000,30
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_9,Abrahmani Ali,22,male,9,Muangwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,20000,NA,Tasi mweusi,729,10
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_9,Abrahmani Ali,22,male,9,Muangwi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,20000,NA,Changu Ndomo,1415,3
+Issa Khamis Hamadi,29/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_10,Amini Ali Juma,45,male,8,Funzi,Mkondoni,Dau/Mtumbwi,Nyavu,NA,70000,NA,Kibua,9000,60
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Ali Faki Khamis,31,male,3,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,35000,NA,Kundaji mwekundu,6000,22
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Ali Faki Khamis,31,male,3,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,35000,NA,Paragunda,858,6
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Ali Faki Khamis,31,male,3,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,35000,NA,Chewa/Tewa,439,1
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_2,Haji Kombo Haji,50,male,3,Mkumbuu,Fungu,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Pono9,5000,6
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Hajji mohd Ali,28,male,3,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,58000,NA,Tasi mweusi,8600,20
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Muhd salim Ali,50,male,2,Mkumbuu,Mchanga,Dau/Mtumbwi,Mshipi,NA,12000,NA,Mzira meno/sumbururu,2000,1
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_5,Khamis Salim Muhidini,31,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,50000,NA,Kibua,6000,50
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_5,Khamis Salim Muhidini,31,male,9,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,50000,NA,Changu mweupe,276,2
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Omar Juma Ali,30,male,2,Dongoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,45000,NA,Changu Ndomo,6000,25
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Salum saidi Salum,42,male,9,Mkumbuu,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,30000,NA,Toa/msusa,342,20
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Salum saidi Salum,42,male,9,Mkumbuu,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,30000,NA,Pono13,455,20
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Salum saidi Salum,42,male,9,Mkumbuu,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,30000,NA,Chaa,341,20
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_8,Mohd salim Ali,40,male,6,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,24000,NA,NA,445,32
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_8,Mohd salim Ali,40,male,6,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,24000,NA,Mzira meno/sumbururu,1142,20
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_9,Omar juma Ali,37,male,7,Funzi,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,45000,NA,Pono13,708,70
+Issa Khamis Hamadi,30/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_10,Juma mussa Juma,30,male,9,Pembe,Mchanga,Dau/Mtumbwi,Nyavu,NA,25000,NA,Chelema weupe,526,32
+Issa Khamis Hamadi,31/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Hamadi Ali Juma,43,male,7,Misali,Fungu,Dau/Mtumbwi,Nyavu,NA,20000,NA,Changu2,472,24
+Issa Khamis Hamadi,31/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_2,Amour Haji Hamadi,50,male,1,Dongoni,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,10000,NA,Kolekole1,920,2
+Issa Khamis Hamadi,31/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Hajji Kombo Hajji,50,male,3,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,40000,NA,Changu Ndomo,6000,31
+Issa Khamis Hamadi,31/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Hajji Kombo Hajji,50,male,3,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,40000,NA,Kundaji mwekundu,228,2
+Issa Khamis Hamadi,31/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Hajji Kombo Hajji,50,male,3,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,40000,NA,Paragunda,232,2
+Issa Khamis Hamadi,31/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Amini Ali Juma,45,male,9,Mithali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,27000,NA,Chaa,332,20
+Issa Khamis Hamadi,31/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Amini Ali Juma,45,male,9,Mithali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,27000,NA,Chelema weupe,287,24
+Issa Khamis Hamadi,31/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_5,Abdalls Daid Nassor,30,male,7,Makocho,Mwani,Dau/Mtumbwi,Nyavu,NA,20000,NA,Chaa2,323,20
+Issa Khamis Hamadi,31/10/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Ali Iddi  O.ar,32,male,8,Mahujuu,Mwani,Dau/Mtumbwi,Nyavu,NA,12000,NA,Pono13,880,30
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Hajji Kombo Hajji,50,male,3,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Kundaji mwekundu,925,6
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Hajji Kombo Hajji,50,male,3,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Paragunda,709,9
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_2,Ali Faki Khamis,30,male,2,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Changu Ndomo,7000,48
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Ali Iddi Omar,32,male,8,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Changu kibaku,363,40
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Ali Iddi Omar,32,male,8,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Pono9,392,2
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Ali Iddi Omar,32,male,8,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Tasi mweusi,529,3
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Hamad Ali Juma,43,male,2,Mithali,Mchanga,Dau/Mtumbwi,Mshipi,NA,12000,NA,Tasi mweusi,932,5
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Hamad Ali Juma,43,male,2,Mithali,Mchanga,Dau/Mtumbwi,Mshipi,NA,12000,NA,pono10,871,4
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Hamad Ali Juma,43,male,2,Mithali,Mchanga,Dau/Mtumbwi,Mshipi,NA,12000,NA,Changu2,325,2
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_5,Mohd Salim Ali,40,male,60,Jamvini,Mwani,Dau/Mtumbwi,Nyavu,NA,35000,NA,Pono13,538,70
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Amour Juma Ali,37,male,7,Jamvino,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,16000,NA,Changu3,1553,7
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Amour Juma Ali,37,male,7,Jamvino,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,16000,NA,Tembo,354,4
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Amini Ali Juma,45,male,9,Mithali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Kundaji mweupe,261,2
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Amini Ali Juma,45,male,9,Mithali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Chaa,509,50
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Amini Ali Juma,45,male,9,Mithali,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Chelema weupe,217,3
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_8,Mbarouk Ali Juma,29,male,10,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,36000,NA,Mzira meno/sumbururu,653,10
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_8,Mbarouk Ali Juma,29,male,10,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,36000,NA,NA,653,30
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_8,Mbarouk Ali Juma,29,male,10,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,36000,NA,NA,231,25
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_9,Khamis Salim Muhidini,9,male,9,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,28000,NA,Toa/msusa,607,2
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_9,Khamis Salim Muhidini,9,male,9,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,28000,NA,Chaa2,670,20
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_9,Khamis Salim Muhidini,9,male,9,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,28000,NA,Pono13,974,5
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_10,Shaame Slemani Shaame,36,male,3,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Pono8,490,1
+Issa Khamis Hamadi,2/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_10,Shaame Slemani Shaame,36,male,3,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Tasi,273,7
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_1,Abdlla Said Nassor,31,male,3,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,35000,NA,Kundaji mwekundu,1442,7
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_2,Omar Assa Vuai,32,male,2,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Pono9,708,6
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_3,Ali Faki Khamis,31,male,2,Mahujuu,Mchanga,Dau/Mtumbwi,Mtego/dema,NA,30000,NA,Changu Ndomo,5000,11
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_4,Issa sabahi kheri,30,male,2,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,7000,NA,Mzira meno/sumbururu,1174,1
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_5,Hajji Kombo Hajji,50,male,2,Ndagoni,Mkondoni,Dau/Mtumbwi,Mshipi,NA,15000,NA,Tasi uziwa,265,1
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_5,Hajji Kombo Hajji,50,male,2,Ndagoni,Mkondoni,Dau/Mtumbwi,Mshipi,NA,15000,NA,pono10,2000,13
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Ali Iddi Omar,32,male,8,Magujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,24000,NA,Changu3,337,20
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Ali Iddi Omar,32,male,8,Magujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,24000,NA,Chaa,218,16
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Ali Iddi Omar,32,male,8,Magujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,24000,NA,Tasi,163,1
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Ali Iddi Omar,32,male,8,Magujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,24000,NA,Mwewe,215,8
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Ali Iddi Omar,32,male,8,Magujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,24000,NA,Changu3,337,20
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Ali Iddi Omar,32,male,8,Magujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,24000,NA,Chaa,218,16
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Ali Iddi Omar,32,male,8,Magujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,24000,NA,Tasi,163,1
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_6,Ali Iddi Omar,32,male,8,Magujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,24000,NA,Mwewe,215,8
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Khamis Salim Muhidini,31,male,9,Mahujuu,Fungu,Dau/Mtumbwi,Nyavu,NA,24000,NA,Tasi,388,15
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Khamis Salim Muhidini,31,male,9,Mahujuu,Fungu,Dau/Mtumbwi,Nyavu,NA,24000,NA,Paragunda,244,10
+Issa Khamis Hamadi,3/11/2024,Pemba,Kisiwani,Mfunguo_Saba_2,Kichuwani,Fisher_7,Khamis Salim Muhidini,31,male,9,Mahujuu,Fungu,Dau/Mtumbwi,Nyavu,NA,24000,NA,Chelema weupe,75,1
+Issa Khamis Hamadi,11/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_1,Ali Faki Khaimis,30,male,2,Mahujuu,Fungu,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Changu kibaku,740,7
+Issa Khamis Hamadi,11/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_1,Ali Faki Khaimis,30,male,2,Mahujuu,Fungu,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Tasi,341,3
+Issa Khamis Hamadi,11/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_1,Ali Faki Khaimis,30,male,2,Mahujuu,Fungu,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Toa/msusa,270,3
+Issa Khamis Hamadi,11/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_1,Ali Faki Khaimis,30,male,2,Mahujuu,Fungu,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Tembo kidoa,320,4
+Issa Khamis Hamadi,11/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_2,Issa Sabah Kheir,30,male,2,Makocho,Fungu,Dau/Mtumbwi,Mshipi,NA,18000,NA,Chelema weupe,523,30
+Issa Khamis Hamadi,11/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Khamis,31,male,8,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,Mkonge,198,1
+Issa Khamis Hamadi,11/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Khamis,31,male,8,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,35000,NA,NA,3000,30
+Issa Khamis Hamadi,11/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Hajji Kombo Hajji,50,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Kolekole1,486,2
+Issa Khamis Hamadi,11/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Hajji Kombo Hajji,50,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Tasi uziwa,1026,4
+Issa Khamis Hamadi,11/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Hajji Kombo Hajji,50,male,2,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,13000,NA,Chewa/Tewa,807,2
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_1,Ali Iddi Omar,32,male,8,Mkumbuu,Mkondoni,Dau/Mtumbwi,Nyavu,NA,17000,NA,NA,5000,30
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_2,Abdalla Said nassor,30,male,9,Makocho,Mwani,Dau/Mtumbwi,Nyavu,NA,20000,NA,Pono13,545,20
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Mohd Salim Ali,40,male,6,Dongoni,Mwani,Dau/Mtumbwi,Nyavu,NA,20000,NA,Pono13,521,20
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Hamad Ali Juma,43,male,7,Funzi,Mwani,Dau/Mtumbwi,Nyavu,NA,20000,NA,Pono13,582,24
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Abrahmani Ali Ali,22,male,7,Makocho,Fungu,Dau/Mtumbwi,Nyavu,NA,15000,NA,Chaa,372,16
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Abrahmani Ali Ali,22,male,7,Makocho,Fungu,Dau/Mtumbwi,Nyavu,NA,15000,NA,Kangaja1,246,12
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Abrahmani Ali Ali,22,male,7,Makocho,Fungu,Dau/Mtumbwi,Nyavu,NA,15000,NA,Toa/msusa,233,1
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_6,Amini Ali Juma,45,male,6,Misali,Mkondoni,Dau/Mtumbwi,Nyavu,NA,49000,NA,Toa/msusa,665,24
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_6,Amini Ali Juma,45,male,6,Misali,Mkondoni,Dau/Mtumbwi,Nyavu,NA,49000,NA,Chaa2,183,1
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_6,Amini Ali Juma,45,male,6,Misali,Mkondoni,Dau/Mtumbwi,Nyavu,NA,49000,NA,Kolekole1,162,1
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_7,Hamadi Ali Omar,30,male,8,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,28000,NA,Chaa,222,12
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_7,Hamadi Ali Omar,30,male,8,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,28000,NA,Changu Ndomo,471,24
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_7,Hamadi Ali Omar,30,male,8,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,28000,NA,Tasi mweusi,158,1
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_7,Hamadi Ali Omar,30,male,8,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,28000,NA,Chelema weupe,205,20
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_8,Hajji Ali Mohd,28,male,8,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Changu kifimbo/ Mrongo,1503,7
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_8,Hajji Ali Mohd,28,male,8,Pandwe,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,20000,NA,Changu kibaku,263,16
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_9,Ali Faki Khamis,31,male,1,Makocho,Mchanga,Dau/Mtumbwi,Mshipi,NA,3000,NA,Mkunga,520,1
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_10,Shaame Slemani Shaame,36,male,8,Mkumbuu,Mkondoni,Dau/Mtumbwi,Nyavu,NA,37000,NA,Mwewe/Komba,827,32
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_10,Shaame Slemani Shaame,36,male,8,Mkumbuu,Mkondoni,Dau/Mtumbwi,Nyavu,NA,37000,NA,Kundaji mweupe,244,16
+Issa Khamis Hamadi,12/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_10,Shaame Slemani Shaame,36,male,8,Mkumbuu,Mkondoni,Dau/Mtumbwi,Nyavu,NA,37000,NA,Tasi,524,24
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_1,Juma massud Sleman,50,male,3,Muangwi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,21000,NA,Changu mweupe,3500,17
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_2,Salum Said Salum,38,male,9,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,20000,NA,NA,691,36
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_2,Salum Said Salum,38,male,9,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,20000,NA,NA,225,24
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Haji kombo Hajji,50,male,3,Funzi,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Changu Ndomo,1593,9
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Haji kombo Hajji,50,male,3,Funzi,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Paragunda,1127,5
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Haji kombo Hajji,50,male,3,Funzi,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Kundaji mwekundu,295,2
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Hajji mohd Ali,28,male,4,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Kolekole1,495,2
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Hajji mohd Ali,28,male,4,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Chaa2,636,4
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Hajji mohd Ali,28,male,4,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Tasi mweusi,439,1
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Hajji mohd Ali,28,male,4,Mahujuu,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,28000,NA,Changu ndomo2,686,1
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Omar Assa Vuai,32,male,3,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,12000,NA,Tasi,1000,10
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Omar Assa Vuai,32,male,3,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,12000,NA,Chelema weupe,155,1
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Omar Assa Vuai,32,male,3,Jamvini,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,12000,NA,Pono9,178,1
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_6,Khamis Dalim Muhidini,31,male,9,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,18000,NA,Chelema weupe,115,10
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_6,Khamis Dalim Muhidini,31,male,9,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,18000,NA,Mwewe,260,15
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_6,Khamis Dalim Muhidini,31,male,9,Pembe,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,18000,NA,Chaa2,236,15
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_7,Ali Faki Khamis,31,male,1,Makocho,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,pono10,1658,6
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_8,Amini Ali Juma,45,male,9,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,12000,NA,NA,244,32
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_8,Amini Ali Juma,45,male,9,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,12000,NA,Mzira meno/sumbururu,486,7
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_8,Amini Ali Juma,45,male,9,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,12000,NA,mwewe,168,1
+Issa Khamis Hamadi,13/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_8,Amini Ali Juma,45,male,9,Mkumbuu,Mchanga,Dau/Mtumbwi,Nyavu,NA,12000,NA,Kolekole2,274,1
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_1,Haji Kombo Hajji,50,male,3,Dongoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Tembo,171,2
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_1,Haji Kombo Hajji,50,male,3,Dongoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Changu2,1133,5
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_1,Haji Kombo Hajji,50,male,3,Dongoni,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,25000,NA,Changu Ndomo,751,1
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_2,Ali Faki Khamis,31,male,1,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,8000,NA,Tasi uziwa,273,1
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_2,Ali Faki Khamis,31,male,1,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mshipi,NA,8000,NA,Tasi mweusi,204,1
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Omar Asaa Vuai,NA,male,4,Mkumbuu,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,15000,NA,Changu mweupe,1415,16
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Issa sabahi Kheir,30,male,3,Funzi,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,35000,NA,Changu2,668,16
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Issa sabahi Kheir,30,male,3,Funzi,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,35000,NA,Tasi mweusi,640,3
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Issa sabahi Kheir,30,male,3,Funzi,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,35000,NA,Paragunda,985,9
+Issa Khamis Hamadi,14/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Issa sabahi Kheir,30,male,3,Funzi,Mkondoni,Dau/Mtumbwi,Mtego/dema,NA,35000,NA,Kundaji mwekundu,479,2
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Salum said Salum,38,male,9,Dongoni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,25000,NA,Chaa,340,2
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Salum said Salum,38,male,9,Dongoni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,25000,NA,Tembo,429,40
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Saba_1,Kichuwani,Fisher_1,Salum said Salum,38,male,9,Dongoni,Matumbawe/miamba,Dau/Mtumbwi,Nyavu,NA,25000,NA,Chelema weupe,297,45
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_2,Omar Juma Ali,37,male,9,Mahujuu,Mwani,Dau/Mtumbwi,Nyavu,NA,35000,NA,Changu5,281,32
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_2,Omar Juma Ali,37,male,9,Mahujuu,Mwani,Dau/Mtumbwi,Nyavu,NA,35000,NA,Chaa,458,40
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Abdalla Said Nassor,31,male,10,Makocho,Mwani,Dau/Mtumbwi,Nyavu,NA,30000,NA,Pono9,478,20
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Abdalla Said Nassor,31,male,10,Makocho,Mwani,Dau/Mtumbwi,Nyavu,NA,30000,NA,Pono13,284,20
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Abdalla Said Nassor,31,male,10,Makocho,Mwani,Dau/Mtumbwi,Nyavu,NA,30000,NA,Chelema weupe,331,20
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Abdalla Said Nassor,31,male,10,Makocho,Mwani,Dau/Mtumbwi,Nyavu,NA,30000,NA,Kikande mweupe,1281,1
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Hajji Mohd Ali,28,male,3,Funzi,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,22000,NA,Nyavi,3500,8
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Shaame Sleman Shaame,36,male,8,Misali,Mikoko,Dau/Mtumbwi,Nyavu,NA,35000,NA,Mzira meno/sumbururu,1578,4
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Shaame Sleman Shaame,36,male,8,Misali,Mikoko,Dau/Mtumbwi,Nyavu,NA,35000,NA,Chaa2,559,5
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Shaame Sleman Shaame,36,male,8,Misali,Mikoko,Dau/Mtumbwi,Nyavu,NA,35000,NA,Tasi mweupe,776,16
+Issa Khamis Hamadi,16/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Shaame Sleman Shaame,36,male,8,Misali,Mikoko,Dau/Mtumbwi,Nyavu,NA,35000,NA,Changu kibaku,333,2
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_1,Amini Ali Juma,45,male,1,Mahujuu,Fungu,Dau/Mtumbwi,Mshipi,NA,22000,NA,Nguru,3100,2
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_2,Hajji Kombo Hajji,50,male,2,Makocho,Fungu,Dau/Mtumbwi,Mtego/dema,NA,7000,NA,Changu chomi,500,5
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_2,Hajji Kombo Hajji,50,male,2,Makocho,Fungu,Dau/Mtumbwi,Mtego/dema,NA,7000,NA,Changu mweupe,615,5
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Ali Faki Khamis,30,male,2,Misali,Mkondoni,Dau/Mtumbwi,Mshipi,NA,15000,NA,Mwatiko,511,3
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_3,Ali Faki Khamis,30,male,2,Misali,Mkondoni,Dau/Mtumbwi,Mshipi,NA,15000,NA,Mzira meno/sumbururu,769,4
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Abdalla Said Nassor,31,male,10,Mahujju,Mkondoni,Dau/Mtumbwi,Nyavu,NA,35000,NA,Changu2,416,24
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Abdalla Said Nassor,31,male,10,Mahujju,Mkondoni,Dau/Mtumbwi,Nyavu,NA,35000,NA,Changu kibaku,324,20
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_4,Abdalla Said Nassor,31,male,10,Mahujju,Mkondoni,Dau/Mtumbwi,Nyavu,NA,35000,NA,Chaa,348,30
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Khamis Salim muhidini,31,male,1,Mahujuu,Fungu,Dau/Mtumbwi,Mshipi,NA,7000,NA,Kolekole1,229,1
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_5,Khamis Salim muhidini,31,male,1,Mahujuu,Fungu,Dau/Mtumbwi,Mshipi,NA,7000,NA,Chelema weupe,314,5
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_6,Mohd Salim Ali,40,male,3,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,7000,NA,Kundaji mweupe,404,5
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_6,Mohd Salim Ali,40,male,3,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,7000,NA,Paragunda,177,2
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_6,Mohd Salim Ali,40,male,3,Ndagoni,Matumbawe/miamba,Dau/Mtumbwi,Mtego/dema,NA,7000,NA,Tembo kidoa,191,2
+Issa Khamis Hamadi,17/11/2024,Pemba,Kisiwani,Mfunguo_Nane_1,Kichuwani,Fisher_7,Abrahmani Ali Ali,22,male,7,Funzi,Majani_bahari,Dau/Mtumbwi,Nyavu,NA,40000,NA,Pono13,364,50

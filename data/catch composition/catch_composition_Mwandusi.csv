@@ -1,0 +1,488 @@
+data_collector,tarehe,chagua_mkoa,shehia_bmu,mwezi_na_bamvua,bandari,namba_ya_mvuvi,jina_la_mvuvi,umri_wa_mvuvi,jinsia_ya_mvuvi,idadi_ya_wavuvi_kwenye_kundi,eneo_la_uvuvi,aina_ya_eneo,vessel_type,Gear,bei,Species,uzito_wa_jamii_moja_ya_samaki,idadi_ya_samaki
+NA,15/07/2024,Tanga,Mwandusi,Mfunguo_Tano_1,Mwandusi,Fisher_2,Madaku mohamedi,42,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,42000,Changu13,NA,NA
+NA,15/07/2024,Tanga,Mwandusi,Mfunguo_Tano_1,Mwandusi,Fisher_2,Madaku mohamedi,42,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,42000,Kangaja1,337,8
+NA,15/07/2024,Tanga,Mwandusi,Mfunguo_Tano_1,Mwandusi,Fisher_1,Madaku m,421,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,4200,Kolekole1,452,8
+Mohamedi Ally,17/09/2025,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_1,Paku salimu,65,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,400,Koana,260,6
+NA,17/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_2,Shehe abdala,50,male,2,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Chaa,225,6
+NA,24/09/2024,Tanga,Mwandusi,Mfunguo_Sita_1,Mwandusi,Fisher_3,Ally Hamisi,3533,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Mlea2,290,4
+Bakari Kombo,17/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_4,Mwalimu Haji,33,male,3,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,14000,Tembo,234,6
+NA,24/09/2024,Tanga,Mwandusi,Mfunguo_Sita_1,Mwandusi,Fisher_5,Ally rajabu,60,male,1,Mnarani,Matumbawe/miamba,Ngalawa,NA,13000,Chewa/Tewa,306,7
+Kasimu Shehe Bakari,28/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_1,Abdala bakari,36,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Kolekole2,207,5
+Mohamedi Ally,28/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,NA,Abdala dona,55,male,NA,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,15000,Tembo kandaa,189,4
+Mohamedi Ally,28/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_3,Mohamedi hamisi,659,male,1,Chamban,Matumbawe/miamba,Ngalawa,Mshipi,20000,Kibange uzi,447,6
+Mohamedi Ally,28/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_4,Mbaraka abdala,28,male,3,Uchwi,Matumbawe/miamba,Ngalawa,Mshipi,15000,Tembo,409,5
+Kasimu Shehe Bakari,28/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_5,Mwaloma hamisi,50,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,20000,Changu2,190,5
+Bakari Kombo,28/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_6,Kombo hoseni,55,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Kolekole2,345,5
+Mohamedi Ally,28/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_7,Shehe abdala,50,male,2,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Koana,316,6
+Mohamedi Ally,28/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_8,Mohamedi kasimu,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,6000,Bumbula/Rukia,167,4
+Bakari Kombo,28/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_9,Msema hoseni,45,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,20000,Changu2,728,4
+Mohamedi Ally,28/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_10,Abdaramani ally,52,male,1,Chamban,Matumbawe/miamba,Ngalawa,Mshipi,10000,Kangamacho,400,5
+Mohamedi Ally,29/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_1,Musa simba,50,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,21000,Changu2,216,4
+Mohamedi Ally,29/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_2,Mohamedi bakari,55,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,1800,Tembo,337,5
+Kasimu Shehe Bakari,29/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_3,Mbwana amadi,50,male,1,Jidutani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Changu3,161,5
+Bakari Kombo,29/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_4,Madaku mohamedi,42,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mkuki,11000,tembo/janja,188,5
+Mohamedi Ally,29/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_5,Abdi bakari,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,17000,eriola rivoliana,212,4
+Kasimu Shehe Bakari,29/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_6,Bakari zari,55,male,4,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,29000,Kolekole2,789,6
+Mohamedi Ally,29/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_7,Mohamedi amisi,65,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,4000,Bumbula/Rukia,609,4
+Mohamedi Ally,29/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_8,Hamadi haji,55,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,6000,Koana,236,5
+Mohamedi Ally,29/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_9,Mwidini bakari,40,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,7000,Koana2,336,5
+Mohamedi Ally,29/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_10,Mudi mwidini,30,male,4,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,19000,Kangamacho,712,6
+Mohamedi Ally,30/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_1,Abdala bakari,40,male,2,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,15000,NA,240,4
+Kasimu Shehe Bakari,30/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_2,Kombo hoseni,45,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,20000,Kolekole1,572,5
+Bakari Kombo,30/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_3,Ally mwinjuma,50,male,2,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,15000,Hubwi,873,4
+Mohamedi Ally,30/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_4,Mohamedi bakari,55,male,1,Kidutan,Matumbawe/miamba,Ngalawa,Mshipi,18000,Changu2,274,5
+Kasimu Shehe Bakari,30/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_5,Abdala kombo,50,male,1,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,16000,Bumbula/Rukia,514,3
+Mohamedi Ally,30/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_6,Alfan rashid,35,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,15000,Tembo,318,4
+Mohamedi Ally,30/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_7,Selemani hasani,30,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,10000,Sururu,208,4
+Bakari Kombo,30/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_8,Salim mwinyi,35,male,1,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,12000,Koana,283,5
+Kasimu Shehe Bakari,30/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,NA,Shehe abdala,50,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,17000,Changu3,1105,4
+Mohamedi Ally,30/09/2024,Tanga,Mwandusi,Mfunguo_Sita_2,Mwandusi,Fisher_10,Ally hamis,35,male,3,Kigongon,Matumbawe/miamba,Ngalawa,Mshipi,18000,Kundaji,856,4
+Kasimu Shehe Bakari,05/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Sale hasani,35,male,4,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,3000,Kolekole1,243,4
+Mohamedi Ally,05/10/2024,Tanga,Mwandusi,Mfunguo_Sita_1,Mwandusi,Fisher_2,Alfan rashidi,38,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,18000,Changu2,225,4
+Kasimu Shehe Bakari,05/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Mwidini bakar,45,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,4000,Kolekole2,234,4
+Mohamedi Ally,05/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Juma bakar,45,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,3000,Bumbula/Rukia,91,5
+Mohamedi Ally,05/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Ally rajabu,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,14000,Koana,3063,5
+Mohamedi Ally,05/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Ally mwakulo,38,male,3,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,6000,Changu4,317,4
+Mohamedi Ally,05/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Haji mohamed,30,male,4,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,4000,Koana2,251,4
+Mohamedi Ally,05/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Bakar hamis,36,male,4,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,18000,Tembo,3000,5
+Mohamedi Ally,05/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Haji mohamed,45,male,4,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,11000,Mbalamwezi,189,4
+NA,05/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Jisha kombo,40,male,1,Machewa,Matumbawe/miamba,Ngalawa,Mshipi,7000,Chewa2,399,5
+Mohamedi Ally,06/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Madaku mohamedi,42,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,14500,Mbalamwezi,461,5
+Bakari Kombo,06/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Paku salimu,51,male,1,Machewa,Matumbawe/miamba,Ngalawa,Mshipi,9000,Koana,256,4
+Mohamedi Ally,06/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Mdachi alfa,60,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,4000,Potepote,251,5
+Mohamedi Ally,06/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Mwapishi abdala,65,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,3000,Kundaji,120,4
+Mohamedi Ally,06/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Shehe abdala,50,male,2,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,12000,Kundaji,309,4
+Mohamedi Ally,06/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Musa simba,55,male,1,Melini,Matumbawe/miamba,Ngalawa,Mshipi,19000,Chewa2,262,4
+Mohamedi Ally,06/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Ally mwakulo,35,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,7000,Changu2,1993,5
+Mohamedi Ally,06/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Abdaraman ally,65,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,11000,Bumbula/Rukia,273,5
+Mohamedi Ally,06/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Hamisi bakar,65,male,3,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,25000,Chaa,1161,4
+Mohamedi Ally,06/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Hamisi kindenge,60,male,2,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,30000,Mzira/Mzia,794,5
+NA,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Mwapish abdala,60,male,1,Machewa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Changu2,220,4
+NA,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Mwapish abdala,60,male,1,Machewa,Matumbawe/miamba,Ngalawa,Mshipi,5000,Tembo,130,2
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Omar abdala,45,male,3,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,25000,Kundaji,716,4
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Omar abdala,45,male,3,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,25000,Kangamacho,204,2
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Omar abdala,45,male,3,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,25000,Kangamacho,204,2
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Ally mwakulo,35,male,4,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,12000,Chaa,362,3
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Ally mwakulo,35,male,4,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,12000,Myripristis hexagona,156,2
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Ally mwakulo,35,male,4,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,12000,Potepote,178,1
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Sslimu shehe,30,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,11000,Changu3,559,4
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Sslimu shehe,30,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,11000,Kundaji,150,2
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Sslimu shehe,30,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,11000,Tembo,50,1
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Riziki zakaria,35,male,4,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,15000,Koana,225,4
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Riziki zakaria,35,male,4,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,15000,Chewa2,156,2
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Omar  amadi,55,male,1,Maboyan,Matumbawe/miamba,Ngalawa,Mshipi,30000,Changu4,410,4
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Omar  amadi,55,male,1,Maboyan,Matumbawe/miamba,Ngalawa,Mshipi,30000,Kolekole3,222,1
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Shehe abdala,55,male,1,Kidutan,Matumbawe/miamba,Ngalawa,Mshipi,20000,Changu5,712,2
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Shehe abdala,55,male,1,Kidutan,Matumbawe/miamba,Ngalawa,Mshipi,20000,Chaa2,379,1
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Shehe abdala,55,male,1,Kidutan,Matumbawe/miamba,Ngalawa,Mshipi,20000,Kundaji3,335,285
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Kombo hosèn,50,male,3,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,10000,Changu5,396,395
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Kombo hosèn,50,male,3,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,10000,Kangamacho,245,3
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Kombo hosèn,50,male,3,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,10000,Kangamacho,250,2
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Ngole,55,male,3,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,15000,Puju1,2044,3
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Ally abdi,283,male,1,Chamban,Matumbawe/miamba,Ngalawa,Mshipi,10000,Chewa3,139,4
+Mohamedi Ally,07/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Ally abdi,283,male,1,Chamban,Matumbawe/miamba,Ngalawa,Mshipi,10000,Bumbula/Rukia,135,3
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Mohamedi bakar,55,male,1,Chamban,Matumbawe/miamba,Ngalawa,Mshipi,3000,Koana,280,4
+Kasimu Shehe Bakari,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Abdala bakar,40,male,1,Kidutan,Matumbawe/miamba,Ngalawa,Mshipi,15000,Tembo,200,3
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Madaku mohamed,42,male,1,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,1000,Mbalamwezi,108,2
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Madaku mohamed,42,male,1,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,1000,Tembo kandaa,180,3
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Madaku mohamed,42,male,1,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,1000,Tembo kandaa,180,3
+Kasimu Shehe Bakari,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Mohamed mkuu,58,male,1,Maboyan,Matumbawe/miamba,Ngalawa,Mshipi,12000,Changu3,142,4
+Kasimu Shehe Bakari,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Mohamed mkuu,58,male,1,Maboyan,Matumbawe/miamba,Ngalawa,Mshipi,12000,tembo/janja,94,2
+Bakari Kombo,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Ally Rajabu,60,male,1,Maboyan,Matumbawe/miamba,Ngalawa,Mshipi,15000,Changu2,356,4
+Bakari Kombo,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Ally Rajabu,60,male,1,Maboyan,Matumbawe/miamba,Ngalawa,Mshipi,15000,Tembo kandaa,58,1
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Kombo haseni,50,male,1,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,7000,NA,67,3
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Kombo haseni,50,male,1,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,7000,Kolekole1,79,1
+NA,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Salimu mwinyi,35,male,1,Makoleo,Matumbawe/miamba,Ngalawa,Mshipi,10000,Changu4,537,4
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Mwapishi mohamed,65,male,1,Kidutan,Matumbawe/miamba,Ngalawa,Mshipi,8000,Tembo kandaa,130,4
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Mwapishi mohamed,65,male,1,Kidutan,Matumbawe/miamba,Ngalawa,Mshipi,8000,Kibua/Una,45,2
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Mwapishi mohamed,65,male,1,Kidutan,Matumbawe/miamba,Ngalawa,Mshipi,8000,Kibange uzi,45,2
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Hilal abdala,40,male,4,Uchuwi,NA,Ngalawa,Mshipi,10000,Changu5,194,3
+Mohamedi Ally,12/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Hilal abdala,40,male,4,Uchuwi,NA,Ngalawa,Mshipi,10000,Chewa4,52,2
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,KOMBO HUSENI,41,male,1,MKUMBI,Matumbawe/miamba,Ngalawa,Mshipi,4000,Changu2,118,4
+Kasimu Shehe Bakari,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Kombo hosen,41,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,4000,Changu2,118,4
+Kasimu Shehe Bakari,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Kombo hosen,41,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,4000,tembo/janja,88,2
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Ally abdi,28,male,2,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,7000,tembo/janja,213,4
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Ally abdi,28,male,2,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,7000,NA,21,1
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Mohamedi bakari,41,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Panda,494,3
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Mohamedi bakari,41,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,NA,188,NA
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Musa simba,50,male,1,Melini,Matumbawe/miamba,Ngalawa,Mshipi,12000,Kolekole1,583,4
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Musa simba,50,male,1,Melini,Matumbawe/miamba,Ngalawa,Mshipi,12000,Tembo kandaa,164,3
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Ally omari,55,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Chewa2,1004,1
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Ally omari,55,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,8000,NA,114,2
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Abdala bakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Mbalamwezi,1704,4
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Abdala bakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Kangamacho,70,2
+Kasimu Shehe Bakari,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Mbaraka abdala,28,male,3,Uchuqi,Matumbawe/miamba,Ngalawa,Mshipi,14000,tembo/janja,153,3
+Kasimu Shehe Bakari,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Mbaraka abdala,28,male,3,Uchuqi,Matumbawe/miamba,Ngalawa,Mshipi,14000,Changu3,62,2
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Ally mwinyi,45,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,14000,Tembo kandaa,207,4
+Mohamedi Ally,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Ally mwinyi,45,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,14000,NA,37,1
+Bakari Kombo,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Alfani,38,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,13000,NA,306,4
+Bakari Kombo,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Alfani,38,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,13000,Changu5,61,1
+Bakari Kombo,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Alfani,38,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,13000,tembo/janja,21,1
+Bakari Kombo,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Alfani,38,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,13000,NA,13,1
+Kasimu Shehe Bakari,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Abdi bakari,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,18000,Changu6,164,4
+Kasimu Shehe Bakari,13/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Abdi bakari,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,18000,Tembo kandaa,58,1
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Ally fumbe,30,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,7000,Changu3,259,4
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Mohamedi ally,65,male,1,Melini,Matumbawe/miamba,Ngalawa,Mshipi,13000,Kundaji,209,3
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Mohamedi ally,65,male,1,Melini,Matumbawe/miamba,Ngalawa,Mshipi,13000,Changu4,60,2
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Hamadi haji,60,male,1,Maboyan,Matumbawe/miamba,Ngalawa,Mshipi,18000,tembo/janja,263,4
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Mwidini bakar,40,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,12000,Bumbula/Rukia,655,5
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Shehe abdala,50,male,2,Melini,Matumbawe/miamba,Ngalawa,Mshipi,4000,Chengo,58,2
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Shehe abdala,50,male,2,Melini,Matumbawe/miamba,Ngalawa,Mshipi,4000,NA,92,2
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Ally rajabu,65,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Chewa4,268,4
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Ally rajabu,65,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,NA,138,1
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Kombo haseni,40,male,1,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,3000,Chengo,214,4
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Kombo haseni,40,male,1,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,3000,NA,141,2
+Kasimu Shehe Bakari,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Haji mohamedi,30,male,3,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,19000,NA,291,4
+Kasimu Shehe Bakari,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Haji mohamedi,30,male,3,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,19000,Bumbula/Rukia,104,2
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Salimu mwinyi,35,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,Koana2,69,2
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Salimu mwinyi,35,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,NA,145,2
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Salimu mwinyi,35,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,NA,70,1
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Mohamedi k,50,male,1,Magogoni,Matumbawe/miamba,Ngalawa,Mshipi,11000,Changu6,368,4
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Mohamedi k,50,male,1,Magogoni,Matumbawe/miamba,Ngalawa,Mshipi,11000,Bumbula/Rukia,99,1
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Mohamedi k,50,male,1,Magogoni,Matumbawe/miamba,Ngalawa,Mshipi,11000,Chewa2,69,1
+Mohamedi Ally,14/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Mohamedi k,50,male,1,Magogoni,Matumbawe/miamba,Ngalawa,Mshipi,11000,Koana,26,1
+Kasimu Shehe Bakari,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Mwidini bakari,45,male,1,Melini,Matumbawe/miamba,Ngalawa,Mshipi,4000,Kungu,350,4
+Kasimu Shehe Bakari,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Mwidini bakari,45,male,1,Melini,Matumbawe/miamba,Ngalawa,Mshipi,4000,Kungu,56,1
+NA,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Ally omari,55,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Koana,175,4
+NA,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Ally omari,55,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Chewa2,48,1
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Musa simba,46,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Changu2,275,4
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Musa simba,46,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Kolekole1,37,1
+Kasimu Shehe Bakari,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Jisha kombo,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Bumbula/Rukia,383,4
+Kasimu Shehe Bakari,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Jisha kombo,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Bumbula/Rukia,177,2
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Mohamedi kasinu,55,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,9000,Myripristis hexagona,211,3
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Mohamedi kasinu,55,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,9000,Koana2,145,2
+Kasimu Shehe Bakari,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Bakari mohamedi,363,male,NA,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,5000,Chaa,146,2
+Kasimu Shehe Bakari,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Bakari mohamedi,363,male,NA,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,5000,NA,96,1
+Kasimu Shehe Bakari,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Bakari mohamedi,363,male,NA,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,5000,NA,72,1
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Bakar zari,45,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,14000,Changu3,420,4
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Bakar zari,45,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,14000,Chaa2,359,3
+Kasimu Shehe Bakari,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Salimu chinja,35,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,7000,Chewa4,227,4
+Kasimu Shehe Bakari,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Salimu chinja,35,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,7000,NA,47,1
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Omari amadi,55,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,6000,Bumbula/Rukia,135,4
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Omari amadi,55,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,6000,Koana,104,2
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Hamisi bakari,53,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,13000,Mbalamwezi,164,3
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Hamisi bakari,53,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,13000,Chewa5,100,2
+Mohamedi Ally,19/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Hamisi bakari,53,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,13000,NA,42,1
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Bakari haji,35,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,18000,Koana,340,4
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_1,Bakari haji,35,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,18000,Bumbula/Rukia,160,1
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Mwaloma hamisi,52,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Bumbula/Rukia,462,5
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_2,Mwaloma hamisi,52,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Koana2,164,2
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Kombo hosen,40,male,1,Magogoni,Matumbawe/miamba,Ngalawa,Mshipi,8000,Chewa2,331,4
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_3,Kombo hosen,40,male,1,Magogoni,Matumbawe/miamba,Ngalawa,Mshipi,8000,Koana2,130,3
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Abdala bakari,36,male,2,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,4000,Kundaji,168,3
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_4,Abdala bakari,36,male,2,Mnaran,Matumbawe/miamba,Ngalawa,Mshipi,4000,NA,137,2
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Musa simba,50,male,3,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Chaa,763,3
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_5,Musa simba,50,male,3,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Chewa4,497,1
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Paku salimu,51,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Changu2,358,4
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_6,Paku salimu,51,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Chewa4,143,3
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Jabu hamadi,404,male,4,Melini,Matumbawe/miamba,Ngalawa,Mshipi,17000,Kundaji2,462,4
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_7,Jabu hamadi,404,male,4,Melini,Matumbawe/miamba,Ngalawa,Mshipi,17000,NA,168,3
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Mwapishi zaharan,65,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,6000,Mbalamwezi,223,4
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_8,Mwapishi zaharan,65,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,6000,NA,106,1
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Haji mohamedi,25,male,4,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,21000,Bumbula/Rukia,228,4
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_9,Haji mohamedi,25,male,4,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,21000,Koana,120,3
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Selemani yahaya,65,male,2,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,14000,Myripristis hexagona,367,4
+Mohamedi Ally,20/10/2024,Tanga,Mwandusi,Mfunguo_Saba_1,Mwandusi,Fisher_10,Selemani yahaya,65,male,2,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,14000,NA,145,2
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_1,Omari amadi,45,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Koana,193,4
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_1,Omari amadi,45,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,NA,100,2
+Kasimu Shehe Bakari,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_2,Jisha kombo,50,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,5000,Sururu,160,3
+Kasimu Shehe Bakari,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_2,Jisha kombo,50,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,5000,numba,54,1
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_3,Hamadi haji,65,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,15000,Changu5,222,3
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_3,Hamadi haji,65,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,15000,NA,94,1
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Selemani hasan,35,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,10000,Myripristis hexagona,150,4
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Selemani hasan,35,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,10000,NA,95,1
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Selemani hasan,35,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,10000,NA,48,1
+Kasimu Shehe Bakari,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_5,Ally hamisi,38,male,2,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Koana2,359,4
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_6,Ally mwinyi,55,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,20000,Chaa,351,3
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_6,Ally mwinyi,55,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,20000,Tasi,412,1
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_7,Alfani rashidi,38,male,1,Funguni boma,Matumbawe/miamba,Ngalawa,Mshipi,20000,Changu3,624,4
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_7,Alfani rashidi,38,male,1,Funguni boma,Matumbawe/miamba,Ngalawa,Mshipi,20000,Chewa2,116,2
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_8,Abdi bakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Changu3,585,4
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_8,Abdi bakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Bumbula/Rukia,220,2
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_9,Hamadi makame,28,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Chewa4,248,3
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_9,Hamadi makame,28,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Kundaji,140,2
+Mohamedi Ally,21/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Hamisi kindenge,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,3000,Chengo,300,3
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_1,Abdala bakari,45,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,31000,NA,152,3
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_1,Abdala bakari,45,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,31000,Tembo kandaa,93,2
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_2,Mwidini bakari,48,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Kolekole1,210,3
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_2,Mwidini bakari,48,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,9000,NA,154,2
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_3,Kombo hoseni,50,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Ngagu,175,2
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_3,Kombo hoseni,50,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,14000,NA,124,2
+Kasimu Shehe Bakari,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Hamadi makame,30,male,4,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,30000,Changu dizi,156,4
+Kasimu Shehe Bakari,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Hamadi makame,30,male,4,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,30000,NA,232,3
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_5,Kombo amadi,50,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,4000,tembo/janja,149,3
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_5,Kombo amadi,50,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,4000,Tembo kandaa,76,2
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_5,Kombo amadi,50,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,4000,Kolekole2,62,1
+Bakari Kombo,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_6,Musa simba,55,male,1,Mboyani,Matumbawe/miamba,Ngalawa,Mshipi,10000,NA,1330,3
+Bakari Kombo,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_6,Musa simba,55,male,1,Mboyani,Matumbawe/miamba,Ngalawa,Mshipi,10000,NA,189,1
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_7,Alfani rashidi,38,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,15000,Changu3,140,4
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_8,Abbaramani ally,60,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,20000,NA,308,5
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_8,Abbaramani ally,60,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,20000,Koana,67,2
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_9,Jisha k,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Bumbula/Rukia,283,5
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_9,Jisha k,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,16000,NA,122,1
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_9,Jisha k,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Chaa,60,1
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Selemani hasani,28,male,4,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,18000,Koana2,154,3
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Selemani hasani,28,male,4,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,18000,NA,70,NA
+Mohamedi Ally,26/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Selemani hasani,28,male,4,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,18000,NA,96,1
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_1,Ally mwinjuma,56,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Kolekole1,225,3
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_1,Ally mwinjuma,56,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Tembo kandaa,114,2
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_2,Abdala bakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,7000,NA,108,3
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_3,Hamisi kindenge,60,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,5000,Tembo kandaa,159,4
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_3,Hamisi kindenge,60,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,5000,NA,73,1
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Mohamedi bakari,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Changu2,181,3
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Mohamedi bakari,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,tembo/janja,133,2
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Mohamedi bakari,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Kundaji,83,182
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_5,Mwidini bakari,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,4000,Chewa3,101,3
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_5,Mwidini bakari,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,4000,Chewa2,27,1
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_5,Mwidini bakari,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,4000,NA,59,1
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_6,Omari amadi,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,NA,136,3
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_6,Omari amadi,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,NA,50,1
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_6,Omari amadi,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,Koana,50,1
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_7,Ally hamisi,35,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,19000,Mbalamwezi,359,4
+Mohamedi Ally,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_7,Ally hamisi,35,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,19000,NA,378,1
+Bakari Kombo,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_8,Musa simba,55,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Koana2,277,3
+Bakari Kombo,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_8,Musa simba,55,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Kundaji2,140,1
+Bakari Kombo,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_8,Musa simba,55,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Changu4,164,1
+Bakari Kombo,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Haji mohamedi,28,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,17000,Chaa,412,4
+Bakari Kombo,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Haji mohamedi,28,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,17000,NA,74,2
+Bakari Kombo,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Haji mohamedi,28,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,17000,Chewa2,28,1
+Bakari Kombo,27/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Haji mohamedi,28,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,17000,Kundaji3,113,2
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_1,Mohamedi hamisi,65,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,20000,Changu2,509,4
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_1,Mohamedi hamisi,65,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,20000,Changu2,509,4
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_1,Mohamedi hamisi,65,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,20000,tembo/janja,79,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_2,Mwapishi mohamedi,60,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,tembo/janja,208,3
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_2,Mwapishi mohamedi,60,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Changu3,132,2
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_3,Mwidin bakari,50,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Tembo kandaa,120,3
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_3,Mwidin bakari,50,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Mkupi,68,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_3,Mwidin bakari,50,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Chewa2,26,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Alfan rashidi,38,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,NA,76,3
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Alfan rashidi,38,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Tembo,16,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_4,Alfan rashidi,38,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Changu4,27,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_5,Juma bakari,30,male,1,Chamba cha mnaz,Matumbawe/miamba,Ngalawa,Mshipi,20000,Hubwi,253,3
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_5,Juma bakari,30,male,1,Chamba cha mnaz,Matumbawe/miamba,Ngalawa,Mshipi,20000,NA,128,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_5,Juma bakari,30,male,1,Chamba cha mnaz,Matumbawe/miamba,Ngalawa,Mshipi,20000,Puju1,185,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_6,Ally mwinjuma,65,male,1,Chamba cha mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,18000,Pono9,248,4
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_6,Ally mwinjuma,65,male,1,Chamba cha mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,18000,Kundaji,154,2
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_7,Mohamedi kasimu,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,10000,NA,125,2
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_7,Mohamedi kasimu,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,10000,Changu5,7,2
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_7,Mohamedi kasimu,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,10000,NA,66,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_8,Musa simba,55,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Koana,90,3
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_8,Musa simba,55,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Chewa4,47,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_8,Musa simba,55,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Bumbula/Rukia,60,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_9,Kombo haseni,55,male,1,Kidutan,Matumbawe/miamba,Ngalawa,Mshipi,600,Chewa6,656,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_9,Kombo haseni,55,male,1,Kidutan,Matumbawe/miamba,Ngalawa,Mshipi,600,NA,233,2
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Mgunya charunga,65,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,13000,Chewa2,311,3
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Mgunya charunga,65,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,13000,NA,138,1
+Mohamedi Ally,28/10/2024,Tanga,Mwandusi,Mfunguo_Saba_2,Mwandusi,Fisher_10,Mgunya charunga,65,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,13000,Kundaji,61,1
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Mohamedi bakari,55,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,15000,NA,338,3
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Mohamedi bakari,55,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,15000,tembo/janja,185,1
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Abdala bakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,10000,NA,150,2
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Abdala bakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Koana,108,2
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Hamisi bakari,55,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,14000,Kundaji,405,3
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Hamisi bakari,55,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,14000,Mkupi,75,1
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Omari mwarumba,45,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,7000,tembo/janja,286,3
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Mbana hamadi,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Koana2,166,4
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Mbana hamadi,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Bumbula/Rukia,267,2
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Omari mpigeni,48,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,12000,Mbalamwezi,485,4
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Omari mpigeni,48,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,12000,Tembo kandaa,115,2
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Abdi bakar,40,male,1,Chamban,Matumbawe/miamba,Ngalawa,Mshipi,20000,Chengo,415,4
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Abdi bakar,40,male,1,Chamban,Matumbawe/miamba,Ngalawa,Mshipi,20000,Chewa2,1,NA
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Salim mwinyi,38,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,17000,Kundaji,540,4
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Salim mwinyi,38,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,17000,Chaa,360,1
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Haji mohamedi,28,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,18000,Changu2,465,4
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Haji mohamedi,28,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,18000,Kundaji2,209,1
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_10,Jisha kombo,55,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,21000,Chaa2,579,3
+Mohamedi Ally,04/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_10,Jisha kombo,55,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,21000,Chengo,160,2
+Kasimu Shehe Bakari,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Abadala nakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,11500,Changu2,422,4
+Kasimu Shehe Bakari,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Abadala nakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,11500,NA,471,1
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Kombo hoseni,55,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,8000,tembo/janja,383,5
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Kombo hoseni,55,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Kolekole2,143,2
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Alfani rashidi,38,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,4000,Myripristis hexagona,362,5
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Salimu mwinyi,35,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,Kolekole1,407,4
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Salimu mwinyi,35,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,Changu3,69,2
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Omari abdala,48,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,17000,Mlea,520,3
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Omari abdala,48,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,17000,Kangaja1,217,1
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Omari mohamedi,2,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,14000,Chaa,526,4
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Omari mohamedi,2,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,14000,Potepote,290,2
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Mohamedi bakari,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Changu4,564,4
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Mohamedi bakari,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Mbalamwezi,270,3
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Haji mohamesi,28,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,19500,Nyavi,106,4
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Haji mohamesi,28,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,19500,Chaa,343,2
+Kasimu Shehe Bakari,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Hamadi haklji,65,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,4000,Koana,310,4
+Kasimu Shehe Bakari,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Hamadi haklji,65,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,4000,Changu5,213,1
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_10,Mohamdi hamisi,65,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Bangi Kukuu,260,4
+Mohamedi Ally,05/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_10,Mohamdi hamisi,65,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Tembo kandaa,92,2
+Bakari Kombo,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Abdi bakar,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Puju1,1267,2
+Bakari Kombo,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Abdi bakar,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Chewa2,144,2
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Salim chinja,35,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,14000,Changu3,411,3
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Salim chinja,35,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,14000,Mbalamwezi,210,2
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Mwaloma hamisi,50,male,3,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Bumbula/Rukia,977,4
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Mwaloma hamisi,50,male,3,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Koana,145,2
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Shehe abdala,50,male,2,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Kolekole1,374,3
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Shehe abdala,50,male,2,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Puju2,1143,1
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Kombo hoseni,55,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Myripristis hexagona,233,4
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Kombo hoseni,55,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Kundaji,175,3
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Ally abdi,28,male,2,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,7000,Koana2,261,4
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Ally abdi,28,male,2,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,7000,Chaa,140,2
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Bakari haji,38,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,15000,Chewa2,252,4
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Bakari haji,38,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,15000,Potepote,380,2
+Mohamedi Ally,06/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Ally rajabu,60,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,12500,Changu4,363,4
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Ally mwinjuma,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Changu dizi,380,4
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Ally mwinjuma,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,16000,tembo/janja,105,2
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Mohamedi bakari,50,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Changu2,208,4
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Mohamedi bakari,50,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Changu dizi,46,1
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Komba haseni7,50,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,12000,tembo/janja,256,4
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Komba haseni7,50,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Changu3,101,2
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Mohamedi hamisi,65,male,1,Guzoni,Matumbawe/miamba,Ngalawa,Mshipi,15000,Bangi Kukuu,396,3
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Mohamedi hamisi,65,male,1,Guzoni,Matumbawe/miamba,Ngalawa,Mshipi,15000,Kundaji,178,1
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Musa simba,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Koana2,183,4
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Musa simba,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Mwewe/Komba,156,1
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Mwidini bakar,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Tembo kandaa,201,4
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Mwidini bakar,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Kolekole1,96,1
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Madaku mohamedi,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Bumbula/Rukia,200,4
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Madaku mohamedi,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Chengo,53,2
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Mwaloma hamisi,48,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,10000,Chengo,98,4
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Mwaloma hamisi,48,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,10000,Mbalamwezi,29,1
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Hamisi kindenge,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,12000,Changu4,308,4
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Hamisi kindenge,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,12000,Koana,48,2
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_10,Jisha kombo,40,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,700,Chewa2,106,2
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_11,Omari hamadi,55,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,18000,Mbalamwezi,278,3
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_11,Omari hamadi,55,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,18000,Pono,96,1
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_12,Haji mohamed,28,male,4,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,32000,Chaa,321,3
+Mohamedi Ally,09/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_12,Haji mohamed,28,male,4,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,32000,Bumbula/Rukia,276,2
+Kasimu Shehe Bakari,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Abdaramani ally,60,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,6000,Changu2,252,4
+Kasimu Shehe Bakari,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Abdaramani ally,60,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,6000,Chewa2,65,2
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Ally rajabu,65,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Koana,195,4
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Ally rajabu,65,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Bumbula/Rukia,62,2
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Ally mwinjuma,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Chewa3,136,4
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Ally mwinjuma,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,11000,tembo/janja,53,1
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Ally mwinjuma,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Myripristis hexagona,79,1
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Abdala bakari,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Changu3,255,4
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Abdala bakari,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Kolekole4,819,1
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Abdala bakari,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Pono,196,2
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Abdala bakari,40,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Haraki,96,3
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Abdala bakari dona,45,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,6000,Mbalamwezi,288,4
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Abdala bakari dona,45,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,6000,Sururu,59,2
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Ally omari,55,male,1,Kiooni,Matumbawe/miamba,Ngalawa,Mshipi,5000,Tembo kandaa,152,4
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Ally omari,55,male,1,Kiooni,Matumbawe/miamba,Ngalawa,Mshipi,5000,Kibua/Una,43,2
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Salimu shehe,29,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Chengo,340,4
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Salimu shehe,29,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Tasi,441,1
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Mwaloma hamisi,48,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,9000,Kundaji,602,3
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Mwaloma hamisi,48,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,9000,Changu kifimbo/ Mrongo,394,1
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Mwaloma hamisi,48,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,9000,Tuguu,283,1
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Mbana amadi,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,12000,Nyavi,138,4
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Mbana amadi,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,12000,Sururu,136,2
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Mbana amadi,55,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,12000,Kungu,63,1
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_10,Mbaraka abdala,28,male,3,Wsmba,Matumbawe/miamba,Ngalawa,Mshipi,11500,Koana2,168,3
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_10,Mbaraka abdala,28,male,3,Wsmba,Matumbawe/miamba,Ngalawa,Mshipi,11500,Myripristis hexagona,75,1
+Mohamedi Ally,10/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_10,Mbaraka abdala,28,male,3,Wsmba,Matumbawe/miamba,Ngalawa,Mshipi,11500,Tembo uzi,47,1
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Kasimu bakari,28,male,2,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Changu2,178,4
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Kasimu bakari,28,male,2,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,tembo/janja,122,2
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Ally mwinjuma,60,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,7000,Chengo,166,4
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_2,Ally mwinjuma,60,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,7000,Mbalamwezi,42,1
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Mohamedi bakari,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Changu dizi,727,4
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_3,Mohamedi bakari,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Chewa3,121,1
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Shehe abdala,50,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,10000,Haraki,100,4
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Shehe abdala,50,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,10000,tembo/janja,27,1
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_4,Shehe abdala,50,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,10000,Changu2,42,1
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Mwapishi zaharani,60,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,9000,tembo/janja,167,4
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_5,Mwapishi zaharani,60,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Pono,80,2
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Alfani mashi,38,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Changu chomi,306,3
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Alfani mashi,38,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Chengo,68,1
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_6,Alfani mashi,38,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,8000,tembo/janja,59,1
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Abdala hamisi,27,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,12000,Changu Ndomo,456,3
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_7,Abdala hamisi,27,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,12000,Mbalamwezi,151,1
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Selemani hasani,28,female,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,15000,Mbalamwezi,318,4
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Selemani hasani,28,female,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,15000,Changu4,135,2
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_8,Selemani hasani,28,female,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,15000,Changu dizi,55,1
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Abdala amisi k,30,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Bumbula/Rukia,434,3
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_9,Abdala amisi k,30,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,10000,Mbalamwezi,116,1
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_10,Mwaloma hamisi,40,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Koana2,306,4
+Mohamedi Ally,11/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_10,Mwaloma hamisi,40,male,3,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Changu5,159,1
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_1,Mohamedi bakari,55,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,17000,Changu2,244,4
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_1,Mohamedi bakari,55,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,17000,tembo/janja,221,3
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_2,Mwidini bakari,40,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,11000,tembo/janja,214,4
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_2,Mwidini bakari,40,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Changu3,56,2
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_2,Mwidini bakari,40,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Chewa2,56,1
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Shehe abdala,50,male,2,Melini,Matumbawe/miamba,Ngalawa,Mshipi,14000,Changu dizi,10,2
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Shehe abdala,50,male,2,Melini,Matumbawe/miamba,Ngalawa,Mshipi,14000,Pono,60,1
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Shehe abdala,50,male,2,Melini,Matumbawe/miamba,Ngalawa,Mshipi,14000,tembo/janja,176,3
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Juma bakari,30,male,2,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Changu Ndomo,141,6
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Juma bakari,30,male,2,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Kundaji,50,1
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Juma bakari,30,male,2,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Chengo,28,1
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Juma bakari,30,male,2,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,9000,Mbalamwezi,41,1
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_5,Ally fumbwe,30,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,15000,Tembo kandaa,368,5
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_5,Ally fumbwe,30,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,15000,Tembo uzi,44,1
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_5,Ally fumbwe,30,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,15000,Kundaji,110,2
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_6,Bakar zari,40,male,4,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,31000,Koana,155,6
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_6,Bakar zari,40,male,4,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,31000,Pono,336,2
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_7,Mohamedi amisi,60,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,19500,Sururu,258,6
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_7,Mohamedi amisi,60,male,1,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,19500,Bumbula/Rukia,123,2
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_8,Selemani hasani,30,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,20000,Chengo,655,6
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_8,Selemani hasani,30,male,3,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,20000,Kundaji2,200,1
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_9,Alfani mashi,30,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,30000,Mbalamwezi,470,5
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_9,Alfani mashi,30,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,30000,Changu kifimbo/ Mrongo,404,1
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_9,Alfani mashi,30,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,30000,Nyavi,106,1
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_10,Ally abdi,27,male,2,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,3500,Bumbula/Rukia,149,5
+Mohamedi Ally,16/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_10,Ally abdi,27,male,2,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,3500,Chewa4,136,3
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Ally hamisi,35,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,15000,Mwatiko,1593,1
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Ally hamisi,35,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,15000,Changu2,392,6
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_1,Mwandusi,Fisher_1,Ally hamisi,35,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,15000,Changu2,392,6
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_2,Mohamedi bakari,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,14000,tembo/janja,250,6
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_2,Mohamedi bakari,55,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Pono,169,1
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Hamisi kindenge,50,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,7000,Chewa2,181,5
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Hamisi kindenge,50,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,7000,Changu Ndomo,40,1
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Hamisi kindenge,50,male,1,Kidutani,Matumbawe/miamba,Ngalawa,Mshipi,7000,Chengo,45,1
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Juma bakari,30,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,31000,Changu dizi,815,6
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Juma bakari,30,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,31000,tembo/janja,150,2
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_5,Musa simba,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,4000,Bumbula/Rukia,290,7
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_5,Musa simba,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,4000,Chewa2,31,1
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_6,Omari yunusu,45,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Koana,107,4
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_6,Omari yunusu,45,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Bumbula/Rukia,100,4
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_7,Bakar mohamedi,28,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,55000,Chengo,620,6
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_7,Bakar mohamedi,28,male,3,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,55000,Kundaji,113,1
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_8,Alfani rashidi,38,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Mbalamwezi,500,5
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_8,Alfani rashidi,38,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Mbalamwezi,500,5
+Mohamedi Ally,17/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_8,Alfani rashidi,38,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,14000,Chengo,299,3
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_1,Mwidini bakari,40,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Chewa2,242,4
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_1,Mwidini bakari,40,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,8000,Bumbula/Rukia,175,3
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_2,Musa simba,50,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,11000,Koana,267,6
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Omari mohamedi,48,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,18000,Bumbula/Rukia,420,5
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Omari mohamedi,48,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,18000,Koana2,182,2
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Omari hamadi,55,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,40000,Mbalamwezi,472,5
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Omari hamadi,55,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,40000,Pono,101,1
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Omari hamadi,55,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,40000,Chewa3,37,1
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_5,Ally rajabu,65,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,4000,Nyavi,265,6
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_5,Ally rajabu,65,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,4000,Tembo uzi,73,2
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_5,Ally rajabu,65,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,4000,Potepote,56,1
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_6,Juma bakari,30,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,19000,Chengo,700,6
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_6,Juma bakari,30,male,1,Wamba,Matumbawe/miamba,Ngalawa,Mshipi,19000,Chaa,172,2
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_7,Mudi mwidini,28,male,2,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,41000,Changu dizi,957,4
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_7,Mudi mwidini,28,male,2,Mkumbi,Matumbawe/miamba,Ngalawa,Mshipi,41000,Mbalamwezi,191,2
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_8,Kombo hoseni,50,male,1,Melini,Matumbawe/miamba,Ngalawa,Mshipi,16000,Nyavi,518,5
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_8,Kombo hoseni,50,male,1,Melini,Matumbawe/miamba,Ngalawa,Mshipi,16000,Potepote,382,2
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_8,Kombo hoseni,50,male,1,Melini,Matumbawe/miamba,Ngalawa,Mshipi,16000,Changu2,225,1
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_9,Bakari jumaa,65,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,2900,Tembo uzi,390,6
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_9,Bakari jumaa,65,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,2900,Koana,110,3
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_10,Mdachi khalifa,60,male,3,Qamba,Matumbawe/miamba,Ngalawa,Mshipi,15000,Haraki,326,5
+Mohamedi Ally,18/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_10,Mdachi khalifa,60,male,3,Qamba,Matumbawe/miamba,Ngalawa,Mshipi,15000,Chewa4,38,1
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_1,Mohamedi hamisi,65,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Bumbula/Rukia,312,5
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_2,Mwapishi mohamedi,60,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Koana,407,5
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_2,Mwapishi mohamedi,60,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Mbalamwezi,65,1
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_2,Mwapishi mohamedi,60,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,12000,Kundaji,120,1
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Kombo hasseni,50,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,Msumeno,158,4
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Kombo hasseni,50,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,Sururu,28,1
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_3,Kombo hasseni,50,male,1,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,8000,Koana,95,2
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Musa simba,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Koana2,279,6
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_4,Musa simba,50,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Mbalamwezi,74,1
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_5,Makame hamadi,50,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,17000,Nyavi,175,6
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_5,Makame hamadi,50,male,2,Uchuwi,Matumbawe/miamba,Ngalawa,Mshipi,17000,Chewa2,74,2
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_6,Ally rajabu,60,male,1,Setule,Matumbawe/miamba,Ngalawa,Mshipi,18000,Chaa,351,4
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_6,Ally rajabu,60,male,1,Setule,Matumbawe/miamba,Ngalawa,Mshipi,18000,Bangi Kukuu,125,1
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_7,Jisha kombo,50,male,1,Maboyani,Matumbawe/miamba,Ngalawa,Mshipi,20000,Changu2,627,6
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_8,Omar mohamedi,48,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Koana,518,5
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_8,Omar mohamedi,48,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,11000,Changu3,318,2
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_9,Abdala bakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Chewa4,213,5
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_9,Abdala bakari,40,male,1,Chambani,Matumbawe/miamba,Ngalawa,Mshipi,9000,Bumbula/Rukia,48,1
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_10,Paku salimu,65,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Koana,351,8
+Mohamedi Ally,24/11/2024,Tanga,Mwandusi,Mfunguo_Nane_2,Mwandusi,Fisher_10,Paku salimu,65,male,1,Mnarani,Matumbawe/miamba,Ngalawa,Mshipi,16000,Nyavi,46,2

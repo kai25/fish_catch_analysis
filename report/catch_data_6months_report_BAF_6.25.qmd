@@ -1,0 +1,512 @@
+---
+title: "Fish Catch Data Collection Six Month Analysis Report"
+author: "Kaijage Laurian"
+format:
+  html:
+    embed-resources: true
+    self-contained-math: true
+date: "2025-05-19"
+date-modified: "today"
+institute: "Mwambao Coastal Communnity Network"
+toc: true  #table of content
+toc-depth: 6
+lof: true  #list of figures
+lot: true  #list of tables
+number-sections: true
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+#bibliography: myref.bib
+---
+
+```{r packages, message=FALSE,echo=FALSE}
+
+require(tidyverse)
+require(sf)
+require(rnaturalearth)
+require(rnaturalearthdata)
+require(marmap)
+require(terra)
+require(tidyterra)
+require(magrittr)
+require(ggforce)
+require(data.table)
+require(readr)
+require(readxl)
+require(writexl)
+require(summarytools)
+require(legendry)
+require(webr)
+require(leaflet)
+require(data.table)
+
+```
+
+
+
+```{r analysis, message=FALSE, echo=FALSE, include=FALSE}
+
+#### Import data ####
+
+catch.june = read.csv("C:/Users/USER/Documents/fish_catch_analysis/data/Merged data/catch.data_6.25.csv") |>
+  drop_na(total_weight_g, number_per_group) |> 
+  select(-1,-day, -month, -year) |> 
+  mutate(date = as.POSIXct(date, format="%m/%d/%Y"),
+    year = lubridate::year(date),
+         month = lubridate::month(date, label = TRUE),
+         day = lubridate::day(date)) |> 
+  filter(!month == "Jun") 
+
+
+catch.june |> 
+  select(-fisher_name) |> 
+  dfSummary() |> 
+  print()
+
+june.cpue = catch.june |> 
+  select(date, day,month,year, village, region, fisher_number, fisher_name, number_per_group, 
+         fishing_ground, total_weight_g,total_number,family, scientific_names) |> 
+  group_by(day,month,year, region, village,fisher_number, fisher_name,fishing_ground,family) |>
+  summarise(
+    total_catch = sum(total_weight_g, na.rm = TRUE),
+    total_fishers = sum(number_per_group, na.rm = TRUE),
+    cpue = round((total_catch/total_fishers),2))
+
+ june.cpue |> head() 
+ 
+ region.info = june.cpue |> 
+   select(region, cpue, fishing_ground, family) |> 
+   group_by(region) |> 
+   summarise(mean_cpue = round(mean(cpue),2),
+             number_fground = n_distinct(fishing_ground),
+             family_richness = n_distinct(family)) 
+ 
+ village.tanga.cpue = june.cpue |> 
+   filter(region == "Tanga",
+          !is.na(village)) |> 
+   select(village, cpue) |> 
+   group_by(village) |> 
+   summarise(mean_cpue = mean(cpue)) |>
+   arrange(desc(mean_cpue))  
+ 
+ village.pemba.cpue = june.cpue |> 
+   filter(region == "Pemba",
+          !is.na(village)) |> 
+   select(village, cpue) |> 
+   group_by(village) |> 
+   summarise(mean_cpue = mean(cpue)) |>
+   arrange(desc(mean_cpue))
+ 
+ fish.tanga.cpue = june.cpue |> 
+   select(region, family, cpue) |> 
+   filter(region == "Tanga") |> 
+   group_by(family)|> 
+   summarise(mean_cpue = mean(cpue)) |>
+   arrange(desc(mean_cpue)) 
+ 
+ fish.pemba.cpue = june.cpue |> 
+   select(region, family, cpue) |> 
+   filter(region == "Pemba") |> 
+   group_by(family)|> 
+   summarise(mean_cpue = mean(cpue)) |>
+   arrange(desc(mean_cpue)) 
+ 
+ month.cpue.june = june.cpue |>
+   group_by(month, year, region) |> 
+   summarise(
+     mean_cpue = (mean(cpue)/1000),
+     mean_catch = (mean(total_catch)/1000),
+     sd_catch = sd(mean_catch))
+
+
+ 
+ 
+ggplot(month.cpue.june , aes(x = interaction(month, year))) +
+   # Bar for Total Catch
+   geom_col(aes(y = mean_catch), fill = "steelblue", alpha = 0.6) +
+   
+   # Line for CPUE
+   geom_line(aes(y = mean_cpue, group = 1), color = "red", size = 1.2) +
+   
+   # Dual Y-axes
+   scale_y_continuous(
+     name = "Mean Total Catch (kg)",  # Primary Y axis (Total Catch)
+     sec.axis = sec_axis(~ ., name = "Mean CPUE (kg/fisher/day)")  # Secondary Y axis (CPUE)
+   ) +
+   scale_x_discrete(guide = "axis_nested")+
+   
+   # Styling
+   theme_bw() +
+   labs(x = "Month and Year") +
+   theme(
+     axis.title.y.left = element_text(color = "steelblue"),
+     axis.title.y.right = element_text(color = "red"),
+     axis.text.x = element_text(angle = 45, hjust = 1)
+   ) +
+   
+   # Faceting
+   facet_grid(~region)
+ 
+ 
+ #### fishing ground ####
+ 
+ fgrounds.cpue = june.cpue |> 
+   select(fishing_ground, village, region, cpue) |> 
+   group_by(fishing_ground,region) |> 
+   summarize(
+     mean_cpue = mean(cpue),
+     number_village = n_distinct(village)) |>
+   arrange(desc(mean_cpue)) 
+ 
+ 
+fgrounds.cpue.tanga = fgrounds.cpue|> 
+  filter(region == "Tanga") |> 
+  top_n(5, wt = mean_cpue) |> 
+  arrange(desc(mean_cpue)) 
+
+fgrounds.cpue.pemba = fgrounds.cpue|> 
+  filter(region == "Pemba") |> 
+  top_n(5, wt = mean_cpue) |> 
+  arrange(desc(mean_cpue)) 
+
+
+fgrounds.use.tanga = fgrounds.cpue|> 
+  filter(region == "Tanga") |> 
+  top_n(5, wt = number_village) |> 
+  arrange(desc(number_village)) 
+
+fgrounds.use.pemba = fgrounds.cpue|> 
+  filter(region == "Pemba") |> 
+  top_n(5, wt = number_village) |> 
+  arrange(desc(number_village))
+
+#### gear ####
+
+gear.use = catch.june |> 
+  select(gear, region) |> 
+  filter(!is.na(gear)) |> 
+  group_by(region, gear) |> 
+  summarize(
+    gear_count = n()
+  ) |> 
+  arrange(desc(gear_count))
+
+ gear.use |> 
+  pivot_wider(names_from =region, values_from = gear_count ) 
+
+gear.cpue.june = catch.june |> 
+  select(date, day,month,year, village, region, fisher_number, fisher_name, number_per_group, 
+         fishing_ground, total_weight_g,total_number,family, gear) |>
+  filter(!is.na(gear)) |> 
+  group_by( region, gear) |>
+  summarise(
+    total_catch = sum(total_weight_g, na.rm = TRUE),
+    total_fishers = sum(number_per_group, na.rm = TRUE),
+    cpue = round((total_catch/total_fishers),2))
+
+gear.cpue.june = gear.cpue.june |> 
+  group_by(region, gear) |> 
+  summarize(mean_gear_cpue = mean(cpue)) |> 
+  arrange(desc(mean_gear_cpue)) 
+
+
+#### vessel ####
+
+vessel.use = catch.june |> 
+  select(method, region) |> 
+  filter(!is.na(method)) |> 
+  group_by(region, method) |> 
+  summarize(
+    vessel_count = n()
+  ) |> 
+  arrange(desc(vessel_count)) 
+
+#### family trends ####
+
+reef.family.composition = june.cpue |> 
+  select(region, family, cpue) |> 
+  filter(family %in% c("Siganidae","Mullidae","Lethrinidae","Scaridae","Acanthuridae","Labridae","Lutjanidae","Carangidae","Serranidae","Chaetodontidae", "Haemulidae" )) |>
+  group_by(family, region) |>
+  summarise(mean_cpue = mean(cpue)) |> 
+  arrange(desc(mean_cpue)) 
+
+reef.family.trend = june.cpue |> 
+  select(region, family, month, year, cpue) |> 
+  filter(family %in% c("Siganidae","Mullidae","Lethrinidae","Scaridae","Acanthuridae","Labridae","Lutjanidae","Carangidae","Serranidae","Chaetodontidae", "Haemulidae" )) |>
+  group_by(month, year, family, region) |>
+  summarise(mean_cpue = mean(cpue)) 
+
+
+#####plot####
+
+ggplot(data = reef.family.trend|> 
+         filter(family %in% c("Siganidae","Mullidae","Lethrinidae","Scaridae","Acanthuridae","Labridae","Lutjanidae","Carangidae","Serranidae","Chaetodontidae", "Haemulidae")), 
+       aes(x = interaction(month, year), y = family, label = round((mean_cpue/1000),2)  ,fill = round((mean_cpue/1000),2))) +
+  geom_tile(color = "grey") +
+  scale_x_discrete(guide = "axis_nested")+
+  scale_fill_gradient2(low = "#0a7d9a",
+                       mid = "orange",
+                       high = "#3c742f",
+                       name = "Average CPUE")+
+  geom_text(color = "white")+
+  scale_y_discrete(limit = rev)+
+  labs(x = "Month and Year", y = "Family", fill = "Average CPUE (kg)") +
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, face = "bold"),
+        axis.text.y = element_text(size = 12, face = "bold"),
+        axis.title = element_text(size = 14, face = "bold"))+
+  facet_wrap(~region)
+
+
+#### map ####
+require(leaflet)
+require(htmlwidgets)
+
+marine.resource = read.csv("C:/Users/USER/Documents/fish_catch_analysis/data/map_data/Marine_Resources_0.csv") |> 
+  select(region = 'Chagua.Mkoa',
+         village = 'Jina.la.BMU.SFC.Mtaa',
+         fishing_ground = 'Jina.la.eneo.mwamba',
+         long = "x",
+         lat = "y") |> 
+  filter(!is.na(long),
+         !is.na(lat)) |> 
+  distinct()
+
+#left join with dataset that has cpue values for each year and total catch values to see the change between baseline year and procedding year 
+
+
+baf.grounds.maps = marine.resource |> 
+  filter(village %in% c("Chokocho","Chongoleani","Kangani","Kichalikani","Kisiwani","Kisiwa_Panza","Kizingani","Kukuu","Kwale","Kwale_Tanga","Mabokweni","Makoongwe","Michungwani","Mongavyeru","Mpirani","Mtambwe_Kusini","Mtundani","Mwandusi","Ndaoya","Putini","Shidi","Stahabu","Tawalani","Ziwani"))
+
+#Michenzani is missing
+
+
+# 3. Convert to spatial data
+baf.fgrounds.sf <- st_as_sf(
+  baf.grounds.maps,
+  coords = c("long", "lat"),
+  crs = 4326,
+  remove = FALSE
+)
+
+baf.grounds.map = baf.fgrounds.sf %>%
+  leaflet() |> 
+  addTiles() |>   
+  addCircleMarkers(
+    ~long, ~lat,
+    popup = ~paste0("<b>Fishing Ground:</b> ", fishing_ground),
+    label = ~fishing_ground,
+    radius = 6,
+    color = "orangered",
+    fillOpacity = 0.7
+  )
+
+
+
+```
+
+
+
+# INTRODUCTION 
+
+Artisanal fisheries are a key livelihood for coastal communities in Tanzania. However, in recent years, these fisheries have experienced a decline due to various factors such as climate change, over-exploitation, invasive species, pollution, natural calamities, and habitat degradation. These communities rely heavily on nearby natural resources, particularly mangrove forests and coral reefs. Without proper regulation and management, these vital ecosystems may no longer be able to support the people who depend on them.
+
+To address this, the Mwambao Coastal Community Network has been working in collaboration with coastal communities, particularly in Tanga and Zanzibar, to promote the sustainable use of marine resources. One of the primary tools employed is participatory management planning, which empowers communities to identify and implement suitable measures for their local marine areas. In the context of coral reef management, proposed interventions have included temporal reef closures to enhance octopus catches, permanent no-take zones (also known as community-managed fisheries replenishment zones), and, less commonly, gear restrictions.
+
+To ensure that management decisions are data-driven and well-informed, catch data collection has been prioritized. This includes data on both reef fish and octopus, gathered using the Mwambao methodology and stored in the Mwambao ArcGIS database. Since the first training on fish catch monitoring held between July and September in Tanga and Pemba, data collection has been ongoing in 25 communities with support from BAF funding.
+
+This report presents the catch data collected, its analysis and interpretation, the challenges encountered during the process, and key recommendations to support effective community-based fisheries management. 
+
+# MATERIALS AND METHODS
+
+## Sites
+
+Data has been collected from all 25 villages under BAF, 12 of which are in Tanga (@fig-tanga_map) and 13 in Pemba (@fig-pemba_map)
+
+:::{#fig-map layout-ncol="2"}
+![Map showing Pemba villages where data is being collected](images/map/pemba_villages.jpg){#fig-tanga_map}
+
+
+![Map showing Tanga villages where data is being collected](images/map/tanga_villages.jpg){#fig-pemba_map}
+
+Map of the 25 BAF villages (13 Pemba and 12 Tanga) where reef fish data was collected
+:::
+
+## Data collection
+
+Data collection was carried out three days per week (equivalent to approximately 12 days per month) by trained community data recorders stationed at designated landing sites. Each recorder was tasked with documenting landings from up to 10 fishers per day using standardized logbooks.
+
+To ensure data accuracy and consistency, logbook entries were transcribed into the Survey123 digital form by data entry personnel. Importantly, data were not submitted until the entries were verified by regional data officers, particularly with respect to location information. This verification step was implemented to minimize errors and ensure clean, reliable datasets.
+
+To support accurate species identification, a [Fish ID guidebook](https://drive.google.com/file/d/1C4HvZUALSHoXRJoa4eJ6_tr2a3nlM59n/view?usp=drive_link) was distributed to all sites and used as a reference tool by recorders during data collection.
+
+All collected data were stored in ArcGIS Online, from where they were downloaded and imported into R for cleaning, processing, and statistical analysis 
+
+
+### Data checking
+
+To uphold the integrity and reliability of the data collected, two levels of quality control measures are implemented:
+
+1. Monthly Data Checks
+Designated data officers from each region (Tanga and Pemba) conduct routine monthly visits to all participating villages. During these visits, the officers validate that the information recorded in the physical logbooks aligns with entries in the digital Survey123 forms. Any discrepancies identified are resolved before the data is officially submitted. In addition to data validation, officers also verify the number of active working days for each recorder, which is essential for processing performance-based payments. These verification results are logged using a dedicated KoBoToolbox digital form.
+
+2. Unannounced Spot Checks
+To further ensure data quality and adherence to protocols, data officers carry out random, unannounced spot checks at three selected landing sites each month. These visits confirm that data recorders are present at the designated locations and are following the proper data collection procedures. Any absence or failure to comply with protocols results in a verbal warning, followed by a written warning for repeat offenses. This process is intended to safeguard the credibility of the data.
+
+3. Capacity Building and Follow-up Training
+To strengthen the capacity of data recorders and reduce errors, follow-up training is conducted approximately three months after initial deployment. These sessions focus on improving fish identification skills, reviewing previously collected data, and reinforcing correct data entry methods. This continuous learning approach helps enhance the overall quality and consistency of the data. 
+
+# RESULTS 
+
+Catch data were collected across all BAF-supported sites, resulting in a total of 21,810 records, distributed between Pemba (9,820) and Tanga (11,911). These records represent landings from 376 distinct fishing grounds, with 207 in Pemba and 169 in Tanga. The data presented here covers the period from September 2024 to May 2025. Prior to analysis, the dataset underwent rigorous cleaning to remove outliers, particularly extreme catch values, and to eliminate incomplete or missing entries. As a result, approximately 21% of the original dataset was excluded to ensure data quality. Due to the community-based nature of the data collection and the ongoing learning curve in fish species identification, the analysis has been aggregated at the family level rather than species level.
+
+
+### CPUE trend
+
+The average CPUE was recorder to be 541.00 g in Pemba and 1270.51 g in Tanga. The total number of families recorded during data collection were 30 and 31 for Pemba and Tanga respectively. In Pemba, mean total catch increased steadily from September 2024 (≈1 kg) to a peak in April 2025 (≈2.9 kg), followed by a slight decline in May (@fig-fig6). CPUE in Pemba remained consistently low, with values ranging between 0.4 and 0.8 kg/fisher/day across the months, indicating modest improvements in catch efficiency despite the rise in total catch as seen in @fig-fig6. Tanga showed a more variable pattern. Mean total catch peaked in January 2025 at nearly 5 kg before declining steadily through May. CPUE in Tanga mirrored the catch trends, rising from September to a peak in December 2024 (~2.0 kg/fisher/day), and then stabilizing before dropping in May 2025.
+
+```{r cpue plot}
+#| label: fig-fig6
+#| fig-cap: The trend of mean total catch (kg) and CPUE (kg/fisher/day) during the data collection period in Pemba and Tanga
+#| fig-pos: H
+#|
+ggplot(month.cpue.june , aes(x = interaction(month, year))) +
+   # Bar for Total Catch
+   geom_col(aes(y = mean_catch), fill = "steelblue", alpha = 0.6) +
+   
+   # Line for CPUE
+   geom_line(aes(y = mean_cpue, group = 1), color = "red", size = 1.2) +
+   
+   # Dual Y-axes
+   scale_y_continuous(
+     name = "Mean Total Catch (kg)",  # Primary Y axis (Total Catch)
+     sec.axis = sec_axis(~ ., name = "Mean CPUE (kg/fisher/day)")  # Secondary Y axis (CPUE)
+   ) +
+   scale_x_discrete(guide = "axis_nested")+
+   
+   # Styling
+   theme_bw() +
+   labs(x = "Month and Year") +
+   theme(
+     axis.title.y.left = element_text(color = "steelblue"),
+     axis.title.y.right = element_text(color = "red"),
+     axis.text.x = element_text(angle = 45, hjust = 1)
+   ) +
+   
+   # Faceting
+   facet_grid(~region)
+ 
+ 
+```
+
+
+### Family trends
+
+In Pemba, CPUE remained relatively low and stable across most families and months, generally ranging between 0.2 and 1.5. Notable peaks included Siganidae in March 2025 (CPUE = 1.88) and Labridae in January 2025 (CPUE = 1.73) (@fig-fig67). In contrast, Tanga exhibited more pronounced variability in CPUE, with several families exceeding a CPUE of 2.0. Siganidae displayed the highest observed CPUE in November 2024 (CPUE = 3.79), while Haemulidae and Lethrinidae also recorded higher values in September and November 2024 respectively. Some families, such as Chaetodontidae and Serranidae, had several months with missing or unrecorded data (blank tiles), particularly in Tanga. Overall, Siganidae and Lutjanidae tended to have the highest CPUE values across both regions, with peak months differing by location
+
+![The CPUE temporal distribution of selected reef species across Pemba and Tanga](images/family_heatmap_6.jpg){#fig-fig67}
+
+###  Fishing ground
+
+The catches were recorder from  376 fishing ground (207 Pemba, 169 Tanga) as shown in @fig-fig66. some of these fishing ground are utilized by multiple villages wheres other due to proximity to the respective villages are are utilized by single village. Upon using spear,man correlation coefficient, there was a weak negative relationship between number of villages utilizing fishing grounds and corresponding mean CPUE. From both regions the relationship was found to not be significant.
+
+For Pemba the most utilized fishing ground was Funguni, Matumbini ande Vijiwe Vitatu with 6 villages utilizing the area. Otherwise over 70% of other fishing grounds are utilized by a single village. In Tanga the most utilized fishing ground is Wamba with 8 villages utilizing the area. About 69 percent of the fishing grounds are from a single village use. The names of the fishing ground have been collected and validated from fishing pattern survey and resource mapping. 
+
+In terms of CPUE, in Pemba the fishing ground with the highest productivity was Fundo fishing ground with 3.5kg/fisher/day. with an average CPUE of 1.9kg/fisher/day in Pemba 1.9% of the fishing ground in Pemba were above that. In Tanga the CPUE was recorder highest in in Kwa mzungu fishing ground with exceptional values of 23kg/fisher/day. With an average of 2.7kg/fisher/day, only 10.6% of the fishing grounds recording values above the average. 
+
+### Gear
+
+In reef fisheries, a variety of gear types are often used during a single fishing trip. In Tanga, the most commonly used gear was the handline, while in Pemba, fish traps were the most frequently employed (@tbl-table22).
+
+```{r gear use}
+#| label: tbl-table22
+#| tbl-cap: The frequency of use of different gear types used in Pemba and Tanga during data collection period 
+#|
+ gear.use |> 
+  pivot_wider(names_from =region, values_from = gear_count )|> 
+  flextable::flextable() |> 
+  flextable::autofit()|> 
+  flextable::set_header_labels(gear = "Gear")
+```
+
+However, when considering catch productivity, the highest Catch Per Unit Effort (CPUE) in Tanga was observed from a combination of gillnets and ringnets, which yielded an average of 3.7 kg/fisher/day as shown in @tbl-table23. In Pemba, the most productive gear combination was gillnets and fence traps, with a CPUE of 2 kg/fisher/day(@tbl-table23).
+
+```{r gear cpue}
+#| label: tbl-table23
+#| tbl-cap: The CPUE of different gear types used in Pemba and Tanga during data collection period 
+#|
+gear.cpue.june |> 
+  pivot_wider(names_from =region, values_from = mean_gear_cpue )|> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::set_header_labels(gear = "Gear")
+
+
+```
+
+###  Vessel
+
+The most commonly used vessels in both Pemba and Tanga are canoes (@tbl-table33), while skin diving represents the least utilized method in both regions. As much of the fishery activity is not fully commercial, the majority of vessels are non-motorized and rely on traditional means of propulsion such as paddling or wind-powered sailing. In contrast, more commercial-oriented fisheries, particularly those targeting sardines and tuna, tend to utilize motorized vessels such as boat with engines (boat_engine referred to Mashua in Swahili) 
+
+```{r vessel}
+#| label: tbl-table33
+#| tbl-cap: The frequency of use of different vessel types used in Pemba and Tanga during data collection period 
+#|
+vessel.use |> 
+  pivot_wider(names_from =region, values_from = vessel_count ) |> 
+  flextable::flextable() |> 
+  flextable::autofit() |> 
+  flextable::set_header_labels(method = "Vessel")
+
+
+```
+
+## Data Checking
+
+A number of issues have arisen from the data checking process. In some instances, recorders were found to be entering catch data for future dates in advance, likely to save time. There were also cases where only one recorder was present at the landing site, leading to incomplete coverage. Methodological errors were observed, including misidentification of fish species despite the availability of fish ID guides, and deviations from the approved data collection protocols. Additional issues included incomplete data entries, such as blanks left during logging, and discrepancies between information recorded in logbooks and that entered into the digital forms. In some cases, data were logged only in physical logbooks and not in the digital system, or vice versa. These challenges highlight the importance of ongoing capacity building, regular supervision, and systematic data audits to ensure data quality and integrity. For more detail please read [data checking reports](https://docs.google.com/document/d/1OVOnjDSMJV-7NXhmfnCUBr8AayRoAiIx/edit?usp=drive_link&ouid=117181916031444492229&rtpof=true&sd=true). 
+
+# DISCUSSION
+
+The gradual increase in mean total catch observed in Pemba from September 2024 to April 2025 suggests a seasonal build-up in fish availability or fishing effort. Despite this rise in total catch, CPUE values remained relatively low and stable, indicating that while more fish were caught overall, the catch efficiency per fisher did not substantially improve. This pattern may reflect increased fishing effort rather than improved stock availability. The disconnect between total catch and CPUE suggests that more fishers or longer fishing duration may have contributed to higher catch volumes without enhancing individual productivity. These dynamics may also highlight the presence of effort saturation or low gear efficiency in Pemba. Management interventions in this context could focus on improving gear selectivity and efficiency, or reducing effort to maintain sustainability.  Tanga exhibited pronounced seasonal variability, with a peak in both mean total catch and CPUE during the December–January period. This simultaneous rise in both indicators suggests a seasonal increase in fish abundance or more effective fishing conditions that boosted individual fisher productivity. The subsequent decline in CPUE and total catch from February to May may reflect seasonal migrations, spawning cycles, or environmental conditions such as sea temperature shifts or Monsoon winds shifts affecting fish availability. 
+
+In Pemba, CPUE values remained generally low and stable across most families, with no pronounced seasonal peaks, suggesting either consistent fishing pressure or stable availability of targeted species. Families like Labridae, Lutjanidae, and Siganidae maintained moderate CPUE levels throughout, indicating their relative resilience or consistent presence in local reefs. Conversely, Tanga showed more dynamic CPUE fluctuations, with notable peaks in Siganidae (e.g., November 2024) and Haemulidae (October–December 2024), which may reflect seasonal aggregations or optimal fishing conditions during these periods. The higher CPUE values observed in multiple families in Tanga suggest that its reef systems may support higher productivity or experience more favorable ecological conditions. The data also point to possible regional differences in habitat quality, fishing effort, or community fishing strategies. These family-level insights can inform tailored management actions, such as seasonal closures for specific families or habitat protection where high CPUEs coincide with critical life history events. It is worth noting that, according to the management plans in Tanga, every Collaborative Fisheries Management Area (CFMA) has imposed a restriction on the use of ringnets. This type of gear has demonstrated high catchability, often resulting in substantial harvests. However, its efficiency raises concerns about potential overexploitation, particularly if juvenile or undersized fish are being caught. Further analysis of the catch data—particularly regarding the size and maturity of the species landed, would provide valuable insights into the sustainability of current fishing practices and the effectiveness of the ringnet restriction
+
+In Tanga, handlines are the most commonly used gear, suggesting a more individualized and selective fishing method, likely influenced by the availability of reef-associated species that are more efficiently targeted using this technique. In contrast, fish traps dominate in Pemba, indicating a more passive approach suited to the region's shallow reef habitats where such traps are effective. However, in terms of productivity (CPUE), the combination of gillnets and ringnets in Tanga showed the highest catch rates (3 kg/fisher/day), while in Pemba, gillnets combined with fence traps yielded the highest CPUE (2 kg/fisher/day). This suggests that while certain gears are more widely used, others may offer higher efficiency, potentially due to broader species coverage or greater effort input. The choice of gear also has implications for sustainability. Passive gears like traps and handlines tend to be more selective and have lower bycatch, while nets, especially when used indiscriminately, can result in overfishing of juveniles or non-target species. The data underscore the need to assess not only gear prevalence but also catch composition and ecological impact, particularly in the context of developing effective local management plans.
+
+Regarding vessel use, canoes are the dominant type in both regions, while skin diving is the least common. This aligns with the largely subsistence and small-scale nature of these fisheries. The limited use of motorized vessels suggests restricted access to distant fishing grounds and a high dependence on nearshore resources. The reliance on paddling or wind-powered sailing further constrains fishing range and effort, which can be beneficial for limiting overfishing in the absence of formal restrictions. However, it also highlights economic limitations that may hinder fishers from accessing more productive or less exploited areas. Interestingly, motorized vessels are more commonly associated with commercial fisheries targeting sardines and tuna, reflecting the more intensive nature of these sectors. The contrast between non-motorized and motorized vessel use has implications for management, as different levels of effort and spatial coverage can affect resource pressure and enforcement needs. Future management measures should consider vessel and gear types in setting site-specific regulations, such as gear restrictions or spatial closures, to ensure equitable and effective conservation outcomes.
+
+# CONCLUSION 
+
+In Tanga, higher CPUE values and seasonal peaks for several key fish families suggest periods of increased fish availability, possibly tied to spawning or migration patterns. Meanwhile, Pemba shows a more stable but overall lower CPUE across months and families, which could reflect differences in fishing effort, gear selectivity, or habitat quality. Notably, families such as Siganidae and Haemulidae showed seasonal peaks that could be targeted for protective measures during their vulnerable periods.
+
+The analysis of gear and vessel use highlights important dynamics in the reef fisheries of Pemba and Tanga. Non-motorized canoes remain the most commonly used vessels, reflecting the largely artisanal and subsistence nature of the fishery. Gear usage varies regionally, with handlines and fish traps dominant in Tanga, and fish traps and gillnets more common in Pemba. Notably, combinations of gillnets and ringnets in Tanga, and gillnets and fence traps in Pemba, were associated with the highest catch rates. However, the high catchability of ringnets has prompted management interventions, including restrictions in all CFMAs in Tanga. These findings underscore the need for continuous monitoring of gear impacts, particularly in relation to species size and maturity, to ensure sustainable fishing practices that align with local management objectives.
+
+# RECOMMENDATION
+
+1. Implement Seasonal Closures: Introduce seasonal fishing bans during peak CPUE months for key families (e.g., Siganidae in November–December) to protect spawning aggregations and enhance stock recovery.
+
+
+2. Protect High-Yield Habitats: Use the CPUE patterns to identify and designate locally important fish habitats or nursery grounds for protection, especially in areas consistently yielding high CPUE.
+
+3. Gear Management: Encourage or enforce the use of gear types that reduce bycatch and improve selectivity for sustainable harvest, particularly during months when sensitive or overexploited families show increased CPUE.
+
+4. Community Feedback Loops: Share monthly CPUE trends with local fishers and village committees to promote adaptive management. This can strengthen co-management frameworks and foster stewardship.
+
+5. Enhance Monitoring: Continue collecting and analyzing CPUE and catch data at fine temporal and taxonomic resolution to detect emerging trends and improve the precision of management interventions.
+
+# APPENDIX
+
+## Map
+
+```{r map}
+#| label: fig-fig66
+#| fig-cap: The distribution of 376 fishing grounds (207 Pemba and 169 Tanga)
+#| fig-pos: H
+
+baf.grounds.map
+
+```
+
+

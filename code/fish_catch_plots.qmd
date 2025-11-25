@@ -1,0 +1,210 @@
+---
+title: "Fish Catch Plots"
+author: "Kaijage Laurian"
+format: html
+date: "2025-04-15"
+date-modified: "today"
+institute: "Mwambao Coastal Communnity Network"
+toc: true  #table of content
+toc-depth: 6
+lof: true  #list of figures
+lot: true  #list of tables
+number-sections: true
+execute: 
+  echo: false
+  warning: false
+  message: false
+  comment: ""
+---
+
+# INTRODUCTION
+
+vessels composition
+
+Most common species per site heat map
+
+CPUE trend for indicator species
+
+CPUE trend for fishing ground to see pressure points
+
+```{r file path}
+
+file_path = "C:/Users/USER/Documents/fish_catch_analysis/results" 
+
+```
+
+
+# general cpue trend
+
+```{r}
+
+ ggplot(data = cpue , 
+        aes(x = interaction(month, year), y  = mean.cpue,  group = region)) +
+  geom_line(color = "brown") +
+  geom_point(aes(color = region), size = 2) +
+  labs(x = "Month and Year", y = "Average CPUE (g)") +
+  scale_x_discrete(guide = "axis_nested")+
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  facet_grid(~region, scales = "free_y")
+
+ggsave(filename = paste0(file_path,  "/region_cpue.jpg"), width = 10, height = 6, units = "in", dpi = 300)
+
+# family.cpue |> 
+#   filter(family %in% c("Lethrinidae", "Mullidae","Siganidae", "Scaridae", "Chaetodontidae")) |> 
+#   ggplot(aes(x = interaction(year,month), y = mean.cpue, group = family)) +
+#    geom_line(color = "brown") +
+#   geom_point(aes(color = family), size = 2)  
+#  geom_text(aes(label = family), vjust = -0.5, size = 3)
+ 
+ 
+ 
+ 
+ ggplot(family.cpue |> 
+      filter(family %in% c("Lethrinidae", "Mullidae","Siganidae", "Scaridae", "Chaetodontidae"))  , aes(x = interaction(month, year), y = mean.cpue, group = interaction(region, family))) +
+   geom_line(color = "brown")+ 
+   geom_point(size = 2)+
+  labs(x = "Month and Year", y = "Average CPUE (g)") +
+  scale_x_discrete(guide = "axis_nested")+
+  theme_bw()+
+   theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+   facet_grid(region~family)
+ 
+ ggsave(filename = paste0(file_path,  "/family_cpue.jpg"), width = 10, height = 6, units = "in", dpi = 300)
+
+```
+
+# pie charts for vessel and gears
+
+```{r}
+
+# draw normal pie chart
+
+PieDonut(vessel.composition , aes(method , region, count = vessel_counts), 
+          title = "Gear Composition per Location (%)",
+          donutLabelSize = 2.7, pieLabelSize = 2.6,ratioByGroup = FALSE,start=2*pi/2,labelpositionThreshold=1, r0 = 0.45, r1 = 0.9
+          )
+
+```
+
+# family cpue chart
+
+```{r}
+
+ ggplot(data = family.cpue |> 
+          filter(family %in% c("Lethrinidae", "Mullidae","Siganidae", "Scaridae", "Chaetodontidae")), 
+        aes(x = interaction(month, year), y  = mean.cpue,  fill = family)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(x = "Month and Year", y = "Average CPUE (g)") +
+  scale_x_discrete(guide = "axis_nested")+
+  scale_fill_manual(values = c(
+    "Lethrinidae" = "#1f77b4",
+    "Mullidae" = "#ff7f0e",
+    "Siganidae" = "#2ca02c",
+    "Scaridae" = "#d62728",
+    "Chaetodontidae" = "#9467bd"
+  ))+
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  facet_wrap(~region)
+
+```
+
+# family cpue chart
+
+```{r}
+ ggplot(data = family.cpue |> 
+          filter(family %in% c("Lethrinidae", "Mullidae","Siganidae", "Scaridae", "Chaetodontidae")), 
+        aes(x = interaction(month, year), y  = mean.cpue,  fill = family)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(x = "Month and Year", y = "Average CPUE (g)") +
+  scale_x_discrete(guide = "axis_nested")+
+  scale_color_manual(values = c("skyblue3", "steelblue4", "firebrick","yellow", "darkgreen"))+
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  facet_wrap(~region)
+
+  ggplot(data = family.cpue|> 
+          filter(family %in% c("Lethrinidae", "Mullidae","Siganidae", "Scaridae", "Chaetodontidae")), 
+                 aes(x = interaction(month, year), y = family, label = round((mean.cpue/1000),1)  ,fill = round((mean.cpue/1000),1))) +
+  geom_tile(color = "grey") +
+  scale_x_discrete(guide = "axis_nested")+
+  scale_fill_gradient2(low = "#0a7d9a",
+                        mid = "orange",
+                        high = "#3c742f",
+                        name = "Average CPUE")+
+  geom_text(color = "white")+
+  scale_y_discrete(limit = rev)+
+  labs(x = "Month and Year", y = "Family", fill = "Average CPUE") +
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, face = "bold"),
+        axis.text.y = element_text(size = 12, face = "bold"),
+        axis.title = element_text(size = 14, face = "bold"))+
+  facet_wrap(~region)
+  
+```
+
+# species cpue heatmap
+
+select species important in coral reef. check with cordio leaflet
+
+```{r}
+
+  ggplot(data = species.cpue, aes(x = interaction(month, year), y = scientific_names, label = round((mean.cpue/1000),2)  ,fill = round((mean.cpue/1000),2))) +
+  geom_tile(color = "grey") +
+  scale_x_discrete(guide = "axis_nested")+
+  scale_fill_gradient2(low = "#0a7d9a",
+                        mid = "orange",
+                        high = "#3c742f",
+                        name = "Average CPUE")+
+  geom_text(color = "white")+
+  scale_y_discrete(limit = rev)+
+  labs(x = "Month and Year", y = "Species", fill = "Average CPUE") +
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, face = "bold"),
+        axis.text.y = element_text(size = 12, face = "bold"),
+        axis.title = element_text(size = 14, face = "bold"))+
+  facet_wrap(~region)
+
+
+```
+
+# TROPHIC cpue COMPOSITION/PIE CHART
+
+```{r}
+ ggplot(data = family.cpue |> 
+          filter(family %in% c("Lethrinidae", "Mullidae","Siganidae", "Scaridae", "Chaetodontidae")), 
+        aes(x = interaction(month, year), y  = mean.cpue,  fill = family)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(x = "Month and Year", y = "Average CPUE (g)") +
+  scale_x_discrete(guide = "axis_nested")+
+  scale_color_manual(values = c("skyblue3", "steelblue4", "firebrick","yellow", "darkgreen"))+
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))+
+  facet_wrap(~region)
+
+
+
+```
+
+
+## compostion of trophic groups
+
+```{r}
+
+ggplot(data = top5_trophicg, aes(x = region,  y = CPUE,  fill = trophic_groups))+
+  geom_bar(stat = "identity", position = "fill")+
+  scale_x_discrete(guide = "axis_nested")+
+  labs(x = "Date", y = "Frequency (%)" )+
+  scale_color_manual(values = c("#0a7d9a", "#b44f18", "#169674", "#d6c300", "purple"))+
+  scale_fill_manual(values = c("#0a7d9a", "#b44f18", "#169674", "#d6c300", "purple"))+
+  scale_y_continuous(labels = scales::percent)+
+  theme(axis.text.x = element_text(angle = 90, hjust = 1, face = "bold"),
+        axis.text.y = element_text(size = 12, face = "bold"),
+        axis.title = element_text(size = 14, face = "bold")
+        )+
+  theme_bw()
+
+ggsave(filename = paste0(file_path,  "/trophic_groups.jpg"), width = 10, height = 6, units = "in", dpi = 300)
+```
+
