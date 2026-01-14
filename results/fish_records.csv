@@ -1,0 +1,354 @@
+region,village,month,year,record_counts
+Pemba,Chokocho,Jan,2025,12
+Pemba,Chokocho,Feb,2025,12
+Pemba,Chokocho,Mar,2025,12
+Pemba,Chokocho,Apr,2025,12
+Pemba,Chokocho,May,2025,12
+Pemba,Chokocho,Jun,2025,12
+Pemba,Chokocho,Jul,2025,12
+Pemba,Chokocho,Aug,2025,13
+Pemba,Chokocho,Sep,2024,12
+Pemba,Chokocho,Sep,2025,12
+Pemba,Chokocho,Oct,2024,13
+Pemba,Chokocho,Nov,2024,12
+Pemba,Chokocho,Dec,2024,12
+Pemba,Kangani,Jan,2025,13
+Pemba,Kangani,Feb,2025,12
+Pemba,Kangani,Mar,2025,10
+Pemba,Kangani,Apr,2025,6
+Pemba,Kangani,May,2025,7
+Pemba,Kangani,Jun,2025,12
+Pemba,Kangani,Jul,2025,9
+Pemba,Kangani,Aug,2025,14
+Pemba,Kangani,Sep,2024,7
+Pemba,Kangani,Sep,2025,8
+Pemba,Kangani,Oct,2024,1
+Pemba,Kangani,Oct,2025,3
+Pemba,Kangani,Nov,2024,6
+Pemba,Kangani,Dec,2024,12
+Pemba,Kisiwa Panza,Jan,2025,19
+Pemba,Kisiwa Panza,Feb,2025,19
+Pemba,Kisiwa Panza,Mar,2025,17
+Pemba,Kisiwa Panza,Apr,2025,18
+Pemba,Kisiwa Panza,May,2025,20
+Pemba,Kisiwa Panza,Jun,2025,18
+Pemba,Kisiwa Panza,Jul,2025,20
+Pemba,Kisiwa Panza,Aug,2025,15
+Pemba,Kisiwa Panza,Sep,2024,15
+Pemba,Kisiwa Panza,Sep,2025,12
+Pemba,Kisiwa Panza,Oct,2024,16
+Pemba,Kisiwa Panza,Nov,2024,16
+Pemba,Kisiwa Panza,Dec,2024,18
+Pemba,Kisiwani,Jan,2025,12
+Pemba,Kisiwani,Feb,2025,11
+Pemba,Kisiwani,Mar,2025,12
+Pemba,Kisiwani,Apr,2025,12
+Pemba,Kisiwani,May,2025,12
+Pemba,Kisiwani,Jun,2025,12
+Pemba,Kisiwani,Jul,2025,12
+Pemba,Kisiwani,Aug,2025,12
+Pemba,Kisiwani,Sep,2024,9
+Pemba,Kisiwani,Sep,2025,1
+Pemba,Kisiwani,Oct,2024,14
+Pemba,Kisiwani,Nov,2024,13
+Pemba,Kisiwani,Dec,2024,13
+Pemba,Kiuyu,Jan,2025,12
+Pemba,Kiuyu,Feb,2025,10
+Pemba,Kiuyu,Mar,2025,12
+Pemba,Kiuyu,Apr,2025,11
+Pemba,Kiuyu,May,2025,12
+Pemba,Kiuyu,Jun,2025,12
+Pemba,Kiuyu,Jul,2025,12
+Pemba,Kiuyu,Aug,2025,12
+Pemba,Kiuyu,Oct,2024,12
+Pemba,Kiuyu,Nov,2024,12
+Pemba,Kiuyu,Dec,2024,12
+Pemba,Kukuu,Jan,2025,12
+Pemba,Kukuu,Feb,2025,12
+Pemba,Kukuu,Mar,2025,12
+Pemba,Kukuu,Apr,2025,12
+Pemba,Kukuu,May,2025,12
+Pemba,Kukuu,Jun,2025,12
+Pemba,Kukuu,Jul,2025,12
+Pemba,Kukuu,Aug,2025,12
+Pemba,Kukuu,Sep,2024,12
+Pemba,Kukuu,Sep,2025,12
+Pemba,Kukuu,Oct,2024,11
+Pemba,Kukuu,Nov,2024,12
+Pemba,Kukuu,Dec,2024,12
+Pemba,Kwale,Jan,2025,11
+Pemba,Kwale,Feb,2025,12
+Pemba,Kwale,Mar,2025,12
+Pemba,Kwale,Apr,2025,13
+Pemba,Kwale,May,2025,13
+Pemba,Kwale,Jun,2025,13
+Pemba,Kwale,Jul,2025,12
+Pemba,Kwale,Aug,2025,12
+Pemba,Kwale,Sep,2024,9
+Pemba,Kwale,Oct,2024,6
+Pemba,Makoongwe,Jan,2025,12
+Pemba,Makoongwe,Feb,2025,11
+Pemba,Makoongwe,Mar,2025,12
+Pemba,Makoongwe,Apr,2025,12
+Pemba,Makoongwe,May,2025,9
+Pemba,Makoongwe,Jun,2025,12
+Pemba,Makoongwe,Jul,2025,12
+Pemba,Makoongwe,Aug,2025,7
+Pemba,Makoongwe,Sep,2024,13
+Pemba,Makoongwe,Sep,2025,12
+Pemba,Makoongwe,Oct,2024,8
+Pemba,Makoongwe,Oct,2025,7
+Pemba,Makoongwe,Nov,2024,11
+Pemba,Makoongwe,Dec,2024,12
+Pemba,Michenzani,Jan,2025,13
+Pemba,Michenzani,Feb,2025,12
+Pemba,Michenzani,Mar,2025,13
+Pemba,Michenzani,Apr,2025,12
+Pemba,Michenzani,May,2025,12
+Pemba,Michenzani,Jun,2025,12
+Pemba,Michenzani,Jul,2025,12
+Pemba,Michenzani,Aug,2025,12
+Pemba,Michenzani,Sep,2024,13
+Pemba,Michenzani,Oct,2024,12
+Pemba,Michenzani,Nov,2024,13
+Pemba,Michenzani,Dec,2024,12
+Pemba,Michungwani,Jan,2025,12
+Pemba,Michungwani,Feb,2025,11
+Pemba,Michungwani,Mar,2025,14
+Pemba,Michungwani,Apr,2025,12
+Pemba,Michungwani,May,2025,12
+Pemba,Michungwani,Jun,2025,12
+Pemba,Michungwani,Jul,2025,12
+Pemba,Michungwani,Aug,2025,11
+Pemba,Michungwani,Sep,2024,4
+Pemba,Michungwani,Sep,2025,6
+Pemba,Michungwani,Oct,2024,11
+Pemba,Michungwani,Nov,2024,13
+Pemba,Michungwani,Dec,2024,13
+Pemba,Mtambwe Kusini,Jan,2025,13
+Pemba,Mtambwe Kusini,Feb,2025,12
+Pemba,Mtambwe Kusini,Mar,2025,12
+Pemba,Mtambwe Kusini,Apr,2025,11
+Pemba,Mtambwe Kusini,May,2025,12
+Pemba,Mtambwe Kusini,Jun,2025,11
+Pemba,Mtambwe Kusini,Jul,2025,9
+Pemba,Mtambwe Kusini,Aug,2025,2
+Pemba,Mtambwe Kusini,Sep,2024,7
+Pemba,Mtambwe Kusini,Oct,2024,13
+Pemba,Mtambwe Kusini,Nov,2024,3
+Pemba,Shidi,Jan,2025,15
+Pemba,Shidi,Feb,2025,12
+Pemba,Shidi,Mar,2025,12
+Pemba,Shidi,Apr,2025,12
+Pemba,Shidi,May,2025,12
+Pemba,Shidi,Jun,2025,12
+Pemba,Shidi,Jul,2025,6
+Pemba,Shidi,Aug,2025,12
+Pemba,Shidi,Sep,2024,7
+Pemba,Shidi,Sep,2025,3
+Pemba,Shidi,Oct,2024,12
+Pemba,Shidi,Nov,2024,12
+Pemba,Shidi,Dec,2024,13
+Pemba,Shumba,Jan,2025,12
+Pemba,Shumba,Feb,2025,12
+Pemba,Shumba,Mar,2025,11
+Pemba,Shumba,Apr,2025,12
+Pemba,Shumba,May,2025,8
+Pemba,Shumba,Jun,2025,7
+Pemba,Shumba,Jul,2025,7
+Pemba,Shumba,Aug,2025,10
+Pemba,Shumba,Oct,2024,5
+Pemba,Shumba,Nov,2024,14
+Pemba,Shumba,Dec,2024,12
+Pemba,Stahabu,Jan,2025,16
+Pemba,Stahabu,Feb,2025,13
+Pemba,Stahabu,Mar,2025,12
+Pemba,Stahabu,Apr,2025,12
+Pemba,Stahabu,May,2025,12
+Pemba,Stahabu,Jun,2025,13
+Pemba,Stahabu,Jul,2025,11
+Pemba,Stahabu,Aug,2025,12
+Pemba,Stahabu,Sep,2024,12
+Pemba,Stahabu,Sep,2025,1
+Pemba,Stahabu,Oct,2024,12
+Pemba,Stahabu,Nov,2024,13
+Pemba,Stahabu,Dec,2024,7
+Pemba,Tumbe,Jan,2025,12
+Pemba,Tumbe,Feb,2025,12
+Pemba,Tumbe,Mar,2025,12
+Pemba,Tumbe,Apr,2025,13
+Pemba,Tumbe,May,2025,12
+Pemba,Tumbe,Jun,2025,12
+Pemba,Tumbe,Jul,2025,12
+Pemba,Tumbe,Aug,2025,12
+Pemba,Tumbe,Oct,2024,1
+Pemba,Tumbe,Nov,2024,14
+Pemba,Tumbe,Dec,2024,12
+Pemba,Ziwani,Jan,2025,11
+Pemba,Ziwani,Feb,2025,12
+Pemba,Ziwani,Mar,2025,14
+Pemba,Ziwani,Apr,2025,5
+Pemba,Ziwani,May,2025,8
+Pemba,Ziwani,Jun,2025,5
+Pemba,Ziwani,Jul,2025,2
+Pemba,Ziwani,Sep,2024,15
+Pemba,Ziwani,Oct,2024,13
+Pemba,Ziwani,Nov,2024,8
+Pemba,Ziwani,Dec,2024,7
+Tanga,Chongoleani,Jan,2025,17
+Tanga,Chongoleani,Feb,2025,13
+Tanga,Chongoleani,Mar,2025,11
+Tanga,Chongoleani,Apr,2025,16
+Tanga,Chongoleani,May,2025,9
+Tanga,Chongoleani,Jun,2025,13
+Tanga,Chongoleani,Jul,2025,11
+Tanga,Chongoleani,Aug,2025,19
+Tanga,Chongoleani,Sep,2024,3
+Tanga,Chongoleani,Sep,2025,12
+Tanga,Chongoleani,Oct,2024,19
+Tanga,Chongoleani,Nov,2024,17
+Tanga,Chongoleani,Dec,2024,13
+Tanga,Kichalikani,Jan,2025,13
+Tanga,Kichalikani,Feb,2025,1
+Tanga,Kichalikani,Mar,2025,12
+Tanga,Kichalikani,Apr,2025,12
+Tanga,Kichalikani,May,2025,12
+Tanga,Kichalikani,Jun,2025,12
+Tanga,Kichalikani,Jul,2025,12
+Tanga,Kichalikani,Aug,2025,11
+Tanga,Kichalikani,Sep,2024,4
+Tanga,Kichalikani,Sep,2025,14
+Tanga,Kichalikani,Oct,2024,14
+Tanga,Kichalikani,Oct,2025,9
+Tanga,Kichalikani,Nov,2024,12
+Tanga,Kichalikani,Dec,2024,11
+Tanga,Kizingani,Jan,2025,13
+Tanga,Kizingani,Feb,2025,12
+Tanga,Kizingani,Mar,2025,12
+Tanga,Kizingani,Apr,2025,12
+Tanga,Kizingani,May,2025,13
+Tanga,Kizingani,Jun,2025,12
+Tanga,Kizingani,Jul,2025,12
+Tanga,Kizingani,Sep,2024,13
+Tanga,Kizingani,Oct,2024,12
+Tanga,Kizingani,Nov,2024,12
+Tanga,Kizingani,Dec,2024,14
+Tanga,Kwale Tanga,Jan,2025,14
+Tanga,Kwale Tanga,Feb,2025,14
+Tanga,Kwale Tanga,Mar,2025,19
+Tanga,Kwale Tanga,Apr,2025,17
+Tanga,Kwale Tanga,May,2025,15
+Tanga,Kwale Tanga,Jun,2025,12
+Tanga,Kwale Tanga,Jul,2025,12
+Tanga,Kwale Tanga,Aug,2025,17
+Tanga,Kwale Tanga,Sep,2024,3
+Tanga,Kwale Tanga,Sep,2025,14
+Tanga,Kwale Tanga,Oct,2024,14
+Tanga,Kwale Tanga,Oct,2025,13
+Tanga,Kwale Tanga,Nov,2024,16
+Tanga,Kwale Tanga,Dec,2024,21
+Tanga,Mabokweni,Jan,2025,9
+Tanga,Mabokweni,Feb,2025,12
+Tanga,Mabokweni,Mar,2025,12
+Tanga,Mabokweni,Apr,2025,11
+Tanga,Mabokweni,May,2025,12
+Tanga,Mabokweni,Jun,2025,12
+Tanga,Mabokweni,Jul,2025,12
+Tanga,Mabokweni,Aug,2025,12
+Tanga,Mabokweni,Sep,2024,5
+Tanga,Mabokweni,Oct,2024,12
+Tanga,Mabokweni,Nov,2024,13
+Tanga,Mabokweni,Dec,2024,13
+Tanga,Monga Vyeru,Jan,2025,17
+Tanga,Monga Vyeru,Feb,2025,16
+Tanga,Monga Vyeru,Mar,2025,16
+Tanga,Monga Vyeru,Apr,2025,20
+Tanga,Monga Vyeru,May,2025,17
+Tanga,Monga Vyeru,Jun,2025,18
+Tanga,Monga Vyeru,Jul,2025,16
+Tanga,Monga Vyeru,Aug,2025,20
+Tanga,Monga Vyeru,Sep,2024,4
+Tanga,Monga Vyeru,Sep,2025,17
+Tanga,Monga Vyeru,Oct,2024,16
+Tanga,Monga Vyeru,Oct,2025,11
+Tanga,Monga Vyeru,Nov,2024,18
+Tanga,Monga Vyeru,Dec,2024,19
+Tanga,Mpirani,Jan,2025,13
+Tanga,Mpirani,Feb,2025,13
+Tanga,Mpirani,Mar,2025,14
+Tanga,Mpirani,Apr,2025,12
+Tanga,Mpirani,May,2025,14
+Tanga,Mpirani,Jun,2025,12
+Tanga,Mpirani,Jul,2025,12
+Tanga,Mpirani,Aug,2025,12
+Tanga,Mpirani,Sep,2024,1
+Tanga,Mpirani,Sep,2025,12
+Tanga,Mpirani,Oct,2024,7
+Tanga,Mpirani,Oct,2025,12
+Tanga,Mpirani,Nov,2024,12
+Tanga,Mpirani,Dec,2024,11
+Tanga,Mtundani,Jan,2025,13
+Tanga,Mtundani,Feb,2025,13
+Tanga,Mtundani,Mar,2025,12
+Tanga,Mtundani,Apr,2025,12
+Tanga,Mtundani,May,2025,12
+Tanga,Mtundani,Jun,2025,12
+Tanga,Mtundani,Jul,2025,12
+Tanga,Mtundani,Aug,2025,12
+Tanga,Mtundani,Sep,2024,12
+Tanga,Mtundani,Oct,2024,12
+Tanga,Mtundani,Nov,2024,13
+Tanga,Mtundani,Dec,2024,12
+Tanga,Mwandusi,Jan,2025,13
+Tanga,Mwandusi,Feb,2025,11
+Tanga,Mwandusi,Mar,2025,12
+Tanga,Mwandusi,Apr,2025,12
+Tanga,Mwandusi,May,2025,12
+Tanga,Mwandusi,Jun,2025,12
+Tanga,Mwandusi,Jul,2025,12
+Tanga,Mwandusi,Aug,2025,12
+Tanga,Mwandusi,Sep,2024,5
+Tanga,Mwandusi,Oct,2024,12
+Tanga,Mwandusi,Nov,2024,12
+Tanga,Mwandusi,Dec,2024,12
+Tanga,Ndaoya,Jan,2025,12
+Tanga,Ndaoya,Feb,2025,12
+Tanga,Ndaoya,Mar,2025,12
+Tanga,Ndaoya,Apr,2025,12
+Tanga,Ndaoya,May,2025,12
+Tanga,Ndaoya,Jun,2025,12
+Tanga,Ndaoya,Jul,2025,13
+Tanga,Ndaoya,Aug,2025,12
+Tanga,Ndaoya,Sep,2024,1
+Tanga,Ndaoya,Sep,2025,1
+Tanga,Ndaoya,Oct,2024,4
+Tanga,Ndaoya,Nov,2024,12
+Tanga,Ndaoya,Dec,2024,12
+Tanga,Putini,Jan,2025,12
+Tanga,Putini,Feb,2025,11
+Tanga,Putini,Mar,2025,11
+Tanga,Putini,Apr,2025,12
+Tanga,Putini,May,2025,12
+Tanga,Putini,Jun,2025,12
+Tanga,Putini,Jul,2025,10
+Tanga,Putini,Aug,2025,13
+Tanga,Putini,Sep,2024,5
+Tanga,Putini,Sep,2025,15
+Tanga,Putini,Oct,2024,12
+Tanga,Putini,Oct,2025,8
+Tanga,Putini,Nov,2024,12
+Tanga,Putini,Dec,2024,13
+Tanga,Tawalani,Jan,2025,10
+Tanga,Tawalani,Feb,2025,12
+Tanga,Tawalani,Mar,2025,12
+Tanga,Tawalani,Apr,2025,9
+Tanga,Tawalani,May,2025,12
+Tanga,Tawalani,Jun,2025,9
+Tanga,Tawalani,Jul,2025,11
+Tanga,Tawalani,Aug,2025,12
+Tanga,Tawalani,Sep,2024,3
+Tanga,Tawalani,Sep,2025,12
+Tanga,Tawalani,Oct,2024,12
+Tanga,Tawalani,Oct,2025,9
+Tanga,Tawalani,Nov,2024,9
+Tanga,Tawalani,Dec,2024,12

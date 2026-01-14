@@ -1,0 +1,155 @@
+---
+title: "Fisheries Poster"
+author: "Kaijage Laurian"
+format: html
+execute: 
+  echo: false
+  warning: false
+  message: false
+  cache: false
+  freeze: false
+params:
+  village: "Chongoleani"
+---
+
+## Mwanzo
+
+Ripoti ya mavuvi ya kijiji cha `{r} params$village`.
+
+Taarifa hii ni kutokea Mwezi wa Tisa mwaka 2024 hadi Mwezi wa Tisa mwaka 2025
+
+```{r}
+
+stopifnot(!is.null(params$village), nzchar(params$village))
+
+```
+
+
+
+```{r message=FALSE, warning=FALSE, echo=FALSE}
+
+source("poster_analysis_PDA.R")
+```
+
+```{r cpue trend}
+#| label: fig-fig1
+#| fig-cap: Mwenendo wa pato la mvuvi tokea mwezi wa tisa mwaka 2024 hadi mwezi wa tisa 2025
+#| fig-pos: H
+#| 
+ggplot(data = cpue |> 
+         filter(village == params$village),  aes(x = interaction(month, year), y  = mean_cpue)) +
+  geom_bar(stat = "identity", fill = "orange") +
+  labs(x = "Mwezi na mwaka", y = "Wastani wa pato la mvuvi (Kwa gramu)") +
+  scale_x_discrete(guide = legendry::guide_axis_nested()) +
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r gear, warning=FALSE}
+#| label: fig-fig2
+#| fig-cap: Pato la mvuvi kulingana na aina ya mtego uliotumika
+#| fig-pos: H
+#| cache: false
+
+
+print(params$village)
+print(nrow(village.cpue))
+
+  
+ggplot(data = village.cpue,  aes(x = reorder(gear, +mean_cpue), y  = mean_cpue)) +
+  geom_bar(stat = "identity", fill = "orange") +
+  coord_flip()+
+  labs(x = "Aina ya Mtego", y = "Wastani wa pato la mvuvi (Kwa gramu)") +
+  scale_x_discrete(guide = "axis_nested")+
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r family}
+#| label: fig-fig3
+#| fig-cap: Aina kumi za familia za samaki zenye wingi katila kijiji
+#| fig-pos: H
+#| cache: false
+
+print(params$village)
+print(nrow(village.fcomposition))
+
+
+ggplot(data =  village.fcomposition,  aes(x = reorder(family, +mean_cpue), y  = mean_cpue)) +
+  geom_col( fill = "steelblue", color = "black") +
+  coord_flip()+
+  labs(x = "Aina ya familia ya samaki", y = "Wingi wa familia ya samaki") +
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r species}
+#| label: fig-fig4
+#| fig-cap: Aina kumi za samaki zenye wingi katila kijiji
+#| fig-pos: H
+#| cache: false
+
+print(params$village)
+print(nrow(village.scomposition))
+
+  
+ggplot(data = village.scomposition  ,  aes(x = reorder(swahili_names, +mean_cpue), y  = mean_cpue)) +
+  geom_col(fill = "steelblue", color = "black") +
+  coord_flip()+
+  labs(x = "Aina ya  samaki", y = "Wingi wa samaki") +
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r}
+#| label: fig-fig5
+#| fig-cap: Pato la mvuvi kulingana na eneo la mavuvi
+#| fig-pos: H
+#| cache: false
+
+print(params$village)
+print(nrow(village.cpuefground))
+
+
+ggplot(data =  village.cpuefground ,  aes(x = reorder(fishing_ground, +mean_cpue), y  = mean_cpue )) +
+  geom_col(fill = "steelblue", color = "black") +
+  coord_flip()+
+  labs(x = "Eneo la uvuvi", y = "Wingi wa samaki") +
+  theme_bw()+
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+```{r average weight}
+#| label: tbl-top5
+#| tbl-cap: Samaki Tano Wenye Uzito Mkubwa (Kwa wastani) katika Kijiji
+top5|> 
+  flextable() |> 
+  set_header_labels(
+    swahili_names = "Majina ya Kiswahili",
+    scientific_names = "Majina ya Kisayansi (kama yapo)",
+    mean_weight = "Wastani wa Kilo (kwa gramu)"
+  ) |> 
+  autofit()
+
+```
+
+
+```{r}
+#| label: tbl-bottom5
+#| tbl-cap: Samaki Tano Wenye Uzito Mdogo (Kwa wastani) katika Kijiji
+
+bottom5|> 
+  flextable() |> 
+  set_header_labels(
+    swahili_names = "Majina ya Kiswahili",
+    scientific_names = "Majina ya Kisayansi (kama yapo)",
+    mean_weight = "Wastani wa Kilo (kwa gramu)"
+  ) |> 
+  autofit()
+
+```
+
+
+
+
+
