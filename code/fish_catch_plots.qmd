@@ -29,7 +29,7 @@ CPUE trend for fishing ground to see pressure points
 
 ```{r file path}
 
-file_path = "C:/Users/USER/Documents/fish_catch_analysis/results" 
+file_path = "../results/" 
 
 ```
 
